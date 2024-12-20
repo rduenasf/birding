@@ -18,3 +18,19 @@ species_code: "sumtan"
 **Species Group:** Cardinals, Grosbeaks, and Allies
 
 **Species Code:** sumtan
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sumtan)
+
+## Links
+* [eBird](https://ebird.org/species/sumtan) 
+* [All About Birds](https://www.allaboutbirds.org/guide/sumtan) 
+* [Xeno-canto](https://www.xeno-canto.org/species/sumtan) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=sumtan&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/sumtan)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

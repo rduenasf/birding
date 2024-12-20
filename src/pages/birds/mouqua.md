@@ -18,3 +18,19 @@ species_code: "mouqua"
 **Species Group:** Grouse, Quail, and Allies
 
 **Species Code:** mouqua
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mouqua)
+
+## Links
+* [eBird](https://ebird.org/species/mouqua) 
+* [All About Birds](https://www.allaboutbirds.org/guide/mouqua) 
+* [Xeno-canto](https://www.xeno-canto.org/species/mouqua) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=mouqua&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/mouqua)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

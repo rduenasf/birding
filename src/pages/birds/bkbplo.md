@@ -18,3 +18,19 @@ species_code: "bkbplo"
 **Species Group:** Shorebirds
 
 **Species Code:** bkbplo
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkbplo)
+
+## Links
+* [eBird](https://ebird.org/species/bkbplo) 
+* [All About Birds](https://www.allaboutbirds.org/guide/bkbplo) 
+* [Xeno-canto](https://www.xeno-canto.org/species/bkbplo) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bkbplo&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/bkbplo)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

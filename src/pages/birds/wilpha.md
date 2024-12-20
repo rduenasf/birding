@@ -18,3 +18,19 @@ species_code: "wilpha"
 **Species Group:** Shorebirds
 
 **Species Code:** wilpha
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wilpha)
+
+## Links
+* [eBird](https://ebird.org/species/wilpha) 
+* [All About Birds](https://www.allaboutbirds.org/guide/wilpha) 
+* [Xeno-canto](https://www.xeno-canto.org/species/wilpha) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=wilpha&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/wilpha)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

@@ -18,3 +18,19 @@ species_code: "mouchi4"
 **Species Group:** Tits, Chickadees, and Titmice
 
 **Species Code:** mouchi4
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mouchi4)
+
+## Links
+* [eBird](https://ebird.org/species/mouchi4) 
+* [All About Birds](https://www.allaboutbirds.org/guide/mouchi4) 
+* [Xeno-canto](https://www.xeno-canto.org/species/mouchi4) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=mouchi4&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/mouchi4)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

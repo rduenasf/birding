@@ -18,3 +18,19 @@ species_code: "shshaw"
 **Species Group:** Vultures, Hawks, and Allies
 
 **Species Code:** shshaw
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=shshaw)
+
+## Links
+* [eBird](https://ebird.org/species/shshaw) 
+* [All About Birds](https://www.allaboutbirds.org/guide/shshaw) 
+* [Xeno-canto](https://www.xeno-canto.org/species/shshaw) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=shshaw&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/shshaw)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

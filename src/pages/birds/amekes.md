@@ -18,3 +18,19 @@ species_code: "amekes"
 **Species Group:** Falcons and Caracaras
 
 **Species Code:** amekes
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=amekes)
+
+## Links
+* [eBird](https://ebird.org/species/amekes) 
+* [All About Birds](https://www.allaboutbirds.org/guide/amekes) 
+* [Xeno-canto](https://www.xeno-canto.org/species/amekes) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=amekes&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/amekes)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

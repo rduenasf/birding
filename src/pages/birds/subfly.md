@@ -18,3 +18,19 @@ species_code: "subfly"
 **Species Group:** Tyrant Flycatchers: Pewees, Kingbirds, and Allies
 
 **Species Code:** subfly
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=subfly)
+
+## Links
+* [eBird](https://ebird.org/species/subfly) 
+* [All About Birds](https://www.allaboutbirds.org/guide/subfly) 
+* [Xeno-canto](https://www.xeno-canto.org/species/subfly) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=subfly&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/subfly)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

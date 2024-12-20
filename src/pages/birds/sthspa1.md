@@ -18,3 +18,19 @@ species_code: "sthspa1"
 **Species Group:** New World Sparrows
 
 **Species Code:** sthspa1
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sthspa1)
+
+## Links
+* [eBird](https://ebird.org/species/sthspa1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/sthspa1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/sthspa1) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=sthspa1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/sthspa1)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

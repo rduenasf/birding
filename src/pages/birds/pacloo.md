@@ -18,3 +18,19 @@ species_code: "pacloo"
 **Species Group:** Loons
 
 **Species Code:** pacloo
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pacloo)
+
+## Links
+* [eBird](https://ebird.org/species/pacloo) 
+* [All About Birds](https://www.allaboutbirds.org/guide/pacloo) 
+* [Xeno-canto](https://www.xeno-canto.org/species/pacloo) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=pacloo&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/pacloo)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

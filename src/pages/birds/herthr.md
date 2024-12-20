@@ -18,3 +18,19 @@ species_code: "herthr"
 **Species Group:** Thrushes
 
 **Species Code:** herthr
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=herthr)
+
+## Links
+* [eBird](https://ebird.org/species/herthr) 
+* [All About Birds](https://www.allaboutbirds.org/guide/herthr) 
+* [Xeno-canto](https://www.xeno-canto.org/species/herthr) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=herthr&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/herthr)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+<iframe src="https://macaulaylibrary.org/asset/626583611/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>

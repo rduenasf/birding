@@ -18,3 +18,19 @@ species_code: "laugul"
 **Species Group:** Gulls, Terns, and Skimmers
 
 **Species Code:** laugul
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=laugul)
+
+## Links
+* [eBird](https://ebird.org/species/laugul) 
+* [All About Birds](https://www.allaboutbirds.org/guide/laugul) 
+* [Xeno-canto](https://www.xeno-canto.org/species/laugul) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=laugul&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/laugul)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

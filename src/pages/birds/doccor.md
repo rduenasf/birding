@@ -18,3 +18,19 @@ species_code: "doccor"
 **Species Group:** Cormorants and Anhingas
 
 **Species Code:** doccor
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=doccor)
+
+## Links
+* [eBird](https://ebird.org/species/doccor) 
+* [All About Birds](https://www.allaboutbirds.org/guide/doccor) 
+* [Xeno-canto](https://www.xeno-canto.org/species/doccor) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=doccor&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/doccor)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

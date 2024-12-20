@@ -18,3 +18,19 @@ species_code: "rewbla"
 **Species Group:** Blackbirds
 
 **Species Code:** rewbla
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rewbla)
+
+## Links
+* [eBird](https://ebird.org/species/rewbla) 
+* [All About Birds](https://www.allaboutbirds.org/guide/rewbla) 
+* [Xeno-canto](https://www.xeno-canto.org/species/rewbla) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rewbla&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/rewbla)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

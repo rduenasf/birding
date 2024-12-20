@@ -18,3 +18,19 @@ species_code: "bktspa"
 **Species Group:** New World Sparrows
 
 **Species Code:** bktspa
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bktspa)
+
+## Links
+* [eBird](https://ebird.org/species/bktspa) 
+* [All About Birds](https://www.allaboutbirds.org/guide/bktspa) 
+* [Xeno-canto](https://www.xeno-canto.org/species/bktspa) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bktspa&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/bktspa)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

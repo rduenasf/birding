@@ -18,3 +18,19 @@ species_code: "heegul"
 **Species Group:** Gulls, Terns, and Skimmers
 
 **Species Code:** heegul
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=heegul)
+
+## Links
+* [eBird](https://ebird.org/species/heegul) 
+* [All About Birds](https://www.allaboutbirds.org/guide/heegul) 
+* [Xeno-canto](https://www.xeno-canto.org/species/heegul) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=heegul&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/heegul)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

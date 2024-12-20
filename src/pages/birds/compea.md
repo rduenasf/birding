@@ -18,3 +18,19 @@ species_code: "compea"
 **Species Group:** Grouse, Quail, and Allies
 
 **Species Code:** compea
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=compea)
+
+## Links
+* [eBird](https://ebird.org/species/compea) 
+* [All About Birds](https://www.allaboutbirds.org/guide/compea) 
+* [Xeno-canto](https://www.xeno-canto.org/species/compea) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=compea&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/compea)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

@@ -18,3 +18,19 @@ species_code: "vichum"
 **Species Group:** Hummingbirds
 
 **Species Code:** vichum
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=vichum)
+
+## Links
+* [eBird](https://ebird.org/species/vichum) 
+* [All About Birds](https://www.allaboutbirds.org/guide/vichum) 
+* [Xeno-canto](https://www.xeno-canto.org/species/vichum) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=vichum&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/vichum)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

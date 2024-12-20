@@ -18,3 +18,19 @@ species_code: "dusfly"
 **Species Group:** Tyrant Flycatchers: Pewees, Kingbirds, and Allies
 
 **Species Code:** dusfly
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=dusfly)
+
+## Links
+* [eBird](https://ebird.org/species/dusfly) 
+* [All About Birds](https://www.allaboutbirds.org/guide/dusfly) 
+* [Xeno-canto](https://www.xeno-canto.org/species/dusfly) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=dusfly&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/dusfly)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

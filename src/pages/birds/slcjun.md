@@ -18,3 +18,19 @@ species_code: "slcjun"
 **Species Group:** New World Sparrows
 
 **Species Code:** slcjun
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=slcjun)
+
+## Links
+* [eBird](https://ebird.org/species/slcjun) 
+* [All About Birds](https://www.allaboutbirds.org/guide/slcjun) 
+* [Xeno-canto](https://www.xeno-canto.org/species/slcjun) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=slcjun&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/slcjun)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

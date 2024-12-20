@@ -18,3 +18,19 @@ species_code: "dowwoo"
 **Species Group:** Woodpeckers
 
 **Species Code:** dowwoo
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=dowwoo)
+
+## Links
+* [eBird](https://ebird.org/species/dowwoo) 
+* [All About Birds](https://www.allaboutbirds.org/guide/dowwoo) 
+* [Xeno-canto](https://www.xeno-canto.org/species/dowwoo) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=dowwoo&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/dowwoo)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

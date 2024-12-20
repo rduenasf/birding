@@ -18,3 +18,19 @@ species_code: "whiegr1"
 **Species Group:** Herons, Ibis, and Allies
 
 **Species Code:** whiegr1
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whiegr1)
+
+## Links
+* [eBird](https://ebird.org/species/whiegr1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/whiegr1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/whiegr1) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=whiegr1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/whiegr1)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

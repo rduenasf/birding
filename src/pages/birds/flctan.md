@@ -18,3 +18,19 @@ species_code: "flctan"
 **Species Group:** Cardinals, Grosbeaks, and Allies
 
 **Species Code:** flctan
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=flctan)
+
+## Links
+* [eBird](https://ebird.org/species/flctan) 
+* [All About Birds](https://www.allaboutbirds.org/guide/flctan) 
+* [Xeno-canto](https://www.xeno-canto.org/species/flctan) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=flctan&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/flctan)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

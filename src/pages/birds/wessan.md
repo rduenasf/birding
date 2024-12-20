@@ -18,3 +18,19 @@ species_code: "wessan"
 **Species Group:** Shorebirds
 
 **Species Code:** wessan
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wessan)
+
+## Links
+* [eBird](https://ebird.org/species/wessan) 
+* [All About Birds](https://www.allaboutbirds.org/guide/wessan) 
+* [Xeno-canto](https://www.xeno-canto.org/species/wessan) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=wessan&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/wessan)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

@@ -18,3 +18,19 @@ species_code: "monpar"
 **Species Group:** Parrots, Parakeets, and Allies
 
 **Species Code:** monpar
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=monpar)
+
+## Links
+* [eBird](https://ebird.org/species/monpar) 
+* [All About Birds](https://www.allaboutbirds.org/guide/monpar) 
+* [Xeno-canto](https://www.xeno-canto.org/species/monpar) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=monpar&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/monpar)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

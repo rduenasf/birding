@@ -18,3 +18,19 @@ species_code: "mcrtyr1"
 **Species Group:** Tyrant Flycatchers: Elaenias, Tyrannulets, and Allies
 
 **Species Code:** mcrtyr1
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mcrtyr1)
+
+## Links
+* [eBird](https://ebird.org/species/mcrtyr1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/mcrtyr1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/mcrtyr1) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=mcrtyr1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/mcrtyr1)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

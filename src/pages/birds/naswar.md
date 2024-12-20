@@ -18,3 +18,19 @@ species_code: "naswar"
 **Species Group:** Wood-Warblers
 
 **Species Code:** naswar
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=naswar)
+
+## Links
+* [eBird](https://ebird.org/species/naswar) 
+* [All About Birds](https://www.allaboutbirds.org/guide/naswar) 
+* [Xeno-canto](https://www.xeno-canto.org/species/naswar) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=naswar&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/naswar)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

@@ -18,3 +18,19 @@ species_code: "ameoys"
 **Species Group:** Shorebirds
 
 **Species Code:** ameoys
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ameoys)
+
+## Links
+* [eBird](https://ebird.org/species/ameoys) 
+* [All About Birds](https://www.allaboutbirds.org/guide/ameoys) 
+* [Xeno-canto](https://www.xeno-canto.org/species/ameoys) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=ameoys&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/ameoys)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

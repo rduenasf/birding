@@ -18,3 +18,19 @@ species_code: "vauswi"
 **Species Group:** Swifts
 
 **Species Code:** vauswi
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=vauswi)
+
+## Links
+* [eBird](https://ebird.org/species/vauswi) 
+* [All About Birds](https://www.allaboutbirds.org/guide/vauswi) 
+* [Xeno-canto](https://www.xeno-canto.org/species/vauswi) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=vauswi&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/vauswi)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

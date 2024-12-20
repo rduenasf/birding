@@ -18,3 +18,19 @@ species_code: "warvir"
 **Species Group:** Vireos
 
 **Species Code:** warvir
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=warvir)
+
+## Links
+* [eBird](https://ebird.org/species/warvir) 
+* [All About Birds](https://www.allaboutbirds.org/guide/warvir) 
+* [Xeno-canto](https://www.xeno-canto.org/species/warvir) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=warvir&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/warvir)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

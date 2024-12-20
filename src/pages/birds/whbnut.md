@@ -18,3 +18,19 @@ species_code: "whbnut"
 **Species Group:** Nuthatches
 
 **Species Code:** whbnut
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whbnut)
+
+## Links
+* [eBird](https://ebird.org/species/whbnut) 
+* [All About Birds](https://www.allaboutbirds.org/guide/whbnut) 
+* [Xeno-canto](https://www.xeno-canto.org/species/whbnut) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=whbnut&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/whbnut)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

@@ -18,3 +18,19 @@ species_code: "leafly"
 **Species Group:** Tyrant Flycatchers: Pewees, Kingbirds, and Allies
 
 **Species Code:** leafly
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=leafly)
+
+## Links
+* [eBird](https://ebird.org/species/leafly) 
+* [All About Birds](https://www.allaboutbirds.org/guide/leafly) 
+* [Xeno-canto](https://www.xeno-canto.org/species/leafly) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=leafly&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/leafly)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

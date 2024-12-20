@@ -18,3 +18,19 @@ species_code: "swathr"
 **Species Group:** Thrushes
 
 **Species Code:** swathr
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=swathr)
+
+## Links
+* [eBird](https://ebird.org/species/swathr) 
+* [All About Birds](https://www.allaboutbirds.org/guide/swathr) 
+* [Xeno-canto](https://www.xeno-canto.org/species/swathr) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=swathr&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/swathr)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

@@ -18,3 +18,19 @@ species_code: "tuffly1"
 **Species Group:** Tyrant Flycatchers: Pewees, Kingbirds, and Allies
 
 **Species Code:** tuffly1
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=tuffly1)
+
+## Links
+* [eBird](https://ebird.org/species/tuffly1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/tuffly1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/tuffly1) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=tuffly1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/tuffly1)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

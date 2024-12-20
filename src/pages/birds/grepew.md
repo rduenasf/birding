@@ -18,3 +18,19 @@ species_code: "grepew"
 **Species Group:** Tyrant Flycatchers: Pewees, Kingbirds, and Allies
 
 **Species Code:** grepew
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grepew)
+
+## Links
+* [eBird](https://ebird.org/species/grepew) 
+* [All About Birds](https://www.allaboutbirds.org/guide/grepew) 
+* [Xeno-canto](https://www.xeno-canto.org/species/grepew) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=grepew&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/grepew)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

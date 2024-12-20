@@ -18,3 +18,19 @@ species_code: "swtkit"
 **Species Group:** Vultures, Hawks, and Allies
 
 **Species Code:** swtkit
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=swtkit)
+
+## Links
+* [eBird](https://ebird.org/species/swtkit) 
+* [All About Birds](https://www.allaboutbirds.org/guide/swtkit) 
+* [Xeno-canto](https://www.xeno-canto.org/species/swtkit) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=swtkit&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/swtkit)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

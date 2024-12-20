@@ -18,3 +18,19 @@ species_code: "trokin"
 **Species Group:** Tyrant Flycatchers: Pewees, Kingbirds, and Allies
 
 **Species Code:** trokin
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=trokin)
+
+## Links
+* [eBird](https://ebird.org/species/trokin) 
+* [All About Birds](https://www.allaboutbirds.org/guide/trokin) 
+* [Xeno-canto](https://www.xeno-canto.org/species/trokin) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=trokin&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/trokin)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

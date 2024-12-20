@@ -18,3 +18,19 @@ species_code: "hawk"
 **Species Group:** Vultures, Hawks, and Allies
 
 **Species Code:** hawk
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=hawk)
+
+## Links
+* [eBird](https://ebird.org/species/hawk) 
+* [All About Birds](https://www.allaboutbirds.org/guide/hawk) 
+* [Xeno-canto](https://www.xeno-canto.org/species/hawk) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=hawk&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/hawk)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

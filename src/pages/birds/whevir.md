@@ -18,3 +18,19 @@ species_code: "whevir"
 **Species Group:** Vireos
 
 **Species Code:** whevir
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whevir)
+
+## Links
+* [eBird](https://ebird.org/species/whevir) 
+* [All About Birds](https://www.allaboutbirds.org/guide/whevir) 
+* [Xeno-canto](https://www.xeno-canto.org/species/whevir) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=whevir&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/whevir)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

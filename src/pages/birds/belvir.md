@@ -18,3 +18,19 @@ species_code: "belvir"
 **Species Group:** Vireos
 
 **Species Code:** belvir
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=belvir)
+
+## Links
+* [eBird](https://ebird.org/species/belvir) 
+* [All About Birds](https://www.allaboutbirds.org/guide/belvir) 
+* [Xeno-canto](https://www.xeno-canto.org/species/belvir) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=belvir&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/belvir)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

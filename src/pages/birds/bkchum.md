@@ -18,3 +18,19 @@ species_code: "bkchum"
 **Species Group:** Hummingbirds
 
 **Species Code:** bkchum
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkchum)
+
+## Links
+* [eBird](https://ebird.org/species/bkchum) 
+* [All About Birds](https://www.allaboutbirds.org/guide/bkchum) 
+* [Xeno-canto](https://www.xeno-canto.org/species/bkchum) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bkchum&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/bkchum)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

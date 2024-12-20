@@ -18,3 +18,20 @@ species_code: "chimoc1"
 **Species Group:** Catbirds, Mockingbirds, and Thrashers
 
 **Species Code:** chimoc1
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chimoc1)
+
+## Links
+* [eBird](https://ebird.org/species/chimoc1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/chimoc1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/chimoc1) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=chimoc1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/chimoc1)
+
+## Media
+### Photographs
+<iframe src="https://macaulaylibrary.org/asset/625246481/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/625246482/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+
+### Audio Recordings
+No audio recordings available.

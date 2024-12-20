@@ -18,3 +18,19 @@ species_code: "rudduc"
 **Species Group:** Waterfowl
 
 **Species Code:** rudduc
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rudduc)
+
+## Links
+* [eBird](https://ebird.org/species/rudduc) 
+* [All About Birds](https://www.allaboutbirds.org/guide/rudduc) 
+* [Xeno-canto](https://www.xeno-canto.org/species/rudduc) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rudduc&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/rudduc)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

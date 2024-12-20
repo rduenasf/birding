@@ -18,3 +18,19 @@ species_code: "rucwar"
 **Species Group:** Wood-Warblers
 
 **Species Code:** rucwar
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rucwar)
+
+## Links
+* [eBird](https://ebird.org/species/rucwar) 
+* [All About Birds](https://www.allaboutbirds.org/guide/rucwar) 
+* [Xeno-canto](https://www.xeno-canto.org/species/rucwar) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rucwar&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/rucwar)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

@@ -18,3 +18,19 @@ species_code: "domgoo1"
 **Species Group:** Waterfowl
 
 **Species Code:** domgoo1
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=domgoo1)
+
+## Links
+* [eBird](https://ebird.org/species/domgoo1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/domgoo1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/domgoo1) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=domgoo1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/domgoo1)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

@@ -18,3 +18,19 @@ species_code: "buggna2"
 **Species Group:** Gnatcatchers
 
 **Species Code:** buggna2
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=buggna2)
+
+## Links
+* [eBird](https://ebird.org/species/buggna2) 
+* [All About Birds](https://www.allaboutbirds.org/guide/buggna2) 
+* [Xeno-canto](https://www.xeno-canto.org/species/buggna2) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=buggna2&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/buggna2)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

@@ -18,3 +18,19 @@ species_code: "shbdow"
 **Species Group:** Shorebirds
 
 **Species Code:** shbdow
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=shbdow)
+
+## Links
+* [eBird](https://ebird.org/species/shbdow) 
+* [All About Birds](https://www.allaboutbirds.org/guide/shbdow) 
+* [Xeno-canto](https://www.xeno-canto.org/species/shbdow) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=shbdow&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/shbdow)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

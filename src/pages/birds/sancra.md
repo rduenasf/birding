@@ -18,3 +18,19 @@ species_code: "sancra"
 **Species Group:** Cranes
 
 **Species Code:** sancra
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sancra)
+
+## Links
+* [eBird](https://ebird.org/species/sancra) 
+* [All About Birds](https://www.allaboutbirds.org/guide/sancra) 
+* [Xeno-canto](https://www.xeno-canto.org/species/sancra) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=sancra&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/sancra)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

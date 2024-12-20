@@ -18,3 +18,19 @@ species_code: "whcela4"
 **Species Group:** Tyrant Flycatchers: Elaenias, Tyrannulets, and Allies
 
 **Species Code:** whcela4
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whcela4)
+
+## Links
+* [eBird](https://ebird.org/species/whcela4) 
+* [All About Birds](https://www.allaboutbirds.org/guide/whcela4) 
+* [Xeno-canto](https://www.xeno-canto.org/species/whcela4) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=whcela4&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/whcela4)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

@@ -18,3 +18,21 @@ species_code: "bcnher"
 **Species Group:** Herons, Ibis, and Allies
 
 **Species Code:** bcnher
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bcnher)
+
+## Links
+* [eBird](https://ebird.org/species/bcnher) 
+* [All About Birds](https://www.allaboutbirds.org/guide/bcnher) 
+* [Xeno-canto](https://www.xeno-canto.org/species/bcnher) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bcnher&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/bcnher)
+
+## Media
+### Photographs
+<iframe src="https://macaulaylibrary.org/asset/617717427/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/617717428/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/617717429/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+
+### Audio Recordings
+No audio recordings available.

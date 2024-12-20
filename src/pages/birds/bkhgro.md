@@ -18,3 +18,19 @@ species_code: "bkhgro"
 **Species Group:** Cardinals, Grosbeaks, and Allies
 
 **Species Code:** bkhgro
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkhgro)
+
+## Links
+* [eBird](https://ebird.org/species/bkhgro) 
+* [All About Birds](https://www.allaboutbirds.org/guide/bkhgro) 
+* [Xeno-canto](https://www.xeno-canto.org/species/bkhgro) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bkhgro&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/bkhgro)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

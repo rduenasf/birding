@@ -18,3 +18,19 @@ species_code: "casauk"
 **Species Group:** Alcids
 
 **Species Code:** casauk
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=casauk)
+
+## Links
+* [eBird](https://ebird.org/species/casauk) 
+* [All About Birds](https://www.allaboutbirds.org/guide/casauk) 
+* [Xeno-canto](https://www.xeno-canto.org/species/casauk) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=casauk&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/casauk)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

@@ -18,3 +18,19 @@ species_code: "weskin"
 **Species Group:** Tyrant Flycatchers: Pewees, Kingbirds, and Allies
 
 **Species Code:** weskin
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=weskin)
+
+## Links
+* [eBird](https://ebird.org/species/weskin) 
+* [All About Birds](https://www.allaboutbirds.org/guide/weskin) 
+* [Xeno-canto](https://www.xeno-canto.org/species/weskin) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=weskin&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/weskin)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

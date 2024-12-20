@@ -18,3 +18,21 @@ species_code: "annhum"
 **Species Group:** Hummingbirds
 
 **Species Code:** annhum
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=annhum)
+
+## Links
+* [eBird](https://ebird.org/species/annhum) 
+* [All About Birds](https://www.allaboutbirds.org/guide/annhum) 
+* [Xeno-canto](https://www.xeno-canto.org/species/annhum) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=annhum&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/annhum)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+<iframe src="https://macaulaylibrary.org/asset/626917191/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626843418/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626583047/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>

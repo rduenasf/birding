@@ -18,3 +18,19 @@ species_code: "bkebus"
 **Species Group:** Long-tailed Tits and Bushtit
 
 **Species Code:** bkebus
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkebus)
+
+## Links
+* [eBird](https://ebird.org/species/bkebus) 
+* [All About Birds](https://www.allaboutbirds.org/guide/bkebus) 
+* [Xeno-canto](https://www.xeno-canto.org/species/bkebus) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bkebus&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/bkebus)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

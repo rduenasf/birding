@@ -18,3 +18,19 @@ species_code: "sursco"
 **Species Group:** Waterfowl
 
 **Species Code:** sursco
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sursco)
+
+## Links
+* [eBird](https://ebird.org/species/sursco) 
+* [All About Birds](https://www.allaboutbirds.org/guide/sursco) 
+* [Xeno-canto](https://www.xeno-canto.org/species/sursco) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=sursco&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/sursco)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

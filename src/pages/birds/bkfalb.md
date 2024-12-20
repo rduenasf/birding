@@ -18,3 +18,19 @@ species_code: "bkfalb"
 **Species Group:** Albatrosses
 
 **Species Code:** bkfalb
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkfalb)
+
+## Links
+* [eBird](https://ebird.org/species/bkfalb) 
+* [All About Birds](https://www.allaboutbirds.org/guide/bkfalb) 
+* [Xeno-canto](https://www.xeno-canto.org/species/bkfalb) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bkfalb&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/bkfalb)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

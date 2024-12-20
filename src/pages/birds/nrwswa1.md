@@ -18,3 +18,19 @@ species_code: "nrwswa1"
 **Species Group:** Martins and Swallows
 
 **Species Code:** nrwswa1
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=nrwswa1)
+
+## Links
+* [eBird](https://ebird.org/species/nrwswa1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/nrwswa1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/nrwswa1) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=nrwswa1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/nrwswa1)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

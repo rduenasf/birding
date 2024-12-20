@@ -18,3 +18,19 @@ species_code: "wemcha1"
 **Species Group:** Chachalacas, Guans, and Curassows
 
 **Species Code:** wemcha1
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wemcha1)
+
+## Links
+* [eBird](https://ebird.org/species/wemcha1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/wemcha1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/wemcha1) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=wemcha1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/wemcha1)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

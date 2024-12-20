@@ -18,3 +18,19 @@ species_code: "bewwre2"
 **Species Group:** Wrens
 
 **Species Code:** bewwre2
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bewwre2)
+
+## Links
+* [eBird](https://ebird.org/species/bewwre2) 
+* [All About Birds](https://www.allaboutbirds.org/guide/bewwre2) 
+* [Xeno-canto](https://www.xeno-canto.org/species/bewwre2) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bewwre2&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/bewwre2)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

@@ -18,3 +18,20 @@ species_code: "blkpho1"
 **Species Group:** Tyrant Flycatchers: Pewees, Kingbirds, and Allies
 
 **Species Code:** blkpho1
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blkpho1)
+
+## Links
+* [eBird](https://ebird.org/species/blkpho1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/blkpho1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/blkpho1) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=blkpho1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/blkpho1)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+<iframe src="https://macaulaylibrary.org/asset/626447683/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626995445/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>

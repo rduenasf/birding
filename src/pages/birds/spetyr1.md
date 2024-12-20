@@ -18,3 +18,19 @@ species_code: "spetyr1"
 **Species Group:** Tyrant Flycatchers: Pewees, Kingbirds, and Allies
 
 **Species Code:** spetyr1
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=spetyr1)
+
+## Links
+* [eBird](https://ebird.org/species/spetyr1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/spetyr1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/spetyr1) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=spetyr1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/spetyr1)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

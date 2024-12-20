@@ -18,3 +18,19 @@ species_code: "logshr"
 **Species Group:** Shrikes
 
 **Species Code:** logshr
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=logshr)
+
+## Links
+* [eBird](https://ebird.org/species/logshr) 
+* [All About Birds](https://www.allaboutbirds.org/guide/logshr) 
+* [Xeno-canto](https://www.xeno-canto.org/species/logshr) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=logshr&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/logshr)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

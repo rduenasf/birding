@@ -18,3 +18,19 @@ species_code: "yebmag"
 **Species Group:** Jays, Magpies, Crows, and Ravens
 
 **Species Code:** yebmag
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=yebmag)
+
+## Links
+* [eBird](https://ebird.org/species/yebmag) 
+* [All About Birds](https://www.allaboutbirds.org/guide/yebmag) 
+* [Xeno-canto](https://www.xeno-canto.org/species/yebmag) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=yebmag&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/yebmag)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

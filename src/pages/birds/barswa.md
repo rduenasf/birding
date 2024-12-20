@@ -18,3 +18,19 @@ species_code: "barswa"
 **Species Group:** Martins and Swallows
 
 **Species Code:** barswa
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=barswa)
+
+## Links
+* [eBird](https://ebird.org/species/barswa) 
+* [All About Birds](https://www.allaboutbirds.org/guide/barswa) 
+* [Xeno-canto](https://www.xeno-canto.org/species/barswa) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=barswa&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/barswa)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

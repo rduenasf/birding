@@ -18,3 +18,19 @@ species_code: "gcrfin"
 **Species Group:** Finches, Euphonias, and Allies
 
 **Species Code:** gcrfin
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gcrfin)
+
+## Links
+* [eBird](https://ebird.org/species/gcrfin) 
+* [All About Birds](https://www.allaboutbirds.org/guide/gcrfin) 
+* [Xeno-canto](https://www.xeno-canto.org/species/gcrfin) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=gcrfin&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/gcrfin)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

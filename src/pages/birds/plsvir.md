@@ -18,3 +18,19 @@ species_code: "plsvir"
 **Species Group:** Vireos
 
 **Species Code:** plsvir
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=plsvir)
+
+## Links
+* [eBird](https://ebird.org/species/plsvir) 
+* [All About Birds](https://www.allaboutbirds.org/guide/plsvir) 
+* [Xeno-canto](https://www.xeno-canto.org/species/plsvir) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=plsvir&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/plsvir)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

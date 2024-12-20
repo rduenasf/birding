@@ -18,3 +18,19 @@ species_code: "scaup"
 **Species Group:** Waterfowl
 
 **Species Code:** scaup
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=scaup)
+
+## Links
+* [eBird](https://ebird.org/species/scaup) 
+* [All About Birds](https://www.allaboutbirds.org/guide/scaup) 
+* [Xeno-canto](https://www.xeno-canto.org/species/scaup) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=scaup&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/scaup)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

@@ -18,3 +18,19 @@ species_code: "brbhum"
 **Species Group:** Hummingbirds
 
 **Species Code:** brbhum
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=brbhum)
+
+## Links
+* [eBird](https://ebird.org/species/brbhum) 
+* [All About Birds](https://www.allaboutbirds.org/guide/brbhum) 
+* [Xeno-canto](https://www.xeno-canto.org/species/brbhum) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=brbhum&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/brbhum)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

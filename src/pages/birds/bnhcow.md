@@ -18,3 +18,19 @@ species_code: "bnhcow"
 **Species Group:** Blackbirds
 
 **Species Code:** bnhcow
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bnhcow)
+
+## Links
+* [eBird](https://ebird.org/species/bnhcow) 
+* [All About Birds](https://www.allaboutbirds.org/guide/bnhcow) 
+* [Xeno-canto](https://www.xeno-canto.org/species/bnhcow) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bnhcow&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/bnhcow)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

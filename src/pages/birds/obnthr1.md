@@ -18,3 +18,19 @@ species_code: "obnthr1"
 **Species Group:** Thrushes
 
 **Species Code:** obnthr1
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=obnthr1)
+
+## Links
+* [eBird](https://ebird.org/species/obnthr1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/obnthr1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/obnthr1) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=obnthr1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/obnthr1)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

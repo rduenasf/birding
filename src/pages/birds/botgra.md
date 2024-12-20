@@ -18,3 +18,19 @@ species_code: "botgra"
 **Species Group:** Blackbirds
 
 **Species Code:** botgra
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=botgra)
+
+## Links
+* [eBird](https://ebird.org/species/botgra) 
+* [All About Birds](https://www.allaboutbirds.org/guide/botgra) 
+* [Xeno-canto](https://www.xeno-canto.org/species/botgra) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=botgra&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/botgra)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

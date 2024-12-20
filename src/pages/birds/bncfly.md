@@ -18,3 +18,19 @@ species_code: "bncfly"
 **Species Group:** Tyrant Flycatchers: Pewees, Kingbirds, and Allies
 
 **Species Code:** bncfly
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bncfly)
+
+## Links
+* [eBird](https://ebird.org/species/bncfly) 
+* [All About Birds](https://www.allaboutbirds.org/guide/bncfly) 
+* [Xeno-canto](https://www.xeno-canto.org/species/bncfly) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bncfly&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/bncfly)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

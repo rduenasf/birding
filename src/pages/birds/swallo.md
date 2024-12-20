@@ -18,3 +18,19 @@ species_code: "swallo"
 **Species Group:** Martins and Swallows
 
 **Species Code:** swallo
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=swallo)
+
+## Links
+* [eBird](https://ebird.org/species/swallo) 
+* [All About Birds](https://www.allaboutbirds.org/guide/swallo) 
+* [Xeno-canto](https://www.xeno-canto.org/species/swallo) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=swallo&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/swallo)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

@@ -18,3 +18,19 @@ species_code: "astfly"
 **Species Group:** Tyrant Flycatchers: Pewees, Kingbirds, and Allies
 
 **Species Code:** astfly
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=astfly)
+
+## Links
+* [eBird](https://ebird.org/species/astfly) 
+* [All About Birds](https://www.allaboutbirds.org/guide/astfly) 
+* [Xeno-canto](https://www.xeno-canto.org/species/astfly) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=astfly&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/astfly)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

@@ -18,3 +18,19 @@ species_code: "rebnut"
 **Species Group:** Nuthatches
 
 **Species Code:** rebnut
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rebnut)
+
+## Links
+* [eBird](https://ebird.org/species/rebnut) 
+* [All About Birds](https://www.allaboutbirds.org/guide/rebnut) 
+* [Xeno-canto](https://www.xeno-canto.org/species/rebnut) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rebnut&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/rebnut)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

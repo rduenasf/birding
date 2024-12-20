@@ -18,3 +18,19 @@ species_code: "caskin"
 **Species Group:** Tyrant Flycatchers: Pewees, Kingbirds, and Allies
 
 **Species Code:** caskin
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=caskin)
+
+## Links
+* [eBird](https://ebird.org/species/caskin) 
+* [All About Birds](https://www.allaboutbirds.org/guide/caskin) 
+* [Xeno-canto](https://www.xeno-canto.org/species/caskin) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=caskin&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/caskin)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

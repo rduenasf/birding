@@ -18,3 +18,19 @@ species_code: "incdov"
 **Species Group:** Pigeons and Doves
 
 **Species Code:** incdov
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=incdov)
+
+## Links
+* [eBird](https://ebird.org/species/incdov) 
+* [All About Birds](https://www.allaboutbirds.org/guide/incdov) 
+* [Xeno-canto](https://www.xeno-canto.org/species/incdov) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=incdov&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/incdov)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

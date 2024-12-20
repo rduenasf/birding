@@ -18,3 +18,19 @@ species_code: "grbwre1"
 **Species Group:** Wrens
 
 **Species Code:** grbwre1
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grbwre1)
+
+## Links
+* [eBird](https://ebird.org/species/grbwre1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/grbwre1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/grbwre1) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=grbwre1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/grbwre1)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

@@ -18,3 +18,19 @@ species_code: "rempar"
 **Species Group:** Parrots, Parakeets, and Allies
 
 **Species Code:** rempar
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rempar)
+
+## Links
+* [eBird](https://ebird.org/species/rempar) 
+* [All About Birds](https://www.allaboutbirds.org/guide/rempar) 
+* [Xeno-canto](https://www.xeno-canto.org/species/rempar) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rempar&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/rempar)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.

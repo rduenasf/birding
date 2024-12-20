@@ -18,3 +18,19 @@ species_code: "cubthr"
 **Species Group:** Catbirds, Mockingbirds, and Thrashers
 
 **Species Code:** cubthr
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cubthr)
+
+## Links
+* [eBird](https://ebird.org/species/cubthr) 
+* [All About Birds](https://www.allaboutbirds.org/guide/cubthr) 
+* [Xeno-canto](https://www.xeno-canto.org/species/cubthr) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=cubthr&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/cubthr)
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+No audio recordings available.
