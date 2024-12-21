@@ -125,20 +125,20 @@ slug: /
       const { primaryComName, speciesCode, observations } = bird;
 
       const photographed =
-        bird.observations
+        observations
           .flatMap((obs) => obs.mlCatalogNumbers)
           .filter((obj) => obj !== undefined && obj.format === "Photo").length >
         0;
 
       const recorded =
-        bird.observations
+        observations
           .flatMap((obs) => obs.mlCatalogNumbers)
           .filter((obj) => obj !== undefined && obj.format === "Audio").length >
         0;
 
-      return `1. [${primaryComName}](./birds/${speciesCode}) ${
-        photographed ? "📷" : ""
-      } ${recorded ? "🔊" : ""}`;
+      return `1. [${primaryComName}${photographed ? " 📷" : ""} ${
+        recorded ? " 🔊" : ""
+      }](./birds/${speciesCode})`;
     })
     .join("\n")}
 `;
