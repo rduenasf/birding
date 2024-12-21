@@ -36,6 +36,7 @@ species.forEach((bird, index) => {
     .filter((obj) => obj !== undefined && obj.format === "Photo");
 
   const photoEmbeds = photos
+    .sort((a, b) => b.averageCommunityRating - a.averageCommunityRating)
     .map(
       ({ MlCatalogNumber }) =>
         `<iframe src="https://macaulaylibrary.org/asset/${MlCatalogNumber}/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>`
@@ -43,13 +44,14 @@ species.forEach((bird, index) => {
     .join("\n");
 
   const audios = bird.observations
+    .sort((a, b) => b.averageCommunityRating - a.averageCommunityRating)
     .flatMap((obs) => obs.mlCatalogNumbers)
     .filter((obj) => obj !== undefined && obj.format === "Audio");
 
   const audioEmbeds = audios
     .map(
       ({ MlCatalogNumber }) =>
-        `<iframe src="https://macaulaylibrary.org/asset/${MlCatalogNumber}/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>`
+        `<iframe src="https://macaulaylibrary.org/asset/${MlCatalogNumber}/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>`
     )
     .join("\n");
 
