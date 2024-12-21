@@ -3,6 +3,7 @@ import L from "leaflet";
 import "leaflet/dist/leaflet.css";
 import useBaseUrl from "@docusaurus/useBaseUrl";
 import Layout from "@theme/Layout";
+import BrowserOnly from "@docusaurus/BrowserOnly";
 
 import countryData from "@site/static/country_summary.json";
 import countrySpeciesData from "@site/static/country_for_species.json";
@@ -52,8 +53,11 @@ const Map = () => {
   const geojsonUrl = useBaseUrl("ne_50m_admin_0_map_units.geojson");
 
   const getQueryParam = (param) => {
-    const urlParams = new URLSearchParams(window.location.search);
-    return urlParams.get(param);
+    if (typeof window !== "undefined") {
+      const urlParams = new URLSearchParams(window.location.search);
+      return urlParams.get(param);
+    }
+    return null;
   };
 
   useEffect(() => {
@@ -61,6 +65,11 @@ const Map = () => {
     const countData = speciesCode
       ? countrySpeciesData[speciesCode]
       : countryData;
+
+    if (!countData) {
+      console.error("No data available for the given species code.");
+      return;
+    }
 
     const map = L.map("map", {
       preferCanvas: true,
@@ -93,12 +102,14 @@ const Map = () => {
   }, [geojsonUrl]);
 
   return (
-    <Layout>
-      <div
-        id="map"
-        style={{ height: "100vh", width: "100%", background: "transparent" }}
-      ></div>
-    </Layout>
+    <BrowserOnly>
+      <Layout>
+        <div
+          id="map"
+          style={{ height: "100vh", width: "100%", background: "transparent" }}
+        ></div>
+      </Layout>
+    </BrowserOnly>
   );
 };
 
