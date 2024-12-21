@@ -6,13 +6,13 @@ family: "Odontophoridae (New World Quail)"
 species_group: "Grouse, Quail, and Allies"
 species_code: "calqua"
 sidebar_position: 87
-sidebar_class_name: " "
+sidebar_class_name: " has-audio"
 tags: 
   - Galliformes
   - Odontophoridae (New World Quail)
   - Grouse, Quail, and Allies
   - Needs Photo
-  - Needs Audio
+  - Has Audio
 ---
 
 # California Quail (Callipepla californica)
@@ -27,14 +27,15 @@ tags:
 
 **Photo**: No 
 
-**Audio**: No
+**Audio**: Yes
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-No audio recordings available.
+<iframe src="https://macaulaylibrary.org/asset/626995523/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626995524/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/calqua) 

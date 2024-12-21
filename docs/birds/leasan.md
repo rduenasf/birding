@@ -6,13 +6,13 @@ family: "Scolopacidae (Sandpipers and Allies)"
 species_group: "Shorebirds"
 species_code: "leasan"
 sidebar_position: 217
-sidebar_class_name: " "
+sidebar_class_name: " has-audio"
 tags: 
   - Charadriiformes
   - Scolopacidae (Sandpipers and Allies)
   - Shorebirds
   - Needs Photo
-  - Needs Audio
+  - Has Audio
 ---
 
 # Least Sandpiper (Calidris minutilla)
@@ -27,14 +27,16 @@ tags:
 
 **Photo**: No 
 
-**Audio**: No
+**Audio**: Yes
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-No audio recordings available.
+<iframe src="https://macaulaylibrary.org/asset/626447443/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626618108/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626617947/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/leasan) 

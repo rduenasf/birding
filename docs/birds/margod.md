@@ -6,12 +6,12 @@ family: "Scolopacidae (Sandpipers and Allies)"
 species_group: "Shorebirds"
 species_code: "margod"
 sidebar_position: 233
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Charadriiformes
   - Scolopacidae (Sandpipers and Allies)
   - Shorebirds
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,13 +25,13 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=margod) | [Map](/map?species_code=margod)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/619242609/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

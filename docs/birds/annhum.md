@@ -6,13 +6,13 @@ family: "Trochilidae (Hummingbirds)"
 species_group: "Hummingbirds"
 species_code: "annhum"
 sidebar_position: 20
-sidebar_class_name: " "
+sidebar_class_name: " has-audio"
 tags: 
   - Apodiformes
   - Trochilidae (Hummingbirds)
   - Hummingbirds
   - Needs Photo
-  - Needs Audio
+  - Has Audio
 ---
 
 # Anna's Hummingbird (Calypte anna)
@@ -27,14 +27,16 @@ tags:
 
 **Photo**: No 
 
-**Audio**: No
+**Audio**: Yes
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-No audio recordings available.
+<iframe src="https://macaulaylibrary.org/asset/626917191/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626843418/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626583047/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/annhum) 

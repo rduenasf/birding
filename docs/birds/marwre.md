@@ -6,13 +6,13 @@ family: "Troglodytidae (Wrens)"
 species_group: "Wrens"
 species_code: "marwre"
 sidebar_position: 234
-sidebar_class_name: " "
+sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
   - Troglodytidae (Wrens)
   - Wrens
   - Needs Photo
-  - Needs Audio
+  - Has Audio
 ---
 
 # Marsh Wren (Cistothorus palustris)
@@ -27,14 +27,21 @@ tags:
 
 **Photo**: No 
 
-**Audio**: No
+**Audio**: Yes
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-No audio recordings available.
+<iframe src="https://macaulaylibrary.org/asset/626557615/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626447527/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626447916/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626618063/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626684671/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626684806/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626684953/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626917204/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/marwre) 

@@ -6,13 +6,13 @@ family: "Podicipedidae (Grebes)"
 species_group: "Grebes"
 species_code: "pibgre"
 sidebar_position: 275
-sidebar_class_name: " "
+sidebar_class_name: " has-audio"
 tags: 
   - Podicipediformes
   - Podicipedidae (Grebes)
   - Grebes
   - Needs Photo
-  - Needs Audio
+  - Has Audio
 ---
 
 # Pied-billed Grebe (Podilymbus podiceps)
@@ -27,14 +27,14 @@ tags:
 
 **Photo**: No 
 
-**Audio**: No
+**Audio**: Yes
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-No audio recordings available.
+<iframe src="https://macaulaylibrary.org/asset/626995454/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/pibgre) 

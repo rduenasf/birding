@@ -6,13 +6,13 @@ family: "Passerellidae (New World Sparrows)"
 species_group: "New World Sparrows"
 species_code: "gocspa"
 sidebar_position: 164
-sidebar_class_name: " "
+sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
   - Passerellidae (New World Sparrows)
   - New World Sparrows
   - Needs Photo
-  - Needs Audio
+  - Has Audio
 ---
 
 # Golden-crowned Sparrow (Zonotrichia atricapilla)
@@ -27,14 +27,15 @@ tags:
 
 **Photo**: No 
 
-**Audio**: No
+**Audio**: Yes
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-No audio recordings available.
+<iframe src="https://macaulaylibrary.org/asset/626485053/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626583978/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/gocspa) 

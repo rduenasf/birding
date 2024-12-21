@@ -6,12 +6,12 @@ family: "Charadriidae (Plovers and Lapwings)"
 species_group: "Shorebirds"
 species_code: "soulap1"
 sidebar_position: 342
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Charadriiformes
   - Charadriidae (Plovers and Lapwings)
   - Shorebirds
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,13 +25,13 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=soulap1) | [Map](/map?species_code=soulap1)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/614236123/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

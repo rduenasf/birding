@@ -6,13 +6,13 @@ family: "Sturnidae (Starlings)"
 species_group: "Starlings and Mynas"
 species_code: "eursta"
 sidebar_position: 149
-sidebar_class_name: " "
+sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
   - Sturnidae (Starlings)
   - Starlings and Mynas
   - Needs Photo
-  - Needs Audio
+  - Has Audio
 ---
 
 # European Starling (Sturnus vulgaris)
@@ -27,14 +27,17 @@ tags:
 
 **Photo**: No 
 
-**Audio**: No
+**Audio**: Yes
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-No audio recordings available.
+<iframe src="https://macaulaylibrary.org/asset/626843430/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626843431/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626843432/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626843433/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/eursta) 

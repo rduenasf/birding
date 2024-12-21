@@ -6,13 +6,13 @@ family: "Scolopacidae (Sandpipers and Allies)"
 species_group: "Shorebirds"
 species_code: "greyel"
 sidebar_position: 184
-sidebar_class_name: " "
+sidebar_class_name: " has-audio"
 tags: 
   - Charadriiformes
   - Scolopacidae (Sandpipers and Allies)
   - Shorebirds
   - Needs Photo
-  - Needs Audio
+  - Has Audio
 ---
 
 # Greater Yellowlegs (Tringa melanoleuca)
@@ -27,14 +27,19 @@ tags:
 
 **Photo**: No 
 
-**Audio**: No
+**Audio**: Yes
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-No audio recordings available.
+<iframe src="https://macaulaylibrary.org/asset/626557653/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626618150/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626684975/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626684976/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626917174/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626917175/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/greyel) 

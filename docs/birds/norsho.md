@@ -6,13 +6,13 @@ family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "norsho"
 sidebar_position: 258
-sidebar_class_name: " "
+sidebar_class_name: " has-audio"
 tags: 
   - Anseriformes
   - Anatidae (Ducks, Geese, and Waterfowl)
   - Waterfowl
   - Needs Photo
-  - Needs Audio
+  - Has Audio
 ---
 
 # Northern Shoveler (Spatula clypeata)
@@ -27,14 +27,15 @@ tags:
 
 **Photo**: No 
 
-**Audio**: No
+**Audio**: Yes
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-No audio recordings available.
+<iframe src="https://macaulaylibrary.org/asset/626995447/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626915520/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/norsho) 

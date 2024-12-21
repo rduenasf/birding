@@ -6,12 +6,12 @@ family: "Tyrannidae (Tyrant Flycatchers)"
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "wewpew"
 sidebar_position: 387
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Tyrannidae (Tyrant Flycatchers)
   - Tyrant Flycatchers - Pewees, Kingbirds, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,13 +25,13 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wewpew) | [Map](/map?species_code=wewpew)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/619037692/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

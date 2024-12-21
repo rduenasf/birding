@@ -6,12 +6,12 @@ family: "Mimidae (Mockingbirds and Thrashers)"
 species_group: "Catbirds, Mockingbirds, and Thrashers"
 species_code: "chimoc1"
 sidebar_position: 104
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Mimidae (Mockingbirds and Thrashers)
   - Catbirds, Mockingbirds, and Thrashers
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,13 +25,14 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chimoc1) | [Map](/map?species_code=chimoc1)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/625246481/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/625246482/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

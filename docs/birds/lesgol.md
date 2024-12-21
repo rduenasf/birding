@@ -6,13 +6,13 @@ family: "Fringillidae (Finches, Euphonias, and Allies)"
 species_group: "Finches, Euphonias, and Allies"
 species_code: "lesgol"
 sidebar_position: 218
-sidebar_class_name: " "
+sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
   - Fringillidae (Finches, Euphonias, and Allies)
   - Finches, Euphonias, and Allies
   - Needs Photo
-  - Needs Audio
+  - Has Audio
 ---
 
 # Lesser Goldfinch (Spinus psaltria)
@@ -27,14 +27,14 @@ tags:
 
 **Photo**: No 
 
-**Audio**: No
+**Audio**: Yes
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-No audio recordings available.
+<iframe src="https://macaulaylibrary.org/asset/626684938/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/lesgol) 

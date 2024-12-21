@@ -6,13 +6,13 @@ family: "Passerellidae (New World Sparrows)"
 species_group: "New World Sparrows"
 species_code: "spotow"
 sidebar_position: 346
-sidebar_class_name: " "
+sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
   - Passerellidae (New World Sparrows)
   - New World Sparrows
   - Needs Photo
-  - Needs Audio
+  - Has Audio
 ---
 
 # Spotted Towhee (Pipilo maculatus)
@@ -27,14 +27,16 @@ tags:
 
 **Photo**: No 
 
-**Audio**: No
+**Audio**: Yes
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-No audio recordings available.
+<iframe src="https://macaulaylibrary.org/asset/626618120/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626618141/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626995488/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/spotow) 

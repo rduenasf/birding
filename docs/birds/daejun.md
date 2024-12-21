@@ -6,12 +6,12 @@ family: "Passerellidae (New World Sparrows)"
 species_group: "New World Sparrows"
 species_code: "daejun"
 sidebar_position: 134
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Passerellidae (New World Sparrows)
   - New World Sparrows
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,13 +25,13 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=daejun) | [Map](/map?species_code=daejun)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/614232433/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

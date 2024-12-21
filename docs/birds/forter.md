@@ -6,13 +6,13 @@ family: "Laridae (Gulls, Terns, and Skimmers)"
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "forter"
 sidebar_position: 152
-sidebar_class_name: " "
+sidebar_class_name: " has-audio"
 tags: 
   - Charadriiformes
   - Laridae (Gulls, Terns, and Skimmers)
   - Gulls, Terns, and Skimmers
   - Needs Photo
-  - Needs Audio
+  - Has Audio
 ---
 
 # Forster's Tern (Sterna forsteri)
@@ -27,14 +27,14 @@ tags:
 
 **Photo**: No 
 
-**Audio**: No
+**Audio**: Yes
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-No audio recordings available.
+<iframe src="https://macaulaylibrary.org/asset/626684646/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/forter) 

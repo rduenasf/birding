@@ -6,13 +6,13 @@ family: "Paradoxornithidae (Parrotbills)"
 species_group: "Parrotbills, Wrentit, and Allies"
 species_code: "wrenti"
 sidebar_position: 413
-sidebar_class_name: " "
+sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
   - Paradoxornithidae (Parrotbills)
   - Parrotbills, Wrentit, and Allies
   - Needs Photo
-  - Needs Audio
+  - Has Audio
 ---
 
 # Wrentit (Chamaea fasciata)
@@ -27,14 +27,14 @@ tags:
 
 **Photo**: No 
 
-**Audio**: No
+**Audio**: Yes
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-No audio recordings available.
+<iframe src="https://macaulaylibrary.org/asset/626995507/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/wrenti) 

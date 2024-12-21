@@ -6,13 +6,13 @@ family: "Ardeidae (Herons, Egrets, and Bitterns)"
 species_group: "Herons, Ibis, and Allies"
 species_code: "greegr"
 sidebar_position: 175
-sidebar_class_name: " "
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Pelecaniformes
   - Ardeidae (Herons, Egrets, and Bitterns)
   - Herons, Ibis, and Allies
-  - Needs Photo
-  - Needs Audio
+  - Has Photo
+  - Has Audio
 ---
 
 # Great Egret (Ardea alba)
@@ -25,16 +25,16 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=greegr) | [Map](/map?species_code=greegr)
 
-**Photo**: No 
+**Photo**: Yes 
 
-**Audio**: No
+**Audio**: Yes
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/619242708/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
-No audio recordings available.
+<iframe src="https://macaulaylibrary.org/asset/626685068/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/greegr) 

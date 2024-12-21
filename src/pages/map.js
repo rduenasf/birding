@@ -29,12 +29,28 @@ const style = (feature, data) => {
   const speciesCount = data[feature.properties.ISO_A2] || 0;
   return {
     fillColor: getColor(speciesCount),
-    weight: 2,
+    weight: 0,
     opacity: 1,
     color: "white",
-    dashArray: "3",
+    dashArray: "",
     fillOpacity: 0.7,
   };
+};
+
+const highlightFeature = (e) => {
+  const layer = e.target;
+  layer.setStyle({
+    weight: 1,
+    color: "#000",
+    dashArray: "",
+    fillOpacity: 0.7,
+  });
+  layer.bringToFront();
+};
+
+const resetHighlight = (e, data) => {
+  const layer = e.target;
+  layer.setStyle(style(layer.feature, data));
 };
 
 const onEachFeature = (feature, layer, data) => {
@@ -42,8 +58,12 @@ const onEachFeature = (feature, layer, data) => {
     const countryName = feature.properties.NAME;
     const speciesCount = data[feature.properties.ISO_A2] || 0;
     layer.bindTooltip(`${countryName}: ${speciesCount}`);
-    layer.on("click", function () {
-      console.log(feature.properties);
+    layer.on({
+      mouseover: highlightFeature,
+      mouseout: (e) => resetHighlight(e, data),
+      click: function () {
+        console.log(feature.properties);
+      },
     });
   }
 };
@@ -75,12 +95,10 @@ const MapComponent = () => {
       preferCanvas: true,
       zoomControl: false,
       attributionControl: false,
-      maxBounds: [
-        [-90, -180],
-        [90, 180],
-      ],
-      maxBoundsViscosity: 1.0,
       minZoom: 2,
+      crs: L.CRS.EPSG4326, // Change the projection here
+      worldCopyJump: true, // Ensure parts of Russia show up on the right
+      wrapLng: [-180, 180], // Wrap longitude to ensure proper display
     }).setView([0, 0], 2);
 
     fetch(geojsonUrl)

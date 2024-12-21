@@ -6,12 +6,12 @@ family: "Phalacrocoracidae (Cormorants and Shags)"
 species_group: "Cormorants and Anhingas"
 species_code: "bracor"
 sidebar_position: 66
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Suliformes
   - Phalacrocoracidae (Cormorants and Shags)
   - Cormorants and Anhingas
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,13 +25,14 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bracor) | [Map](/map?species_code=bracor)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/617717294/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/617717295/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

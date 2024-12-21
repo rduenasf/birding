@@ -6,12 +6,12 @@ family: "Icteridae (Troupials and Allies)"
 species_group: "Blackbirds"
 species_code: "yewbla2"
 sidebar_position: 418
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Icteridae (Troupials and Allies)
   - Blackbirds
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,13 +25,13 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=yewbla2) | [Map](/map?species_code=yewbla2)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/625246625/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.
