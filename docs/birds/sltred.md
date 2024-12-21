@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
 species_group: "Wood-Warblers"
 species_code: "sltred"
+tags: 
+  - Passeriformes
+  - Parulidae (New World Warblers)
+  - Wood-Warblers
+  
+  
 ---
 
-# Slate-throated Redstart
+# Slate-throated Redstart (Myioborus miniatus)
 
-**Scientific Name:** Myioborus miniatus
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers)
 
-**Family:** Parulidae (New World Warblers)
-
-**Species Group:** Wood-Warblers
-
-**Species Code:** sltred
+**Species Group:** [Wood-Warblers](/tags/wood-warblers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sltred)
 
-## Links
-* [eBird](https://ebird.org/species/sltred) 
-* [All About Birds](https://www.allaboutbirds.org/guide/sltred) 
-* [Xeno-canto](https://www.xeno-canto.org/species/myioborus-miniatus) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=sltred&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/sltred)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/sltred) 
+* [All About Birds](https://www.allaboutbirds.org/guide/sltred) 
+* [Xeno-canto](https://www.xeno-canto.org/species/myioborus-miniatus) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=sltred&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/sltred)

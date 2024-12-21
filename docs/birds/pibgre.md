@@ -5,21 +5,34 @@ order: "Podicipediformes"
 family: "Podicipedidae (Grebes)"
 species_group: "Grebes"
 species_code: "pibgre"
+tags: 
+  - Podicipediformes
+  - Podicipedidae (Grebes)
+  - Grebes
+  
+  - Audio
 ---
 
-# Pied-billed Grebe
+# Pied-billed Grebe (Podilymbus podiceps)
 
-**Scientific Name:** Podilymbus podiceps
+**Order:** [Podicipediformes](/tags/podicipediformes)
 
-**Order:** Podicipediformes
+**Family:** [Podicipedidae (Grebes)](/tags/podicipedidae-grebes)
 
-**Family:** Podicipedidae (Grebes)
-
-**Species Group:** Grebes
-
-**Species Code:** pibgre
+**Species Group:** [Grebes](/tags/grebes)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pibgre)
+
+**Photo**: No 
+
+**Audio**: Yes
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+<iframe src="https://macaulaylibrary.org/asset/626995454/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/pibgre) 
@@ -27,10 +40,3 @@ species_code: "pibgre"
 * [Xeno-canto](https://www.xeno-canto.org/species/podilymbus-podiceps) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=pibgre&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/pibgre)
-
-## Media
-### Photographs
-No photographs available.
-
-### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626995454/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>

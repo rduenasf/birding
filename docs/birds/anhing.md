@@ -5,28 +5,27 @@ order: "Suliformes"
 family: "Anhingidae (Anhingas)"
 species_group: "Cormorants and Anhingas"
 species_code: "anhing"
+tags: 
+  - Suliformes
+  - Anhingidae (Anhingas)
+  - Cormorants and Anhingas
+  
+  
 ---
 
-# Anhinga
+# Anhinga (Anhinga anhinga)
 
-**Scientific Name:** Anhinga anhinga
+**Order:** [Suliformes](/tags/suliformes)
 
-**Order:** Suliformes
+**Family:** [Anhingidae (Anhingas)](/tags/anhingidae-anhingas)
 
-**Family:** Anhingidae (Anhingas)
-
-**Species Group:** Cormorants and Anhingas
-
-**Species Code:** anhing
+**Species Group:** [Cormorants and Anhingas](/tags/cormorants-and-anhingas)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=anhing)
 
-## Links
-* [eBird](https://ebird.org/species/anhing) 
-* [All About Birds](https://www.allaboutbirds.org/guide/anhing) 
-* [Xeno-canto](https://www.xeno-canto.org/species/anhinga-anhinga) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=anhing&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/anhing)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/anhing) 
+* [All About Birds](https://www.allaboutbirds.org/guide/anhing) 
+* [Xeno-canto](https://www.xeno-canto.org/species/anhinga-anhinga) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=anhing&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/anhing)

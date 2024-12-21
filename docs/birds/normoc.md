@@ -5,21 +5,34 @@ order: "Passeriformes"
 family: "Mimidae (Mockingbirds and Thrashers)"
 species_group: "Catbirds, Mockingbirds, and Thrashers"
 species_code: "normoc"
+tags: 
+  - Passeriformes
+  - Mimidae (Mockingbirds and Thrashers)
+  - Catbirds, Mockingbirds, and Thrashers
+  - Photo
+  - Audio
 ---
 
-# Northern Mockingbird
+# Northern Mockingbird (Mimus polyglottos)
 
-**Scientific Name:** Mimus polyglottos
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Mimidae (Mockingbirds and Thrashers)](/tags/mimidae-mockingbirds-and-thrashers)
 
-**Family:** Mimidae (Mockingbirds and Thrashers)
-
-**Species Group:** Catbirds, Mockingbirds, and Thrashers
-
-**Species Code:** normoc
+**Species Group:** [Catbirds, Mockingbirds, and Thrashers](/tags/catbirds-mockingbirds-and-thrashers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=normoc)
+
+**Photo**: Yes 
+
+**Audio**: Yes
+
+## Media
+### Photographs
+<iframe src="https://macaulaylibrary.org/asset/626996435/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+
+### Audio Recordings
+<iframe src="https://macaulaylibrary.org/asset/626583307/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/normoc) 
@@ -27,10 +40,3 @@ species_code: "normoc"
 * [Xeno-canto](https://www.xeno-canto.org/species/mimus-polyglottos) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=normoc&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/normoc)
-
-## Media
-### Photographs
-<iframe src="https://macaulaylibrary.org/asset/626996435/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-
-### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626583307/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>

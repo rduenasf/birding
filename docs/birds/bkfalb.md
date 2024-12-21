@@ -5,28 +5,27 @@ order: "Procellariiformes"
 family: "Diomedeidae (Albatrosses)"
 species_group: "Albatrosses"
 species_code: "bkfalb"
+tags: 
+  - Procellariiformes
+  - Diomedeidae (Albatrosses)
+  - Albatrosses
+  
+  
 ---
 
-# Black-footed Albatross
+# Black-footed Albatross (Phoebastria nigripes)
 
-**Scientific Name:** Phoebastria nigripes
+**Order:** [Procellariiformes](/tags/procellariiformes)
 
-**Order:** Procellariiformes
+**Family:** [Diomedeidae (Albatrosses)](/tags/diomedeidae-albatrosses)
 
-**Family:** Diomedeidae (Albatrosses)
-
-**Species Group:** Albatrosses
-
-**Species Code:** bkfalb
+**Species Group:** [Albatrosses](/tags/albatrosses)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkfalb)
 
-## Links
-* [eBird](https://ebird.org/species/bkfalb) 
-* [All About Birds](https://www.allaboutbirds.org/guide/bkfalb) 
-* [Xeno-canto](https://www.xeno-canto.org/species/phoebastria-nigripes) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bkfalb&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/bkfalb)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/bkfalb) 
+* [All About Birds](https://www.allaboutbirds.org/guide/bkfalb) 
+* [Xeno-canto](https://www.xeno-canto.org/species/phoebastria-nigripes) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bkfalb&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/bkfalb)

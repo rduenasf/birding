@@ -5,28 +5,27 @@ order: "Pelecaniformes"
 family: "Ardeidae (Herons, Egrets, and Bitterns)"
 species_group: "Herons, Ibis, and Allies"
 species_code: "bcnher"
+tags: 
+  - Pelecaniformes
+  - Ardeidae (Herons, Egrets, and Bitterns)
+  - Herons, Ibis, and Allies
+  - Photo
+  
 ---
 
-# Black-crowned Night Heron
+# Black-crowned Night Heron (Nycticorax nycticorax)
 
-**Scientific Name:** Nycticorax nycticorax
+**Order:** [Pelecaniformes](/tags/pelecaniformes)
 
-**Order:** Pelecaniformes
+**Family:** [Ardeidae (Herons, Egrets, and Bitterns)](/tags/ardeidae-herons-egrets-and-bitterns)
 
-**Family:** Ardeidae (Herons, Egrets, and Bitterns)
-
-**Species Group:** Herons, Ibis, and Allies
-
-**Species Code:** bcnher
+**Species Group:** [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bcnher)
 
-## Links
-* [eBird](https://ebird.org/species/bcnher) 
-* [All About Birds](https://www.allaboutbirds.org/guide/bcnher) 
-* [Xeno-canto](https://www.xeno-canto.org/species/nycticorax-nycticorax) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bcnher&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/bcnher)
+**Photo**: Yes 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -36,3 +35,10 @@ species_code: "bcnher"
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/bcnher) 
+* [All About Birds](https://www.allaboutbirds.org/guide/bcnher) 
+* [Xeno-canto](https://www.xeno-canto.org/species/nycticorax-nycticorax) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bcnher&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/bcnher)

@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Furnariidae (Ovenbirds and Woodcreepers)"
 species_group: "Ovenbirds"
 species_code: "buwcin1"
+tags: 
+  - Passeriformes
+  - Furnariidae (Ovenbirds and Woodcreepers)
+  - Ovenbirds
+  
+  
 ---
 
-# Buff-winged Cinclodes
+# Buff-winged Cinclodes (Cinclodes fuscus)
 
-**Scientific Name:** Cinclodes fuscus
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers)
 
-**Family:** Furnariidae (Ovenbirds and Woodcreepers)
-
-**Species Group:** Ovenbirds
-
-**Species Code:** buwcin1
+**Species Group:** [Ovenbirds](/tags/ovenbirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=buwcin1)
 
-## Links
-* [eBird](https://ebird.org/species/buwcin1) 
-* [All About Birds](https://www.allaboutbirds.org/guide/buwcin1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/cinclodes-fuscus) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=buwcin1&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/buwcin1)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/buwcin1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/buwcin1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/cinclodes-fuscus) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=buwcin1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/buwcin1)

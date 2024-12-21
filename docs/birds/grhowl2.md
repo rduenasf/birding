@@ -5,28 +5,27 @@ order: "Strigiformes"
 family: "Strigidae (Owls)"
 species_group: "Owls"
 species_code: "grhowl2"
+tags: 
+  - Strigiformes
+  - Strigidae (Owls)
+  - Owls
+  - Photo
+  
 ---
 
-# Lesser Horned Owl
+# Lesser Horned Owl (Bubo magellanicus)
 
-**Scientific Name:** Bubo magellanicus
+**Order:** [Strigiformes](/tags/strigiformes)
 
-**Order:** Strigiformes
+**Family:** [Strigidae (Owls)](/tags/strigidae-owls)
 
-**Family:** Strigidae (Owls)
-
-**Species Group:** Owls
-
-**Species Code:** grhowl2
+**Species Group:** [Owls](/tags/owls)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grhowl2)
 
-## Links
-* [eBird](https://ebird.org/species/grhowl2) 
-* [All About Birds](https://www.allaboutbirds.org/guide/grhowl2) 
-* [Xeno-canto](https://www.xeno-canto.org/species/bubo-magellanicus) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=grhowl2&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/grhowl2)
+**Photo**: Yes 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -36,3 +35,10 @@ species_code: "grhowl2"
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/grhowl2) 
+* [All About Birds](https://www.allaboutbirds.org/guide/grhowl2) 
+* [Xeno-canto](https://www.xeno-canto.org/species/bubo-magellanicus) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=grhowl2&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/grhowl2)

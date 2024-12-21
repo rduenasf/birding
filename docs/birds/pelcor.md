@@ -5,28 +5,27 @@ order: "Suliformes"
 family: "Phalacrocoracidae (Cormorants and Shags)"
 species_group: "Cormorants and Anhingas"
 species_code: "pelcor"
+tags: 
+  - Suliformes
+  - Phalacrocoracidae (Cormorants and Shags)
+  - Cormorants and Anhingas
+  
+  
 ---
 
-# Pelagic Cormorant
+# Pelagic Cormorant (Urile pelagicus)
 
-**Scientific Name:** Urile pelagicus
+**Order:** [Suliformes](/tags/suliformes)
 
-**Order:** Suliformes
+**Family:** [Phalacrocoracidae (Cormorants and Shags)](/tags/phalacrocoracidae-cormorants-and-shags)
 
-**Family:** Phalacrocoracidae (Cormorants and Shags)
-
-**Species Group:** Cormorants and Anhingas
-
-**Species Code:** pelcor
+**Species Group:** [Cormorants and Anhingas](/tags/cormorants-and-anhingas)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pelcor)
 
-## Links
-* [eBird](https://ebird.org/species/pelcor) 
-* [All About Birds](https://www.allaboutbirds.org/guide/pelcor) 
-* [Xeno-canto](https://www.xeno-canto.org/species/urile-pelagicus) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=pelcor&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/pelcor)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/pelcor) 
+* [All About Birds](https://www.allaboutbirds.org/guide/pelcor) 
+* [Xeno-canto](https://www.xeno-canto.org/species/urile-pelagicus) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=pelcor&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/pelcor)

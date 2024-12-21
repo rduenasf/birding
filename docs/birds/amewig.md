@@ -5,21 +5,34 @@ order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "amewig"
+tags: 
+  - Anseriformes
+  - Anatidae (Ducks, Geese, and Waterfowl)
+  - Waterfowl
+  
+  - Audio
 ---
 
-# American Wigeon
+# American Wigeon (Mareca americana)
 
-**Scientific Name:** Mareca americana
+**Order:** [Anseriformes](/tags/anseriformes)
 
-**Order:** Anseriformes
+**Family:** [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl)
 
-**Family:** Anatidae (Ducks, Geese, and Waterfowl)
-
-**Species Group:** Waterfowl
-
-**Species Code:** amewig
+**Species Group:** [Waterfowl](/tags/waterfowl)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=amewig)
+
+**Photo**: No 
+
+**Audio**: Yes
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+<iframe src="https://macaulaylibrary.org/asset/626915523/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/amewig) 
@@ -27,10 +40,3 @@ species_code: "amewig"
 * [Xeno-canto](https://www.xeno-canto.org/species/mareca-americana) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=amewig&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/amewig)
-
-## Media
-### Photographs
-No photographs available.
-
-### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626915523/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>

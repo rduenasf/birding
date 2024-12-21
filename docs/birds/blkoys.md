@@ -5,28 +5,27 @@ order: "Charadriiformes"
 family: "Haematopodidae (Oystercatchers)"
 species_group: "Shorebirds"
 species_code: "blkoys"
+tags: 
+  - Charadriiformes
+  - Haematopodidae (Oystercatchers)
+  - Shorebirds
+  - Photo
+  
 ---
 
-# Black Oystercatcher
+# Black Oystercatcher (Haematopus bachmani)
 
-**Scientific Name:** Haematopus bachmani
+**Order:** [Charadriiformes](/tags/charadriiformes)
 
-**Order:** Charadriiformes
+**Family:** [Haematopodidae (Oystercatchers)](/tags/haematopodidae-oystercatchers)
 
-**Family:** Haematopodidae (Oystercatchers)
-
-**Species Group:** Shorebirds
-
-**Species Code:** blkoys
+**Species Group:** [Shorebirds](/tags/shorebirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blkoys)
 
-## Links
-* [eBird](https://ebird.org/species/blkoys) 
-* [All About Birds](https://www.allaboutbirds.org/guide/blkoys) 
-* [Xeno-canto](https://www.xeno-canto.org/species/haematopus-bachmani) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=blkoys&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/blkoys)
+**Photo**: Yes 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -35,3 +34,10 @@ species_code: "blkoys"
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/blkoys) 
+* [All About Birds](https://www.allaboutbirds.org/guide/blkoys) 
+* [Xeno-canto](https://www.xeno-canto.org/species/haematopus-bachmani) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=blkoys&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/blkoys)

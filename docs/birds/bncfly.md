@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "bncfly"
+tags: 
+  - Passeriformes
+  - Tyrannidae (Tyrant Flycatchers)
+  - Tyrant Flycatchers - Pewees, Kingbirds, and Allies
+  
+  
 ---
 
-# Brown-crested Flycatcher
+# Brown-crested Flycatcher (Myiarchus tyrannulus)
 
-**Scientific Name:** Myiarchus tyrannulus
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers)
 
-**Family:** Tyrannidae (Tyrant Flycatchers)
-
-**Species Group:** Tyrant Flycatchers: Pewees, Kingbirds, and Allies
-
-**Species Code:** bncfly
+**Species Group:** [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bncfly)
 
-## Links
-* [eBird](https://ebird.org/species/bncfly) 
-* [All About Birds](https://www.allaboutbirds.org/guide/bncfly) 
-* [Xeno-canto](https://www.xeno-canto.org/species/myiarchus-tyrannulus) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bncfly&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/bncfly)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/bncfly) 
+* [All About Birds](https://www.allaboutbirds.org/guide/bncfly) 
+* [Xeno-canto](https://www.xeno-canto.org/species/myiarchus-tyrannulus) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bncfly&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/bncfly)

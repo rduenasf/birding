@@ -5,28 +5,27 @@ order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "spetea2"
+tags: 
+  - Anseriformes
+  - Anatidae (Ducks, Geese, and Waterfowl)
+  - Waterfowl
+  
+  
 ---
 
-# Yellow-billed Teal (flavirostris)
+# Yellow-billed Teal (flavirostris) (Anas flavirostris flavirostris)
 
-**Scientific Name:** Anas flavirostris flavirostris
+**Order:** [Anseriformes](/tags/anseriformes)
 
-**Order:** Anseriformes
+**Family:** [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl)
 
-**Family:** Anatidae (Ducks, Geese, and Waterfowl)
-
-**Species Group:** Waterfowl
-
-**Species Code:** spetea2
+**Species Group:** [Waterfowl](/tags/waterfowl)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=spetea2)
 
-## Links
-* [eBird](https://ebird.org/species/spetea2) 
-* [All About Birds](https://www.allaboutbirds.org/guide/spetea2) 
-* [Xeno-canto](https://www.xeno-canto.org/species/anas-flavirostris-flavirostris) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=spetea2&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/spetea2)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/spetea2) 
+* [All About Birds](https://www.allaboutbirds.org/guide/spetea2) 
+* [Xeno-canto](https://www.xeno-canto.org/species/anas-flavirostris-flavirostris) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=spetea2&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/spetea2)

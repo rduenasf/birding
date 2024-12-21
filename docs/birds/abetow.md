@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
 species_group: "New World Sparrows"
 species_code: "abetow"
+tags: 
+  - Passeriformes
+  - Passerellidae (New World Sparrows)
+  - New World Sparrows
+  
+  
 ---
 
-# Abert's Towhee
+# Abert's Towhee (Melozone aberti)
 
-**Scientific Name:** Melozone aberti
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows)
 
-**Family:** Passerellidae (New World Sparrows)
-
-**Species Group:** New World Sparrows
-
-**Species Code:** abetow
+**Species Group:** [New World Sparrows](/tags/new-world-sparrows)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=abetow)
 
-## Links
-* [eBird](https://ebird.org/species/abetow) 
-* [All About Birds](https://www.allaboutbirds.org/guide/abetow) 
-* [Xeno-canto](https://www.xeno-canto.org/species/melozone-aberti) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=abetow&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/abetow)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/abetow) 
+* [All About Birds](https://www.allaboutbirds.org/guide/abetow) 
+* [Xeno-canto](https://www.xeno-canto.org/species/melozone-aberti) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=abetow&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/abetow)

@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Turdidae (Thrushes and Allies)"
 species_group: "Thrushes"
 species_code: "varthr"
+tags: 
+  - Passeriformes
+  - Turdidae (Thrushes and Allies)
+  - Thrushes
+  
+  
 ---
 
-# Varied Thrush
+# Varied Thrush (Ixoreus naevius)
 
-**Scientific Name:** Ixoreus naevius
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies)
 
-**Family:** Turdidae (Thrushes and Allies)
-
-**Species Group:** Thrushes
-
-**Species Code:** varthr
+**Species Group:** [Thrushes](/tags/thrushes)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=varthr)
 
-## Links
-* [eBird](https://ebird.org/species/varthr) 
-* [All About Birds](https://www.allaboutbirds.org/guide/varthr) 
-* [Xeno-canto](https://www.xeno-canto.org/species/ixoreus-naevius) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=varthr&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/varthr)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/varthr) 
+* [All About Birds](https://www.allaboutbirds.org/guide/varthr) 
+* [Xeno-canto](https://www.xeno-canto.org/species/ixoreus-naevius) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=varthr&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/varthr)

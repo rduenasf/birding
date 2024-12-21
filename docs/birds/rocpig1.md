@@ -5,28 +5,27 @@ order: "Columbiformes"
 family: "Columbidae (Pigeons and Doves)"
 species_group: "Pigeons and Doves"
 species_code: "rocpig1"
+tags: 
+  - Columbiformes
+  - Columbidae (Pigeons and Doves)
+  - Pigeons and Doves
+  
+  
 ---
 
-# Rock Pigeon (Feral Pigeon)
+# Rock Pigeon (Feral Pigeon) (Columba livia (Feral Pigeon))
 
-**Scientific Name:** Columba livia (Feral Pigeon)
+**Order:** [Columbiformes](/tags/columbiformes)
 
-**Order:** Columbiformes
+**Family:** [Columbidae (Pigeons and Doves)](/tags/columbidae-pigeons-and-doves)
 
-**Family:** Columbidae (Pigeons and Doves)
-
-**Species Group:** Pigeons and Doves
-
-**Species Code:** rocpig1
+**Species Group:** [Pigeons and Doves](/tags/pigeons-and-doves)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rocpig1)
 
-## Links
-* [eBird](https://ebird.org/species/rocpig1) 
-* [All About Birds](https://www.allaboutbirds.org/guide/rocpig1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/columba-livia-(feral-pigeon)) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rocpig1&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/rocpig1)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/rocpig1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/rocpig1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/columba-livia-(feral-pigeon)) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rocpig1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/rocpig1)

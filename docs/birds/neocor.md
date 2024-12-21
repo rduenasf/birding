@@ -5,28 +5,27 @@ order: "Suliformes"
 family: "Phalacrocoracidae (Cormorants and Shags)"
 species_group: "Cormorants and Anhingas"
 species_code: "neocor"
+tags: 
+  - Suliformes
+  - Phalacrocoracidae (Cormorants and Shags)
+  - Cormorants and Anhingas
+  
+  
 ---
 
-# Neotropic Cormorant
+# Neotropic Cormorant (Nannopterum brasilianum)
 
-**Scientific Name:** Nannopterum brasilianum
+**Order:** [Suliformes](/tags/suliformes)
 
-**Order:** Suliformes
+**Family:** [Phalacrocoracidae (Cormorants and Shags)](/tags/phalacrocoracidae-cormorants-and-shags)
 
-**Family:** Phalacrocoracidae (Cormorants and Shags)
-
-**Species Group:** Cormorants and Anhingas
-
-**Species Code:** neocor
+**Species Group:** [Cormorants and Anhingas](/tags/cormorants-and-anhingas)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=neocor)
 
-## Links
-* [eBird](https://ebird.org/species/neocor) 
-* [All About Birds](https://www.allaboutbirds.org/guide/neocor) 
-* [Xeno-canto](https://www.xeno-canto.org/species/nannopterum-brasilianum) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=neocor&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/neocor)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/neocor) 
+* [All About Birds](https://www.allaboutbirds.org/guide/neocor) 
+* [Xeno-canto](https://www.xeno-canto.org/species/nannopterum-brasilianum) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=neocor&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/neocor)

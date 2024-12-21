@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Sittidae (Nuthatches)"
 species_group: "Nuthatches"
 species_code: "whbnut"
+tags: 
+  - Passeriformes
+  - Sittidae (Nuthatches)
+  - Nuthatches
+  
+  
 ---
 
-# White-breasted Nuthatch
+# White-breasted Nuthatch (Sitta carolinensis)
 
-**Scientific Name:** Sitta carolinensis
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Sittidae (Nuthatches)](/tags/sittidae-nuthatches)
 
-**Family:** Sittidae (Nuthatches)
-
-**Species Group:** Nuthatches
-
-**Species Code:** whbnut
+**Species Group:** [Nuthatches](/tags/nuthatches)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whbnut)
 
-## Links
-* [eBird](https://ebird.org/species/whbnut) 
-* [All About Birds](https://www.allaboutbirds.org/guide/whbnut) 
-* [Xeno-canto](https://www.xeno-canto.org/species/sitta-carolinensis) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=whbnut&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/whbnut)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/whbnut) 
+* [All About Birds](https://www.allaboutbirds.org/guide/whbnut) 
+* [Xeno-canto](https://www.xeno-canto.org/species/sitta-carolinensis) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=whbnut&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/whbnut)

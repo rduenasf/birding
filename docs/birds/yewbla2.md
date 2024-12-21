@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
 species_group: "Blackbirds"
 species_code: "yewbla2"
+tags: 
+  - Passeriformes
+  - Icteridae (Troupials and Allies)
+  - Blackbirds
+  - Photo
+  
 ---
 
-# Yellow-winged Blackbird
+# Yellow-winged Blackbird (Agelasticus thilius)
 
-**Scientific Name:** Agelasticus thilius
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies)
 
-**Family:** Icteridae (Troupials and Allies)
-
-**Species Group:** Blackbirds
-
-**Species Code:** yewbla2
+**Species Group:** [Blackbirds](/tags/blackbirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=yewbla2)
 
-## Links
-* [eBird](https://ebird.org/species/yewbla2) 
-* [All About Birds](https://www.allaboutbirds.org/guide/yewbla2) 
-* [Xeno-canto](https://www.xeno-canto.org/species/agelasticus-thilius) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=yewbla2&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/yewbla2)
+**Photo**: Yes 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ species_code: "yewbla2"
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/yewbla2) 
+* [All About Birds](https://www.allaboutbirds.org/guide/yewbla2) 
+* [Xeno-canto](https://www.xeno-canto.org/species/agelasticus-thilius) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=yewbla2&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/yewbla2)

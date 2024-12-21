@@ -5,28 +5,27 @@ order: "Cuculiformes"
 family: "Cuculidae (Cuckoos)"
 species_group: "Cuckoos"
 species_code: "greroa"
+tags: 
+  - Cuculiformes
+  - Cuculidae (Cuckoos)
+  - Cuckoos
+  
+  
 ---
 
-# Greater Roadrunner
+# Greater Roadrunner (Geococcyx californianus)
 
-**Scientific Name:** Geococcyx californianus
+**Order:** [Cuculiformes](/tags/cuculiformes)
 
-**Order:** Cuculiformes
+**Family:** [Cuculidae (Cuckoos)](/tags/cuculidae-cuckoos)
 
-**Family:** Cuculidae (Cuckoos)
-
-**Species Group:** Cuckoos
-
-**Species Code:** greroa
+**Species Group:** [Cuckoos](/tags/cuckoos)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=greroa)
 
-## Links
-* [eBird](https://ebird.org/species/greroa) 
-* [All About Birds](https://www.allaboutbirds.org/guide/greroa) 
-* [Xeno-canto](https://www.xeno-canto.org/species/geococcyx-californianus) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=greroa&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/greroa)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/greroa) 
+* [All About Birds](https://www.allaboutbirds.org/guide/greroa) 
+* [Xeno-canto](https://www.xeno-canto.org/species/geococcyx-californianus) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=greroa&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/greroa)

@@ -5,21 +5,34 @@ order: "Passeriformes"
 family: "Corvidae (Crows, Jays, and Magpies)"
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "comrav"
+tags: 
+  - Passeriformes
+  - Corvidae (Crows, Jays, and Magpies)
+  - Jays, Magpies, Crows, and Ravens
+  
+  - Audio
 ---
 
-# Common Raven
+# Common Raven (Corvus corax)
 
-**Scientific Name:** Corvus corax
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Corvidae (Crows, Jays, and Magpies)](/tags/corvidae-crows-jays-and-magpies)
 
-**Family:** Corvidae (Crows, Jays, and Magpies)
-
-**Species Group:** Jays, Magpies, Crows, and Ravens
-
-**Species Code:** comrav
+**Species Group:** [Jays, Magpies, Crows, and Ravens](/tags/jays-magpies-crows-and-ravens)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=comrav)
+
+**Photo**: No 
+
+**Audio**: Yes
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+<iframe src="https://macaulaylibrary.org/asset/626447257/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/comrav) 
@@ -27,10 +40,3 @@ species_code: "comrav"
 * [Xeno-canto](https://www.xeno-canto.org/species/corvus-corax) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=comrav&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/comrav)
-
-## Media
-### Photographs
-No photographs available.
-
-### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626447257/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>

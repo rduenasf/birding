@@ -5,21 +5,34 @@ order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
 species_group: "Shorebirds"
 species_code: "lobdow"
+tags: 
+  - Charadriiformes
+  - Scolopacidae (Sandpipers and Allies)
+  - Shorebirds
+  
+  - Audio
 ---
 
-# Long-billed Dowitcher
+# Long-billed Dowitcher (Limnodromus scolopaceus)
 
-**Scientific Name:** Limnodromus scolopaceus
+**Order:** [Charadriiformes](/tags/charadriiformes)
 
-**Order:** Charadriiformes
+**Family:** [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies)
 
-**Family:** Scolopacidae (Sandpipers and Allies)
-
-**Species Group:** Shorebirds
-
-**Species Code:** lobdow
+**Species Group:** [Shorebirds](/tags/shorebirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=lobdow)
+
+**Photo**: No 
+
+**Audio**: Yes
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+<iframe src="https://macaulaylibrary.org/asset/626684588/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/lobdow) 
@@ -27,10 +40,3 @@ species_code: "lobdow"
 * [Xeno-canto](https://www.xeno-canto.org/species/limnodromus-scolopaceus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=lobdow&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/lobdow)
-
-## Media
-### Photographs
-No photographs available.
-
-### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626684588/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>

@@ -5,21 +5,39 @@ order: "Passeriformes"
 family: "Fringillidae (Finches, Euphonias, and Allies)"
 species_group: "Finches, Euphonias, and Allies"
 species_code: "houfin"
+tags: 
+  - Passeriformes
+  - Fringillidae (Finches, Euphonias, and Allies)
+  - Finches, Euphonias, and Allies
+  
+  - Audio
 ---
 
-# House Finch
+# House Finch (Haemorhous mexicanus)
 
-**Scientific Name:** Haemorhous mexicanus
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Fringillidae (Finches, Euphonias, and Allies)](/tags/fringillidae-finches-euphonias-and-allies)
 
-**Family:** Fringillidae (Finches, Euphonias, and Allies)
-
-**Species Group:** Finches, Euphonias, and Allies
-
-**Species Code:** houfin
+**Species Group:** [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=houfin)
+
+**Photo**: No 
+
+**Audio**: Yes
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+<iframe src="https://macaulaylibrary.org/asset/626557644/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626447649/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626684827/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626559480/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626559496/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626917182/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/houfin) 
@@ -27,15 +45,3 @@ species_code: "houfin"
 * [Xeno-canto](https://www.xeno-canto.org/species/haemorhous-mexicanus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=houfin&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/houfin)
-
-## Media
-### Photographs
-No photographs available.
-
-### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626557644/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626447649/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626684827/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626559480/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626559496/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626917182/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>

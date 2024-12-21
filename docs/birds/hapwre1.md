@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
 species_group: "Wrens"
 species_code: "hapwre1"
+tags: 
+  - Passeriformes
+  - Troglodytidae (Wrens)
+  - Wrens
+  
+  
 ---
 
-# Happy Wren
+# Happy Wren (Pheugopedius felix)
 
-**Scientific Name:** Pheugopedius felix
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Troglodytidae (Wrens)](/tags/troglodytidae-wrens)
 
-**Family:** Troglodytidae (Wrens)
-
-**Species Group:** Wrens
-
-**Species Code:** hapwre1
+**Species Group:** [Wrens](/tags/wrens)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=hapwre1)
 
-## Links
-* [eBird](https://ebird.org/species/hapwre1) 
-* [All About Birds](https://www.allaboutbirds.org/guide/hapwre1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/pheugopedius-felix) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=hapwre1&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/hapwre1)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/hapwre1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/hapwre1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/pheugopedius-felix) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=hapwre1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/hapwre1)

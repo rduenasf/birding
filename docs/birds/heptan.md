@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Cardinalidae (Cardinals and Allies)"
 species_group: "Cardinals, Grosbeaks, and Allies"
 species_code: "heptan"
+tags: 
+  - Passeriformes
+  - Cardinalidae (Cardinals and Allies)
+  - Cardinals, Grosbeaks, and Allies
+  
+  
 ---
 
-# Hepatic Tanager
+# Hepatic Tanager (Piranga flava)
 
-**Scientific Name:** Piranga flava
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Cardinalidae (Cardinals and Allies)](/tags/cardinalidae-cardinals-and-allies)
 
-**Family:** Cardinalidae (Cardinals and Allies)
-
-**Species Group:** Cardinals, Grosbeaks, and Allies
-
-**Species Code:** heptan
+**Species Group:** [Cardinals, Grosbeaks, and Allies](/tags/cardinals-grosbeaks-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=heptan)
 
-## Links
-* [eBird](https://ebird.org/species/heptan) 
-* [All About Birds](https://www.allaboutbirds.org/guide/heptan) 
-* [Xeno-canto](https://www.xeno-canto.org/species/piranga-flava) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=heptan&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/heptan)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/heptan) 
+* [All About Birds](https://www.allaboutbirds.org/guide/heptan) 
+* [Xeno-canto](https://www.xeno-canto.org/species/piranga-flava) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=heptan&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/heptan)

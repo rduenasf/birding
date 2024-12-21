@@ -5,28 +5,27 @@ order: "Procellariiformes"
 family: "Procellariidae (Shearwaters and Petrels)"
 species_group: "Petrels, Shearwaters, and Diving-Petrels"
 species_code: "sooshe"
+tags: 
+  - Procellariiformes
+  - Procellariidae (Shearwaters and Petrels)
+  - Petrels, Shearwaters, and Diving-Petrels
+  
+  
 ---
 
-# Sooty Shearwater
+# Sooty Shearwater (Ardenna grisea)
 
-**Scientific Name:** Ardenna grisea
+**Order:** [Procellariiformes](/tags/procellariiformes)
 
-**Order:** Procellariiformes
+**Family:** [Procellariidae (Shearwaters and Petrels)](/tags/procellariidae-shearwaters-and-petrels)
 
-**Family:** Procellariidae (Shearwaters and Petrels)
-
-**Species Group:** Petrels, Shearwaters, and Diving-Petrels
-
-**Species Code:** sooshe
+**Species Group:** [Petrels, Shearwaters, and Diving-Petrels](/tags/petrels-shearwaters-and-diving-petrels)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sooshe)
 
-## Links
-* [eBird](https://ebird.org/species/sooshe) 
-* [All About Birds](https://www.allaboutbirds.org/guide/sooshe) 
-* [Xeno-canto](https://www.xeno-canto.org/species/ardenna-grisea) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=sooshe&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/sooshe)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/sooshe) 
+* [All About Birds](https://www.allaboutbirds.org/guide/sooshe) 
+* [Xeno-canto](https://www.xeno-canto.org/species/ardenna-grisea) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=sooshe&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/sooshe)

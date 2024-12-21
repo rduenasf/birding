@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
 species_group: "Blackbirds"
 species_code: "ausbla1"
+tags: 
+  - Passeriformes
+  - Icteridae (Troupials and Allies)
+  - Blackbirds
+  
+  
 ---
 
-# Austral Blackbird
+# Austral Blackbird (Curaeus curaeus)
 
-**Scientific Name:** Curaeus curaeus
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies)
 
-**Family:** Icteridae (Troupials and Allies)
-
-**Species Group:** Blackbirds
-
-**Species Code:** ausbla1
+**Species Group:** [Blackbirds](/tags/blackbirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ausbla1)
 
-## Links
-* [eBird](https://ebird.org/species/ausbla1) 
-* [All About Birds](https://www.allaboutbirds.org/guide/ausbla1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/curaeus-curaeus) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=ausbla1&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/ausbla1)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/ausbla1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/ausbla1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/curaeus-curaeus) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=ausbla1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/ausbla1)

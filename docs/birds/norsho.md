@@ -5,21 +5,35 @@ order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "norsho"
+tags: 
+  - Anseriformes
+  - Anatidae (Ducks, Geese, and Waterfowl)
+  - Waterfowl
+  
+  - Audio
 ---
 
-# Northern Shoveler
+# Northern Shoveler (Spatula clypeata)
 
-**Scientific Name:** Spatula clypeata
+**Order:** [Anseriformes](/tags/anseriformes)
 
-**Order:** Anseriformes
+**Family:** [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl)
 
-**Family:** Anatidae (Ducks, Geese, and Waterfowl)
-
-**Species Group:** Waterfowl
-
-**Species Code:** norsho
+**Species Group:** [Waterfowl](/tags/waterfowl)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=norsho)
+
+**Photo**: No 
+
+**Audio**: Yes
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+<iframe src="https://macaulaylibrary.org/asset/626995447/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626915520/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/norsho) 
@@ -27,11 +41,3 @@ species_code: "norsho"
 * [Xeno-canto](https://www.xeno-canto.org/species/spatula-clypeata) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=norsho&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/norsho)
-
-## Media
-### Photographs
-No photographs available.
-
-### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626995447/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626915520/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>

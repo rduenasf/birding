@@ -5,28 +5,27 @@ order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "harduc"
+tags: 
+  - Anseriformes
+  - Anatidae (Ducks, Geese, and Waterfowl)
+  - Waterfowl
+  
+  
 ---
 
-# Harlequin Duck
+# Harlequin Duck (Histrionicus histrionicus)
 
-**Scientific Name:** Histrionicus histrionicus
+**Order:** [Anseriformes](/tags/anseriformes)
 
-**Order:** Anseriformes
+**Family:** [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl)
 
-**Family:** Anatidae (Ducks, Geese, and Waterfowl)
-
-**Species Group:** Waterfowl
-
-**Species Code:** harduc
+**Species Group:** [Waterfowl](/tags/waterfowl)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=harduc)
 
-## Links
-* [eBird](https://ebird.org/species/harduc) 
-* [All About Birds](https://www.allaboutbirds.org/guide/harduc) 
-* [Xeno-canto](https://www.xeno-canto.org/species/histrionicus-histrionicus) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=harduc&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/harduc)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/harduc) 
+* [All About Birds](https://www.allaboutbirds.org/guide/harduc) 
+* [Xeno-canto](https://www.xeno-canto.org/species/histrionicus-histrionicus) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=harduc&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/harduc)

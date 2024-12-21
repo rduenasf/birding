@@ -5,28 +5,27 @@ order: "Charadriiformes"
 family: "Laridae (Gulls, Terns, and Skimmers)"
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "kelgul"
+tags: 
+  - Charadriiformes
+  - Laridae (Gulls, Terns, and Skimmers)
+  - Gulls, Terns, and Skimmers
+  
+  
 ---
 
-# Kelp Gull
+# Kelp Gull (Larus dominicanus)
 
-**Scientific Name:** Larus dominicanus
+**Order:** [Charadriiformes](/tags/charadriiformes)
 
-**Order:** Charadriiformes
+**Family:** [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers)
 
-**Family:** Laridae (Gulls, Terns, and Skimmers)
-
-**Species Group:** Gulls, Terns, and Skimmers
-
-**Species Code:** kelgul
+**Species Group:** [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=kelgul)
 
-## Links
-* [eBird](https://ebird.org/species/kelgul) 
-* [All About Birds](https://www.allaboutbirds.org/guide/kelgul) 
-* [Xeno-canto](https://www.xeno-canto.org/species/larus-dominicanus) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=kelgul&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/kelgul)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/kelgul) 
+* [All About Birds](https://www.allaboutbirds.org/guide/kelgul) 
+* [Xeno-canto](https://www.xeno-canto.org/species/larus-dominicanus) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=kelgul&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/kelgul)

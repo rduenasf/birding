@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
 species_group: "Wrens"
 species_code: "grbwre1"
+tags: 
+  - Passeriformes
+  - Troglodytidae (Wrens)
+  - Wrens
+  
+  
 ---
 
-# Gray-barred Wren
+# Gray-barred Wren (Campylorhynchus megalopterus)
 
-**Scientific Name:** Campylorhynchus megalopterus
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Troglodytidae (Wrens)](/tags/troglodytidae-wrens)
 
-**Family:** Troglodytidae (Wrens)
-
-**Species Group:** Wrens
-
-**Species Code:** grbwre1
+**Species Group:** [Wrens](/tags/wrens)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grbwre1)
 
-## Links
-* [eBird](https://ebird.org/species/grbwre1) 
-* [All About Birds](https://www.allaboutbirds.org/guide/grbwre1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/campylorhynchus-megalopterus) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=grbwre1&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/grbwre1)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/grbwre1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/grbwre1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/campylorhynchus-megalopterus) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=grbwre1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/grbwre1)

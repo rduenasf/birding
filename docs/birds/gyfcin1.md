@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Furnariidae (Ovenbirds and Woodcreepers)"
 species_group: "Ovenbirds"
 species_code: "gyfcin1"
+tags: 
+  - Passeriformes
+  - Furnariidae (Ovenbirds and Woodcreepers)
+  - Ovenbirds
+  
+  
 ---
 
-# Gray-flanked Cinclodes
+# Gray-flanked Cinclodes (Cinclodes oustaleti)
 
-**Scientific Name:** Cinclodes oustaleti
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers)
 
-**Family:** Furnariidae (Ovenbirds and Woodcreepers)
-
-**Species Group:** Ovenbirds
-
-**Species Code:** gyfcin1
+**Species Group:** [Ovenbirds](/tags/ovenbirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gyfcin1)
 
-## Links
-* [eBird](https://ebird.org/species/gyfcin1) 
-* [All About Birds](https://www.allaboutbirds.org/guide/gyfcin1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/cinclodes-oustaleti) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=gyfcin1&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/gyfcin1)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/gyfcin1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/gyfcin1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/cinclodes-oustaleti) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=gyfcin1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/gyfcin1)

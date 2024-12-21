@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
 species_group: "Wood-Warblers"
 species_code: "btywar"
+tags: 
+  - Passeriformes
+  - Parulidae (New World Warblers)
+  - Wood-Warblers
+  
+  
 ---
 
-# Black-throated Gray Warbler
+# Black-throated Gray Warbler (Setophaga nigrescens)
 
-**Scientific Name:** Setophaga nigrescens
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers)
 
-**Family:** Parulidae (New World Warblers)
-
-**Species Group:** Wood-Warblers
-
-**Species Code:** btywar
+**Species Group:** [Wood-Warblers](/tags/wood-warblers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=btywar)
 
-## Links
-* [eBird](https://ebird.org/species/btywar) 
-* [All About Birds](https://www.allaboutbirds.org/guide/btywar) 
-* [Xeno-canto](https://www.xeno-canto.org/species/setophaga-nigrescens) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=btywar&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/btywar)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/btywar) 
+* [All About Birds](https://www.allaboutbirds.org/guide/btywar) 
+* [Xeno-canto](https://www.xeno-canto.org/species/setophaga-nigrescens) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=btywar&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/btywar)

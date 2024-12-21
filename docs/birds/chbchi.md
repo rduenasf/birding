@@ -5,21 +5,34 @@ order: "Passeriformes"
 family: "Paridae (Tits, Chickadees, and Titmice)"
 species_group: "Tits, Chickadees, and Titmice"
 species_code: "chbchi"
+tags: 
+  - Passeriformes
+  - Paridae (Tits, Chickadees, and Titmice)
+  - Tits, Chickadees, and Titmice
+  
+  - Audio
 ---
 
-# Chestnut-backed Chickadee
+# Chestnut-backed Chickadee (Poecile rufescens)
 
-**Scientific Name:** Poecile rufescens
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Paridae (Tits, Chickadees, and Titmice)](/tags/paridae-tits-chickadees-and-titmice)
 
-**Family:** Paridae (Tits, Chickadees, and Titmice)
-
-**Species Group:** Tits, Chickadees, and Titmice
-
-**Species Code:** chbchi
+**Species Group:** [Tits, Chickadees, and Titmice](/tags/tits-chickadees-and-titmice)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chbchi)
+
+**Photo**: No 
+
+**Audio**: Yes
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+<iframe src="https://macaulaylibrary.org/asset/626559383/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/chbchi) 
@@ -27,10 +40,3 @@ species_code: "chbchi"
 * [Xeno-canto](https://www.xeno-canto.org/species/poecile-rufescens) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=chbchi&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/chbchi)
-
-## Media
-### Photographs
-No photographs available.
-
-### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626559383/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>

@@ -5,28 +5,27 @@ order: "Gruiformes"
 family: "Gruidae (Cranes)"
 species_group: "Cranes"
 species_code: "sancra"
+tags: 
+  - Gruiformes
+  - Gruidae (Cranes)
+  - Cranes
+  
+  
 ---
 
-# Sandhill Crane
+# Sandhill Crane (Antigone canadensis)
 
-**Scientific Name:** Antigone canadensis
+**Order:** [Gruiformes](/tags/gruiformes)
 
-**Order:** Gruiformes
+**Family:** [Gruidae (Cranes)](/tags/gruidae-cranes)
 
-**Family:** Gruidae (Cranes)
-
-**Species Group:** Cranes
-
-**Species Code:** sancra
+**Species Group:** [Cranes](/tags/cranes)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sancra)
 
-## Links
-* [eBird](https://ebird.org/species/sancra) 
-* [All About Birds](https://www.allaboutbirds.org/guide/sancra) 
-* [Xeno-canto](https://www.xeno-canto.org/species/antigone-canadensis) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=sancra&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/sancra)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/sancra) 
+* [All About Birds](https://www.allaboutbirds.org/guide/sancra) 
+* [Xeno-canto](https://www.xeno-canto.org/species/antigone-canadensis) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=sancra&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/sancra)

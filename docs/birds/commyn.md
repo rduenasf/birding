@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Sturnidae (Starlings)"
 species_group: "Starlings and Mynas"
 species_code: "commyn"
+tags: 
+  - Passeriformes
+  - Sturnidae (Starlings)
+  - Starlings and Mynas
+  
+  
 ---
 
-# Common Myna
+# Common Myna (Acridotheres tristis)
 
-**Scientific Name:** Acridotheres tristis
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Sturnidae (Starlings)](/tags/sturnidae-starlings)
 
-**Family:** Sturnidae (Starlings)
-
-**Species Group:** Starlings and Mynas
-
-**Species Code:** commyn
+**Species Group:** [Starlings and Mynas](/tags/starlings-and-mynas)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=commyn)
 
-## Links
-* [eBird](https://ebird.org/species/commyn) 
-* [All About Birds](https://www.allaboutbirds.org/guide/commyn) 
-* [Xeno-canto](https://www.xeno-canto.org/species/acridotheres-tristis) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=commyn&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/commyn)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/commyn) 
+* [All About Birds](https://www.allaboutbirds.org/guide/commyn) 
+* [Xeno-canto](https://www.xeno-canto.org/species/acridotheres-tristis) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=commyn&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/commyn)

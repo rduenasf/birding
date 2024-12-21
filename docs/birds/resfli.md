@@ -5,28 +5,27 @@ order: "Piciformes"
 family: "Picidae (Woodpeckers)"
 species_group: "Woodpeckers"
 species_code: "resfli"
+tags: 
+  - Piciformes
+  - Picidae (Woodpeckers)
+  - Woodpeckers
+  
+  
 ---
 
-# Northern Flicker (Red-shafted)
+# Northern Flicker (Red-shafted) (Colaptes auratus [cafer Group])
 
-**Scientific Name:** Colaptes auratus [cafer Group]
+**Order:** [Piciformes](/tags/piciformes)
 
-**Order:** Piciformes
+**Family:** [Picidae (Woodpeckers)](/tags/picidae-woodpeckers)
 
-**Family:** Picidae (Woodpeckers)
-
-**Species Group:** Woodpeckers
-
-**Species Code:** resfli
+**Species Group:** [Woodpeckers](/tags/woodpeckers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=resfli)
 
-## Links
-* [eBird](https://ebird.org/species/resfli) 
-* [All About Birds](https://www.allaboutbirds.org/guide/resfli) 
-* [Xeno-canto](https://www.xeno-canto.org/species/colaptes-auratus-[cafer-group]) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=resfli&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/resfli)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/resfli) 
+* [All About Birds](https://www.allaboutbirds.org/guide/resfli) 
+* [Xeno-canto](https://www.xeno-canto.org/species/colaptes-auratus-[cafer-group]) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=resfli&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/resfli)

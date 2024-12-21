@@ -5,21 +5,36 @@ order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
 species_group: "Shorebirds"
 species_code: "leasan"
+tags: 
+  - Charadriiformes
+  - Scolopacidae (Sandpipers and Allies)
+  - Shorebirds
+  
+  - Audio
 ---
 
-# Least Sandpiper
+# Least Sandpiper (Calidris minutilla)
 
-**Scientific Name:** Calidris minutilla
+**Order:** [Charadriiformes](/tags/charadriiformes)
 
-**Order:** Charadriiformes
+**Family:** [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies)
 
-**Family:** Scolopacidae (Sandpipers and Allies)
-
-**Species Group:** Shorebirds
-
-**Species Code:** leasan
+**Species Group:** [Shorebirds](/tags/shorebirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=leasan)
+
+**Photo**: No 
+
+**Audio**: Yes
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+<iframe src="https://macaulaylibrary.org/asset/626447443/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626618108/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626617947/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/leasan) 
@@ -27,12 +42,3 @@ species_code: "leasan"
 * [Xeno-canto](https://www.xeno-canto.org/species/calidris-minutilla) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=leasan&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/leasan)
-
-## Media
-### Photographs
-No photographs available.
-
-### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626447443/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626618108/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626617947/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>

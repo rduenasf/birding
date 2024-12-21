@@ -5,28 +5,27 @@ order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "yebpin3"
+tags: 
+  - Anseriformes
+  - Anatidae (Ducks, Geese, and Waterfowl)
+  - Waterfowl
+  
+  
 ---
 
-# Yellow-billed Pintail (South American)
+# Yellow-billed Pintail (South American) (Anas georgica spinicauda/niceforoi)
 
-**Scientific Name:** Anas georgica spinicauda/niceforoi
+**Order:** [Anseriformes](/tags/anseriformes)
 
-**Order:** Anseriformes
+**Family:** [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl)
 
-**Family:** Anatidae (Ducks, Geese, and Waterfowl)
-
-**Species Group:** Waterfowl
-
-**Species Code:** yebpin3
+**Species Group:** [Waterfowl](/tags/waterfowl)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=yebpin3)
 
-## Links
-* [eBird](https://ebird.org/species/yebpin3) 
-* [All About Birds](https://www.allaboutbirds.org/guide/yebpin3) 
-* [Xeno-canto](https://www.xeno-canto.org/species/anas-georgica-spinicauda/niceforoi) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=yebpin3&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/yebpin3)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/yebpin3) 
+* [All About Birds](https://www.allaboutbirds.org/guide/yebpin3) 
+* [Xeno-canto](https://www.xeno-canto.org/species/anas-georgica-spinicauda/niceforoi) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=yebpin3&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/yebpin3)

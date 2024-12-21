@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Furnariidae (Ovenbirds and Woodcreepers)"
 species_group: "Ovenbirds"
 species_code: "wrlrus1"
+tags: 
+  - Passeriformes
+  - Furnariidae (Ovenbirds and Woodcreepers)
+  - Ovenbirds
+  - Photo
+  
 ---
 
-# Wren-like Rushbird
+# Wren-like Rushbird (Phleocryptes melanops)
 
-**Scientific Name:** Phleocryptes melanops
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers)
 
-**Family:** Furnariidae (Ovenbirds and Woodcreepers)
-
-**Species Group:** Ovenbirds
-
-**Species Code:** wrlrus1
+**Species Group:** [Ovenbirds](/tags/ovenbirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wrlrus1)
 
-## Links
-* [eBird](https://ebird.org/species/wrlrus1) 
-* [All About Birds](https://www.allaboutbirds.org/guide/wrlrus1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/phleocryptes-melanops) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=wrlrus1&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/wrlrus1)
+**Photo**: Yes 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ species_code: "wrlrus1"
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/wrlrus1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/wrlrus1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/phleocryptes-melanops) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=wrlrus1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/wrlrus1)

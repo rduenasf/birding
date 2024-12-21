@@ -5,28 +5,27 @@ order: "Pelecaniformes"
 family: "Threskiornithidae (Ibises and Spoonbills)"
 species_group: "Herons, Ibis, and Allies"
 species_code: "whiibi"
+tags: 
+  - Pelecaniformes
+  - Threskiornithidae (Ibises and Spoonbills)
+  - Herons, Ibis, and Allies
+  
+  
 ---
 
-# White Ibis
+# White Ibis (Eudocimus albus)
 
-**Scientific Name:** Eudocimus albus
+**Order:** [Pelecaniformes](/tags/pelecaniformes)
 
-**Order:** Pelecaniformes
+**Family:** [Threskiornithidae (Ibises and Spoonbills)](/tags/threskiornithidae-ibises-and-spoonbills)
 
-**Family:** Threskiornithidae (Ibises and Spoonbills)
-
-**Species Group:** Herons, Ibis, and Allies
-
-**Species Code:** whiibi
+**Species Group:** [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whiibi)
 
-## Links
-* [eBird](https://ebird.org/species/whiibi) 
-* [All About Birds](https://www.allaboutbirds.org/guide/whiibi) 
-* [Xeno-canto](https://www.xeno-canto.org/species/eudocimus-albus) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=whiibi&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/whiibi)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/whiibi) 
+* [All About Birds](https://www.allaboutbirds.org/guide/whiibi) 
+* [Xeno-canto](https://www.xeno-canto.org/species/eudocimus-albus) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=whiibi&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/whiibi)

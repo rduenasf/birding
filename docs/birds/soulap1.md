@@ -5,28 +5,27 @@ order: "Charadriiformes"
 family: "Charadriidae (Plovers and Lapwings)"
 species_group: "Shorebirds"
 species_code: "soulap1"
+tags: 
+  - Charadriiformes
+  - Charadriidae (Plovers and Lapwings)
+  - Shorebirds
+  - Photo
+  
 ---
 
-# Southern Lapwing
+# Southern Lapwing (Vanellus chilensis)
 
-**Scientific Name:** Vanellus chilensis
+**Order:** [Charadriiformes](/tags/charadriiformes)
 
-**Order:** Charadriiformes
+**Family:** [Charadriidae (Plovers and Lapwings)](/tags/charadriidae-plovers-and-lapwings)
 
-**Family:** Charadriidae (Plovers and Lapwings)
-
-**Species Group:** Shorebirds
-
-**Species Code:** soulap1
+**Species Group:** [Shorebirds](/tags/shorebirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=soulap1)
 
-## Links
-* [eBird](https://ebird.org/species/soulap1) 
-* [All About Birds](https://www.allaboutbirds.org/guide/soulap1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/vanellus-chilensis) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=soulap1&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/soulap1)
+**Photo**: Yes 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ species_code: "soulap1"
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/soulap1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/soulap1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/vanellus-chilensis) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=soulap1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/soulap1)

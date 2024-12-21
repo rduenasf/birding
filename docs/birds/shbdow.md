@@ -5,28 +5,27 @@ order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
 species_group: "Shorebirds"
 species_code: "shbdow"
+tags: 
+  - Charadriiformes
+  - Scolopacidae (Sandpipers and Allies)
+  - Shorebirds
+  
+  
 ---
 
-# Short-billed Dowitcher
+# Short-billed Dowitcher (Limnodromus griseus)
 
-**Scientific Name:** Limnodromus griseus
+**Order:** [Charadriiformes](/tags/charadriiformes)
 
-**Order:** Charadriiformes
+**Family:** [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies)
 
-**Family:** Scolopacidae (Sandpipers and Allies)
-
-**Species Group:** Shorebirds
-
-**Species Code:** shbdow
+**Species Group:** [Shorebirds](/tags/shorebirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=shbdow)
 
-## Links
-* [eBird](https://ebird.org/species/shbdow) 
-* [All About Birds](https://www.allaboutbirds.org/guide/shbdow) 
-* [Xeno-canto](https://www.xeno-canto.org/species/limnodromus-griseus) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=shbdow&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/shbdow)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/shbdow) 
+* [All About Birds](https://www.allaboutbirds.org/guide/shbdow) 
+* [Xeno-canto](https://www.xeno-canto.org/species/limnodromus-griseus) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=shbdow&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/shbdow)

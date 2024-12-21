@@ -5,28 +5,27 @@ order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "buffle"
+tags: 
+  - Anseriformes
+  - Anatidae (Ducks, Geese, and Waterfowl)
+  - Waterfowl
+  
+  
 ---
 
-# Bufflehead
+# Bufflehead (Bucephala albeola)
 
-**Scientific Name:** Bucephala albeola
+**Order:** [Anseriformes](/tags/anseriformes)
 
-**Order:** Anseriformes
+**Family:** [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl)
 
-**Family:** Anatidae (Ducks, Geese, and Waterfowl)
-
-**Species Group:** Waterfowl
-
-**Species Code:** buffle
+**Species Group:** [Waterfowl](/tags/waterfowl)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=buffle)
 
-## Links
-* [eBird](https://ebird.org/species/buffle) 
-* [All About Birds](https://www.allaboutbirds.org/guide/buffle) 
-* [Xeno-canto](https://www.xeno-canto.org/species/bucephala-albeola) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=buffle&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/buffle)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/buffle) 
+* [All About Birds](https://www.allaboutbirds.org/guide/buffle) 
+* [Xeno-canto](https://www.xeno-canto.org/species/bucephala-albeola) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=buffle&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/buffle)

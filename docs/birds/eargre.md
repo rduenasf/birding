@@ -5,28 +5,27 @@ order: "Podicipediformes"
 family: "Podicipedidae (Grebes)"
 species_group: "Grebes"
 species_code: "eargre"
+tags: 
+  - Podicipediformes
+  - Podicipedidae (Grebes)
+  - Grebes
+  
+  
 ---
 
-# Eared Grebe
+# Eared Grebe (Podiceps nigricollis)
 
-**Scientific Name:** Podiceps nigricollis
+**Order:** [Podicipediformes](/tags/podicipediformes)
 
-**Order:** Podicipediformes
+**Family:** [Podicipedidae (Grebes)](/tags/podicipedidae-grebes)
 
-**Family:** Podicipedidae (Grebes)
-
-**Species Group:** Grebes
-
-**Species Code:** eargre
+**Species Group:** [Grebes](/tags/grebes)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=eargre)
 
-## Links
-* [eBird](https://ebird.org/species/eargre) 
-* [All About Birds](https://www.allaboutbirds.org/guide/eargre) 
-* [Xeno-canto](https://www.xeno-canto.org/species/podiceps-nigricollis) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=eargre&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/eargre)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/eargre) 
+* [All About Birds](https://www.allaboutbirds.org/guide/eargre) 
+* [Xeno-canto](https://www.xeno-canto.org/species/podiceps-nigricollis) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=eargre&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/eargre)

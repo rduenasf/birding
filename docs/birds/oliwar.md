@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Peucedramidae (Olive Warbler)"
 species_group: "Olive Warbler"
 species_code: "oliwar"
+tags: 
+  - Passeriformes
+  - Peucedramidae (Olive Warbler)
+  - Olive Warbler
+  
+  
 ---
 
-# Olive Warbler
+# Olive Warbler (Peucedramus taeniatus)
 
-**Scientific Name:** Peucedramus taeniatus
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Peucedramidae (Olive Warbler)](/tags/peucedramidae-olive-warbler)
 
-**Family:** Peucedramidae (Olive Warbler)
-
-**Species Group:** Olive Warbler
-
-**Species Code:** oliwar
+**Species Group:** [Olive Warbler](/tags/olive-warbler)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=oliwar)
 
-## Links
-* [eBird](https://ebird.org/species/oliwar) 
-* [All About Birds](https://www.allaboutbirds.org/guide/oliwar) 
-* [Xeno-canto](https://www.xeno-canto.org/species/peucedramus-taeniatus) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=oliwar&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/oliwar)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/oliwar) 
+* [All About Birds](https://www.allaboutbirds.org/guide/oliwar) 
+* [Xeno-canto](https://www.xeno-canto.org/species/peucedramus-taeniatus) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=oliwar&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/oliwar)

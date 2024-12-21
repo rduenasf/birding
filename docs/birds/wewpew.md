@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "wewpew"
+tags: 
+  - Passeriformes
+  - Tyrannidae (Tyrant Flycatchers)
+  - Tyrant Flycatchers - Pewees, Kingbirds, and Allies
+  - Photo
+  
 ---
 
-# Western Wood-Pewee
+# Western Wood-Pewee (Contopus sordidulus)
 
-**Scientific Name:** Contopus sordidulus
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers)
 
-**Family:** Tyrannidae (Tyrant Flycatchers)
-
-**Species Group:** Tyrant Flycatchers: Pewees, Kingbirds, and Allies
-
-**Species Code:** wewpew
+**Species Group:** [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wewpew)
 
-## Links
-* [eBird](https://ebird.org/species/wewpew) 
-* [All About Birds](https://www.allaboutbirds.org/guide/wewpew) 
-* [Xeno-canto](https://www.xeno-canto.org/species/contopus-sordidulus) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=wewpew&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/wewpew)
+**Photo**: Yes 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ species_code: "wewpew"
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/wewpew) 
+* [All About Birds](https://www.allaboutbirds.org/guide/wewpew) 
+* [Xeno-canto](https://www.xeno-canto.org/species/contopus-sordidulus) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=wewpew&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/wewpew)

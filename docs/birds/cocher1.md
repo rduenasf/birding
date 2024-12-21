@@ -5,28 +5,27 @@ order: "Pelecaniformes"
 family: "Ardeidae (Herons, Egrets, and Bitterns)"
 species_group: "Herons, Ibis, and Allies"
 species_code: "cocher1"
+tags: 
+  - Pelecaniformes
+  - Ardeidae (Herons, Egrets, and Bitterns)
+  - Herons, Ibis, and Allies
+  
+  
 ---
 
-# Cocoi Heron
+# Cocoi Heron (Ardea cocoi)
 
-**Scientific Name:** Ardea cocoi
+**Order:** [Pelecaniformes](/tags/pelecaniformes)
 
-**Order:** Pelecaniformes
+**Family:** [Ardeidae (Herons, Egrets, and Bitterns)](/tags/ardeidae-herons-egrets-and-bitterns)
 
-**Family:** Ardeidae (Herons, Egrets, and Bitterns)
-
-**Species Group:** Herons, Ibis, and Allies
-
-**Species Code:** cocher1
+**Species Group:** [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cocher1)
 
-## Links
-* [eBird](https://ebird.org/species/cocher1) 
-* [All About Birds](https://www.allaboutbirds.org/guide/cocher1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/ardea-cocoi) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=cocher1&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/cocher1)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/cocher1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/cocher1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/ardea-cocoi) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=cocher1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/cocher1)

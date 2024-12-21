@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
 species_group: "Blackbirds"
 species_code: "scoori"
+tags: 
+  - Passeriformes
+  - Icteridae (Troupials and Allies)
+  - Blackbirds
+  
+  
 ---
 
-# Scott's Oriole
+# Scott's Oriole (Icterus parisorum)
 
-**Scientific Name:** Icterus parisorum
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies)
 
-**Family:** Icteridae (Troupials and Allies)
-
-**Species Group:** Blackbirds
-
-**Species Code:** scoori
+**Species Group:** [Blackbirds](/tags/blackbirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=scoori)
 
-## Links
-* [eBird](https://ebird.org/species/scoori) 
-* [All About Birds](https://www.allaboutbirds.org/guide/scoori) 
-* [Xeno-canto](https://www.xeno-canto.org/species/icterus-parisorum) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=scoori&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/scoori)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/scoori) 
+* [All About Birds](https://www.allaboutbirds.org/guide/scoori) 
+* [Xeno-canto](https://www.xeno-canto.org/species/icterus-parisorum) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=scoori&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/scoori)

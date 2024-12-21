@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
 species_group: "Wood-Warblers"
 species_code: "rucwar"
+tags: 
+  - Passeriformes
+  - Parulidae (New World Warblers)
+  - Wood-Warblers
+  
+  
 ---
 
-# Rufous-capped Warbler
+# Rufous-capped Warbler (Basileuterus rufifrons)
 
-**Scientific Name:** Basileuterus rufifrons
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers)
 
-**Family:** Parulidae (New World Warblers)
-
-**Species Group:** Wood-Warblers
-
-**Species Code:** rucwar
+**Species Group:** [Wood-Warblers](/tags/wood-warblers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rucwar)
 
-## Links
-* [eBird](https://ebird.org/species/rucwar) 
-* [All About Birds](https://www.allaboutbirds.org/guide/rucwar) 
-* [Xeno-canto](https://www.xeno-canto.org/species/basileuterus-rufifrons) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rucwar&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/rucwar)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/rucwar) 
+* [All About Birds](https://www.allaboutbirds.org/guide/rucwar) 
+* [Xeno-canto](https://www.xeno-canto.org/species/basileuterus-rufifrons) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rucwar&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/rucwar)

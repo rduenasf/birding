@@ -5,21 +5,34 @@ order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "norpin"
+tags: 
+  - Anseriformes
+  - Anatidae (Ducks, Geese, and Waterfowl)
+  - Waterfowl
+  
+  - Audio
 ---
 
-# Northern Pintail
+# Northern Pintail (Anas acuta)
 
-**Scientific Name:** Anas acuta
+**Order:** [Anseriformes](/tags/anseriformes)
 
-**Order:** Anseriformes
+**Family:** [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl)
 
-**Family:** Anatidae (Ducks, Geese, and Waterfowl)
-
-**Species Group:** Waterfowl
-
-**Species Code:** norpin
+**Species Group:** [Waterfowl](/tags/waterfowl)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=norpin)
+
+**Photo**: No 
+
+**Audio**: Yes
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+<iframe src="https://macaulaylibrary.org/asset/626557675/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/norpin) 
@@ -27,10 +40,3 @@ species_code: "norpin"
 * [Xeno-canto](https://www.xeno-canto.org/species/anas-acuta) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=norpin&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/norpin)
-
-## Media
-### Photographs
-No photographs available.
-
-### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626557675/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>

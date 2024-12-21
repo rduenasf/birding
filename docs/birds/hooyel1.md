@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
 species_group: "Wood-Warblers"
 species_code: "hooyel1"
+tags: 
+  - Passeriformes
+  - Parulidae (New World Warblers)
+  - Wood-Warblers
+  
+  
 ---
 
-# Hooded Yellowthroat
+# Hooded Yellowthroat (Geothlypis nelsoni)
 
-**Scientific Name:** Geothlypis nelsoni
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers)
 
-**Family:** Parulidae (New World Warblers)
-
-**Species Group:** Wood-Warblers
-
-**Species Code:** hooyel1
+**Species Group:** [Wood-Warblers](/tags/wood-warblers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=hooyel1)
 
-## Links
-* [eBird](https://ebird.org/species/hooyel1) 
-* [All About Birds](https://www.allaboutbirds.org/guide/hooyel1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/geothlypis-nelsoni) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=hooyel1&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/hooyel1)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/hooyel1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/hooyel1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/geothlypis-nelsoni) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=hooyel1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/hooyel1)

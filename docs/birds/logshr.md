@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Laniidae (Shrikes)"
 species_group: "Shrikes"
 species_code: "logshr"
+tags: 
+  - Passeriformes
+  - Laniidae (Shrikes)
+  - Shrikes
+  
+  
 ---
 
-# Loggerhead Shrike
+# Loggerhead Shrike (Lanius ludovicianus)
 
-**Scientific Name:** Lanius ludovicianus
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Laniidae (Shrikes)](/tags/laniidae-shrikes)
 
-**Family:** Laniidae (Shrikes)
-
-**Species Group:** Shrikes
-
-**Species Code:** logshr
+**Species Group:** [Shrikes](/tags/shrikes)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=logshr)
 
-## Links
-* [eBird](https://ebird.org/species/logshr) 
-* [All About Birds](https://www.allaboutbirds.org/guide/logshr) 
-* [Xeno-canto](https://www.xeno-canto.org/species/lanius-ludovicianus) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=logshr&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/logshr)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/logshr) 
+* [All About Birds](https://www.allaboutbirds.org/guide/logshr) 
+* [Xeno-canto](https://www.xeno-canto.org/species/lanius-ludovicianus) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=logshr&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/logshr)

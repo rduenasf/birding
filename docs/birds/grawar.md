@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
 species_group: "Wood-Warblers"
 species_code: "grawar"
+tags: 
+  - Passeriformes
+  - Parulidae (New World Warblers)
+  - Wood-Warblers
+  
+  
 ---
 
-# Grace's Warbler
+# Grace's Warbler (Setophaga graciae)
 
-**Scientific Name:** Setophaga graciae
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers)
 
-**Family:** Parulidae (New World Warblers)
-
-**Species Group:** Wood-Warblers
-
-**Species Code:** grawar
+**Species Group:** [Wood-Warblers](/tags/wood-warblers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grawar)
 
-## Links
-* [eBird](https://ebird.org/species/grawar) 
-* [All About Birds](https://www.allaboutbirds.org/guide/grawar) 
-* [Xeno-canto](https://www.xeno-canto.org/species/setophaga-graciae) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=grawar&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/grawar)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/grawar) 
+* [All About Birds](https://www.allaboutbirds.org/guide/grawar) 
+* [Xeno-canto](https://www.xeno-canto.org/species/setophaga-graciae) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=grawar&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/grawar)

@@ -5,28 +5,27 @@ order: "Accipitriformes"
 family: "Pandionidae (Osprey)"
 species_group: "Vultures, Hawks, and Allies"
 species_code: "osprey1"
+tags: 
+  - Accipitriformes
+  - Pandionidae (Osprey)
+  - Vultures, Hawks, and Allies
+  - Photo
+  
 ---
 
-# Osprey (American)
+# Osprey (American) (Pandion haliaetus carolinensis)
 
-**Scientific Name:** Pandion haliaetus carolinensis
+**Order:** [Accipitriformes](/tags/accipitriformes)
 
-**Order:** Accipitriformes
+**Family:** [Pandionidae (Osprey)](/tags/pandionidae-osprey)
 
-**Family:** Pandionidae (Osprey)
-
-**Species Group:** Vultures, Hawks, and Allies
-
-**Species Code:** osprey1
+**Species Group:** [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=osprey1)
 
-## Links
-* [eBird](https://ebird.org/species/osprey1) 
-* [All About Birds](https://www.allaboutbirds.org/guide/osprey1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/pandion-haliaetus-carolinensis) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=osprey1&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/osprey1)
+**Photo**: Yes 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -35,3 +34,10 @@ species_code: "osprey1"
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/osprey1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/osprey1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/pandion-haliaetus-carolinensis) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=osprey1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/osprey1)

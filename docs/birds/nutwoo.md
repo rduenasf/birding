@@ -5,21 +5,34 @@ order: "Piciformes"
 family: "Picidae (Woodpeckers)"
 species_group: "Woodpeckers"
 species_code: "nutwoo"
+tags: 
+  - Piciformes
+  - Picidae (Woodpeckers)
+  - Woodpeckers
+  
+  - Audio
 ---
 
-# Nuttall's Woodpecker
+# Nuttall's Woodpecker (Dryobates nuttallii)
 
-**Scientific Name:** Dryobates nuttallii
+**Order:** [Piciformes](/tags/piciformes)
 
-**Order:** Piciformes
+**Family:** [Picidae (Woodpeckers)](/tags/picidae-woodpeckers)
 
-**Family:** Picidae (Woodpeckers)
-
-**Species Group:** Woodpeckers
-
-**Species Code:** nutwoo
+**Species Group:** [Woodpeckers](/tags/woodpeckers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=nutwoo)
+
+**Photo**: No 
+
+**Audio**: Yes
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+<iframe src="https://macaulaylibrary.org/asset/626559387/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/nutwoo) 
@@ -27,10 +40,3 @@ species_code: "nutwoo"
 * [Xeno-canto](https://www.xeno-canto.org/species/dryobates-nuttallii) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=nutwoo&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/nutwoo)
-
-## Media
-### Photographs
-No photographs available.
-
-### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626559387/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>

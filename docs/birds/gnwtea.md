@@ -5,28 +5,27 @@ order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "gnwtea"
+tags: 
+  - Anseriformes
+  - Anatidae (Ducks, Geese, and Waterfowl)
+  - Waterfowl
+  
+  
 ---
 
-# Green-winged Teal
+# Green-winged Teal (Anas crecca)
 
-**Scientific Name:** Anas crecca
+**Order:** [Anseriformes](/tags/anseriformes)
 
-**Order:** Anseriformes
+**Family:** [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl)
 
-**Family:** Anatidae (Ducks, Geese, and Waterfowl)
-
-**Species Group:** Waterfowl
-
-**Species Code:** gnwtea
+**Species Group:** [Waterfowl](/tags/waterfowl)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gnwtea)
 
-## Links
-* [eBird](https://ebird.org/species/gnwtea) 
-* [All About Birds](https://www.allaboutbirds.org/guide/gnwtea) 
-* [Xeno-canto](https://www.xeno-canto.org/species/anas-crecca) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=gnwtea&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/gnwtea)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/gnwtea) 
+* [All About Birds](https://www.allaboutbirds.org/guide/gnwtea) 
+* [Xeno-canto](https://www.xeno-canto.org/species/anas-crecca) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=gnwtea&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/gnwtea)

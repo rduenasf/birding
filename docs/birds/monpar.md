@@ -5,28 +5,27 @@ order: "Psittaciformes"
 family: "Psittacidae (New World and African Parrots)"
 species_group: "Parrots, Parakeets, and Allies"
 species_code: "monpar"
+tags: 
+  - Psittaciformes
+  - Psittacidae (New World and African Parrots)
+  - Parrots, Parakeets, and Allies
+  
+  
 ---
 
-# Monk Parakeet
+# Monk Parakeet (Myiopsitta monachus)
 
-**Scientific Name:** Myiopsitta monachus
+**Order:** [Psittaciformes](/tags/psittaciformes)
 
-**Order:** Psittaciformes
+**Family:** [Psittacidae (New World and African Parrots)](/tags/psittacidae-new-world-and-african-parrots)
 
-**Family:** Psittacidae (New World and African Parrots)
-
-**Species Group:** Parrots, Parakeets, and Allies
-
-**Species Code:** monpar
+**Species Group:** [Parrots, Parakeets, and Allies](/tags/parrots-parakeets-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=monpar)
 
-## Links
-* [eBird](https://ebird.org/species/monpar) 
-* [All About Birds](https://www.allaboutbirds.org/guide/monpar) 
-* [Xeno-canto](https://www.xeno-canto.org/species/myiopsitta-monachus) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=monpar&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/monpar)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/monpar) 
+* [All About Birds](https://www.allaboutbirds.org/guide/monpar) 
+* [Xeno-canto](https://www.xeno-canto.org/species/myiopsitta-monachus) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=monpar&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/monpar)

@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
 species_group: "Blackbirds"
 species_code: "lotmea1"
+tags: 
+  - Passeriformes
+  - Icteridae (Troupials and Allies)
+  - Blackbirds
+  - Photo
+  
 ---
 
-# Long-tailed Meadowlark
+# Long-tailed Meadowlark (Leistes loyca)
 
-**Scientific Name:** Leistes loyca
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies)
 
-**Family:** Icteridae (Troupials and Allies)
-
-**Species Group:** Blackbirds
-
-**Species Code:** lotmea1
+**Species Group:** [Blackbirds](/tags/blackbirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=lotmea1)
 
-## Links
-* [eBird](https://ebird.org/species/lotmea1) 
-* [All About Birds](https://www.allaboutbirds.org/guide/lotmea1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/leistes-loyca) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=lotmea1&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/lotmea1)
+**Photo**: Yes 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ species_code: "lotmea1"
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/lotmea1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/lotmea1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/leistes-loyca) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=lotmea1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/lotmea1)

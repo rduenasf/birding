@@ -5,28 +5,27 @@ order: "Charadriiformes"
 family: "Alcidae (Auks, Murres, and Puffins)"
 species_group: "Alcids"
 species_code: "rhiauk"
+tags: 
+  - Charadriiformes
+  - Alcidae (Auks, Murres, and Puffins)
+  - Alcids
+  
+  
 ---
 
-# Rhinoceros Auklet
+# Rhinoceros Auklet (Cerorhinca monocerata)
 
-**Scientific Name:** Cerorhinca monocerata
+**Order:** [Charadriiformes](/tags/charadriiformes)
 
-**Order:** Charadriiformes
+**Family:** [Alcidae (Auks, Murres, and Puffins)](/tags/alcidae-auks-murres-and-puffins)
 
-**Family:** Alcidae (Auks, Murres, and Puffins)
-
-**Species Group:** Alcids
-
-**Species Code:** rhiauk
+**Species Group:** [Alcids](/tags/alcids)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rhiauk)
 
-## Links
-* [eBird](https://ebird.org/species/rhiauk) 
-* [All About Birds](https://www.allaboutbirds.org/guide/rhiauk) 
-* [Xeno-canto](https://www.xeno-canto.org/species/cerorhinca-monocerata) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rhiauk&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/rhiauk)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/rhiauk) 
+* [All About Birds](https://www.allaboutbirds.org/guide/rhiauk) 
+* [Xeno-canto](https://www.xeno-canto.org/species/cerorhinca-monocerata) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rhiauk&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/rhiauk)

@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
 species_group: "Wrens"
 species_code: "houwre"
+tags: 
+  - Passeriformes
+  - Troglodytidae (Wrens)
+  - Wrens
+  
+  
 ---
 
-# Northern House Wren
+# Northern House Wren (Troglodytes aedon)
 
-**Scientific Name:** Troglodytes aedon
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Troglodytidae (Wrens)](/tags/troglodytidae-wrens)
 
-**Family:** Troglodytidae (Wrens)
-
-**Species Group:** Wrens
-
-**Species Code:** houwre
+**Species Group:** [Wrens](/tags/wrens)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=houwre)
 
-## Links
-* [eBird](https://ebird.org/species/houwre) 
-* [All About Birds](https://www.allaboutbirds.org/guide/houwre) 
-* [Xeno-canto](https://www.xeno-canto.org/species/troglodytes-aedon) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=houwre&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/houwre)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/houwre) 
+* [All About Birds](https://www.allaboutbirds.org/guide/houwre) 
+* [Xeno-canto](https://www.xeno-canto.org/species/troglodytes-aedon) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=houwre&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/houwre)

@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Thraupidae (Tanagers and Allies)"
 species_group: "Tanagers and Allies"
 species_code: "gyhsif1"
+tags: 
+  - Passeriformes
+  - Thraupidae (Tanagers and Allies)
+  - Tanagers and Allies
+  - Photo
+  
 ---
 
-# Gray-hooded Sierra Finch
+# Gray-hooded Sierra Finch (Phrygilus gayi)
 
-**Scientific Name:** Phrygilus gayi
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Thraupidae (Tanagers and Allies)](/tags/thraupidae-tanagers-and-allies)
 
-**Family:** Thraupidae (Tanagers and Allies)
-
-**Species Group:** Tanagers and Allies
-
-**Species Code:** gyhsif1
+**Species Group:** [Tanagers and Allies](/tags/tanagers-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gyhsif1)
 
-## Links
-* [eBird](https://ebird.org/species/gyhsif1) 
-* [All About Birds](https://www.allaboutbirds.org/guide/gyhsif1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/phrygilus-gayi) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=gyhsif1&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/gyhsif1)
+**Photo**: Yes 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ species_code: "gyhsif1"
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/gyhsif1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/gyhsif1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/phrygilus-gayi) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=gyhsif1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/gyhsif1)

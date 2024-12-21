@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Mimidae (Mockingbirds and Thrashers)"
 species_group: "Catbirds, Mockingbirds, and Thrashers"
 species_code: "chimoc1"
+tags: 
+  - Passeriformes
+  - Mimidae (Mockingbirds and Thrashers)
+  - Catbirds, Mockingbirds, and Thrashers
+  - Photo
+  
 ---
 
-# Chilean Mockingbird
+# Chilean Mockingbird (Mimus thenca)
 
-**Scientific Name:** Mimus thenca
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Mimidae (Mockingbirds and Thrashers)](/tags/mimidae-mockingbirds-and-thrashers)
 
-**Family:** Mimidae (Mockingbirds and Thrashers)
-
-**Species Group:** Catbirds, Mockingbirds, and Thrashers
-
-**Species Code:** chimoc1
+**Species Group:** [Catbirds, Mockingbirds, and Thrashers](/tags/catbirds-mockingbirds-and-thrashers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chimoc1)
 
-## Links
-* [eBird](https://ebird.org/species/chimoc1) 
-* [All About Birds](https://www.allaboutbirds.org/guide/chimoc1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/mimus-thenca) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=chimoc1&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/chimoc1)
+**Photo**: Yes 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -35,3 +34,10 @@ species_code: "chimoc1"
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/chimoc1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/chimoc1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/mimus-thenca) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=chimoc1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/chimoc1)

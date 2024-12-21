@@ -5,21 +5,34 @@ order: "Passeriformes"
 family: "Aegithalidae (Long-tailed Tits)"
 species_group: "Long-tailed Tits and Bushtit"
 species_code: "bushti"
+tags: 
+  - Passeriformes
+  - Aegithalidae (Long-tailed Tits)
+  - Long-tailed Tits and Bushtit
+  
+  - Audio
 ---
 
-# Bushtit
+# Bushtit (Psaltriparus minimus)
 
-**Scientific Name:** Psaltriparus minimus
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Aegithalidae (Long-tailed Tits)](/tags/aegithalidae-long-tailed-tits)
 
-**Family:** Aegithalidae (Long-tailed Tits)
-
-**Species Group:** Long-tailed Tits and Bushtit
-
-**Species Code:** bushti
+**Species Group:** [Long-tailed Tits and Bushtit](/tags/long-tailed-tits-and-bushtit)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bushti)
+
+**Photo**: No 
+
+**Audio**: Yes
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+<iframe src="https://macaulaylibrary.org/asset/626557575/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/bushti) 
@@ -27,10 +40,3 @@ species_code: "bushti"
 * [Xeno-canto](https://www.xeno-canto.org/species/psaltriparus-minimus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bushti&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/bushti)
-
-## Media
-### Photographs
-No photographs available.
-
-### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626557575/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>

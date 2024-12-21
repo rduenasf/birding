@@ -5,28 +5,27 @@ order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
 species_group: "Shorebirds"
 species_code: "dunlin"
+tags: 
+  - Charadriiformes
+  - Scolopacidae (Sandpipers and Allies)
+  - Shorebirds
+  
+  
 ---
 
-# Dunlin
+# Dunlin (Calidris alpina)
 
-**Scientific Name:** Calidris alpina
+**Order:** [Charadriiformes](/tags/charadriiformes)
 
-**Order:** Charadriiformes
+**Family:** [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies)
 
-**Family:** Scolopacidae (Sandpipers and Allies)
-
-**Species Group:** Shorebirds
-
-**Species Code:** dunlin
+**Species Group:** [Shorebirds](/tags/shorebirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=dunlin)
 
-## Links
-* [eBird](https://ebird.org/species/dunlin) 
-* [All About Birds](https://www.allaboutbirds.org/guide/dunlin) 
-* [Xeno-canto](https://www.xeno-canto.org/species/calidris-alpina) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=dunlin&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/dunlin)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/dunlin) 
+* [All About Birds](https://www.allaboutbirds.org/guide/dunlin) 
+* [Xeno-canto](https://www.xeno-canto.org/species/calidris-alpina) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=dunlin&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/dunlin)

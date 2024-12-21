@@ -5,21 +5,35 @@ order: "Piciformes"
 family: "Picidae (Woodpeckers)"
 species_group: "Woodpeckers"
 species_code: "acowoo"
+tags: 
+  - Piciformes
+  - Picidae (Woodpeckers)
+  - Woodpeckers
+  
+  - Audio
 ---
 
-# Acorn Woodpecker
+# Acorn Woodpecker (Melanerpes formicivorus)
 
-**Scientific Name:** Melanerpes formicivorus
+**Order:** [Piciformes](/tags/piciformes)
 
-**Order:** Piciformes
+**Family:** [Picidae (Woodpeckers)](/tags/picidae-woodpeckers)
 
-**Family:** Picidae (Woodpeckers)
-
-**Species Group:** Woodpeckers
-
-**Species Code:** acowoo
+**Species Group:** [Woodpeckers](/tags/woodpeckers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=acowoo)
+
+**Photo**: No 
+
+**Audio**: Yes
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+<iframe src="https://macaulaylibrary.org/asset/626995429/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626995430/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/acowoo) 
@@ -27,11 +41,3 @@ species_code: "acowoo"
 * [Xeno-canto](https://www.xeno-canto.org/species/melanerpes-formicivorus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=acowoo&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/acowoo)
-
-## Media
-### Photographs
-No photographs available.
-
-### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626995429/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626995430/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>

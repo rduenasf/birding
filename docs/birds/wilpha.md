@@ -5,28 +5,27 @@ order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
 species_group: "Shorebirds"
 species_code: "wilpha"
+tags: 
+  - Charadriiformes
+  - Scolopacidae (Sandpipers and Allies)
+  - Shorebirds
+  
+  
 ---
 
-# Wilson's Phalarope
+# Wilson's Phalarope (Phalaropus tricolor)
 
-**Scientific Name:** Phalaropus tricolor
+**Order:** [Charadriiformes](/tags/charadriiformes)
 
-**Order:** Charadriiformes
+**Family:** [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies)
 
-**Family:** Scolopacidae (Sandpipers and Allies)
-
-**Species Group:** Shorebirds
-
-**Species Code:** wilpha
+**Species Group:** [Shorebirds](/tags/shorebirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wilpha)
 
-## Links
-* [eBird](https://ebird.org/species/wilpha) 
-* [All About Birds](https://www.allaboutbirds.org/guide/wilpha) 
-* [Xeno-canto](https://www.xeno-canto.org/species/phalaropus-tricolor) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=wilpha&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/wilpha)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/wilpha) 
+* [All About Birds](https://www.allaboutbirds.org/guide/wilpha) 
+* [Xeno-canto](https://www.xeno-canto.org/species/phalaropus-tricolor) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=wilpha&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/wilpha)

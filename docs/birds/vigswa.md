@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Hirundinidae (Swallows)"
 species_group: "Martins and Swallows"
 species_code: "vigswa"
+tags: 
+  - Passeriformes
+  - Hirundinidae (Swallows)
+  - Martins and Swallows
+  
+  
 ---
 
-# Violet-green Swallow
+# Violet-green Swallow (Tachycineta thalassina)
 
-**Scientific Name:** Tachycineta thalassina
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Hirundinidae (Swallows)](/tags/hirundinidae-swallows)
 
-**Family:** Hirundinidae (Swallows)
-
-**Species Group:** Martins and Swallows
-
-**Species Code:** vigswa
+**Species Group:** [Martins and Swallows](/tags/martins-and-swallows)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=vigswa)
 
-## Links
-* [eBird](https://ebird.org/species/vigswa) 
-* [All About Birds](https://www.allaboutbirds.org/guide/vigswa) 
-* [Xeno-canto](https://www.xeno-canto.org/species/tachycineta-thalassina) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=vigswa&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/vigswa)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/vigswa) 
+* [All About Birds](https://www.allaboutbirds.org/guide/vigswa) 
+* [Xeno-canto](https://www.xeno-canto.org/species/tachycineta-thalassina) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=vigswa&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/vigswa)

@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
 species_group: "Wrens"
 species_code: "rocwre"
+tags: 
+  - Passeriformes
+  - Troglodytidae (Wrens)
+  - Wrens
+  - Photo
+  
 ---
 
-# Rock Wren
+# Rock Wren (Salpinctes obsoletus)
 
-**Scientific Name:** Salpinctes obsoletus
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Troglodytidae (Wrens)](/tags/troglodytidae-wrens)
 
-**Family:** Troglodytidae (Wrens)
-
-**Species Group:** Wrens
-
-**Species Code:** rocwre
+**Species Group:** [Wrens](/tags/wrens)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rocwre)
 
-## Links
-* [eBird](https://ebird.org/species/rocwre) 
-* [All About Birds](https://www.allaboutbirds.org/guide/rocwre) 
-* [Xeno-canto](https://www.xeno-canto.org/species/salpinctes-obsoletus) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rocwre&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/rocwre)
+**Photo**: Yes 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -35,3 +34,10 @@ species_code: "rocwre"
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/rocwre) 
+* [All About Birds](https://www.allaboutbirds.org/guide/rocwre) 
+* [Xeno-canto](https://www.xeno-canto.org/species/salpinctes-obsoletus) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rocwre&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/rocwre)

@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
 species_group: "New World Sparrows"
 species_code: "nwcspa"
+tags: 
+  - Passeriformes
+  - Passerellidae (New World Sparrows)
+  - New World Sparrows
+  
+  
 ---
 
-# White-crowned Sparrow (nuttalli)
+# White-crowned Sparrow (nuttalli) (Zonotrichia leucophrys nuttalli)
 
-**Scientific Name:** Zonotrichia leucophrys nuttalli
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows)
 
-**Family:** Passerellidae (New World Sparrows)
-
-**Species Group:** New World Sparrows
-
-**Species Code:** nwcspa
+**Species Group:** [New World Sparrows](/tags/new-world-sparrows)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=nwcspa)
 
-## Links
-* [eBird](https://ebird.org/species/nwcspa) 
-* [All About Birds](https://www.allaboutbirds.org/guide/nwcspa) 
-* [Xeno-canto](https://www.xeno-canto.org/species/zonotrichia-leucophrys-nuttalli) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=nwcspa&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/nwcspa)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/nwcspa) 
+* [All About Birds](https://www.allaboutbirds.org/guide/nwcspa) 
+* [Xeno-canto](https://www.xeno-canto.org/species/zonotrichia-leucophrys-nuttalli) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=nwcspa&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/nwcspa)

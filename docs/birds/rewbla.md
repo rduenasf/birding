@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
 species_group: "Blackbirds"
 species_code: "rewbla"
+tags: 
+  - Passeriformes
+  - Icteridae (Troupials and Allies)
+  - Blackbirds
+  
+  
 ---
 
-# Red-winged Blackbird
+# Red-winged Blackbird (Agelaius phoeniceus)
 
-**Scientific Name:** Agelaius phoeniceus
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies)
 
-**Family:** Icteridae (Troupials and Allies)
-
-**Species Group:** Blackbirds
-
-**Species Code:** rewbla
+**Species Group:** [Blackbirds](/tags/blackbirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rewbla)
 
-## Links
-* [eBird](https://ebird.org/species/rewbla) 
-* [All About Birds](https://www.allaboutbirds.org/guide/rewbla) 
-* [Xeno-canto](https://www.xeno-canto.org/species/agelaius-phoeniceus) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rewbla&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/rewbla)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/rewbla) 
+* [All About Birds](https://www.allaboutbirds.org/guide/rewbla) 
+* [Xeno-canto](https://www.xeno-canto.org/species/agelaius-phoeniceus) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rewbla&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/rewbla)

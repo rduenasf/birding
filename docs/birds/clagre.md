@@ -5,28 +5,27 @@ order: "Podicipediformes"
 family: "Podicipedidae (Grebes)"
 species_group: "Grebes"
 species_code: "clagre"
+tags: 
+  - Podicipediformes
+  - Podicipedidae (Grebes)
+  - Grebes
+  
+  
 ---
 
-# Clark's Grebe
+# Clark's Grebe (Aechmophorus clarkii)
 
-**Scientific Name:** Aechmophorus clarkii
+**Order:** [Podicipediformes](/tags/podicipediformes)
 
-**Order:** Podicipediformes
+**Family:** [Podicipedidae (Grebes)](/tags/podicipedidae-grebes)
 
-**Family:** Podicipedidae (Grebes)
-
-**Species Group:** Grebes
-
-**Species Code:** clagre
+**Species Group:** [Grebes](/tags/grebes)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=clagre)
 
-## Links
-* [eBird](https://ebird.org/species/clagre) 
-* [All About Birds](https://www.allaboutbirds.org/guide/clagre) 
-* [Xeno-canto](https://www.xeno-canto.org/species/aechmophorus-clarkii) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=clagre&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/clagre)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/clagre) 
+* [All About Birds](https://www.allaboutbirds.org/guide/clagre) 
+* [Xeno-canto](https://www.xeno-canto.org/species/aechmophorus-clarkii) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=clagre&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/clagre)

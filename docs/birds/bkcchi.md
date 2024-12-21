@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Paridae (Tits, Chickadees, and Titmice)"
 species_group: "Tits, Chickadees, and Titmice"
 species_code: "bkcchi"
+tags: 
+  - Passeriformes
+  - Paridae (Tits, Chickadees, and Titmice)
+  - Tits, Chickadees, and Titmice
+  
+  
 ---
 
-# Black-capped Chickadee
+# Black-capped Chickadee (Poecile atricapillus)
 
-**Scientific Name:** Poecile atricapillus
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Paridae (Tits, Chickadees, and Titmice)](/tags/paridae-tits-chickadees-and-titmice)
 
-**Family:** Paridae (Tits, Chickadees, and Titmice)
-
-**Species Group:** Tits, Chickadees, and Titmice
-
-**Species Code:** bkcchi
+**Species Group:** [Tits, Chickadees, and Titmice](/tags/tits-chickadees-and-titmice)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkcchi)
 
-## Links
-* [eBird](https://ebird.org/species/bkcchi) 
-* [All About Birds](https://www.allaboutbirds.org/guide/bkcchi) 
-* [Xeno-canto](https://www.xeno-canto.org/species/poecile-atricapillus) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bkcchi&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/bkcchi)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/bkcchi) 
+* [All About Birds](https://www.allaboutbirds.org/guide/bkcchi) 
+* [Xeno-canto](https://www.xeno-canto.org/species/poecile-atricapillus) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bkcchi&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/bkcchi)

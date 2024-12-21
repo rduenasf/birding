@@ -5,21 +5,37 @@ order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
 species_group: "Wrens"
 species_code: "bewwre"
+tags: 
+  - Passeriformes
+  - Troglodytidae (Wrens)
+  - Wrens
+  
+  - Audio
 ---
 
-# Bewick's Wren
+# Bewick's Wren (Thryomanes bewickii)
 
-**Scientific Name:** Thryomanes bewickii
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Troglodytidae (Wrens)](/tags/troglodytidae-wrens)
 
-**Family:** Troglodytidae (Wrens)
-
-**Species Group:** Wrens
-
-**Species Code:** bewwre
+**Species Group:** [Wrens](/tags/wrens)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bewwre)
+
+**Photo**: No 
+
+**Audio**: Yes
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+<iframe src="https://macaulaylibrary.org/asset/626557613/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626843422/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626559384/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626584496/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/bewwre) 
@@ -27,13 +43,3 @@ species_code: "bewwre"
 * [Xeno-canto](https://www.xeno-canto.org/species/thryomanes-bewickii) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bewwre&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/bewwre)
-
-## Media
-### Photographs
-No photographs available.
-
-### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626557613/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626843422/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626559384/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626584496/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>

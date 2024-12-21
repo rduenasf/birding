@@ -5,28 +5,27 @@ order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "sursco"
+tags: 
+  - Anseriformes
+  - Anatidae (Ducks, Geese, and Waterfowl)
+  - Waterfowl
+  
+  
 ---
 
-# Surf Scoter
+# Surf Scoter (Melanitta perspicillata)
 
-**Scientific Name:** Melanitta perspicillata
+**Order:** [Anseriformes](/tags/anseriformes)
 
-**Order:** Anseriformes
+**Family:** [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl)
 
-**Family:** Anatidae (Ducks, Geese, and Waterfowl)
-
-**Species Group:** Waterfowl
-
-**Species Code:** sursco
+**Species Group:** [Waterfowl](/tags/waterfowl)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sursco)
 
-## Links
-* [eBird](https://ebird.org/species/sursco) 
-* [All About Birds](https://www.allaboutbirds.org/guide/sursco) 
-* [Xeno-canto](https://www.xeno-canto.org/species/melanitta-perspicillata) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=sursco&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/sursco)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/sursco) 
+* [All About Birds](https://www.allaboutbirds.org/guide/sursco) 
+* [Xeno-canto](https://www.xeno-canto.org/species/melanitta-perspicillata) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=sursco&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/sursco)

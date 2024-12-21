@@ -5,28 +5,27 @@ order: "Podicipediformes"
 family: "Podicipedidae (Grebes)"
 species_group: "Grebes"
 species_code: "whtgre3"
+tags: 
+  - Podicipediformes
+  - Podicipedidae (Grebes)
+  - Grebes
+  
+  
 ---
 
-# White-tufted Grebe
+# White-tufted Grebe (Rollandia rolland)
 
-**Scientific Name:** Rollandia rolland
+**Order:** [Podicipediformes](/tags/podicipediformes)
 
-**Order:** Podicipediformes
+**Family:** [Podicipedidae (Grebes)](/tags/podicipedidae-grebes)
 
-**Family:** Podicipedidae (Grebes)
-
-**Species Group:** Grebes
-
-**Species Code:** whtgre3
+**Species Group:** [Grebes](/tags/grebes)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whtgre3)
 
-## Links
-* [eBird](https://ebird.org/species/whtgre3) 
-* [All About Birds](https://www.allaboutbirds.org/guide/whtgre3) 
-* [Xeno-canto](https://www.xeno-canto.org/species/rollandia-rolland) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=whtgre3&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/whtgre3)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/whtgre3) 
+* [All About Birds](https://www.allaboutbirds.org/guide/whtgre3) 
+* [Xeno-canto](https://www.xeno-canto.org/species/rollandia-rolland) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=whtgre3&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/whtgre3)

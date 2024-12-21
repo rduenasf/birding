@@ -5,28 +5,27 @@ order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "rebmer"
+tags: 
+  - Anseriformes
+  - Anatidae (Ducks, Geese, and Waterfowl)
+  - Waterfowl
+  
+  
 ---
 
-# Red-breasted Merganser
+# Red-breasted Merganser (Mergus serrator)
 
-**Scientific Name:** Mergus serrator
+**Order:** [Anseriformes](/tags/anseriformes)
 
-**Order:** Anseriformes
+**Family:** [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl)
 
-**Family:** Anatidae (Ducks, Geese, and Waterfowl)
-
-**Species Group:** Waterfowl
-
-**Species Code:** rebmer
+**Species Group:** [Waterfowl](/tags/waterfowl)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rebmer)
 
-## Links
-* [eBird](https://ebird.org/species/rebmer) 
-* [All About Birds](https://www.allaboutbirds.org/guide/rebmer) 
-* [Xeno-canto](https://www.xeno-canto.org/species/mergus-serrator) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rebmer&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/rebmer)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/rebmer) 
+* [All About Birds](https://www.allaboutbirds.org/guide/rebmer) 
+* [Xeno-canto](https://www.xeno-canto.org/species/mergus-serrator) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rebmer&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/rebmer)

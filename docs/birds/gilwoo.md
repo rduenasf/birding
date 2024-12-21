@@ -5,28 +5,27 @@ order: "Piciformes"
 family: "Picidae (Woodpeckers)"
 species_group: "Woodpeckers"
 species_code: "gilwoo"
+tags: 
+  - Piciformes
+  - Picidae (Woodpeckers)
+  - Woodpeckers
+  
+  
 ---
 
-# Gila Woodpecker
+# Gila Woodpecker (Melanerpes uropygialis)
 
-**Scientific Name:** Melanerpes uropygialis
+**Order:** [Piciformes](/tags/piciformes)
 
-**Order:** Piciformes
+**Family:** [Picidae (Woodpeckers)](/tags/picidae-woodpeckers)
 
-**Family:** Picidae (Woodpeckers)
-
-**Species Group:** Woodpeckers
-
-**Species Code:** gilwoo
+**Species Group:** [Woodpeckers](/tags/woodpeckers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gilwoo)
 
-## Links
-* [eBird](https://ebird.org/species/gilwoo) 
-* [All About Birds](https://www.allaboutbirds.org/guide/gilwoo) 
-* [Xeno-canto](https://www.xeno-canto.org/species/melanerpes-uropygialis) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=gilwoo&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/gilwoo)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/gilwoo) 
+* [All About Birds](https://www.allaboutbirds.org/guide/gilwoo) 
+* [Xeno-canto](https://www.xeno-canto.org/species/melanerpes-uropygialis) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=gilwoo&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/gilwoo)

@@ -5,28 +5,27 @@ order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "agwtea1"
+tags: 
+  - Anseriformes
+  - Anatidae (Ducks, Geese, and Waterfowl)
+  - Waterfowl
+  
+  
 ---
 
-# Green-winged Teal (American)
+# Green-winged Teal (American) (Anas crecca carolinensis)
 
-**Scientific Name:** Anas crecca carolinensis
+**Order:** [Anseriformes](/tags/anseriformes)
 
-**Order:** Anseriformes
+**Family:** [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl)
 
-**Family:** Anatidae (Ducks, Geese, and Waterfowl)
-
-**Species Group:** Waterfowl
-
-**Species Code:** agwtea1
+**Species Group:** [Waterfowl](/tags/waterfowl)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=agwtea1)
 
-## Links
-* [eBird](https://ebird.org/species/agwtea1) 
-* [All About Birds](https://www.allaboutbirds.org/guide/agwtea1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/anas-crecca-carolinensis) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=agwtea1&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/agwtea1)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/agwtea1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/agwtea1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/anas-crecca-carolinensis) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=agwtea1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/agwtea1)

@@ -5,28 +5,27 @@ order: "Charadriiformes"
 family: "Laridae (Gulls, Terns, and Skimmers)"
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "comter"
+tags: 
+  - Charadriiformes
+  - Laridae (Gulls, Terns, and Skimmers)
+  - Gulls, Terns, and Skimmers
+  
+  
 ---
 
-# Common Tern
+# Common Tern (Sterna hirundo)
 
-**Scientific Name:** Sterna hirundo
+**Order:** [Charadriiformes](/tags/charadriiformes)
 
-**Order:** Charadriiformes
+**Family:** [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers)
 
-**Family:** Laridae (Gulls, Terns, and Skimmers)
-
-**Species Group:** Gulls, Terns, and Skimmers
-
-**Species Code:** comter
+**Species Group:** [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=comter)
 
-## Links
-* [eBird](https://ebird.org/species/comter) 
-* [All About Birds](https://www.allaboutbirds.org/guide/comter) 
-* [Xeno-canto](https://www.xeno-canto.org/species/sterna-hirundo) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=comter&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/comter)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/comter) 
+* [All About Birds](https://www.allaboutbirds.org/guide/comter) 
+* [Xeno-canto](https://www.xeno-canto.org/species/sterna-hirundo) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=comter&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/comter)

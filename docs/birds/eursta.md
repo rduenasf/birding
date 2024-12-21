@@ -5,21 +5,37 @@ order: "Passeriformes"
 family: "Sturnidae (Starlings)"
 species_group: "Starlings and Mynas"
 species_code: "eursta"
+tags: 
+  - Passeriformes
+  - Sturnidae (Starlings)
+  - Starlings and Mynas
+  
+  - Audio
 ---
 
-# European Starling
+# European Starling (Sturnus vulgaris)
 
-**Scientific Name:** Sturnus vulgaris
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Sturnidae (Starlings)](/tags/sturnidae-starlings)
 
-**Family:** Sturnidae (Starlings)
-
-**Species Group:** Starlings and Mynas
-
-**Species Code:** eursta
+**Species Group:** [Starlings and Mynas](/tags/starlings-and-mynas)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=eursta)
+
+**Photo**: No 
+
+**Audio**: Yes
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+<iframe src="https://macaulaylibrary.org/asset/626843430/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626843431/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626843432/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626843433/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/eursta) 
@@ -27,13 +43,3 @@ species_code: "eursta"
 * [Xeno-canto](https://www.xeno-canto.org/species/sturnus-vulgaris) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=eursta&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/eursta)
-
-## Media
-### Photographs
-No photographs available.
-
-### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626843430/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626843431/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626843432/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626843433/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>

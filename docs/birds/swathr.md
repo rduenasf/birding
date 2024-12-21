@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Turdidae (Thrushes and Allies)"
 species_group: "Thrushes"
 species_code: "swathr"
+tags: 
+  - Passeriformes
+  - Turdidae (Thrushes and Allies)
+  - Thrushes
+  
+  
 ---
 
-# Swainson's Thrush
+# Swainson's Thrush (Catharus ustulatus)
 
-**Scientific Name:** Catharus ustulatus
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies)
 
-**Family:** Turdidae (Thrushes and Allies)
-
-**Species Group:** Thrushes
-
-**Species Code:** swathr
+**Species Group:** [Thrushes](/tags/thrushes)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=swathr)
 
-## Links
-* [eBird](https://ebird.org/species/swathr) 
-* [All About Birds](https://www.allaboutbirds.org/guide/swathr) 
-* [Xeno-canto](https://www.xeno-canto.org/species/catharus-ustulatus) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=swathr&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/swathr)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/swathr) 
+* [All About Birds](https://www.allaboutbirds.org/guide/swathr) 
+* [Xeno-canto](https://www.xeno-canto.org/species/catharus-ustulatus) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=swathr&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/swathr)

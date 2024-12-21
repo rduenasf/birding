@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Sittidae (Nuthatches)"
 species_group: "Nuthatches"
 species_code: "pygnut"
+tags: 
+  - Passeriformes
+  - Sittidae (Nuthatches)
+  - Nuthatches
+  - Photo
+  
 ---
 
-# Pygmy Nuthatch
+# Pygmy Nuthatch (Sitta pygmaea)
 
-**Scientific Name:** Sitta pygmaea
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Sittidae (Nuthatches)](/tags/sittidae-nuthatches)
 
-**Family:** Sittidae (Nuthatches)
-
-**Species Group:** Nuthatches
-
-**Species Code:** pygnut
+**Species Group:** [Nuthatches](/tags/nuthatches)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pygnut)
 
-## Links
-* [eBird](https://ebird.org/species/pygnut) 
-* [All About Birds](https://www.allaboutbirds.org/guide/pygnut) 
-* [Xeno-canto](https://www.xeno-canto.org/species/sitta-pygmaea) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=pygnut&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/pygnut)
+**Photo**: Yes 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -37,3 +36,10 @@ species_code: "pygnut"
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/pygnut) 
+* [All About Birds](https://www.allaboutbirds.org/guide/pygnut) 
+* [Xeno-canto](https://www.xeno-canto.org/species/sitta-pygmaea) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=pygnut&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/pygnut)

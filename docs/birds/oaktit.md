@@ -5,21 +5,35 @@ order: "Passeriformes"
 family: "Paridae (Tits, Chickadees, and Titmice)"
 species_group: "Tits, Chickadees, and Titmice"
 species_code: "oaktit"
+tags: 
+  - Passeriformes
+  - Paridae (Tits, Chickadees, and Titmice)
+  - Tits, Chickadees, and Titmice
+  
+  - Audio
 ---
 
-# Oak Titmouse
+# Oak Titmouse (Baeolophus inornatus)
 
-**Scientific Name:** Baeolophus inornatus
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Paridae (Tits, Chickadees, and Titmice)](/tags/paridae-tits-chickadees-and-titmice)
 
-**Family:** Paridae (Tits, Chickadees, and Titmice)
-
-**Species Group:** Tits, Chickadees, and Titmice
-
-**Species Code:** oaktit
+**Species Group:** [Tits, Chickadees, and Titmice](/tags/tits-chickadees-and-titmice)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=oaktit)
+
+**Photo**: No 
+
+**Audio**: Yes
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+<iframe src="https://macaulaylibrary.org/asset/626995518/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626995519/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/oaktit) 
@@ -27,11 +41,3 @@ species_code: "oaktit"
 * [Xeno-canto](https://www.xeno-canto.org/species/baeolophus-inornatus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=oaktit&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/oaktit)
-
-## Media
-### Photographs
-No photographs available.
-
-### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626995518/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626995519/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>

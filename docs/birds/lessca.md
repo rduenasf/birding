@@ -5,28 +5,27 @@ order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "lessca"
+tags: 
+  - Anseriformes
+  - Anatidae (Ducks, Geese, and Waterfowl)
+  - Waterfowl
+  
+  
 ---
 
-# Lesser Scaup
+# Lesser Scaup (Aythya affinis)
 
-**Scientific Name:** Aythya affinis
+**Order:** [Anseriformes](/tags/anseriformes)
 
-**Order:** Anseriformes
+**Family:** [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl)
 
-**Family:** Anatidae (Ducks, Geese, and Waterfowl)
-
-**Species Group:** Waterfowl
-
-**Species Code:** lessca
+**Species Group:** [Waterfowl](/tags/waterfowl)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=lessca)
 
-## Links
-* [eBird](https://ebird.org/species/lessca) 
-* [All About Birds](https://www.allaboutbirds.org/guide/lessca) 
-* [Xeno-canto](https://www.xeno-canto.org/species/aythya-affinis) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=lessca&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/lessca)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/lessca) 
+* [All About Birds](https://www.allaboutbirds.org/guide/lessca) 
+* [Xeno-canto](https://www.xeno-canto.org/species/aythya-affinis) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=lessca&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/lessca)

@@ -5,28 +5,27 @@ order: "Podicipediformes"
 family: "Podicipedidae (Grebes)"
 species_group: "Grebes"
 species_code: "rengre"
+tags: 
+  - Podicipediformes
+  - Podicipedidae (Grebes)
+  - Grebes
+  
+  
 ---
 
-# Red-necked Grebe
+# Red-necked Grebe (Podiceps grisegena)
 
-**Scientific Name:** Podiceps grisegena
+**Order:** [Podicipediformes](/tags/podicipediformes)
 
-**Order:** Podicipediformes
+**Family:** [Podicipedidae (Grebes)](/tags/podicipedidae-grebes)
 
-**Family:** Podicipedidae (Grebes)
-
-**Species Group:** Grebes
-
-**Species Code:** rengre
+**Species Group:** [Grebes](/tags/grebes)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rengre)
 
-## Links
-* [eBird](https://ebird.org/species/rengre) 
-* [All About Birds](https://www.allaboutbirds.org/guide/rengre) 
-* [Xeno-canto](https://www.xeno-canto.org/species/podiceps-grisegena) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rengre&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/rengre)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/rengre) 
+* [All About Birds](https://www.allaboutbirds.org/guide/rengre) 
+* [Xeno-canto](https://www.xeno-canto.org/species/podiceps-grisegena) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rengre&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/rengre)

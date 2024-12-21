@@ -5,28 +5,27 @@ order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "comgol"
+tags: 
+  - Anseriformes
+  - Anatidae (Ducks, Geese, and Waterfowl)
+  - Waterfowl
+  
+  
 ---
 
-# Common Goldeneye
+# Common Goldeneye (Bucephala clangula)
 
-**Scientific Name:** Bucephala clangula
+**Order:** [Anseriformes](/tags/anseriformes)
 
-**Order:** Anseriformes
+**Family:** [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl)
 
-**Family:** Anatidae (Ducks, Geese, and Waterfowl)
-
-**Species Group:** Waterfowl
-
-**Species Code:** comgol
+**Species Group:** [Waterfowl](/tags/waterfowl)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=comgol)
 
-## Links
-* [eBird](https://ebird.org/species/comgol) 
-* [All About Birds](https://www.allaboutbirds.org/guide/comgol) 
-* [Xeno-canto](https://www.xeno-canto.org/species/bucephala-clangula) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=comgol&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/comgol)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/comgol) 
+* [All About Birds](https://www.allaboutbirds.org/guide/comgol) 
+* [Xeno-canto](https://www.xeno-canto.org/species/bucephala-clangula) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=comgol&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/comgol)

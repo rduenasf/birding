@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
 species_group: "Wrens"
 species_code: "cacwre"
+tags: 
+  - Passeriformes
+  - Troglodytidae (Wrens)
+  - Wrens
+  
+  
 ---
 
-# Cactus Wren
+# Cactus Wren (Campylorhynchus brunneicapillus)
 
-**Scientific Name:** Campylorhynchus brunneicapillus
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Troglodytidae (Wrens)](/tags/troglodytidae-wrens)
 
-**Family:** Troglodytidae (Wrens)
-
-**Species Group:** Wrens
-
-**Species Code:** cacwre
+**Species Group:** [Wrens](/tags/wrens)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cacwre)
 
-## Links
-* [eBird](https://ebird.org/species/cacwre) 
-* [All About Birds](https://www.allaboutbirds.org/guide/cacwre) 
-* [Xeno-canto](https://www.xeno-canto.org/species/campylorhynchus-brunneicapillus) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=cacwre&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/cacwre)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/cacwre) 
+* [All About Birds](https://www.allaboutbirds.org/guide/cacwre) 
+* [Xeno-canto](https://www.xeno-canto.org/species/campylorhynchus-brunneicapillus) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=cacwre&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/cacwre)

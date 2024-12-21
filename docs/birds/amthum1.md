@@ -5,28 +5,27 @@ order: "Apodiformes"
 family: "Trochilidae (Hummingbirds)"
 species_group: "Hummingbirds"
 species_code: "amthum1"
+tags: 
+  - Apodiformes
+  - Trochilidae (Hummingbirds)
+  - Hummingbirds
+  
+  
 ---
 
-# Amethyst-throated Mountain-gem
+# Amethyst-throated Mountain-gem (Lampornis amethystinus)
 
-**Scientific Name:** Lampornis amethystinus
+**Order:** [Apodiformes](/tags/apodiformes)
 
-**Order:** Apodiformes
+**Family:** [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds)
 
-**Family:** Trochilidae (Hummingbirds)
-
-**Species Group:** Hummingbirds
-
-**Species Code:** amthum1
+**Species Group:** [Hummingbirds](/tags/hummingbirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=amthum1)
 
-## Links
-* [eBird](https://ebird.org/species/amthum1) 
-* [All About Birds](https://www.allaboutbirds.org/guide/amthum1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/lampornis-amethystinus) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=amthum1&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/amthum1)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/amthum1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/amthum1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/lampornis-amethystinus) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=amthum1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/amthum1)

@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Fringillidae (Finches, Euphonias, and Allies)"
 species_group: "Finches, Euphonias, and Allies"
 species_code: "blcsis2"
+tags: 
+  - Passeriformes
+  - Fringillidae (Finches, Euphonias, and Allies)
+  - Finches, Euphonias, and Allies
+  
+  
 ---
 
-# Black-chinned Siskin
+# Black-chinned Siskin (Spinus barbatus)
 
-**Scientific Name:** Spinus barbatus
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Fringillidae (Finches, Euphonias, and Allies)](/tags/fringillidae-finches-euphonias-and-allies)
 
-**Family:** Fringillidae (Finches, Euphonias, and Allies)
-
-**Species Group:** Finches, Euphonias, and Allies
-
-**Species Code:** blcsis2
+**Species Group:** [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blcsis2)
 
-## Links
-* [eBird](https://ebird.org/species/blcsis2) 
-* [All About Birds](https://www.allaboutbirds.org/guide/blcsis2) 
-* [Xeno-canto](https://www.xeno-canto.org/species/spinus-barbatus) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=blcsis2&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/blcsis2)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/blcsis2) 
+* [All About Birds](https://www.allaboutbirds.org/guide/blcsis2) 
+* [Xeno-canto](https://www.xeno-canto.org/species/spinus-barbatus) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=blcsis2&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/blcsis2)

@@ -5,28 +5,27 @@ order: "Charadriiformes"
 family: "Haematopodidae (Oystercatchers)"
 species_group: "Shorebirds"
 species_code: "ameoys"
+tags: 
+  - Charadriiformes
+  - Haematopodidae (Oystercatchers)
+  - Shorebirds
+  
+  
 ---
 
-# American Oystercatcher
+# American Oystercatcher (Haematopus palliatus)
 
-**Scientific Name:** Haematopus palliatus
+**Order:** [Charadriiformes](/tags/charadriiformes)
 
-**Order:** Charadriiformes
+**Family:** [Haematopodidae (Oystercatchers)](/tags/haematopodidae-oystercatchers)
 
-**Family:** Haematopodidae (Oystercatchers)
-
-**Species Group:** Shorebirds
-
-**Species Code:** ameoys
+**Species Group:** [Shorebirds](/tags/shorebirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ameoys)
 
-## Links
-* [eBird](https://ebird.org/species/ameoys) 
-* [All About Birds](https://www.allaboutbirds.org/guide/ameoys) 
-* [Xeno-canto](https://www.xeno-canto.org/species/haematopus-palliatus) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=ameoys&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/ameoys)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/ameoys) 
+* [All About Birds](https://www.allaboutbirds.org/guide/ameoys) 
+* [Xeno-canto](https://www.xeno-canto.org/species/haematopus-palliatus) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=ameoys&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/ameoys)

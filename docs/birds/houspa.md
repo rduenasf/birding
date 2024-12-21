@@ -5,21 +5,34 @@ order: "Passeriformes"
 family: "Passeridae (Old World Sparrows)"
 species_group: "Old World Sparrows"
 species_code: "houspa"
+tags: 
+  - Passeriformes
+  - Passeridae (Old World Sparrows)
+  - Old World Sparrows
+  
+  - Audio
 ---
 
-# House Sparrow
+# House Sparrow (Passer domesticus)
 
-**Scientific Name:** Passer domesticus
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Passeridae (Old World Sparrows)](/tags/passeridae-old-world-sparrows)
 
-**Family:** Passeridae (Old World Sparrows)
-
-**Species Group:** Old World Sparrows
-
-**Species Code:** houspa
+**Species Group:** [Old World Sparrows](/tags/old-world-sparrows)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=houspa)
+
+**Photo**: No 
+
+**Audio**: Yes
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+<iframe src="https://macaulaylibrary.org/asset/626559381/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/houspa) 
@@ -27,10 +40,3 @@ species_code: "houspa"
 * [Xeno-canto](https://www.xeno-canto.org/species/passer-domesticus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=houspa&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/houspa)
-
-## Media
-### Photographs
-No photographs available.
-
-### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626559381/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>

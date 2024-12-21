@@ -5,28 +5,27 @@ order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
 species_group: "Wood-Warblers"
 species_code: "yelwar1"
+tags: 
+  - Passeriformes
+  - Parulidae (New World Warblers)
+  - Wood-Warblers
+  
+  
 ---
 
-# Yellow Warbler (Northern)
+# Yellow Warbler (Northern) (Setophaga petechia [aestiva Group])
 
-**Scientific Name:** Setophaga petechia [aestiva Group]
+**Order:** [Passeriformes](/tags/passeriformes)
 
-**Order:** Passeriformes
+**Family:** [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers)
 
-**Family:** Parulidae (New World Warblers)
-
-**Species Group:** Wood-Warblers
-
-**Species Code:** yelwar1
+**Species Group:** [Wood-Warblers](/tags/wood-warblers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=yelwar1)
 
-## Links
-* [eBird](https://ebird.org/species/yelwar1) 
-* [All About Birds](https://www.allaboutbirds.org/guide/yelwar1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/setophaga-petechia-[aestiva-group]) 
-* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=yelwar1&sort=rating_rank_desc)
-* [Birds of the World](https://birdsoftheworld.org/bow/species/yelwar1)
+**Photo**: No 
+
+**Audio**: No
 
 ## Media
 ### Photographs
@@ -34,3 +33,10 @@ No photographs available.
 
 ### Audio Recordings
 No audio recordings available.
+
+## Links
+* [eBird](https://ebird.org/species/yelwar1) 
+* [All About Birds](https://www.allaboutbirds.org/guide/yelwar1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/setophaga-petechia-[aestiva-group]) 
+* [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=yelwar1&sort=rating_rank_desc)
+* [Birds of the World](https://birdsoftheworld.org/bow/species/yelwar1)

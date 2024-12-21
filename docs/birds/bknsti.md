@@ -5,21 +5,35 @@ order: "Charadriiformes"
 family: "Recurvirostridae (Stilts and Avocets)"
 species_group: "Shorebirds"
 species_code: "bknsti"
+tags: 
+  - Charadriiformes
+  - Recurvirostridae (Stilts and Avocets)
+  - Shorebirds
+  
+  - Audio
 ---
 
-# Black-necked Stilt
+# Black-necked Stilt (Himantopus mexicanus)
 
-**Scientific Name:** Himantopus mexicanus
+**Order:** [Charadriiformes](/tags/charadriiformes)
 
-**Order:** Charadriiformes
+**Family:** [Recurvirostridae (Stilts and Avocets)](/tags/recurvirostridae-stilts-and-avocets)
 
-**Family:** Recurvirostridae (Stilts and Avocets)
-
-**Species Group:** Shorebirds
-
-**Species Code:** bknsti
+**Species Group:** [Shorebirds](/tags/shorebirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bknsti)
+
+**Photo**: No 
+
+**Audio**: Yes
+
+## Media
+### Photographs
+No photographs available.
+
+### Audio Recordings
+<iframe src="https://macaulaylibrary.org/asset/626684567/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626685012/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/bknsti) 
@@ -27,11 +41,3 @@ species_code: "bknsti"
 * [Xeno-canto](https://www.xeno-canto.org/species/himantopus-mexicanus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bknsti&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/bknsti)
-
-## Media
-### Photographs
-No photographs available.
-
-### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626684567/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626685012/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
