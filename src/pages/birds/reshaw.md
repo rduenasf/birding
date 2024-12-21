@@ -24,7 +24,7 @@ species_code: "reshaw"
 ## Links
 * [eBird](https://ebird.org/species/reshaw) 
 * [All About Birds](https://www.allaboutbirds.org/guide/reshaw) 
-* [Xeno-canto](https://www.xeno-canto.org/species/reshaw) 
+* [Xeno-canto](https://www.xeno-canto.org/species/buteo-lineatus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=reshaw&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/reshaw)
 

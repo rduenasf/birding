@@ -24,7 +24,7 @@ species_code: "bcnher"
 ## Links
 * [eBird](https://ebird.org/species/bcnher) 
 * [All About Birds](https://www.allaboutbirds.org/guide/bcnher) 
-* [Xeno-canto](https://www.xeno-canto.org/species/bcnher) 
+* [Xeno-canto](https://www.xeno-canto.org/species/nycticorax-nycticorax) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bcnher&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/bcnher)
 

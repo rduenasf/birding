@@ -24,7 +24,7 @@ species_code: "treswa"
 ## Links
 * [eBird](https://ebird.org/species/treswa) 
 * [All About Birds](https://www.allaboutbirds.org/guide/treswa) 
-* [Xeno-canto](https://www.xeno-canto.org/species/treswa) 
+* [Xeno-canto](https://www.xeno-canto.org/species/tachycineta-bicolor) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=treswa&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/treswa)
 

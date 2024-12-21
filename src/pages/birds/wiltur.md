@@ -24,7 +24,7 @@ species_code: "wiltur"
 ## Links
 * [eBird](https://ebird.org/species/wiltur) 
 * [All About Birds](https://www.allaboutbirds.org/guide/wiltur) 
-* [Xeno-canto](https://www.xeno-canto.org/species/wiltur) 
+* [Xeno-canto](https://www.xeno-canto.org/species/meleagris-gallopavo) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=wiltur&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/wiltur)
 

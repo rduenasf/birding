@@ -24,7 +24,7 @@ species_code: "shicow"
 ## Links
 * [eBird](https://ebird.org/species/shicow) 
 * [All About Birds](https://www.allaboutbirds.org/guide/shicow) 
-* [Xeno-canto](https://www.xeno-canto.org/species/shicow) 
+* [Xeno-canto](https://www.xeno-canto.org/species/molothrus-bonariensis) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=shicow&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/shicow)
 

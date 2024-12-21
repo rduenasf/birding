@@ -24,7 +24,7 @@ species_code: "lessca"
 ## Links
 * [eBird](https://ebird.org/species/lessca) 
 * [All About Birds](https://www.allaboutbirds.org/guide/lessca) 
-* [Xeno-canto](https://www.xeno-canto.org/species/lessca) 
+* [Xeno-canto](https://www.xeno-canto.org/species/aythya-affinis) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=lessca&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/lessca)
 

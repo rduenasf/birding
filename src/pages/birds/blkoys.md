@@ -24,7 +24,7 @@ species_code: "blkoys"
 ## Links
 * [eBird](https://ebird.org/species/blkoys) 
 * [All About Birds](https://www.allaboutbirds.org/guide/blkoys) 
-* [Xeno-canto](https://www.xeno-canto.org/species/blkoys) 
+* [Xeno-canto](https://www.xeno-canto.org/species/haematopus-bachmani) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=blkoys&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/blkoys)
 

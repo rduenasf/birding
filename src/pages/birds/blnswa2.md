@@ -24,7 +24,7 @@ species_code: "blnswa2"
 ## Links
 * [eBird](https://ebird.org/species/blnswa2) 
 * [All About Birds](https://www.allaboutbirds.org/guide/blnswa2) 
-* [Xeno-canto](https://www.xeno-canto.org/species/blnswa2) 
+* [Xeno-canto](https://www.xeno-canto.org/species/cygnus-melancoryphus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=blnswa2&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/blnswa2)
 

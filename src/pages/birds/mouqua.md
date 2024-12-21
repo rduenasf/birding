@@ -24,7 +24,7 @@ species_code: "mouqua"
 ## Links
 * [eBird](https://ebird.org/species/mouqua) 
 * [All About Birds](https://www.allaboutbirds.org/guide/mouqua) 
-* [Xeno-canto](https://www.xeno-canto.org/species/mouqua) 
+* [Xeno-canto](https://www.xeno-canto.org/species/oreortyx-pictus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=mouqua&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/mouqua)
 

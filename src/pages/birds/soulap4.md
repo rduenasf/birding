@@ -24,7 +24,7 @@ species_code: "soulap4"
 ## Links
 * [eBird](https://ebird.org/species/soulap4) 
 * [All About Birds](https://www.allaboutbirds.org/guide/soulap4) 
-* [Xeno-canto](https://www.xeno-canto.org/species/soulap4) 
+* [Xeno-canto](https://www.xeno-canto.org/species/vanellus-chilensis-chilensis/fretensis) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=soulap4&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/soulap4)
 

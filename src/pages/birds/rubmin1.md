@@ -24,7 +24,7 @@ species_code: "rubmin1"
 ## Links
 * [eBird](https://ebird.org/species/rubmin1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/rubmin1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/rubmin1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/geositta-rufipennis) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rubmin1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/rubmin1)
 

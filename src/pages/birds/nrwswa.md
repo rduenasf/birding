@@ -24,7 +24,7 @@ species_code: "nrwswa"
 ## Links
 * [eBird](https://ebird.org/species/nrwswa) 
 * [All About Birds](https://www.allaboutbirds.org/guide/nrwswa) 
-* [Xeno-canto](https://www.xeno-canto.org/species/nrwswa) 
+* [Xeno-canto](https://www.xeno-canto.org/species/stelgidopteryx-serripennis) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=nrwswa&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/nrwswa)
 

@@ -24,7 +24,7 @@ species_code: "buwcin1"
 ## Links
 * [eBird](https://ebird.org/species/buwcin1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/buwcin1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/buwcin1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/cinclodes-fuscus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=buwcin1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/buwcin1)
 

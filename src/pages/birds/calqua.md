@@ -24,7 +24,7 @@ species_code: "calqua"
 ## Links
 * [eBird](https://ebird.org/species/calqua) 
 * [All About Birds](https://www.allaboutbirds.org/guide/calqua) 
-* [Xeno-canto](https://www.xeno-canto.org/species/calqua) 
+* [Xeno-canto](https://www.xeno-canto.org/species/callipepla-californica) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=calqua&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/calqua)
 

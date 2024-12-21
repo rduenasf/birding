@@ -24,7 +24,7 @@ species_code: "logshr"
 ## Links
 * [eBird](https://ebird.org/species/logshr) 
 * [All About Birds](https://www.allaboutbirds.org/guide/logshr) 
-* [Xeno-canto](https://www.xeno-canto.org/species/logshr) 
+* [Xeno-canto](https://www.xeno-canto.org/species/lanius-ludovicianus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=logshr&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/logshr)
 

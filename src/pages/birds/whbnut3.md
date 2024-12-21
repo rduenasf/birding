@@ -24,7 +24,7 @@ species_code: "whbnut3"
 ## Links
 * [eBird](https://ebird.org/species/whbnut3) 
 * [All About Birds](https://www.allaboutbirds.org/guide/whbnut3) 
-* [Xeno-canto](https://www.xeno-canto.org/species/whbnut3) 
+* [Xeno-canto](https://www.xeno-canto.org/species/sitta-carolinensis-[lagunae-group]) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=whbnut3&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/whbnut3)
 

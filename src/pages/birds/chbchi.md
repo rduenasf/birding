@@ -24,7 +24,7 @@ species_code: "chbchi"
 ## Links
 * [eBird](https://ebird.org/species/chbchi) 
 * [All About Birds](https://www.allaboutbirds.org/guide/chbchi) 
-* [Xeno-canto](https://www.xeno-canto.org/species/chbchi) 
+* [Xeno-canto](https://www.xeno-canto.org/species/poecile-rufescens) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=chbchi&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/chbchi)
 

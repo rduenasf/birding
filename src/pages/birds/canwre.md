@@ -24,7 +24,7 @@ species_code: "canwre"
 ## Links
 * [eBird](https://ebird.org/species/canwre) 
 * [All About Birds](https://www.allaboutbirds.org/guide/canwre) 
-* [Xeno-canto](https://www.xeno-canto.org/species/canwre) 
+* [Xeno-canto](https://www.xeno-canto.org/species/catherpes-mexicanus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=canwre&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/canwre)
 

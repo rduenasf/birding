@@ -24,7 +24,7 @@ species_code: "redjun"
 ## Links
 * [eBird](https://ebird.org/species/redjun) 
 * [All About Birds](https://www.allaboutbirds.org/guide/redjun) 
-* [Xeno-canto](https://www.xeno-canto.org/species/redjun) 
+* [Xeno-canto](https://www.xeno-canto.org/species/gallus-gallus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=redjun&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/redjun)
 

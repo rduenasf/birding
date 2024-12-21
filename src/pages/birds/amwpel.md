@@ -24,7 +24,7 @@ species_code: "amwpel"
 ## Links
 * [eBird](https://ebird.org/species/amwpel) 
 * [All About Birds](https://www.allaboutbirds.org/guide/amwpel) 
-* [Xeno-canto](https://www.xeno-canto.org/species/amwpel) 
+* [Xeno-canto](https://www.xeno-canto.org/species/pelecanus-erythrorhynchos) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=amwpel&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/amwpel)
 

@@ -24,7 +24,7 @@ species_code: "whtswi"
 ## Links
 * [eBird](https://ebird.org/species/whtswi) 
 * [All About Birds](https://www.allaboutbirds.org/guide/whtswi) 
-* [Xeno-canto](https://www.xeno-canto.org/species/whtswi) 
+* [Xeno-canto](https://www.xeno-canto.org/species/aeronautes-saxatalis) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=whtswi&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/whtswi)
 

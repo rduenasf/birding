@@ -24,7 +24,7 @@ species_code: "piggui"
 ## Links
 * [eBird](https://ebird.org/species/piggui) 
 * [All About Birds](https://www.allaboutbirds.org/guide/piggui) 
-* [Xeno-canto](https://www.xeno-canto.org/species/piggui) 
+* [Xeno-canto](https://www.xeno-canto.org/species/cepphus-columba) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=piggui&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/piggui)
 

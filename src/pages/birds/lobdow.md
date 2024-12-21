@@ -24,7 +24,7 @@ species_code: "lobdow"
 ## Links
 * [eBird](https://ebird.org/species/lobdow) 
 * [All About Birds](https://www.allaboutbirds.org/guide/lobdow) 
-* [Xeno-canto](https://www.xeno-canto.org/species/lobdow) 
+* [Xeno-canto](https://www.xeno-canto.org/species/limnodromus-scolopaceus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=lobdow&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/lobdow)
 

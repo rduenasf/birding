@@ -24,7 +24,7 @@ species_code: "bncfly"
 ## Links
 * [eBird](https://ebird.org/species/bncfly) 
 * [All About Birds](https://www.allaboutbirds.org/guide/bncfly) 
-* [Xeno-canto](https://www.xeno-canto.org/species/bncfly) 
+* [Xeno-canto](https://www.xeno-canto.org/species/myiarchus-tyrannulus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bncfly&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/bncfly)
 

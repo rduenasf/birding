@@ -24,7 +24,7 @@ species_code: "stbori"
 ## Links
 * [eBird](https://ebird.org/species/stbori) 
 * [All About Birds](https://www.allaboutbirds.org/guide/stbori) 
-* [Xeno-canto](https://www.xeno-canto.org/species/stbori) 
+* [Xeno-canto](https://www.xeno-canto.org/species/icterus-pustulatus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=stbori&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/stbori)
 

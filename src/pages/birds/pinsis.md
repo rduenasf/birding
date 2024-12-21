@@ -24,7 +24,7 @@ species_code: "pinsis"
 ## Links
 * [eBird](https://ebird.org/species/pinsis) 
 * [All About Birds](https://www.allaboutbirds.org/guide/pinsis) 
-* [Xeno-canto](https://www.xeno-canto.org/species/pinsis) 
+* [Xeno-canto](https://www.xeno-canto.org/species/spinus-pinus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=pinsis&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/pinsis)
 

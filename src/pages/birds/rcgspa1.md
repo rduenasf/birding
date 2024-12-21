@@ -24,7 +24,7 @@ species_code: "rcgspa1"
 ## Links
 * [eBird](https://ebird.org/species/rcgspa1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/rcgspa1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/rcgspa1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/melozone-kieneri) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rcgspa1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/rcgspa1)
 

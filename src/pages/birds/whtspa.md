@@ -24,7 +24,7 @@ species_code: "whtspa"
 ## Links
 * [eBird](https://ebird.org/species/whtspa) 
 * [All About Birds](https://www.allaboutbirds.org/guide/whtspa) 
-* [Xeno-canto](https://www.xeno-canto.org/species/whtspa) 
+* [Xeno-canto](https://www.xeno-canto.org/species/zonotrichia-albicollis) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=whtspa&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/whtspa)
 

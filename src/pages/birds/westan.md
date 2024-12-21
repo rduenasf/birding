@@ -24,7 +24,7 @@ species_code: "westan"
 ## Links
 * [eBird](https://ebird.org/species/westan) 
 * [All About Birds](https://www.allaboutbirds.org/guide/westan) 
-* [Xeno-canto](https://www.xeno-canto.org/species/westan) 
+* [Xeno-canto](https://www.xeno-canto.org/species/piranga-ludoviciana) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=westan&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/westan)
 

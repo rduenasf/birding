@@ -24,7 +24,7 @@ species_code: "gnwtea"
 ## Links
 * [eBird](https://ebird.org/species/gnwtea) 
 * [All About Birds](https://www.allaboutbirds.org/guide/gnwtea) 
-* [Xeno-canto](https://www.xeno-canto.org/species/gnwtea) 
+* [Xeno-canto](https://www.xeno-canto.org/species/anas-crecca) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=gnwtea&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/gnwtea)
 

@@ -24,7 +24,7 @@ species_code: "norgan"
 ## Links
 * [eBird](https://ebird.org/species/norgan) 
 * [All About Birds](https://www.allaboutbirds.org/guide/norgan) 
-* [Xeno-canto](https://www.xeno-canto.org/species/norgan) 
+* [Xeno-canto](https://www.xeno-canto.org/species/morus-bassanus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=norgan&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/norgan)
 

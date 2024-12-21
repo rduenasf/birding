@@ -24,7 +24,7 @@ species_code: "amegfi"
 ## Links
 * [eBird](https://ebird.org/species/amegfi) 
 * [All About Birds](https://www.allaboutbirds.org/guide/amegfi) 
-* [Xeno-canto](https://www.xeno-canto.org/species/amegfi) 
+* [Xeno-canto](https://www.xeno-canto.org/species/spinus-tristis) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=amegfi&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/amegfi)
 

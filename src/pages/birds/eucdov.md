@@ -24,7 +24,7 @@ species_code: "eucdov"
 ## Links
 * [eBird](https://ebird.org/species/eucdov) 
 * [All About Birds](https://www.allaboutbirds.org/guide/eucdov) 
-* [Xeno-canto](https://www.xeno-canto.org/species/eucdov) 
+* [Xeno-canto](https://www.xeno-canto.org/species/streptopelia-decaocto) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=eucdov&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/eucdov)
 

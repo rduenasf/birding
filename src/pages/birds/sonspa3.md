@@ -24,7 +24,7 @@ species_code: "sonspa3"
 ## Links
 * [eBird](https://ebird.org/species/sonspa3) 
 * [All About Birds](https://www.allaboutbirds.org/guide/sonspa3) 
-* [Xeno-canto](https://www.xeno-canto.org/species/sonspa3) 
+* [Xeno-canto](https://www.xeno-canto.org/species/melospiza-melodia-[mexicana-group]) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=sonspa3&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/sonspa3)
 

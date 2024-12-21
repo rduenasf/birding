@@ -24,7 +24,7 @@ species_code: "dowwoo1"
 ## Links
 * [eBird](https://ebird.org/species/dowwoo1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/dowwoo1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/dowwoo1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/dryobates-pubescens-pubescens/medianus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=dowwoo1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/dowwoo1)
 

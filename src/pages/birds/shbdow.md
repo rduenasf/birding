@@ -24,7 +24,7 @@ species_code: "shbdow"
 ## Links
 * [eBird](https://ebird.org/species/shbdow) 
 * [All About Birds](https://www.allaboutbirds.org/guide/shbdow) 
-* [Xeno-canto](https://www.xeno-canto.org/species/shbdow) 
+* [Xeno-canto](https://www.xeno-canto.org/species/limnodromus-griseus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=shbdow&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/shbdow)
 

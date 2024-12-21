@@ -24,7 +24,7 @@ species_code: "pyrrhu"
 ## Links
 * [eBird](https://ebird.org/species/pyrrhu) 
 * [All About Birds](https://www.allaboutbirds.org/guide/pyrrhu) 
-* [Xeno-canto](https://www.xeno-canto.org/species/pyrrhu) 
+* [Xeno-canto](https://www.xeno-canto.org/species/cardinalis-sinuatus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=pyrrhu&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/pyrrhu)
 

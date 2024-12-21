@@ -24,7 +24,7 @@ species_code: "mallar2"
 ## Links
 * [eBird](https://ebird.org/species/mallar2) 
 * [All About Birds](https://www.allaboutbirds.org/guide/mallar2) 
-* [Xeno-canto](https://www.xeno-canto.org/species/mallar2) 
+* [Xeno-canto](https://www.xeno-canto.org/species/anas-platyrhynchos-(domestic-type)) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=mallar2&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/mallar2)
 

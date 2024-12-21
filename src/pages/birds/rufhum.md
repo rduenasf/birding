@@ -24,7 +24,7 @@ species_code: "rufhum"
 ## Links
 * [eBird](https://ebird.org/species/rufhum) 
 * [All About Birds](https://www.allaboutbirds.org/guide/rufhum) 
-* [Xeno-canto](https://www.xeno-canto.org/species/rufhum) 
+* [Xeno-canto](https://www.xeno-canto.org/species/selasphorus-rufus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rufhum&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/rufhum)
 

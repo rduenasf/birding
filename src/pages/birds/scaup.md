@@ -24,7 +24,7 @@ species_code: "scaup"
 ## Links
 * [eBird](https://ebird.org/species/scaup) 
 * [All About Birds](https://www.allaboutbirds.org/guide/scaup) 
-* [Xeno-canto](https://www.xeno-canto.org/species/scaup) 
+* [Xeno-canto](https://www.xeno-canto.org/species/aythya-marila/affinis) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=scaup&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/scaup)
 

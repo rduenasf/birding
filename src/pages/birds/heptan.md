@@ -24,7 +24,7 @@ species_code: "heptan"
 ## Links
 * [eBird](https://ebird.org/species/heptan) 
 * [All About Birds](https://www.allaboutbirds.org/guide/heptan) 
-* [Xeno-canto](https://www.xeno-canto.org/species/heptan) 
+* [Xeno-canto](https://www.xeno-canto.org/species/piranga-flava) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=heptan&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/heptan)
 

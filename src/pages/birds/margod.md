@@ -24,7 +24,7 @@ species_code: "margod"
 ## Links
 * [eBird](https://ebird.org/species/margod) 
 * [All About Birds](https://www.allaboutbirds.org/guide/margod) 
-* [Xeno-canto](https://www.xeno-canto.org/species/margod) 
+* [Xeno-canto](https://www.xeno-canto.org/species/limosa-fedoa) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=margod&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/margod)
 

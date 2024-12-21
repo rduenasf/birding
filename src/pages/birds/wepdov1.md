@@ -24,7 +24,7 @@ species_code: "wepdov1"
 ## Links
 * [eBird](https://ebird.org/species/wepdov1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/wepdov1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/wepdov1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/zenaida-meloda) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=wepdov1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/wepdov1)
 

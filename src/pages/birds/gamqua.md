@@ -24,7 +24,7 @@ species_code: "gamqua"
 ## Links
 * [eBird](https://ebird.org/species/gamqua) 
 * [All About Birds](https://www.allaboutbirds.org/guide/gamqua) 
-* [Xeno-canto](https://www.xeno-canto.org/species/gamqua) 
+* [Xeno-canto](https://www.xeno-canto.org/species/callipepla-gambelii) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=gamqua&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/gamqua)
 

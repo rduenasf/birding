@@ -24,7 +24,7 @@ species_code: "lazbun"
 ## Links
 * [eBird](https://ebird.org/species/lazbun) 
 * [All About Birds](https://www.allaboutbirds.org/guide/lazbun) 
-* [Xeno-canto](https://www.xeno-canto.org/species/lazbun) 
+* [Xeno-canto](https://www.xeno-canto.org/species/passerina-amoena) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=lazbun&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/lazbun)
 

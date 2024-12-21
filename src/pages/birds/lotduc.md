@@ -24,7 +24,7 @@ species_code: "lotduc"
 ## Links
 * [eBird](https://ebird.org/species/lotduc) 
 * [All About Birds](https://www.allaboutbirds.org/guide/lotduc) 
-* [Xeno-canto](https://www.xeno-canto.org/species/lotduc) 
+* [Xeno-canto](https://www.xeno-canto.org/species/clangula-hyemalis) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=lotduc&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/lotduc)
 

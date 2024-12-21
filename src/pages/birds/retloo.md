@@ -24,7 +24,7 @@ species_code: "retloo"
 ## Links
 * [eBird](https://ebird.org/species/retloo) 
 * [All About Birds](https://www.allaboutbirds.org/guide/retloo) 
-* [Xeno-canto](https://www.xeno-canto.org/species/retloo) 
+* [Xeno-canto](https://www.xeno-canto.org/species/gavia-stellata) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=retloo&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/retloo)
 

@@ -24,7 +24,7 @@ species_code: "whimbr"
 ## Links
 * [eBird](https://ebird.org/species/whimbr) 
 * [All About Birds](https://www.allaboutbirds.org/guide/whimbr) 
-* [Xeno-canto](https://www.xeno-canto.org/species/whimbr) 
+* [Xeno-canto](https://www.xeno-canto.org/species/numenius-phaeopus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=whimbr&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/whimbr)
 

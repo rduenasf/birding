@@ -24,7 +24,7 @@ species_code: "snoegr"
 ## Links
 * [eBird](https://ebird.org/species/snoegr) 
 * [All About Birds](https://www.allaboutbirds.org/guide/snoegr) 
-* [Xeno-canto](https://www.xeno-canto.org/species/snoegr) 
+* [Xeno-canto](https://www.xeno-canto.org/species/egretta-thula) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=snoegr&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/snoegr)
 

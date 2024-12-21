@@ -24,7 +24,7 @@ species_code: "wesfly"
 ## Links
 * [eBird](https://ebird.org/species/wesfly) 
 * [All About Birds](https://www.allaboutbirds.org/guide/wesfly) 
-* [Xeno-canto](https://www.xeno-canto.org/species/wesfly) 
+* [Xeno-canto](https://www.xeno-canto.org/species/empidonax-difficilis) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=wesfly&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/wesfly)
 

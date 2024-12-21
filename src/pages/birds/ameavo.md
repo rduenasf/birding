@@ -24,7 +24,7 @@ species_code: "ameavo"
 ## Links
 * [eBird](https://ebird.org/species/ameavo) 
 * [All About Birds](https://www.allaboutbirds.org/guide/ameavo) 
-* [Xeno-canto](https://www.xeno-canto.org/species/ameavo) 
+* [Xeno-canto](https://www.xeno-canto.org/species/recurvirostra-americana) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=ameavo&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/ameavo)
 

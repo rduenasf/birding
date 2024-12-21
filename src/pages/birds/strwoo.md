@@ -24,7 +24,7 @@ species_code: "strwoo"
 ## Links
 * [eBird](https://ebird.org/species/strwoo) 
 * [All About Birds](https://www.allaboutbirds.org/guide/strwoo) 
-* [Xeno-canto](https://www.xeno-canto.org/species/strwoo) 
+* [Xeno-canto](https://www.xeno-canto.org/species/dryobates-stricklandi) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=strwoo&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/strwoo)
 

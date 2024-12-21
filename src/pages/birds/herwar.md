@@ -24,7 +24,7 @@ species_code: "herwar"
 ## Links
 * [eBird](https://ebird.org/species/herwar) 
 * [All About Birds](https://www.allaboutbirds.org/guide/herwar) 
-* [Xeno-canto](https://www.xeno-canto.org/species/herwar) 
+* [Xeno-canto](https://www.xeno-canto.org/species/setophaga-occidentalis) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=herwar&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/herwar)
 

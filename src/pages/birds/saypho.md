@@ -24,7 +24,7 @@ species_code: "saypho"
 ## Links
 * [eBird](https://ebird.org/species/saypho) 
 * [All About Birds](https://www.allaboutbirds.org/guide/saypho) 
-* [Xeno-canto](https://www.xeno-canto.org/species/saypho) 
+* [Xeno-canto](https://www.xeno-canto.org/species/sayornis-saya) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=saypho&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/saypho)
 

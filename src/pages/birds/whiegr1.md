@@ -24,7 +24,7 @@ species_code: "whiegr1"
 ## Links
 * [eBird](https://ebird.org/species/whiegr1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/whiegr1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/whiegr1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/egretta/ardea-sp.) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=whiegr1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/whiegr1)
 

@@ -24,7 +24,7 @@ species_code: "moublu"
 ## Links
 * [eBird](https://ebird.org/species/moublu) 
 * [All About Birds](https://www.allaboutbirds.org/guide/moublu) 
-* [Xeno-canto](https://www.xeno-canto.org/species/moublu) 
+* [Xeno-canto](https://www.xeno-canto.org/species/sialia-currucoides) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=moublu&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/moublu)
 

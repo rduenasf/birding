@@ -24,7 +24,7 @@ species_code: "yebmag"
 ## Links
 * [eBird](https://ebird.org/species/yebmag) 
 * [All About Birds](https://www.allaboutbirds.org/guide/yebmag) 
-* [Xeno-canto](https://www.xeno-canto.org/species/yebmag) 
+* [Xeno-canto](https://www.xeno-canto.org/species/pica-nuttalli) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=yebmag&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/yebmag)
 

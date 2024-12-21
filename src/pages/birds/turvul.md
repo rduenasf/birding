@@ -24,7 +24,7 @@ species_code: "turvul"
 ## Links
 * [eBird](https://ebird.org/species/turvul) 
 * [All About Birds](https://www.allaboutbirds.org/guide/turvul) 
-* [Xeno-canto](https://www.xeno-canto.org/species/turvul) 
+* [Xeno-canto](https://www.xeno-canto.org/species/cathartes-aura) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=turvul&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/turvul)
 

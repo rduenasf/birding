@@ -24,7 +24,7 @@ species_code: "greegr"
 ## Links
 * [eBird](https://ebird.org/species/greegr) 
 * [All About Birds](https://www.allaboutbirds.org/guide/greegr) 
-* [Xeno-canto](https://www.xeno-canto.org/species/greegr) 
+* [Xeno-canto](https://www.xeno-canto.org/species/ardea-alba) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=greegr&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/greegr)
 

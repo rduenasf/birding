@@ -24,7 +24,7 @@ species_code: "neocor"
 ## Links
 * [eBird](https://ebird.org/species/neocor) 
 * [All About Birds](https://www.allaboutbirds.org/guide/neocor) 
-* [Xeno-canto](https://www.xeno-canto.org/species/neocor) 
+* [Xeno-canto](https://www.xeno-canto.org/species/nannopterum-brasilianum) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=neocor&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/neocor)
 

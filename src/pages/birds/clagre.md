@@ -24,7 +24,7 @@ species_code: "clagre"
 ## Links
 * [eBird](https://ebird.org/species/clagre) 
 * [All About Birds](https://www.allaboutbirds.org/guide/clagre) 
-* [Xeno-canto](https://www.xeno-canto.org/species/clagre) 
+* [Xeno-canto](https://www.xeno-canto.org/species/aechmophorus-clarkii) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=clagre&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/clagre)
 

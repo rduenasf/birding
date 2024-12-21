@@ -60,9 +60,9 @@ species_code: "${speciesCode}"
 * [All About Birds](https://www.allaboutbirds.org/guide/${speciesCode
     .toLowerCase()
     .replace(/ /g, "-")}) 
-* [Xeno-canto](https://www.xeno-canto.org/species/${speciesCode
+* [Xeno-canto](https://www.xeno-canto.org/species/${sciName
     .toLowerCase()
-    .replace(/ /g, "-")}) 
+    .replace(/\s+/g, "-")}) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=${speciesCode}&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/${speciesCode})
 

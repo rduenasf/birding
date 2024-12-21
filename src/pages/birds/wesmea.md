@@ -24,7 +24,7 @@ species_code: "wesmea"
 ## Links
 * [eBird](https://ebird.org/species/wesmea) 
 * [All About Birds](https://www.allaboutbirds.org/guide/wesmea) 
-* [Xeno-canto](https://www.xeno-canto.org/species/wesmea) 
+* [Xeno-canto](https://www.xeno-canto.org/species/sturnella-neglecta) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=wesmea&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/wesmea)
 

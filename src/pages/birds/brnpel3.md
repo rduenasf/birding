@@ -24,7 +24,7 @@ species_code: "brnpel3"
 ## Links
 * [eBird](https://ebird.org/species/brnpel3) 
 * [All About Birds](https://www.allaboutbirds.org/guide/brnpel3) 
-* [Xeno-canto](https://www.xeno-canto.org/species/brnpel3) 
+* [Xeno-canto](https://www.xeno-canto.org/species/pelecanus-occidentalis-californicus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=brnpel3&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/brnpel3)
 

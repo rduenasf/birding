@@ -24,7 +24,7 @@ species_code: "amerob"
 ## Links
 * [eBird](https://ebird.org/species/amerob) 
 * [All About Birds](https://www.allaboutbirds.org/guide/amerob) 
-* [Xeno-canto](https://www.xeno-canto.org/species/amerob) 
+* [Xeno-canto](https://www.xeno-canto.org/species/turdus-migratorius) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=amerob&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/amerob)
 

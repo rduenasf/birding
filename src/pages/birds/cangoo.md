@@ -24,7 +24,7 @@ species_code: "cangoo"
 ## Links
 * [eBird](https://ebird.org/species/cangoo) 
 * [All About Birds](https://www.allaboutbirds.org/guide/cangoo) 
-* [Xeno-canto](https://www.xeno-canto.org/species/cangoo) 
+* [Xeno-canto](https://www.xeno-canto.org/species/branta-canadensis) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=cangoo&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/cangoo)
 

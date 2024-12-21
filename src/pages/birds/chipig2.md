@@ -24,7 +24,7 @@ species_code: "chipig2"
 ## Links
 * [eBird](https://ebird.org/species/chipig2) 
 * [All About Birds](https://www.allaboutbirds.org/guide/chipig2) 
-* [Xeno-canto](https://www.xeno-canto.org/species/chipig2) 
+* [Xeno-canto](https://www.xeno-canto.org/species/patagioenas-araucana) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=chipig2&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/chipig2)
 

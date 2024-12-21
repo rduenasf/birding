@@ -24,7 +24,7 @@ species_code: "osprey1"
 ## Links
 * [eBird](https://ebird.org/species/osprey1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/osprey1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/osprey1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/pandion-haliaetus-carolinensis) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=osprey1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/osprey1)
 

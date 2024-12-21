@@ -24,7 +24,7 @@ species_code: "astfly"
 ## Links
 * [eBird](https://ebird.org/species/astfly) 
 * [All About Birds](https://www.allaboutbirds.org/guide/astfly) 
-* [Xeno-canto](https://www.xeno-canto.org/species/astfly) 
+* [Xeno-canto](https://www.xeno-canto.org/species/myiarchus-cinerascens) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=astfly&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/astfly)
 

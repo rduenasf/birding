@@ -24,7 +24,7 @@ species_code: "rebmer"
 ## Links
 * [eBird](https://ebird.org/species/rebmer) 
 * [All About Birds](https://www.allaboutbirds.org/guide/rebmer) 
-* [Xeno-canto](https://www.xeno-canto.org/species/rebmer) 
+* [Xeno-canto](https://www.xeno-canto.org/species/mergus-serrator) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rebmer&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/rebmer)
 

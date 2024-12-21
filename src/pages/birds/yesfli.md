@@ -24,7 +24,7 @@ species_code: "yesfli"
 ## Links
 * [eBird](https://ebird.org/species/yesfli) 
 * [All About Birds](https://www.allaboutbirds.org/guide/yesfli) 
-* [Xeno-canto](https://www.xeno-canto.org/species/yesfli) 
+* [Xeno-canto](https://www.xeno-canto.org/species/colaptes-auratus-auratus/luteus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=yesfli&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/yesfli)
 

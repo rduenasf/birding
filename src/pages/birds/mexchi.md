@@ -24,7 +24,7 @@ species_code: "mexchi"
 ## Links
 * [eBird](https://ebird.org/species/mexchi) 
 * [All About Birds](https://www.allaboutbirds.org/guide/mexchi) 
-* [Xeno-canto](https://www.xeno-canto.org/species/mexchi) 
+* [Xeno-canto](https://www.xeno-canto.org/species/poecile-sclateri) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=mexchi&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/mexchi)
 

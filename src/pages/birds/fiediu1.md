@@ -24,7 +24,7 @@ species_code: "fiediu1"
 ## Links
 * [eBird](https://ebird.org/species/fiediu1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/fiediu1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/fiediu1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/pyrope-pyrope) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=fiediu1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/fiediu1)
 

@@ -24,7 +24,7 @@ species_code: "weskin"
 ## Links
 * [eBird](https://ebird.org/species/weskin) 
 * [All About Birds](https://www.allaboutbirds.org/guide/weskin) 
-* [Xeno-canto](https://www.xeno-canto.org/species/weskin) 
+* [Xeno-canto](https://www.xeno-canto.org/species/tyrannus-verticalis) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=weskin&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/weskin)
 

@@ -24,7 +24,7 @@ species_code: "warvir"
 ## Links
 * [eBird](https://ebird.org/species/warvir) 
 * [All About Birds](https://www.allaboutbirds.org/guide/warvir) 
-* [Xeno-canto](https://www.xeno-canto.org/species/warvir) 
+* [Xeno-canto](https://www.xeno-canto.org/species/vireo-gilvus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=warvir&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/warvir)
 

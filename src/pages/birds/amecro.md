@@ -24,7 +24,7 @@ species_code: "amecro"
 ## Links
 * [eBird](https://ebird.org/species/amecro) 
 * [All About Birds](https://www.allaboutbirds.org/guide/amecro) 
-* [Xeno-canto](https://www.xeno-canto.org/species/amecro) 
+* [Xeno-canto](https://www.xeno-canto.org/species/corvus-brachyrhynchos) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=amecro&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/amecro)
 

@@ -24,7 +24,7 @@ species_code: "calthr"
 ## Links
 * [eBird](https://ebird.org/species/calthr) 
 * [All About Birds](https://www.allaboutbirds.org/guide/calthr) 
-* [Xeno-canto](https://www.xeno-canto.org/species/calthr) 
+* [Xeno-canto](https://www.xeno-canto.org/species/toxostoma-redivivum) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=calthr&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/calthr)
 

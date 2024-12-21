@@ -24,7 +24,7 @@ species_code: "moucar1"
 ## Links
 * [eBird](https://ebird.org/species/moucar1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/moucar1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/moucar1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/daptrius-megalopterus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=moucar1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/moucar1)
 

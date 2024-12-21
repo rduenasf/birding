@@ -24,7 +24,7 @@ species_code: "ambduc"
 ## Links
 * [eBird](https://ebird.org/species/ambduc) 
 * [All About Birds](https://www.allaboutbirds.org/guide/ambduc) 
-* [Xeno-canto](https://www.xeno-canto.org/species/ambduc) 
+* [Xeno-canto](https://www.xeno-canto.org/species/anas-rubripes) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=ambduc&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/ambduc)
 

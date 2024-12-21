@@ -24,7 +24,7 @@ species_code: "cowscj1"
 ## Links
 * [eBird](https://ebird.org/species/cowscj1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/cowscj1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/cowscj1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/aphelocoma-californica) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=cowscj1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/cowscj1)
 

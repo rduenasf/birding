@@ -24,7 +24,7 @@ species_code: "cubthr"
 ## Links
 * [eBird](https://ebird.org/species/cubthr) 
 * [All About Birds](https://www.allaboutbirds.org/guide/cubthr) 
-* [Xeno-canto](https://www.xeno-canto.org/species/cubthr) 
+* [Xeno-canto](https://www.xeno-canto.org/species/toxostoma-curvirostre) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=cubthr&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/cubthr)
 

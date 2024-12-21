@@ -24,7 +24,7 @@ species_code: "surfbi"
 ## Links
 * [eBird](https://ebird.org/species/surfbi) 
 * [All About Birds](https://www.allaboutbirds.org/guide/surfbi) 
-* [Xeno-canto](https://www.xeno-canto.org/species/surfbi) 
+* [Xeno-canto](https://www.xeno-canto.org/species/calidris-virgata) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=surfbi&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/surfbi)
 

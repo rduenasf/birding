@@ -24,7 +24,7 @@ species_code: "nutwoo"
 ## Links
 * [eBird](https://ebird.org/species/nutwoo) 
 * [All About Birds](https://www.allaboutbirds.org/guide/nutwoo) 
-* [Xeno-canto](https://www.xeno-canto.org/species/nutwoo) 
+* [Xeno-canto](https://www.xeno-canto.org/species/dryobates-nuttallii) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=nutwoo&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/nutwoo)
 

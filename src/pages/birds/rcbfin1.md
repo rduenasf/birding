@@ -24,7 +24,7 @@ species_code: "rcbfin1"
 ## Links
 * [eBird](https://ebird.org/species/rcbfin1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/rcbfin1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/rcbfin1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/atlapetes-pileatus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rcbfin1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/rcbfin1)
 

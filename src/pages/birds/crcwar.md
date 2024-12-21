@@ -24,7 +24,7 @@ species_code: "crcwar"
 ## Links
 * [eBird](https://ebird.org/species/crcwar) 
 * [All About Birds](https://www.allaboutbirds.org/guide/crcwar) 
-* [Xeno-canto](https://www.xeno-canto.org/species/crcwar) 
+* [Xeno-canto](https://www.xeno-canto.org/species/oreothlypis-superciliosa) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=crcwar&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/crcwar)
 

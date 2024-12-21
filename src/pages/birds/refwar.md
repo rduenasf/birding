@@ -24,7 +24,7 @@ species_code: "refwar"
 ## Links
 * [eBird](https://ebird.org/species/refwar) 
 * [All About Birds](https://www.allaboutbirds.org/guide/refwar) 
-* [Xeno-canto](https://www.xeno-canto.org/species/refwar) 
+* [Xeno-canto](https://www.xeno-canto.org/species/cardellina-rubrifrons) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=refwar&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/refwar)
 

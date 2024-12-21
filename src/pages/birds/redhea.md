@@ -24,7 +24,7 @@ species_code: "redhea"
 ## Links
 * [eBird](https://ebird.org/species/redhea) 
 * [All About Birds](https://www.allaboutbirds.org/guide/redhea) 
-* [Xeno-canto](https://www.xeno-canto.org/species/redhea) 
+* [Xeno-canto](https://www.xeno-canto.org/species/aythya-americana) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=redhea&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/redhea)
 

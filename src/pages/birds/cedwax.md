@@ -24,7 +24,7 @@ species_code: "cedwax"
 ## Links
 * [eBird](https://ebird.org/species/cedwax) 
 * [All About Birds](https://www.allaboutbirds.org/guide/cedwax) 
-* [Xeno-canto](https://www.xeno-canto.org/species/cedwax) 
+* [Xeno-canto](https://www.xeno-canto.org/species/bombycilla-cedrorum) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=cedwax&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/cedwax)
 

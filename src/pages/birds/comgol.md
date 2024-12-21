@@ -24,7 +24,7 @@ species_code: "comgol"
 ## Links
 * [eBird](https://ebird.org/species/comgol) 
 * [All About Birds](https://www.allaboutbirds.org/guide/comgol) 
-* [Xeno-canto](https://www.xeno-canto.org/species/comgol) 
+* [Xeno-canto](https://www.xeno-canto.org/species/bucephala-clangula) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=comgol&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/comgol)
 

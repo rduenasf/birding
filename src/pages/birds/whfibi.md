@@ -24,7 +24,7 @@ species_code: "whfibi"
 ## Links
 * [eBird](https://ebird.org/species/whfibi) 
 * [All About Birds](https://www.allaboutbirds.org/guide/whfibi) 
-* [Xeno-canto](https://www.xeno-canto.org/species/whfibi) 
+* [Xeno-canto](https://www.xeno-canto.org/species/plegadis-chihi) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=whfibi&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/whfibi)
 

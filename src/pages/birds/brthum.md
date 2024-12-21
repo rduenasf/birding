@@ -24,7 +24,7 @@ species_code: "brthum"
 ## Links
 * [eBird](https://ebird.org/species/brthum) 
 * [All About Birds](https://www.allaboutbirds.org/guide/brthum) 
-* [Xeno-canto](https://www.xeno-canto.org/species/brthum) 
+* [Xeno-canto](https://www.xeno-canto.org/species/selasphorus-platycercus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=brthum&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/brthum)
 

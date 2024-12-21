@@ -24,7 +24,7 @@ species_code: "burpar2"
 ## Links
 * [eBird](https://ebird.org/species/burpar2) 
 * [All About Birds](https://www.allaboutbirds.org/guide/burpar2) 
-* [Xeno-canto](https://www.xeno-canto.org/species/burpar2) 
+* [Xeno-canto](https://www.xeno-canto.org/species/cyanoliseus-patagonus-bloxami) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=burpar2&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/burpar2)
 

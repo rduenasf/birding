@@ -24,7 +24,7 @@ species_code: "rempar"
 ## Links
 * [eBird](https://ebird.org/species/rempar) 
 * [All About Birds](https://www.allaboutbirds.org/guide/rempar) 
-* [Xeno-canto](https://www.xeno-canto.org/species/rempar) 
+* [Xeno-canto](https://www.xeno-canto.org/species/psittacara-erythrogenys) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rempar&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/rempar)
 

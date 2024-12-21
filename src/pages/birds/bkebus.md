@@ -24,7 +24,7 @@ species_code: "bkebus"
 ## Links
 * [eBird](https://ebird.org/species/bkebus) 
 * [All About Birds](https://www.allaboutbirds.org/guide/bkebus) 
-* [Xeno-canto](https://www.xeno-canto.org/species/bkebus) 
+* [Xeno-canto](https://www.xeno-canto.org/species/psaltriparus-minimus-[melanotis-group]) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bkebus&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/bkebus)
 

@@ -24,7 +24,7 @@ species_code: "bktspa"
 ## Links
 * [eBird](https://ebird.org/species/bktspa) 
 * [All About Birds](https://www.allaboutbirds.org/guide/bktspa) 
-* [Xeno-canto](https://www.xeno-canto.org/species/bktspa) 
+* [Xeno-canto](https://www.xeno-canto.org/species/amphispiza-bilineata) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bktspa&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/bktspa)
 

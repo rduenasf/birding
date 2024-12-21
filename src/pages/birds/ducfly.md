@@ -24,7 +24,7 @@ species_code: "ducfly"
 ## Links
 * [eBird](https://ebird.org/species/ducfly) 
 * [All About Birds](https://www.allaboutbirds.org/guide/ducfly) 
-* [Xeno-canto](https://www.xeno-canto.org/species/ducfly) 
+* [Xeno-canto](https://www.xeno-canto.org/species/myiarchus-tuberculifer) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=ducfly&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/ducfly)
 

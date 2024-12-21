@@ -24,7 +24,7 @@ species_code: "monpar"
 ## Links
 * [eBird](https://ebird.org/species/monpar) 
 * [All About Birds](https://www.allaboutbirds.org/guide/monpar) 
-* [Xeno-canto](https://www.xeno-canto.org/species/monpar) 
+* [Xeno-canto](https://www.xeno-canto.org/species/myiopsitta-monachus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=monpar&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/monpar)
 

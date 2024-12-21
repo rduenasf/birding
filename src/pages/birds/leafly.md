@@ -24,7 +24,7 @@ species_code: "leafly"
 ## Links
 * [eBird](https://ebird.org/species/leafly) 
 * [All About Birds](https://www.allaboutbirds.org/guide/leafly) 
-* [Xeno-canto](https://www.xeno-canto.org/species/leafly) 
+* [Xeno-canto](https://www.xeno-canto.org/species/empidonax-minimus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=leafly&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/leafly)
 

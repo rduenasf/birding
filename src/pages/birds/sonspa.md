@@ -24,7 +24,7 @@ species_code: "sonspa"
 ## Links
 * [eBird](https://ebird.org/species/sonspa) 
 * [All About Birds](https://www.allaboutbirds.org/guide/sonspa) 
-* [Xeno-canto](https://www.xeno-canto.org/species/sonspa) 
+* [Xeno-canto](https://www.xeno-canto.org/species/melospiza-melodia) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=sonspa&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/sonspa)
 

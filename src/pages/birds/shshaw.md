@@ -24,7 +24,7 @@ species_code: "shshaw"
 ## Links
 * [eBird](https://ebird.org/species/shshaw) 
 * [All About Birds](https://www.allaboutbirds.org/guide/shshaw) 
-* [Xeno-canto](https://www.xeno-canto.org/species/shshaw) 
+* [Xeno-canto](https://www.xeno-canto.org/species/accipiter-striatus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=shshaw&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/shshaw)
 

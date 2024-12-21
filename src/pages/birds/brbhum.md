@@ -24,7 +24,7 @@ species_code: "brbhum"
 ## Links
 * [eBird](https://ebird.org/species/brbhum) 
 * [All About Birds](https://www.allaboutbirds.org/guide/brbhum) 
-* [Xeno-canto](https://www.xeno-canto.org/species/brbhum) 
+* [Xeno-canto](https://www.xeno-canto.org/species/cynanthus-latirostris) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=brbhum&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/brbhum)
 

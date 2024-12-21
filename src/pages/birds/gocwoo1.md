@@ -24,7 +24,7 @@ species_code: "gocwoo1"
 ## Links
 * [eBird](https://ebird.org/species/gocwoo1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/gocwoo1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/gocwoo1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/melanerpes-chrysogenys) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=gocwoo1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/gocwoo1)
 

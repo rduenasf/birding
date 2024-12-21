@@ -24,7 +24,7 @@ species_code: "grnher"
 ## Links
 * [eBird](https://ebird.org/species/grnher) 
 * [All About Birds](https://www.allaboutbirds.org/guide/grnher) 
-* [Xeno-canto](https://www.xeno-canto.org/species/grnher) 
+* [Xeno-canto](https://www.xeno-canto.org/species/butorides-virescens) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=grnher&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/grnher)
 

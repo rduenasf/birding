@@ -24,7 +24,7 @@ species_code: "hutvir"
 ## Links
 * [eBird](https://ebird.org/species/hutvir) 
 * [All About Birds](https://www.allaboutbirds.org/guide/hutvir) 
-* [Xeno-canto](https://www.xeno-canto.org/species/hutvir) 
+* [Xeno-canto](https://www.xeno-canto.org/species/vireo-huttoni) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=hutvir&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/hutvir)
 

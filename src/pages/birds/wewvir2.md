@@ -24,7 +24,7 @@ species_code: "wewvir2"
 ## Links
 * [eBird](https://ebird.org/species/wewvir2) 
 * [All About Birds](https://www.allaboutbirds.org/guide/wewvir2) 
-* [Xeno-canto](https://www.xeno-canto.org/species/wewvir2) 
+* [Xeno-canto](https://www.xeno-canto.org/species/vireo-gilvus-[swainsoni-group]) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=wewvir2&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/wewvir2)
 

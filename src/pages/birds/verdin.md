@@ -24,7 +24,7 @@ species_code: "verdin"
 ## Links
 * [eBird](https://ebird.org/species/verdin) 
 * [All About Birds](https://www.allaboutbirds.org/guide/verdin) 
-* [Xeno-canto](https://www.xeno-canto.org/species/verdin) 
+* [Xeno-canto](https://www.xeno-canto.org/species/auriparus-flaviceps) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=verdin&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/verdin)
 

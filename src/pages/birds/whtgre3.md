@@ -24,7 +24,7 @@ species_code: "whtgre3"
 ## Links
 * [eBird](https://ebird.org/species/whtgre3) 
 * [All About Birds](https://www.allaboutbirds.org/guide/whtgre3) 
-* [Xeno-canto](https://www.xeno-canto.org/species/whtgre3) 
+* [Xeno-canto](https://www.xeno-canto.org/species/rollandia-rolland) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=whtgre3&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/whtgre3)
 

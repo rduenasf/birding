@@ -24,7 +24,7 @@ species_code: "forter"
 ## Links
 * [eBird](https://ebird.org/species/forter) 
 * [All About Birds](https://www.allaboutbirds.org/guide/forter) 
-* [Xeno-canto](https://www.xeno-canto.org/species/forter) 
+* [Xeno-canto](https://www.xeno-canto.org/species/sterna-forsteri) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=forter&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/forter)
 

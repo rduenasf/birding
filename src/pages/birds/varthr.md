@@ -24,7 +24,7 @@ species_code: "varthr"
 ## Links
 * [eBird](https://ebird.org/species/varthr) 
 * [All About Birds](https://www.allaboutbirds.org/guide/varthr) 
-* [Xeno-canto](https://www.xeno-canto.org/species/varthr) 
+* [Xeno-canto](https://www.xeno-canto.org/species/ixoreus-naevius) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=varthr&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/varthr)
 

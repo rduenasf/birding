@@ -24,7 +24,7 @@ species_code: "blugrb1"
 ## Links
 * [eBird](https://ebird.org/species/blugrb1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/blugrb1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/blugrb1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/passerina-caerulea) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=blugrb1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/blugrb1)
 

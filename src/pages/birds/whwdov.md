@@ -24,7 +24,7 @@ species_code: "whwdov"
 ## Links
 * [eBird](https://ebird.org/species/whwdov) 
 * [All About Birds](https://www.allaboutbirds.org/guide/whwdov) 
-* [Xeno-canto](https://www.xeno-canto.org/species/whwdov) 
+* [Xeno-canto](https://www.xeno-canto.org/species/zenaida-asiatica) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=whwdov&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/whwdov)
 

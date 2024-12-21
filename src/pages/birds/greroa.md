@@ -24,7 +24,7 @@ species_code: "greroa"
 ## Links
 * [eBird](https://ebird.org/species/greroa) 
 * [All About Birds](https://www.allaboutbirds.org/guide/greroa) 
-* [Xeno-canto](https://www.xeno-canto.org/species/greroa) 
+* [Xeno-canto](https://www.xeno-canto.org/species/geococcyx-californianus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=greroa&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/greroa)
 

@@ -24,7 +24,7 @@ species_code: "vauswi"
 ## Links
 * [eBird](https://ebird.org/species/vauswi) 
 * [All About Birds](https://www.allaboutbirds.org/guide/vauswi) 
-* [Xeno-canto](https://www.xeno-canto.org/species/vauswi) 
+* [Xeno-canto](https://www.xeno-canto.org/species/chaetura-vauxi) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=vauswi&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/vauswi)
 

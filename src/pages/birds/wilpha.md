@@ -24,7 +24,7 @@ species_code: "wilpha"
 ## Links
 * [eBird](https://ebird.org/species/wilpha) 
 * [All About Birds](https://www.allaboutbirds.org/guide/wilpha) 
-* [Xeno-canto](https://www.xeno-canto.org/species/wilpha) 
+* [Xeno-canto](https://www.xeno-canto.org/species/phalaropus-tricolor) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=wilpha&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/wilpha)
 

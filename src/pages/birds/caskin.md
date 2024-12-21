@@ -24,7 +24,7 @@ species_code: "caskin"
 ## Links
 * [eBird](https://ebird.org/species/caskin) 
 * [All About Birds](https://www.allaboutbirds.org/guide/caskin) 
-* [Xeno-canto](https://www.xeno-canto.org/species/caskin) 
+* [Xeno-canto](https://www.xeno-canto.org/species/tyrannus-vociferans) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=caskin&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/caskin)
 

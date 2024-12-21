@@ -24,7 +24,7 @@ species_code: "grbwre1"
 ## Links
 * [eBird](https://ebird.org/species/grbwre1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/grbwre1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/grbwre1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/campylorhynchus-megalopterus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=grbwre1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/grbwre1)
 

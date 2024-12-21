@@ -24,7 +24,7 @@ species_code: "gryhaw2"
 ## Links
 * [eBird](https://ebird.org/species/gryhaw2) 
 * [All About Birds](https://www.allaboutbirds.org/guide/gryhaw2) 
-* [Xeno-canto](https://www.xeno-canto.org/species/gryhaw2) 
+* [Xeno-canto](https://www.xeno-canto.org/species/buteo-plagiatus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=gryhaw2&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/gryhaw2)
 

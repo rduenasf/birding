@@ -24,7 +24,7 @@ species_code: "whtkit"
 ## Links
 * [eBird](https://ebird.org/species/whtkit) 
 * [All About Birds](https://www.allaboutbirds.org/guide/whtkit) 
-* [Xeno-canto](https://www.xeno-canto.org/species/whtkit) 
+* [Xeno-canto](https://www.xeno-canto.org/species/elanus-leucurus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=whtkit&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/whtkit)
 

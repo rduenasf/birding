@@ -24,7 +24,7 @@ species_code: "lobcur"
 ## Links
 * [eBird](https://ebird.org/species/lobcur) 
 * [All About Birds](https://www.allaboutbirds.org/guide/lobcur) 
-* [Xeno-canto](https://www.xeno-canto.org/species/lobcur) 
+* [Xeno-canto](https://www.xeno-canto.org/species/numenius-americanus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=lobcur&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/lobcur)
 

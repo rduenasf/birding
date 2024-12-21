@@ -24,7 +24,7 @@ species_code: "casfin"
 ## Links
 * [eBird](https://ebird.org/species/casfin) 
 * [All About Birds](https://www.allaboutbirds.org/guide/casfin) 
-* [Xeno-canto](https://www.xeno-canto.org/species/casfin) 
+* [Xeno-canto](https://www.xeno-canto.org/species/haemorhous-cassinii) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=casfin&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/casfin)
 

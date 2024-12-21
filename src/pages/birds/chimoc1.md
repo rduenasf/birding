@@ -24,7 +24,7 @@ species_code: "chimoc1"
 ## Links
 * [eBird](https://ebird.org/species/chimoc1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/chimoc1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/chimoc1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/mimus-thenca) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=chimoc1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/chimoc1)
 

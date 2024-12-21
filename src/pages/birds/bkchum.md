@@ -24,7 +24,7 @@ species_code: "bkchum"
 ## Links
 * [eBird](https://ebird.org/species/bkchum) 
 * [All About Birds](https://www.allaboutbirds.org/guide/bkchum) 
-* [Xeno-canto](https://www.xeno-canto.org/species/bkchum) 
+* [Xeno-canto](https://www.xeno-canto.org/species/archilochus-alexandri) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bkchum&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/bkchum)
 

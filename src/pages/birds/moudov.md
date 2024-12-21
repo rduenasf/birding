@@ -24,7 +24,7 @@ species_code: "moudov"
 ## Links
 * [eBird](https://ebird.org/species/moudov) 
 * [All About Birds](https://www.allaboutbirds.org/guide/moudov) 
-* [Xeno-canto](https://www.xeno-canto.org/species/moudov) 
+* [Xeno-canto](https://www.xeno-canto.org/species/zenaida-macroura) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=moudov&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/moudov)
 

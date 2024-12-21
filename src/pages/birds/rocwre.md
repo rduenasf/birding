@@ -24,7 +24,7 @@ species_code: "rocwre"
 ## Links
 * [eBird](https://ebird.org/species/rocwre) 
 * [All About Birds](https://www.allaboutbirds.org/guide/rocwre) 
-* [Xeno-canto](https://www.xeno-canto.org/species/rocwre) 
+* [Xeno-canto](https://www.xeno-canto.org/species/salpinctes-obsoletus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rocwre&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/rocwre)
 

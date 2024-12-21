@@ -24,7 +24,7 @@ species_code: "comgal1"
 ## Links
 * [eBird](https://ebird.org/species/comgal1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/comgal1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/comgal1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/gallinula-galeata) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=comgal1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/comgal1)
 

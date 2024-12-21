@@ -24,7 +24,7 @@ species_code: "comgra"
 ## Links
 * [eBird](https://ebird.org/species/comgra) 
 * [All About Birds](https://www.allaboutbirds.org/guide/comgra) 
-* [Xeno-canto](https://www.xeno-canto.org/species/comgra) 
+* [Xeno-canto](https://www.xeno-canto.org/species/quiscalus-quiscula) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=comgra&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/comgra)
 

@@ -24,7 +24,7 @@ species_code: "rethaw"
 ## Links
 * [eBird](https://ebird.org/species/rethaw) 
 * [All About Birds](https://www.allaboutbirds.org/guide/rethaw) 
-* [Xeno-canto](https://www.xeno-canto.org/species/rethaw) 
+* [Xeno-canto](https://www.xeno-canto.org/species/buteo-jamaicensis) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rethaw&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/rethaw)
 

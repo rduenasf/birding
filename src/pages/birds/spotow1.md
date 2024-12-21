@@ -24,7 +24,7 @@ species_code: "spotow1"
 ## Links
 * [eBird](https://ebird.org/species/spotow1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/spotow1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/spotow1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/pipilo-maculatus-[oregonus-group]) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=spotow1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/spotow1)
 

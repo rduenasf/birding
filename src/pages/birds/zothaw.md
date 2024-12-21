@@ -24,7 +24,7 @@ species_code: "zothaw"
 ## Links
 * [eBird](https://ebird.org/species/zothaw) 
 * [All About Birds](https://www.allaboutbirds.org/guide/zothaw) 
-* [Xeno-canto](https://www.xeno-canto.org/species/zothaw) 
+* [Xeno-canto](https://www.xeno-canto.org/species/buteo-albonotatus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=zothaw&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/zothaw)
 

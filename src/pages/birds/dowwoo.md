@@ -24,7 +24,7 @@ species_code: "dowwoo"
 ## Links
 * [eBird](https://ebird.org/species/dowwoo) 
 * [All About Birds](https://www.allaboutbirds.org/guide/dowwoo) 
-* [Xeno-canto](https://www.xeno-canto.org/species/dowwoo) 
+* [Xeno-canto](https://www.xeno-canto.org/species/dryobates-pubescens) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=dowwoo&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/dowwoo)
 

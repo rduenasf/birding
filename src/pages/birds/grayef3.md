@@ -24,7 +24,7 @@ species_code: "grayef3"
 ## Links
 * [eBird](https://ebird.org/species/grayef3) 
 * [All About Birds](https://www.allaboutbirds.org/guide/grayef3) 
-* [Xeno-canto](https://www.xeno-canto.org/species/grayef3) 
+* [Xeno-canto](https://www.xeno-canto.org/species/sicalis-luteola-[luteola-group]) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=grayef3&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/grayef3)
 

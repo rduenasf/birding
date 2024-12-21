@@ -24,7 +24,7 @@ species_code: "bracor"
 ## Links
 * [eBird](https://ebird.org/species/bracor) 
 * [All About Birds](https://www.allaboutbirds.org/guide/bracor) 
-* [Xeno-canto](https://www.xeno-canto.org/species/bracor) 
+* [Xeno-canto](https://www.xeno-canto.org/species/urile-penicillatus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bracor&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/bracor)
 

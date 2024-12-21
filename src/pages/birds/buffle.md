@@ -24,7 +24,7 @@ species_code: "buffle"
 ## Links
 * [eBird](https://ebird.org/species/buffle) 
 * [All About Birds](https://www.allaboutbirds.org/guide/buffle) 
-* [Xeno-canto](https://www.xeno-canto.org/species/buffle) 
+* [Xeno-canto](https://www.xeno-canto.org/species/bucephala-albeola) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=buffle&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/buffle)
 

@@ -24,7 +24,7 @@ species_code: "gyfcin1"
 ## Links
 * [eBird](https://ebird.org/species/gyfcin1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/gyfcin1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/gyfcin1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/cinclodes-oustaleti) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=gyfcin1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/gyfcin1)
 

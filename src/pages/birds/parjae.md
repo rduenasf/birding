@@ -24,7 +24,7 @@ species_code: "parjae"
 ## Links
 * [eBird](https://ebird.org/species/parjae) 
 * [All About Birds](https://www.allaboutbirds.org/guide/parjae) 
-* [Xeno-canto](https://www.xeno-canto.org/species/parjae) 
+* [Xeno-canto](https://www.xeno-canto.org/species/stercorarius-parasiticus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=parjae&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/parjae)
 

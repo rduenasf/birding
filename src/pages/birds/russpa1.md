@@ -24,7 +24,7 @@ species_code: "russpa1"
 ## Links
 * [eBird](https://ebird.org/species/russpa1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/russpa1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/russpa1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/aimophila-rufescens) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=russpa1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/russpa1)
 

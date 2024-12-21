@@ -24,7 +24,7 @@ species_code: "dunlin"
 ## Links
 * [eBird](https://ebird.org/species/dunlin) 
 * [All About Birds](https://www.allaboutbirds.org/guide/dunlin) 
-* [Xeno-canto](https://www.xeno-canto.org/species/dunlin) 
+* [Xeno-canto](https://www.xeno-canto.org/species/calidris-alpina) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=dunlin&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/dunlin)
 

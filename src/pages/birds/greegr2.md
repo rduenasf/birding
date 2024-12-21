@@ -24,7 +24,7 @@ species_code: "greegr2"
 ## Links
 * [eBird](https://ebird.org/species/greegr2) 
 * [All About Birds](https://www.allaboutbirds.org/guide/greegr2) 
-* [Xeno-canto](https://www.xeno-canto.org/species/greegr2) 
+* [Xeno-canto](https://www.xeno-canto.org/species/ardea-alba-egretta) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=greegr2&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/greegr2)
 

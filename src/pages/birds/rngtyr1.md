@@ -24,7 +24,7 @@ species_code: "rngtyr1"
 ## Links
 * [eBird](https://ebird.org/species/rngtyr1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/rngtyr1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/rngtyr1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/muscisaxicola-rufivertex) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rngtyr1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/rngtyr1)
 

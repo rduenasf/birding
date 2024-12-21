@@ -24,7 +24,7 @@ species_code: "blumoc"
 ## Links
 * [eBird](https://ebird.org/species/blumoc) 
 * [All About Birds](https://www.allaboutbirds.org/guide/blumoc) 
-* [Xeno-canto](https://www.xeno-canto.org/species/blumoc) 
+* [Xeno-canto](https://www.xeno-canto.org/species/melanotis-caerulescens) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=blumoc&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/blumoc)
 

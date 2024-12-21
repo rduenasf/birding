@@ -24,7 +24,7 @@ species_code: "glagul"
 ## Links
 * [eBird](https://ebird.org/species/glagul) 
 * [All About Birds](https://www.allaboutbirds.org/guide/glagul) 
-* [Xeno-canto](https://www.xeno-canto.org/species/glagul) 
+* [Xeno-canto](https://www.xeno-canto.org/species/larus-hyperboreus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=glagul&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/glagul)
 

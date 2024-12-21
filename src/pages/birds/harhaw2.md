@@ -24,7 +24,7 @@ species_code: "harhaw2"
 ## Links
 * [eBird](https://ebird.org/species/harhaw2) 
 * [All About Birds](https://www.allaboutbirds.org/guide/harhaw2) 
-* [Xeno-canto](https://www.xeno-canto.org/species/harhaw2) 
+* [Xeno-canto](https://www.xeno-canto.org/species/parabuteo-unicinctus-unicinctus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=harhaw2&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/harhaw2)
 

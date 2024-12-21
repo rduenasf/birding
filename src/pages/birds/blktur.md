@@ -24,7 +24,7 @@ species_code: "blktur"
 ## Links
 * [eBird](https://ebird.org/species/blktur) 
 * [All About Birds](https://www.allaboutbirds.org/guide/blktur) 
-* [Xeno-canto](https://www.xeno-canto.org/species/blktur) 
+* [Xeno-canto](https://www.xeno-canto.org/species/arenaria-melanocephala) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=blktur&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/blktur)
 

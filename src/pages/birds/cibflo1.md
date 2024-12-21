@@ -24,7 +24,7 @@ species_code: "cibflo1"
 ## Links
 * [eBird](https://ebird.org/species/cibflo1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/cibflo1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/cibflo1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/diglossa-baritula) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=cibflo1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/cibflo1)
 

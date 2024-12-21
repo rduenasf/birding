@@ -24,7 +24,7 @@ species_code: "whtfly1"
 ## Links
 * [eBird](https://ebird.org/species/whtfly1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/whtfly1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/whtfly1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/empidonax-albigularis) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=whtfly1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/whtfly1)
 

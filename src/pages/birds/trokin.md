@@ -24,7 +24,7 @@ species_code: "trokin"
 ## Links
 * [eBird](https://ebird.org/species/trokin) 
 * [All About Birds](https://www.allaboutbirds.org/guide/trokin) 
-* [Xeno-canto](https://www.xeno-canto.org/species/trokin) 
+* [Xeno-canto](https://www.xeno-canto.org/species/tyrannus-melancholicus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=trokin&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/trokin)
 

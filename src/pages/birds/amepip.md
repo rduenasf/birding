@@ -24,7 +24,7 @@ species_code: "amepip"
 ## Links
 * [eBird](https://ebird.org/species/amepip) 
 * [All About Birds](https://www.allaboutbirds.org/guide/amepip) 
-* [Xeno-canto](https://www.xeno-canto.org/species/amepip) 
+* [Xeno-canto](https://www.xeno-canto.org/species/anthus-rubescens) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=amepip&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/amepip)
 

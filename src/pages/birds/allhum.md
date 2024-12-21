@@ -24,7 +24,7 @@ species_code: "allhum"
 ## Links
 * [eBird](https://ebird.org/species/allhum) 
 * [All About Birds](https://www.allaboutbirds.org/guide/allhum) 
-* [Xeno-canto](https://www.xeno-canto.org/species/allhum) 
+* [Xeno-canto](https://www.xeno-canto.org/species/selasphorus-sasin) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=allhum&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/allhum)
 

@@ -24,7 +24,7 @@ species_code: "virrai"
 ## Links
 * [eBird](https://ebird.org/species/virrai) 
 * [All About Birds](https://www.allaboutbirds.org/guide/virrai) 
-* [Xeno-canto](https://www.xeno-canto.org/species/virrai) 
+* [Xeno-canto](https://www.xeno-canto.org/species/rallus-limicola) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=virrai&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/virrai)
 

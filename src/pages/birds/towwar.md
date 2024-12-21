@@ -24,7 +24,7 @@ species_code: "towwar"
 ## Links
 * [eBird](https://ebird.org/species/towwar) 
 * [All About Birds](https://www.allaboutbirds.org/guide/towwar) 
-* [Xeno-canto](https://www.xeno-canto.org/species/towwar) 
+* [Xeno-canto](https://www.xeno-canto.org/species/setophaga-townsendi) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=towwar&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/towwar)
 

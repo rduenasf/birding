@@ -24,7 +24,7 @@ species_code: "heegul"
 ## Links
 * [eBird](https://ebird.org/species/heegul) 
 * [All About Birds](https://www.allaboutbirds.org/guide/heegul) 
-* [Xeno-canto](https://www.xeno-canto.org/species/heegul) 
+* [Xeno-canto](https://www.xeno-canto.org/species/larus-heermanni) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=heegul&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/heegul)
 

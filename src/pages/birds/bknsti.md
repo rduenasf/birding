@@ -24,7 +24,7 @@ species_code: "bknsti"
 ## Links
 * [eBird](https://ebird.org/species/bknsti) 
 * [All About Birds](https://www.allaboutbirds.org/guide/bknsti) 
-* [Xeno-canto](https://www.xeno-canto.org/species/bknsti) 
+* [Xeno-canto](https://www.xeno-canto.org/species/himantopus-mexicanus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bknsti&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/bknsti)
 

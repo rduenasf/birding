@@ -24,7 +24,7 @@ species_code: "btywar"
 ## Links
 * [eBird](https://ebird.org/species/btywar) 
 * [All About Birds](https://www.allaboutbirds.org/guide/btywar) 
-* [Xeno-canto](https://www.xeno-canto.org/species/btywar) 
+* [Xeno-canto](https://www.xeno-canto.org/species/setophaga-nigrescens) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=btywar&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/btywar)
 

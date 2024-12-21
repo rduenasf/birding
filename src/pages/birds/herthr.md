@@ -24,7 +24,7 @@ species_code: "herthr"
 ## Links
 * [eBird](https://ebird.org/species/herthr) 
 * [All About Birds](https://www.allaboutbirds.org/guide/herthr) 
-* [Xeno-canto](https://www.xeno-canto.org/species/herthr) 
+* [Xeno-canto](https://www.xeno-canto.org/species/catharus-guttatus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=herthr&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/herthr)
 

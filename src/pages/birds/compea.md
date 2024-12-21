@@ -24,7 +24,7 @@ species_code: "compea"
 ## Links
 * [eBird](https://ebird.org/species/compea) 
 * [All About Birds](https://www.allaboutbirds.org/guide/compea) 
-* [Xeno-canto](https://www.xeno-canto.org/species/compea) 
+* [Xeno-canto](https://www.xeno-canto.org/species/pavo-cristatus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=compea&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/compea)
 

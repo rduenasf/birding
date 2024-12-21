@@ -24,7 +24,7 @@ species_code: "mosfin1"
 ## Links
 * [eBird](https://ebird.org/species/mosfin1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/mosfin1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/mosfin1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/rhopospina-fruticeti) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=mosfin1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/mosfin1)
 

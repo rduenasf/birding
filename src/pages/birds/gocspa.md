@@ -24,7 +24,7 @@ species_code: "gocspa"
 ## Links
 * [eBird](https://ebird.org/species/gocspa) 
 * [All About Birds](https://www.allaboutbirds.org/guide/gocspa) 
-* [Xeno-canto](https://www.xeno-canto.org/species/gocspa) 
+* [Xeno-canto](https://www.xeno-canto.org/species/zonotrichia-atricapilla) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=gocspa&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/gocspa)
 

@@ -24,7 +24,7 @@ species_code: "wesgre"
 ## Links
 * [eBird](https://ebird.org/species/wesgre) 
 * [All About Birds](https://www.allaboutbirds.org/guide/wesgre) 
-* [Xeno-canto](https://www.xeno-canto.org/species/wesgre) 
+* [Xeno-canto](https://www.xeno-canto.org/species/aechmophorus-occidentalis) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=wesgre&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/wesgre)
 

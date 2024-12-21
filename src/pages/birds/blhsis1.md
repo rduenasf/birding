@@ -24,7 +24,7 @@ species_code: "blhsis1"
 ## Links
 * [eBird](https://ebird.org/species/blhsis1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/blhsis1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/blhsis1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/spinus-notatus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=blhsis1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/blhsis1)
 

@@ -24,7 +24,7 @@ species_code: "bkfalb"
 ## Links
 * [eBird](https://ebird.org/species/bkfalb) 
 * [All About Birds](https://www.allaboutbirds.org/guide/bkfalb) 
-* [Xeno-canto](https://www.xeno-canto.org/species/bkfalb) 
+* [Xeno-canto](https://www.xeno-canto.org/species/phoebastria-nigripes) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bkfalb&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/bkfalb)
 

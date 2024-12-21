@@ -24,7 +24,7 @@ species_code: "calidr"
 ## Links
 * [eBird](https://ebird.org/species/calidr) 
 * [All About Birds](https://www.allaboutbirds.org/guide/calidr) 
-* [Xeno-canto](https://www.xeno-canto.org/species/calidr) 
+* [Xeno-canto](https://www.xeno-canto.org/species/calidris-sp.-(peep-sp.)) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=calidr&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/calidr)
 

@@ -24,7 +24,7 @@ species_code: "sora"
 ## Links
 * [eBird](https://ebird.org/species/sora) 
 * [All About Birds](https://www.allaboutbirds.org/guide/sora) 
-* [Xeno-canto](https://www.xeno-canto.org/species/sora) 
+* [Xeno-canto](https://www.xeno-canto.org/species/porzana-carolina) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=sora&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/sora)
 

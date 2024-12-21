@@ -24,7 +24,7 @@ species_code: "bulori"
 ## Links
 * [eBird](https://ebird.org/species/bulori) 
 * [All About Birds](https://www.allaboutbirds.org/guide/bulori) 
-* [Xeno-canto](https://www.xeno-canto.org/species/bulori) 
+* [Xeno-canto](https://www.xeno-canto.org/species/icterus-bullockii) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bulori&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/bulori)
 

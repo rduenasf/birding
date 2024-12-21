@@ -24,7 +24,7 @@ species_code: "slcjun"
 ## Links
 * [eBird](https://ebird.org/species/slcjun) 
 * [All About Birds](https://www.allaboutbirds.org/guide/slcjun) 
-* [Xeno-canto](https://www.xeno-canto.org/species/slcjun) 
+* [Xeno-canto](https://www.xeno-canto.org/species/junco-hyemalis-hyemalis/carolinensis) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=slcjun&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/slcjun)
 

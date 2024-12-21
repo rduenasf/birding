@@ -24,7 +24,7 @@ species_code: "normoc"
 ## Links
 * [eBird](https://ebird.org/species/normoc) 
 * [All About Birds](https://www.allaboutbirds.org/guide/normoc) 
-* [Xeno-canto](https://www.xeno-canto.org/species/normoc) 
+* [Xeno-canto](https://www.xeno-canto.org/species/mimus-polyglottos) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=normoc&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/normoc)
 

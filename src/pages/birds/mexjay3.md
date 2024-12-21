@@ -24,7 +24,7 @@ species_code: "mexjay3"
 ## Links
 * [eBird](https://ebird.org/species/mexjay3) 
 * [All About Birds](https://www.allaboutbirds.org/guide/mexjay3) 
-* [Xeno-canto](https://www.xeno-canto.org/species/mexjay3) 
+* [Xeno-canto](https://www.xeno-canto.org/species/aphelocoma-ultramarina) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=mexjay3&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/mexjay3)
 

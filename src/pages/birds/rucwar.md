@@ -24,7 +24,7 @@ species_code: "rucwar"
 ## Links
 * [eBird](https://ebird.org/species/rucwar) 
 * [All About Birds](https://www.allaboutbirds.org/guide/rucwar) 
-* [Xeno-canto](https://www.xeno-canto.org/species/rucwar) 
+* [Xeno-canto](https://www.xeno-canto.org/species/basileuterus-rufifrons) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rucwar&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/rucwar)
 

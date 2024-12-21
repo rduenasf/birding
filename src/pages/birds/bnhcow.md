@@ -24,7 +24,7 @@ species_code: "bnhcow"
 ## Links
 * [eBird](https://ebird.org/species/bnhcow) 
 * [All About Birds](https://www.allaboutbirds.org/guide/bnhcow) 
-* [Xeno-canto](https://www.xeno-canto.org/species/bnhcow) 
+* [Xeno-canto](https://www.xeno-canto.org/species/molothrus-ater) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bnhcow&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/bnhcow)
 

@@ -24,7 +24,7 @@ species_code: "sposan"
 ## Links
 * [eBird](https://ebird.org/species/sposan) 
 * [All About Birds](https://www.allaboutbirds.org/guide/sposan) 
-* [Xeno-canto](https://www.xeno-canto.org/species/sposan) 
+* [Xeno-canto](https://www.xeno-canto.org/species/actitis-macularius) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=sposan&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/sposan)
 

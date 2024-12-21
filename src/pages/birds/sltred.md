@@ -24,7 +24,7 @@ species_code: "sltred"
 ## Links
 * [eBird](https://ebird.org/species/sltred) 
 * [All About Birds](https://www.allaboutbirds.org/guide/sltred) 
-* [Xeno-canto](https://www.xeno-canto.org/species/sltred) 
+* [Xeno-canto](https://www.xeno-canto.org/species/myioborus-miniatus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=sltred&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/sltred)
 

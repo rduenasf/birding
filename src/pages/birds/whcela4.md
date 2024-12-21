@@ -24,7 +24,7 @@ species_code: "whcela4"
 ## Links
 * [eBird](https://ebird.org/species/whcela4) 
 * [All About Birds](https://www.allaboutbirds.org/guide/whcela4) 
-* [Xeno-canto](https://www.xeno-canto.org/species/whcela4) 
+* [Xeno-canto](https://www.xeno-canto.org/species/elaenia-albiceps-chilensis) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=whcela4&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/whcela4)
 

@@ -24,7 +24,7 @@ species_code: "cintea"
 ## Links
 * [eBird](https://ebird.org/species/cintea) 
 * [All About Birds](https://www.allaboutbirds.org/guide/cintea) 
-* [Xeno-canto](https://www.xeno-canto.org/species/cintea) 
+* [Xeno-canto](https://www.xeno-canto.org/species/spatula-cyanoptera) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=cintea&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/cintea)
 

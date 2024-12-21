@@ -24,7 +24,7 @@ species_code: "audwar"
 ## Links
 * [eBird](https://ebird.org/species/audwar) 
 * [All About Birds](https://www.allaboutbirds.org/guide/audwar) 
-* [Xeno-canto](https://www.xeno-canto.org/species/audwar) 
+* [Xeno-canto](https://www.xeno-canto.org/species/setophaga-coronata-auduboni) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=audwar&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/audwar)
 

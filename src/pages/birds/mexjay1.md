@@ -24,7 +24,7 @@ species_code: "mexjay1"
 ## Links
 * [eBird](https://ebird.org/species/mexjay1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/mexjay1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/mexjay1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/aphelocoma-wollweberi-[wollweberi-group]) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=mexjay1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/mexjay1)
 

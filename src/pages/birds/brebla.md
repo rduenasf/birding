@@ -24,7 +24,7 @@ species_code: "brebla"
 ## Links
 * [eBird](https://ebird.org/species/brebla) 
 * [All About Birds](https://www.allaboutbirds.org/guide/brebla) 
-* [Xeno-canto](https://www.xeno-canto.org/species/brebla) 
+* [Xeno-canto](https://www.xeno-canto.org/species/euphagus-cyanocephalus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=brebla&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/brebla)
 

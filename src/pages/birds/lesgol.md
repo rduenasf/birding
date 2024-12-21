@@ -24,7 +24,7 @@ species_code: "lesgol"
 ## Links
 * [eBird](https://ebird.org/species/lesgol) 
 * [All About Birds](https://www.allaboutbirds.org/guide/lesgol) 
-* [Xeno-canto](https://www.xeno-canto.org/species/lesgol) 
+* [Xeno-canto](https://www.xeno-canto.org/species/spinus-psaltria) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=lesgol&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/lesgol)
 

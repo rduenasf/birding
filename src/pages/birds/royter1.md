@@ -24,7 +24,7 @@ species_code: "royter1"
 ## Links
 * [eBird](https://ebird.org/species/royter1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/royter1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/royter1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/thalasseus-maximus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=royter1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/royter1)
 

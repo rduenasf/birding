@@ -24,7 +24,7 @@ species_code: "swtkit"
 ## Links
 * [eBird](https://ebird.org/species/swtkit) 
 * [All About Birds](https://www.allaboutbirds.org/guide/swtkit) 
-* [Xeno-canto](https://www.xeno-canto.org/species/swtkit) 
+* [Xeno-canto](https://www.xeno-canto.org/species/elanoides-forficatus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=swtkit&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/swtkit)
 

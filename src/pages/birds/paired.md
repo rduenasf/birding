@@ -24,7 +24,7 @@ species_code: "paired"
 ## Links
 * [eBird](https://ebird.org/species/paired) 
 * [All About Birds](https://www.allaboutbirds.org/guide/paired) 
-* [Xeno-canto](https://www.xeno-canto.org/species/paired) 
+* [Xeno-canto](https://www.xeno-canto.org/species/myioborus-pictus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=paired&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/paired)
 

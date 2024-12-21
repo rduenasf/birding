@@ -24,7 +24,7 @@ species_code: "britit"
 ## Links
 * [eBird](https://ebird.org/species/britit) 
 * [All About Birds](https://www.allaboutbirds.org/guide/britit) 
-* [Xeno-canto](https://www.xeno-canto.org/species/britit) 
+* [Xeno-canto](https://www.xeno-canto.org/species/baeolophus-wollweberi) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=britit&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/britit)
 

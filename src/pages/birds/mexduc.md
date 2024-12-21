@@ -24,7 +24,7 @@ species_code: "mexduc"
 ## Links
 * [eBird](https://ebird.org/species/mexduc) 
 * [All About Birds](https://www.allaboutbirds.org/guide/mexduc) 
-* [Xeno-canto](https://www.xeno-canto.org/species/mexduc) 
+* [Xeno-canto](https://www.xeno-canto.org/species/anas-diazi) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=mexduc&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/mexduc)
 

@@ -24,7 +24,7 @@ species_code: "grhowl"
 ## Links
 * [eBird](https://ebird.org/species/grhowl) 
 * [All About Birds](https://www.allaboutbirds.org/guide/grhowl) 
-* [Xeno-canto](https://www.xeno-canto.org/species/grhowl) 
+* [Xeno-canto](https://www.xeno-canto.org/species/bubo-virginianus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=grhowl&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/grhowl)
 

@@ -24,7 +24,7 @@ species_code: "baleag"
 ## Links
 * [eBird](https://ebird.org/species/baleag) 
 * [All About Birds](https://www.allaboutbirds.org/guide/baleag) 
-* [Xeno-canto](https://www.xeno-canto.org/species/baleag) 
+* [Xeno-canto](https://www.xeno-canto.org/species/haliaeetus-leucocephalus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=baleag&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/baleag)
 

@@ -24,7 +24,7 @@ species_code: "norcar"
 ## Links
 * [eBird](https://ebird.org/species/norcar) 
 * [All About Birds](https://www.allaboutbirds.org/guide/norcar) 
-* [Xeno-canto](https://www.xeno-canto.org/species/norcar) 
+* [Xeno-canto](https://www.xeno-canto.org/species/cardinalis-cardinalis) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=norcar&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/norcar)
 

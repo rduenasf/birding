@@ -24,7 +24,7 @@ species_code: "sooshe"
 ## Links
 * [eBird](https://ebird.org/species/sooshe) 
 * [All About Birds](https://www.allaboutbirds.org/guide/sooshe) 
-* [Xeno-canto](https://www.xeno-canto.org/species/sooshe) 
+* [Xeno-canto](https://www.xeno-canto.org/species/ardenna-grisea) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=sooshe&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/sooshe)
 

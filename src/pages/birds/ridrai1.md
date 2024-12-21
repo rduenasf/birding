@@ -24,7 +24,7 @@ species_code: "ridrai1"
 ## Links
 * [eBird](https://ebird.org/species/ridrai1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/ridrai1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/ridrai1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/rallus-obsoletus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=ridrai1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/ridrai1)
 

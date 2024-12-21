@@ -24,7 +24,7 @@ species_code: "blkvul"
 ## Links
 * [eBird](https://ebird.org/species/blkvul) 
 * [All About Birds](https://www.allaboutbirds.org/guide/blkvul) 
-* [Xeno-canto](https://www.xeno-canto.org/species/blkvul) 
+* [Xeno-canto](https://www.xeno-canto.org/species/coragyps-atratus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=blkvul&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/blkvul)
 

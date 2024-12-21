@@ -24,7 +24,7 @@ species_code: "larspa"
 ## Links
 * [eBird](https://ebird.org/species/larspa) 
 * [All About Birds](https://www.allaboutbirds.org/guide/larspa) 
-* [Xeno-canto](https://www.xeno-canto.org/species/larspa) 
+* [Xeno-canto](https://www.xeno-canto.org/species/chondestes-grammacus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=larspa&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/larspa)
 

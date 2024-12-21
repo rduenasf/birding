@@ -24,7 +24,7 @@ species_code: "buwtea"
 ## Links
 * [eBird](https://ebird.org/species/buwtea) 
 * [All About Birds](https://www.allaboutbirds.org/guide/buwtea) 
-* [Xeno-canto](https://www.xeno-canto.org/species/buwtea) 
+* [Xeno-canto](https://www.xeno-canto.org/species/spatula-discors) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=buwtea&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/buwtea)
 

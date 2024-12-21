@@ -24,7 +24,7 @@ species_code: "yerwar"
 ## Links
 * [eBird](https://ebird.org/species/yerwar) 
 * [All About Birds](https://www.allaboutbirds.org/guide/yerwar) 
-* [Xeno-canto](https://www.xeno-canto.org/species/yerwar) 
+* [Xeno-canto](https://www.xeno-canto.org/species/setophaga-coronata) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=yerwar&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/yerwar)
 

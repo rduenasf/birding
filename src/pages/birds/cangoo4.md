@@ -24,7 +24,7 @@ species_code: "cangoo4"
 ## Links
 * [eBird](https://ebird.org/species/cangoo4) 
 * [All About Birds](https://www.allaboutbirds.org/guide/cangoo4) 
-* [Xeno-canto](https://www.xeno-canto.org/species/cangoo4) 
+* [Xeno-canto](https://www.xeno-canto.org/species/branta-canadensis-moffitti/maxima) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=cangoo4&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/cangoo4)
 

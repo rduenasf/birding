@@ -24,7 +24,7 @@ species_code: "amewig"
 ## Links
 * [eBird](https://ebird.org/species/amewig) 
 * [All About Birds](https://www.allaboutbirds.org/guide/amewig) 
-* [Xeno-canto](https://www.xeno-canto.org/species/amewig) 
+* [Xeno-canto](https://www.xeno-canto.org/species/mareca-americana) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=amewig&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/amewig)
 

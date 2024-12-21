@@ -24,7 +24,7 @@ species_code: "stejay"
 ## Links
 * [eBird](https://ebird.org/species/stejay) 
 * [All About Birds](https://www.allaboutbirds.org/guide/stejay) 
-* [Xeno-canto](https://www.xeno-canto.org/species/stejay) 
+* [Xeno-canto](https://www.xeno-canto.org/species/cyanocitta-stelleri) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=stejay&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/stejay)
 

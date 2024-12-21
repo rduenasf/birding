@@ -24,7 +24,7 @@ species_code: "wrenti"
 ## Links
 * [eBird](https://ebird.org/species/wrenti) 
 * [All About Birds](https://www.allaboutbirds.org/guide/wrenti) 
-* [Xeno-canto](https://www.xeno-canto.org/species/wrenti) 
+* [Xeno-canto](https://www.xeno-canto.org/species/chamaea-fasciata) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=wrenti&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/wrenti)
 

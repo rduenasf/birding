@@ -24,7 +24,7 @@ species_code: "lucwar"
 ## Links
 * [eBird](https://ebird.org/species/lucwar) 
 * [All About Birds](https://www.allaboutbirds.org/guide/lucwar) 
-* [Xeno-canto](https://www.xeno-canto.org/species/lucwar) 
+* [Xeno-canto](https://www.xeno-canto.org/species/leiothlypis-luciae) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=lucwar&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/lucwar)
 

@@ -24,7 +24,7 @@ species_code: "bkbplo"
 ## Links
 * [eBird](https://ebird.org/species/bkbplo) 
 * [All About Birds](https://www.allaboutbirds.org/guide/bkbplo) 
-* [Xeno-canto](https://www.xeno-canto.org/species/bkbplo) 
+* [Xeno-canto](https://www.xeno-canto.org/species/pluvialis-squatarola) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bkbplo&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/bkbplo)
 

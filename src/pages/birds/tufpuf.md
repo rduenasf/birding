@@ -24,7 +24,7 @@ species_code: "tufpuf"
 ## Links
 * [eBird](https://ebird.org/species/tufpuf) 
 * [All About Birds](https://www.allaboutbirds.org/guide/tufpuf) 
-* [Xeno-canto](https://www.xeno-canto.org/species/tufpuf) 
+* [Xeno-canto](https://www.xeno-canto.org/species/fratercula-cirrhata) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=tufpuf&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/tufpuf)
 

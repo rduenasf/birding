@@ -24,7 +24,7 @@ species_code: "whiibi"
 ## Links
 * [eBird](https://ebird.org/species/whiibi) 
 * [All About Birds](https://www.allaboutbirds.org/guide/whiibi) 
-* [Xeno-canto](https://www.xeno-canto.org/species/whiibi) 
+* [Xeno-canto](https://www.xeno-canto.org/species/eudocimus-albus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=whiibi&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/whiibi)
 

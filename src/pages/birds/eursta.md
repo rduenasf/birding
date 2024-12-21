@@ -24,7 +24,7 @@ species_code: "eursta"
 ## Links
 * [eBird](https://ebird.org/species/eursta) 
 * [All About Birds](https://www.allaboutbirds.org/guide/eursta) 
-* [Xeno-canto](https://www.xeno-canto.org/species/eursta) 
+* [Xeno-canto](https://www.xeno-canto.org/species/sturnus-vulgaris) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=eursta&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/eursta)
 

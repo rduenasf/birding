@@ -24,7 +24,7 @@ species_code: "greyel"
 ## Links
 * [eBird](https://ebird.org/species/greyel) 
 * [All About Birds](https://www.allaboutbirds.org/guide/greyel) 
-* [Xeno-canto](https://www.xeno-canto.org/species/greyel) 
+* [Xeno-canto](https://www.xeno-canto.org/species/tringa-melanoleuca) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=greyel&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/greyel)
 

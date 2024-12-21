@@ -24,7 +24,7 @@ species_code: "whcspa"
 ## Links
 * [eBird](https://ebird.org/species/whcspa) 
 * [All About Birds](https://www.allaboutbirds.org/guide/whcspa) 
-* [Xeno-canto](https://www.xeno-canto.org/species/whcspa) 
+* [Xeno-canto](https://www.xeno-canto.org/species/zonotrichia-leucophrys) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=whcspa&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/whcspa)
 

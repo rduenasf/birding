@@ -24,7 +24,7 @@ species_code: "laugul"
 ## Links
 * [eBird](https://ebird.org/species/laugul) 
 * [All About Birds](https://www.allaboutbirds.org/guide/laugul) 
-* [Xeno-canto](https://www.xeno-canto.org/species/laugul) 
+* [Xeno-canto](https://www.xeno-canto.org/species/leucophaeus-atricilla) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=laugul&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/laugul)
 

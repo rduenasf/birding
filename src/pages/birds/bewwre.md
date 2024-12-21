@@ -24,7 +24,7 @@ species_code: "bewwre"
 ## Links
 * [eBird](https://ebird.org/species/bewwre) 
 * [All About Birds](https://www.allaboutbirds.org/guide/bewwre) 
-* [Xeno-canto](https://www.xeno-canto.org/species/bewwre) 
+* [Xeno-canto](https://www.xeno-canto.org/species/thryomanes-bewickii) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bewwre&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/bewwre)
 

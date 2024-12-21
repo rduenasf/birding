@@ -24,7 +24,7 @@ species_code: "shbcan2"
 ## Links
 * [eBird](https://ebird.org/species/shbcan2) 
 * [All About Birds](https://www.allaboutbirds.org/guide/shbcan2) 
-* [Xeno-canto](https://www.xeno-canto.org/species/shbcan2) 
+* [Xeno-canto](https://www.xeno-canto.org/species/asthenes-pyrrholeuca) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=shbcan2&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/shbcan2)
 

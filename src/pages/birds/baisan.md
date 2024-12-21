@@ -24,7 +24,7 @@ species_code: "baisan"
 ## Links
 * [eBird](https://ebird.org/species/baisan) 
 * [All About Birds](https://www.allaboutbirds.org/guide/baisan) 
-* [Xeno-canto](https://www.xeno-canto.org/species/baisan) 
+* [Xeno-canto](https://www.xeno-canto.org/species/calidris-bairdii) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=baisan&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/baisan)
 

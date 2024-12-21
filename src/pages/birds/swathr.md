@@ -24,7 +24,7 @@ species_code: "swathr"
 ## Links
 * [eBird](https://ebird.org/species/swathr) 
 * [All About Birds](https://www.allaboutbirds.org/guide/swathr) 
-* [Xeno-canto](https://www.xeno-canto.org/species/swathr) 
+* [Xeno-canto](https://www.xeno-canto.org/species/catharus-ustulatus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=swathr&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/swathr)
 

@@ -24,7 +24,7 @@ species_code: "btsfin1"
 ## Links
 * [eBird](https://ebird.org/species/btsfin1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/btsfin1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/btsfin1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/rhopospina-alaudina) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=btsfin1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/btsfin1)
 

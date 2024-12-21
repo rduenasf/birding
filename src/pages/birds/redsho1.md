@@ -24,7 +24,7 @@ species_code: "redsho1"
 ## Links
 * [eBird](https://ebird.org/species/redsho1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/redsho1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/redsho1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/spatula-platalea) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=redsho1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/redsho1)
 

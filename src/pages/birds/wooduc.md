@@ -24,7 +24,7 @@ species_code: "wooduc"
 ## Links
 * [eBird](https://ebird.org/species/wooduc) 
 * [All About Birds](https://www.allaboutbirds.org/guide/wooduc) 
-* [Xeno-canto](https://www.xeno-canto.org/species/wooduc) 
+* [Xeno-canto](https://www.xeno-canto.org/species/aix-sponsa) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=wooduc&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/wooduc)
 

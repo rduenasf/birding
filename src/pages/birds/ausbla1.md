@@ -24,7 +24,7 @@ species_code: "ausbla1"
 ## Links
 * [eBird](https://ebird.org/species/ausbla1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/ausbla1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/ausbla1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/curaeus-curaeus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=ausbla1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/ausbla1)
 

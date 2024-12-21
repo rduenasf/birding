@@ -24,7 +24,7 @@ species_code: "comyel"
 ## Links
 * [eBird](https://ebird.org/species/comyel) 
 * [All About Birds](https://www.allaboutbirds.org/guide/comyel) 
-* [Xeno-canto](https://www.xeno-canto.org/species/comyel) 
+* [Xeno-canto](https://www.xeno-canto.org/species/geothlypis-trichas) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=comyel&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/comyel)
 

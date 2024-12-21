@@ -24,7 +24,7 @@ species_code: "annhum"
 ## Links
 * [eBird](https://ebird.org/species/annhum) 
 * [All About Birds](https://www.allaboutbirds.org/guide/annhum) 
-* [Xeno-canto](https://www.xeno-canto.org/species/annhum) 
+* [Xeno-canto](https://www.xeno-canto.org/species/calypte-anna) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=annhum&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/annhum)
 

@@ -24,7 +24,7 @@ species_code: "grbher"
 ## Links
 * [eBird](https://ebird.org/species/grbher) 
 * [All About Birds](https://www.allaboutbirds.org/guide/grbher) 
-* [Xeno-canto](https://www.xeno-canto.org/species/grbher) 
+* [Xeno-canto](https://www.xeno-canto.org/species/ardea-herodias-[herodias-group]) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=grbher&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/grbher)
 

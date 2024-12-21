@@ -24,7 +24,7 @@ species_code: "mouchi"
 ## Links
 * [eBird](https://ebird.org/species/mouchi) 
 * [All About Birds](https://www.allaboutbirds.org/guide/mouchi) 
-* [Xeno-canto](https://www.xeno-canto.org/species/mouchi) 
+* [Xeno-canto](https://www.xeno-canto.org/species/poecile-gambeli) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=mouchi&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/mouchi)
 

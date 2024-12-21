@@ -24,7 +24,7 @@ species_code: "goleag"
 ## Links
 * [eBird](https://ebird.org/species/goleag) 
 * [All About Birds](https://www.allaboutbirds.org/guide/goleag) 
-* [Xeno-canto](https://www.xeno-canto.org/species/goleag) 
+* [Xeno-canto](https://www.xeno-canto.org/species/aquila-chrysaetos) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=goleag&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/goleag)
 

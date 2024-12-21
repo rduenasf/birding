@@ -24,7 +24,7 @@ species_code: "canvas"
 ## Links
 * [eBird](https://ebird.org/species/canvas) 
 * [All About Birds](https://www.allaboutbirds.org/guide/canvas) 
-* [Xeno-canto](https://www.xeno-canto.org/species/canvas) 
+* [Xeno-canto](https://www.xeno-canto.org/species/aythya-valisineria) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=canvas&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/canvas)
 

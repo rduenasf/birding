@@ -24,7 +24,7 @@ species_code: "wewpew"
 ## Links
 * [eBird](https://ebird.org/species/wewpew) 
 * [All About Birds](https://www.allaboutbirds.org/guide/wewpew) 
-* [Xeno-canto](https://www.xeno-canto.org/species/wewpew) 
+* [Xeno-canto](https://www.xeno-canto.org/species/contopus-sordidulus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=wewpew&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/wewpew)
 

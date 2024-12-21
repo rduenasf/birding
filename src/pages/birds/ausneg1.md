@@ -24,7 +24,7 @@ species_code: "ausneg1"
 ## Links
 * [eBird](https://ebird.org/species/ausneg1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/ausneg1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/ausneg1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/lessonia-rufa) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=ausneg1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/ausneg1)
 

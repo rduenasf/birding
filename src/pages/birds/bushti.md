@@ -24,7 +24,7 @@ species_code: "bushti"
 ## Links
 * [eBird](https://ebird.org/species/bushti) 
 * [All About Birds](https://www.allaboutbirds.org/guide/bushti) 
-* [Xeno-canto](https://www.xeno-canto.org/species/bushti) 
+* [Xeno-canto](https://www.xeno-canto.org/species/psaltriparus-minimus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bushti&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/bushti)
 

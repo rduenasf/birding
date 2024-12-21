@@ -24,7 +24,7 @@ species_code: "norhar2"
 ## Links
 * [eBird](https://ebird.org/species/norhar2) 
 * [All About Birds](https://www.allaboutbirds.org/guide/norhar2) 
-* [Xeno-canto](https://www.xeno-canto.org/species/norhar2) 
+* [Xeno-canto](https://www.xeno-canto.org/species/circus-hudsonius) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=norhar2&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/norhar2)
 

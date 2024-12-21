@@ -24,7 +24,7 @@ species_code: "sursco"
 ## Links
 * [eBird](https://ebird.org/species/sursco) 
 * [All About Birds](https://www.allaboutbirds.org/guide/sursco) 
-* [Xeno-canto](https://www.xeno-canto.org/species/sursco) 
+* [Xeno-canto](https://www.xeno-canto.org/species/melanitta-perspicillata) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=sursco&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/sursco)
 

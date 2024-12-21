@@ -24,7 +24,7 @@ species_code: "belvir"
 ## Links
 * [eBird](https://ebird.org/species/belvir) 
 * [All About Birds](https://www.allaboutbirds.org/guide/belvir) 
-* [Xeno-canto](https://www.xeno-canto.org/species/belvir) 
+* [Xeno-canto](https://www.xeno-canto.org/species/vireo-bellii) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=belvir&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/belvir)
 

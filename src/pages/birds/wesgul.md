@@ -24,7 +24,7 @@ species_code: "wesgul"
 ## Links
 * [eBird](https://ebird.org/species/wesgul) 
 * [All About Birds](https://www.allaboutbirds.org/guide/wesgul) 
-* [Xeno-canto](https://www.xeno-canto.org/species/wesgul) 
+* [Xeno-canto](https://www.xeno-canto.org/species/larus-occidentalis) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=wesgul&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/wesgul)
 

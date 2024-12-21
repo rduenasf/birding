@@ -24,7 +24,7 @@ species_code: "foxspa"
 ## Links
 * [eBird](https://ebird.org/species/foxspa) 
 * [All About Birds](https://www.allaboutbirds.org/guide/foxspa) 
-* [Xeno-canto](https://www.xeno-canto.org/species/foxspa) 
+* [Xeno-canto](https://www.xeno-canto.org/species/passerella-iliaca) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=foxspa&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/foxspa)
 

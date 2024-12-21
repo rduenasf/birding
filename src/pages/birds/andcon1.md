@@ -24,7 +24,7 @@ species_code: "andcon1"
 ## Links
 * [eBird](https://ebird.org/species/andcon1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/andcon1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/andcon1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/vultur-gryphus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=andcon1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/andcon1)
 

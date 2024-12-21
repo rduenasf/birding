@@ -24,7 +24,7 @@ species_code: "pacloo"
 ## Links
 * [eBird](https://ebird.org/species/pacloo) 
 * [All About Birds](https://www.allaboutbirds.org/guide/pacloo) 
-* [Xeno-canto](https://www.xeno-canto.org/species/pacloo) 
+* [Xeno-canto](https://www.xeno-canto.org/species/gavia-pacifica) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=pacloo&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/pacloo)
 

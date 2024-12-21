@@ -24,7 +24,7 @@ species_code: "flctan"
 ## Links
 * [eBird](https://ebird.org/species/flctan) 
 * [All About Birds](https://www.allaboutbirds.org/guide/flctan) 
-* [Xeno-canto](https://www.xeno-canto.org/species/flctan) 
+* [Xeno-canto](https://www.xeno-canto.org/species/piranga-bidentata) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=flctan&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/flctan)
 

@@ -24,7 +24,7 @@ species_code: "rucspa6"
 ## Links
 * [eBird](https://ebird.org/species/rucspa6) 
 * [All About Birds](https://www.allaboutbirds.org/guide/rucspa6) 
-* [Xeno-canto](https://www.xeno-canto.org/species/rucspa6) 
+* [Xeno-canto](https://www.xeno-canto.org/species/zonotrichia-capensis-[capensis-group]) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rucspa6&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/rucspa6)
 

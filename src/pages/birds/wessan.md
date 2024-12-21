@@ -24,7 +24,7 @@ species_code: "wessan"
 ## Links
 * [eBird](https://ebird.org/species/wessan) 
 * [All About Birds](https://www.allaboutbirds.org/guide/wessan) 
-* [Xeno-canto](https://www.xeno-canto.org/species/wessan) 
+* [Xeno-canto](https://www.xeno-canto.org/species/calidris-mauri) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=wessan&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/wessan)
 

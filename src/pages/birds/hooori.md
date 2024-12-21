@@ -24,7 +24,7 @@ species_code: "hooori"
 ## Links
 * [eBird](https://ebird.org/species/hooori) 
 * [All About Birds](https://www.allaboutbirds.org/guide/hooori) 
-* [Xeno-canto](https://www.xeno-canto.org/species/hooori) 
+* [Xeno-canto](https://www.xeno-canto.org/species/icterus-cucullatus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=hooori&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/hooori)
 

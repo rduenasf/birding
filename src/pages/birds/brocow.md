@@ -24,7 +24,7 @@ species_code: "brocow"
 ## Links
 * [eBird](https://ebird.org/species/brocow) 
 * [All About Birds](https://www.allaboutbirds.org/guide/brocow) 
-* [Xeno-canto](https://www.xeno-canto.org/species/brocow) 
+* [Xeno-canto](https://www.xeno-canto.org/species/molothrus-aeneus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=brocow&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/brocow)
 

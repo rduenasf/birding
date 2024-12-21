@@ -24,7 +24,7 @@ species_code: "bouwre1"
 ## Links
 * [eBird](https://ebird.org/species/bouwre1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/bouwre1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/bouwre1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/campylorhynchus-jocosus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bouwre1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/bouwre1)
 

@@ -24,7 +24,7 @@ species_code: "grygul"
 ## Links
 * [eBird](https://ebird.org/species/grygul) 
 * [All About Birds](https://www.allaboutbirds.org/guide/grygul) 
-* [Xeno-canto](https://www.xeno-canto.org/species/grygul) 
+* [Xeno-canto](https://www.xeno-canto.org/species/leucophaeus-modestus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=grygul&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/grygul)
 

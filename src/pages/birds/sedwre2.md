@@ -24,7 +24,7 @@ species_code: "sedwre2"
 ## Links
 * [eBird](https://ebird.org/species/sedwre2) 
 * [All About Birds](https://www.allaboutbirds.org/guide/sedwre2) 
-* [Xeno-canto](https://www.xeno-canto.org/species/sedwre2) 
+* [Xeno-canto](https://www.xeno-canto.org/species/cistothorus-platensis-[elegans-group]) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=sedwre2&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/sedwre2)
 

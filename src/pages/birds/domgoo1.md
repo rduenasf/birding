@@ -24,7 +24,7 @@ species_code: "domgoo1"
 ## Links
 * [eBird](https://ebird.org/species/domgoo1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/domgoo1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/domgoo1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/anser-sp.-(domestic-type)) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=domgoo1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/domgoo1)
 

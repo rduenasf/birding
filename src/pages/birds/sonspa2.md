@@ -24,7 +24,7 @@ species_code: "sonspa2"
 ## Links
 * [eBird](https://ebird.org/species/sonspa2) 
 * [All About Birds](https://www.allaboutbirds.org/guide/sonspa2) 
-* [Xeno-canto](https://www.xeno-canto.org/species/sonspa2) 
+* [Xeno-canto](https://www.xeno-canto.org/species/melospiza-melodia-melodia/atlantica) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=sonspa2&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/sonspa2)
 

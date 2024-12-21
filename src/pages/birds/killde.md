@@ -24,7 +24,7 @@ species_code: "killde"
 ## Links
 * [eBird](https://ebird.org/species/killde) 
 * [All About Birds](https://www.allaboutbirds.org/guide/killde) 
-* [Xeno-canto](https://www.xeno-canto.org/species/killde) 
+* [Xeno-canto](https://www.xeno-canto.org/species/charadrius-vociferus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=killde&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/killde)
 

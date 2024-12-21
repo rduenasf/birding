@@ -24,7 +24,7 @@ species_code: "magfri"
 ## Links
 * [eBird](https://ebird.org/species/magfri) 
 * [All About Birds](https://www.allaboutbirds.org/guide/magfri) 
-* [Xeno-canto](https://www.xeno-canto.org/species/magfri) 
+* [Xeno-canto](https://www.xeno-canto.org/species/fregata-magnificens) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=magfri&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/magfri)
 

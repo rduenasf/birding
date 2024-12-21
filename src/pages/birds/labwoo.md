@@ -24,7 +24,7 @@ species_code: "labwoo"
 ## Links
 * [eBird](https://ebird.org/species/labwoo) 
 * [All About Birds](https://www.allaboutbirds.org/guide/labwoo) 
-* [Xeno-canto](https://www.xeno-canto.org/species/labwoo) 
+* [Xeno-canto](https://www.xeno-canto.org/species/dryobates-scalaris) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=labwoo&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/labwoo)
 

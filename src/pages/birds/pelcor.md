@@ -24,7 +24,7 @@ species_code: "pelcor"
 ## Links
 * [eBird](https://ebird.org/species/pelcor) 
 * [All About Birds](https://www.allaboutbirds.org/guide/pelcor) 
-* [Xeno-canto](https://www.xeno-canto.org/species/pelcor) 
+* [Xeno-canto](https://www.xeno-canto.org/species/urile-pelagicus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=pelcor&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/pelcor)
 

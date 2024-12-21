@@ -24,7 +24,7 @@ species_code: "houfin"
 ## Links
 * [eBird](https://ebird.org/species/houfin) 
 * [All About Birds](https://www.allaboutbirds.org/guide/houfin) 
-* [Xeno-canto](https://www.xeno-canto.org/species/houfin) 
+* [Xeno-canto](https://www.xeno-canto.org/species/haemorhous-mexicanus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=houfin&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/houfin)
 

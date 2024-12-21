@@ -24,7 +24,7 @@ species_code: "rucspa"
 ## Links
 * [eBird](https://ebird.org/species/rucspa) 
 * [All About Birds](https://www.allaboutbirds.org/guide/rucspa) 
-* [Xeno-canto](https://www.xeno-canto.org/species/rucspa) 
+* [Xeno-canto](https://www.xeno-canto.org/species/aimophila-ruficeps) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=rucspa&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/rucspa)
 

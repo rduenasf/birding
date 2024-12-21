@@ -24,7 +24,7 @@ species_code: "casauk"
 ## Links
 * [eBird](https://ebird.org/species/casauk) 
 * [All About Birds](https://www.allaboutbirds.org/guide/casauk) 
-* [Xeno-canto](https://www.xeno-canto.org/species/casauk) 
+* [Xeno-canto](https://www.xeno-canto.org/species/ptychoramphus-aleuticus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=casauk&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/casauk)
 

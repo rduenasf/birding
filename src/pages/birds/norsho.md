@@ -24,7 +24,7 @@ species_code: "norsho"
 ## Links
 * [eBird](https://ebird.org/species/norsho) 
 * [All About Birds](https://www.allaboutbirds.org/guide/norsho) 
-* [Xeno-canto](https://www.xeno-canto.org/species/norsho) 
+* [Xeno-canto](https://www.xeno-canto.org/species/spatula-clypeata) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=norsho&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/norsho)
 

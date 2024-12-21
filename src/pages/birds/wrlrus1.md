@@ -24,7 +24,7 @@ species_code: "wrlrus1"
 ## Links
 * [eBird](https://ebird.org/species/wrlrus1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/wrlrus1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/wrlrus1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/phleocryptes-melanops) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=wrlrus1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/wrlrus1)
 

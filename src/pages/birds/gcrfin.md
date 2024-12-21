@@ -24,7 +24,7 @@ species_code: "gcrfin"
 ## Links
 * [eBird](https://ebird.org/species/gcrfin) 
 * [All About Birds](https://www.allaboutbirds.org/guide/gcrfin) 
-* [Xeno-canto](https://www.xeno-canto.org/species/gcrfin) 
+* [Xeno-canto](https://www.xeno-canto.org/species/leucosticte-tephrocotis) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=gcrfin&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/gcrfin)
 

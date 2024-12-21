@@ -24,7 +24,7 @@ species_code: "banswa"
 ## Links
 * [eBird](https://ebird.org/species/banswa) 
 * [All About Birds](https://www.allaboutbirds.org/guide/banswa) 
-* [Xeno-canto](https://www.xeno-canto.org/species/banswa) 
+* [Xeno-canto](https://www.xeno-canto.org/species/riparia-riparia) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=banswa&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/banswa)
 

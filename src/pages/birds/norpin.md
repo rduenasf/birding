@@ -24,7 +24,7 @@ species_code: "norpin"
 ## Links
 * [eBird](https://ebird.org/species/norpin) 
 * [All About Birds](https://www.allaboutbirds.org/guide/norpin) 
-* [Xeno-canto](https://www.xeno-canto.org/species/norpin) 
+* [Xeno-canto](https://www.xeno-canto.org/species/anas-acuta) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=norpin&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/norpin)
 

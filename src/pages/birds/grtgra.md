@@ -24,7 +24,7 @@ species_code: "grtgra"
 ## Links
 * [eBird](https://ebird.org/species/grtgra) 
 * [All About Birds](https://www.allaboutbirds.org/guide/grtgra) 
-* [Xeno-canto](https://www.xeno-canto.org/species/grtgra) 
+* [Xeno-canto](https://www.xeno-canto.org/species/quiscalus-mexicanus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=grtgra&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/grtgra)
 

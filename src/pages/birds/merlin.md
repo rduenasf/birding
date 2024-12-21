@@ -24,7 +24,7 @@ species_code: "merlin"
 ## Links
 * [eBird](https://ebird.org/species/merlin) 
 * [All About Birds](https://www.allaboutbirds.org/guide/merlin) 
-* [Xeno-canto](https://www.xeno-canto.org/species/merlin) 
+* [Xeno-canto](https://www.xeno-canto.org/species/falco-columbarius) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=merlin&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/merlin)
 

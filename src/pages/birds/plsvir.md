@@ -24,7 +24,7 @@ species_code: "plsvir"
 ## Links
 * [eBird](https://ebird.org/species/plsvir) 
 * [All About Birds](https://www.allaboutbirds.org/guide/plsvir) 
-* [Xeno-canto](https://www.xeno-canto.org/species/plsvir) 
+* [Xeno-canto](https://www.xeno-canto.org/species/vireo-plumbeus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=plsvir&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/plsvir)
 

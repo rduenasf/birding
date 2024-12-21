@@ -24,7 +24,7 @@ species_code: "gryfin2"
 ## Links
 * [eBird](https://ebird.org/species/gryfin2) 
 * [All About Birds](https://www.allaboutbirds.org/guide/gryfin2) 
-* [Xeno-canto](https://www.xeno-canto.org/species/gryfin2) 
+* [Xeno-canto](https://www.xeno-canto.org/species/sicalis-auriventris) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=gryfin2&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/gryfin2)
 

@@ -24,7 +24,7 @@ species_code: "horgre"
 ## Links
 * [eBird](https://ebird.org/species/horgre) 
 * [All About Birds](https://www.allaboutbirds.org/guide/horgre) 
-* [Xeno-canto](https://www.xeno-canto.org/species/horgre) 
+* [Xeno-canto](https://www.xeno-canto.org/species/podiceps-auritus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=horgre&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/horgre)
 

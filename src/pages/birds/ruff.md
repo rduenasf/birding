@@ -24,7 +24,7 @@ species_code: "ruff"
 ## Links
 * [eBird](https://ebird.org/species/ruff) 
 * [All About Birds](https://www.allaboutbirds.org/guide/ruff) 
-* [Xeno-canto](https://www.xeno-canto.org/species/ruff) 
+* [Xeno-canto](https://www.xeno-canto.org/species/calidris-pugnax) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=ruff&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/ruff)
 

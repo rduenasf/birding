@@ -24,7 +24,7 @@ species_code: "willet1"
 ## Links
 * [eBird](https://ebird.org/species/willet1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/willet1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/willet1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/tringa-semipalmata) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=willet1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/willet1)
 

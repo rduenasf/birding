@@ -24,7 +24,7 @@ species_code: "hamfly"
 ## Links
 * [eBird](https://ebird.org/species/hamfly) 
 * [All About Birds](https://www.allaboutbirds.org/guide/hamfly) 
-* [Xeno-canto](https://www.xeno-canto.org/species/hamfly) 
+* [Xeno-canto](https://www.xeno-canto.org/species/empidonax-hammondii) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=hamfly&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/hamfly)
 

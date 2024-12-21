@@ -24,7 +24,7 @@ species_code: "bkvori"
 ## Links
 * [eBird](https://ebird.org/species/bkvori) 
 * [All About Birds](https://www.allaboutbirds.org/guide/bkvori) 
-* [Xeno-canto](https://www.xeno-canto.org/species/bkvori) 
+* [Xeno-canto](https://www.xeno-canto.org/species/icterus-wagleri) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=bkvori&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/bkvori)
 

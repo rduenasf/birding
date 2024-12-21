@@ -24,7 +24,7 @@ species_code: "osprey"
 ## Links
 * [eBird](https://ebird.org/species/osprey) 
 * [All About Birds](https://www.allaboutbirds.org/guide/osprey) 
-* [Xeno-canto](https://www.xeno-canto.org/species/osprey) 
+* [Xeno-canto](https://www.xeno-canto.org/species/pandion-haliaetus) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=osprey&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/osprey)
 

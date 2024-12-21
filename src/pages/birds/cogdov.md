@@ -24,7 +24,7 @@ species_code: "cogdov"
 ## Links
 * [eBird](https://ebird.org/species/cogdov) 
 * [All About Birds](https://www.allaboutbirds.org/guide/cogdov) 
-* [Xeno-canto](https://www.xeno-canto.org/species/cogdov) 
+* [Xeno-canto](https://www.xeno-canto.org/species/columbina-passerina) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=cogdov&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/cogdov)
 

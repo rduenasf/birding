@@ -24,7 +24,7 @@ species_code: "ribgul"
 ## Links
 * [eBird](https://ebird.org/species/ribgul) 
 * [All About Birds](https://www.allaboutbirds.org/guide/ribgul) 
-* [Xeno-canto](https://www.xeno-canto.org/species/ribgul) 
+* [Xeno-canto](https://www.xeno-canto.org/species/larus-delawarensis) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=ribgul&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/ribgul)
 

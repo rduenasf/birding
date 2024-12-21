@@ -24,7 +24,7 @@ species_code: "myrwar"
 ## Links
 * [eBird](https://ebird.org/species/myrwar) 
 * [All About Birds](https://www.allaboutbirds.org/guide/myrwar) 
-* [Xeno-canto](https://www.xeno-canto.org/species/myrwar) 
+* [Xeno-canto](https://www.xeno-canto.org/species/setophaga-coronata-coronata) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=myrwar&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/myrwar)
 

@@ -24,7 +24,7 @@ species_code: "yelwar1"
 ## Links
 * [eBird](https://ebird.org/species/yelwar1) 
 * [All About Birds](https://www.allaboutbirds.org/guide/yelwar1) 
-* [Xeno-canto](https://www.xeno-canto.org/species/yelwar1) 
+* [Xeno-canto](https://www.xeno-canto.org/species/setophaga-petechia-[aestiva-group]) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=yelwar1&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/yelwar1)
 

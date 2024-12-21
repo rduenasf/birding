@@ -24,7 +24,7 @@ species_code: "gockin"
 ## Links
 * [eBird](https://ebird.org/species/gockin) 
 * [All About Birds](https://www.allaboutbirds.org/guide/gockin) 
-* [Xeno-canto](https://www.xeno-canto.org/species/gockin) 
+* [Xeno-canto](https://www.xeno-canto.org/species/regulus-satrapa) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=gockin&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/gockin)
 

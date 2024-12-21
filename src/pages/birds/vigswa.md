@@ -24,7 +24,7 @@ species_code: "vigswa"
 ## Links
 * [eBird](https://ebird.org/species/vigswa) 
 * [All About Birds](https://www.allaboutbirds.org/guide/vigswa) 
-* [Xeno-canto](https://www.xeno-canto.org/species/vigswa) 
+* [Xeno-canto](https://www.xeno-canto.org/species/tachycineta-thalassina) 
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=vigswa&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/vigswa)
 
