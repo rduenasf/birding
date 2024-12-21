@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Cardinalidae (Cardinals and Allies)"
 species_group: "Cardinals, Grosbeaks, and Allies"
 species_code: "pyrrhu"
+sidebar_position: 283
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Cardinalidae (Cardinals and Allies)

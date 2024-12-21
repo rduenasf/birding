@@ -5,6 +5,8 @@ order: "Charadriiformes"
 family: "Recurvirostridae (Stilts and Avocets)"
 species_group: "Shorebirds"
 species_code: "bknsti"
+sidebar_position: 52
+sidebar_class_name: " has-audio"
 tags: 
   - Charadriiformes
   - Recurvirostridae (Stilts and Avocets)

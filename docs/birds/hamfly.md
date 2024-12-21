@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "hamfly"
+sidebar_position: 192
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Tyrannidae (Tyrant Flycatchers)

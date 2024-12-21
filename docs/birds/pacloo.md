@@ -5,6 +5,8 @@ order: "Gaviiformes"
 family: "Gaviidae (Loons)"
 species_group: "Loons"
 species_code: "pacloo"
+sidebar_position: 266
+sidebar_class_name: " "
 tags: 
   - Gaviiformes
   - Gaviidae (Loons)

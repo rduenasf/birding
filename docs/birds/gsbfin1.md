@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
 species_group: "New World Sparrows"
 species_code: "gsbfin1"
+sidebar_position: 186
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Passerellidae (New World Sparrows)

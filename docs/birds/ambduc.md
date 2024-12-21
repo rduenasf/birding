@@ -5,6 +5,8 @@ order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "ambduc"
+sidebar_position: 5
+sidebar_class_name: " "
 tags: 
   - Anseriformes
   - Anatidae (Ducks, Geese, and Waterfowl)

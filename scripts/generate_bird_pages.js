@@ -22,7 +22,12 @@ if (!fs.existsSync(outputDir)) {
 }
 
 // Generate markdown files for each bird
-Object.values(ebirdData).forEach((bird) => {
+
+const species = Object.values(ebirdData)
+  .filter(({ category }) => category === "species")
+  .sort((a, b) => a.primaryComName.localeCompare(b.primaryComName));
+
+species.forEach((bird, index) => {
   const { primaryComName, sciName, order, family, speciesGroup, speciesCode } =
     bird;
 
@@ -55,6 +60,10 @@ order: "${order}"
 family: "${family}"
 species_group: "${speciesGroup}"
 species_code: "${speciesCode}"
+sidebar_position: ${index + 1}
+sidebar_class_name: "${photos.length > 0 ? "has-photo" : ""} ${
+    audios.length > 0 ? "has-audio" : ""
+  }"
 tags: 
   ${order ? "- " + order : ""}
   ${family ? "- " + family : ""}
@@ -111,8 +120,7 @@ id: Birds
 slug: /
 ---
 
-  ${Object.values(ebirdData)
-    .sort((a, b) => a.primaryComName.localeCompare(b.primaryComName))
+  ${species
     .map((bird) => {
       const { primaryComName, speciesCode, observations } = bird;
 

@@ -5,6 +5,8 @@ order: "Pelecaniformes"
 family: "Pelecanidae (Pelicans)"
 species_group: "Pelicans"
 species_code: "brnpel"
+sidebar_position: 73
+sidebar_class_name: "has-photo "
 tags: 
   - Pelecaniformes
   - Pelecanidae (Pelicans)

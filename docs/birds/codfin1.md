@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Thraupidae (Tanagers and Allies)"
 species_group: "Tanagers and Allies"
 species_code: "codfin1"
+sidebar_position: 135
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Thraupidae (Tanagers and Allies)

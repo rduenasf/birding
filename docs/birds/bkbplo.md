@@ -5,6 +5,8 @@ order: "Charadriiformes"
 family: "Charadriidae (Plovers and Lapwings)"
 species_group: "Shorebirds"
 species_code: "bkbplo"
+sidebar_position: 42
+sidebar_class_name: " "
 tags: 
   - Charadriiformes
   - Charadriidae (Plovers and Lapwings)

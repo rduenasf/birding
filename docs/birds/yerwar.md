@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
 species_group: "Wood-Warblers"
 species_code: "yerwar"
+sidebar_position: 417
+sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
   - Parulidae (New World Warblers)

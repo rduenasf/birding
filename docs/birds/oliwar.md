@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Peucedramidae (Olive Warbler)"
 species_group: "Olive Warbler"
 species_code: "oliwar"
+sidebar_position: 262
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Peucedramidae (Olive Warbler)

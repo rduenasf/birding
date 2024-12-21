@@ -5,6 +5,8 @@ order: "Piciformes"
 family: "Picidae (Woodpeckers)"
 species_group: "Woodpeckers"
 species_code: "nutwoo"
+sidebar_position: 260
+sidebar_class_name: " has-audio"
 tags: 
   - Piciformes
   - Picidae (Woodpeckers)

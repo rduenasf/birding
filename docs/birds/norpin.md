@@ -5,6 +5,8 @@ order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "norpin"
+sidebar_position: 256
+sidebar_class_name: " has-audio"
 tags: 
   - Anseriformes
   - Anatidae (Ducks, Geese, and Waterfowl)

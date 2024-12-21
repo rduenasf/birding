@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Mimidae (Mockingbirds and Thrashers)"
 species_group: "Catbirds, Mockingbirds, and Thrashers"
 species_code: "blumoc"
+sidebar_position: 60
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Mimidae (Mockingbirds and Thrashers)

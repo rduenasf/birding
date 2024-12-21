@@ -5,6 +5,8 @@ order: "Apodiformes"
 family: "Trochilidae (Hummingbirds)"
 species_group: "Hummingbirds"
 species_code: "amthum1"
+sidebar_position: 16
+sidebar_class_name: " "
 tags: 
   - Apodiformes
   - Trochilidae (Hummingbirds)

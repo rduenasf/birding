@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
 species_group: "Blackbirds"
 species_code: "brebla"
+sidebar_position: 67
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Icteridae (Troupials and Allies)

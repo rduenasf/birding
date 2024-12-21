@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Regulidae (Kinglets)"
 species_group: "Kinglets"
 species_code: "gockin"
+sidebar_position: 163
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Regulidae (Kinglets)

@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Ptiliogonatidae (Silky-flycatchers)"
 species_group: "Silky-flycatchers"
 species_code: "grsfly1"
+sidebar_position: 169
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Ptiliogonatidae (Silky-flycatchers)

@@ -5,6 +5,8 @@ order: "Apodiformes"
 family: "Trochilidae (Hummingbirds)"
 species_group: "Hummingbirds"
 species_code: "rufhum"
+sidebar_position: 311
+sidebar_class_name: " "
 tags: 
   - Apodiformes
   - Trochilidae (Hummingbirds)

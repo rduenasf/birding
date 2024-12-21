@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Thraupidae (Tanagers and Allies)"
 species_group: "Tanagers and Allies"
 species_code: "gryfin2"
+sidebar_position: 183
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Thraupidae (Tanagers and Allies)

@@ -5,6 +5,8 @@ order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
 species_group: "Shorebirds"
 species_code: "leasan"
+sidebar_position: 217
+sidebar_class_name: " has-audio"
 tags: 
   - Charadriiformes
   - Scolopacidae (Sandpipers and Allies)

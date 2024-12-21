@@ -5,6 +5,8 @@ order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
 species_group: "Shorebirds"
 species_code: "lobdow"
+sidebar_position: 225
+sidebar_class_name: " has-audio"
 tags: 
   - Charadriiformes
   - Scolopacidae (Sandpipers and Allies)

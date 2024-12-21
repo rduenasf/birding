@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Turdidae (Thrushes and Allies)"
 species_group: "Thrushes"
 species_code: "obnthr1"
+sidebar_position: 263
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Turdidae (Thrushes and Allies)

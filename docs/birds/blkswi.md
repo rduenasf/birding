@@ -5,6 +5,8 @@ order: "Apodiformes"
 family: "Apodidae (Swifts)"
 species_group: "Swifts"
 species_code: "blkswi"
+sidebar_position: 37
+sidebar_class_name: " "
 tags: 
   - Apodiformes
   - Apodidae (Swifts)

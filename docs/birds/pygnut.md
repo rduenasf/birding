@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Sittidae (Nuthatches)"
 species_group: "Nuthatches"
 species_code: "pygnut"
+sidebar_position: 282
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Sittidae (Nuthatches)

@@ -5,6 +5,8 @@ order: "Pelecaniformes"
 family: "Ardeidae (Herons, Egrets, and Bitterns)"
 species_group: "Herons, Ibis, and Allies"
 species_code: "grbher3"
+sidebar_position: 174
+sidebar_class_name: "has-photo "
 tags: 
   - Pelecaniformes
   - Ardeidae (Herons, Egrets, and Bitterns)

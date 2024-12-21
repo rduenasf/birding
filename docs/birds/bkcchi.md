@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Paridae (Tits, Chickadees, and Titmice)"
 species_group: "Tits, Chickadees, and Titmice"
 species_code: "bkcchi"
+sidebar_position: 43
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Paridae (Tits, Chickadees, and Titmice)

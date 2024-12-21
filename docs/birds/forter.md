@@ -5,6 +5,8 @@ order: "Charadriiformes"
 family: "Laridae (Gulls, Terns, and Skimmers)"
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "forter"
+sidebar_position: 152
+sidebar_class_name: " has-audio"
 tags: 
   - Charadriiformes
   - Laridae (Gulls, Terns, and Skimmers)

@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Turdidae (Thrushes and Allies)"
 species_group: "Thrushes"
 species_code: "rubrob"
+sidebar_position: 312
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Turdidae (Thrushes and Allies)

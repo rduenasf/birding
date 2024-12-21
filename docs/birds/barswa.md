@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Hirundinidae (Swallows)"
 species_group: "Martins and Swallows"
 species_code: "barswa"
+sidebar_position: 31
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Hirundinidae (Swallows)

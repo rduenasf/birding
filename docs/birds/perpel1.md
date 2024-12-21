@@ -5,6 +5,8 @@ order: "Pelecaniformes"
 family: "Pelecanidae (Pelicans)"
 species_group: "Pelicans"
 species_code: "perpel1"
+sidebar_position: 272
+sidebar_class_name: " "
 tags: 
   - Pelecaniformes
   - Pelecanidae (Pelicans)

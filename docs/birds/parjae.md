@@ -5,6 +5,8 @@ order: "Charadriiformes"
 family: "Stercorariidae (Skuas and Jaegers)"
 species_group: "Skuas and Jaegers"
 species_code: "parjae"
+sidebar_position: 268
+sidebar_class_name: " "
 tags: 
   - Charadriiformes
   - Stercorariidae (Skuas and Jaegers)

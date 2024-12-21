@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Fringillidae (Finches, Euphonias, and Allies)"
 species_group: "Finches, Euphonias, and Allies"
 species_code: "blcsis2"
+sidebar_position: 46
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Fringillidae (Finches, Euphonias, and Allies)

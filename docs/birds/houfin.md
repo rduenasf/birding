@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Fringillidae (Finches, Euphonias, and Allies)"
 species_group: "Finches, Euphonias, and Allies"
 species_code: "houfin"
+sidebar_position: 203
+sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
   - Fringillidae (Finches, Euphonias, and Allies)

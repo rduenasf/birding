@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Corvidae (Crows, Jays, and Magpies)"
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "blujay"
+sidebar_position: 59
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Corvidae (Crows, Jays, and Magpies)

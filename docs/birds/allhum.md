@@ -5,6 +5,8 @@ order: "Apodiformes"
 family: "Trochilidae (Hummingbirds)"
 species_group: "Hummingbirds"
 species_code: "allhum"
+sidebar_position: 3
+sidebar_class_name: " "
 tags: 
   - Apodiformes
   - Trochilidae (Hummingbirds)

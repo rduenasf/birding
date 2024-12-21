@@ -5,6 +5,8 @@ order: "Tinamiformes"
 family: "Tinamidae (Tinamous)"
 species_group: "Tinamous"
 species_code: "chitin1"
+sidebar_position: 107
+sidebar_class_name: " "
 tags: 
   - Tinamiformes
   - Tinamidae (Tinamous)

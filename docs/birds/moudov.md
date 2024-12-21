@@ -5,6 +5,8 @@ order: "Columbiformes"
 family: "Columbidae (Pigeons and Doves)"
 species_group: "Pigeons and Doves"
 species_code: "moudov"
+sidebar_position: 244
+sidebar_class_name: " "
 tags: 
   - Columbiformes
   - Columbidae (Pigeons and Doves)

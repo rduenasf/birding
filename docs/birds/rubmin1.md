@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Furnariidae (Ovenbirds and Woodcreepers)"
 species_group: "Leaftossers and Miners"
 species_code: "rubmin1"
+sidebar_position: 313
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Furnariidae (Ovenbirds and Woodcreepers)

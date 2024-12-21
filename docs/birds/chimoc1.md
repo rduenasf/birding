@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Mimidae (Mockingbirds and Thrashers)"
 species_group: "Catbirds, Mockingbirds, and Thrashers"
 species_code: "chimoc1"
+sidebar_position: 104
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Mimidae (Mockingbirds and Thrashers)

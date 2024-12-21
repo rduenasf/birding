@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
 species_group: "Wood-Warblers"
 species_code: "orcwar"
+sidebar_position: 264
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Parulidae (New World Warblers)

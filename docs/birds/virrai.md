@@ -5,6 +5,8 @@ order: "Gruiformes"
 family: "Rallidae (Rails, Gallinules, and Coots)"
 species_group: "Rails, Gallinules, and Allies"
 species_code: "virrai"
+sidebar_position: 374
+sidebar_class_name: " "
 tags: 
   - Gruiformes
   - Rallidae (Rails, Gallinules, and Coots)

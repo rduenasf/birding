@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Sittidae (Nuthatches)"
 species_group: "Nuthatches"
 species_code: "rebnut"
+sidebar_position: 289
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Sittidae (Nuthatches)

@@ -5,6 +5,8 @@ order: "Gruiformes"
 family: "Gruidae (Cranes)"
 species_group: "Cranes"
 species_code: "sancra"
+sidebar_position: 324
+sidebar_class_name: " "
 tags: 
   - Gruiformes
   - Gruidae (Cranes)

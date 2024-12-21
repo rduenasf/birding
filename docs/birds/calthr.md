@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Mimidae (Mockingbirds and Thrashers)"
 species_group: "Catbirds, Mockingbirds, and Thrashers"
 species_code: "calthr"
+sidebar_position: 89
+sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
   - Mimidae (Mockingbirds and Thrashers)

@@ -5,6 +5,8 @@ order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
 species_group: "Shorebirds"
 species_code: "baisan"
+sidebar_position: 26
+sidebar_class_name: " "
 tags: 
   - Charadriiformes
   - Scolopacidae (Sandpipers and Allies)

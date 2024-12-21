@@ -5,6 +5,8 @@ order: "Suliformes"
 family: "Sulidae (Boobies and Gannets)"
 species_group: "Frigatebirds, Boobies, and Gannets"
 species_code: "perboo1"
+sidebar_position: 271
+sidebar_class_name: " "
 tags: 
   - Suliformes
   - Sulidae (Boobies and Gannets)

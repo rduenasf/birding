@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
 species_group: "New World Sparrows"
 species_code: "sonspa"
+sidebar_position: 337
+sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
   - Passerellidae (New World Sparrows)

@@ -5,6 +5,8 @@ order: "Columbiformes"
 family: "Columbidae (Pigeons and Doves)"
 species_group: "Pigeons and Doves"
 species_code: "bwgdov1"
+sidebar_position: 57
+sidebar_class_name: " "
 tags: 
   - Columbiformes
   - Columbidae (Pigeons and Doves)

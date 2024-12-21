@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
 species_group: "Tyrant Flycatchers: Elaenias, Tyrannulets, and Allies"
 species_code: "mcrtyr1"
+sidebar_position: 232
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Tyrannidae (Tyrant Flycatchers)

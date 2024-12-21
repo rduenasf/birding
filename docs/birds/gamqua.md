@@ -5,6 +5,8 @@ order: "Galliformes"
 family: "Odontophoridae (New World Quail)"
 species_group: "Grouse, Quail, and Allies"
 species_code: "gamqua"
+sidebar_position: 155
+sidebar_class_name: " "
 tags: 
   - Galliformes
   - Odontophoridae (New World Quail)

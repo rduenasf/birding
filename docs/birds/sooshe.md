@@ -5,6 +5,8 @@ order: "Procellariiformes"
 family: "Procellariidae (Shearwaters and Petrels)"
 species_group: "Petrels, Shearwaters, and Diving-Petrels"
 species_code: "sooshe"
+sidebar_position: 339
+sidebar_class_name: " "
 tags: 
   - Procellariiformes
   - Procellariidae (Shearwaters and Petrels)

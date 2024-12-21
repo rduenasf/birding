@@ -5,6 +5,8 @@ order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
 species_group: "Shorebirds"
 species_code: "wilpha"
+sidebar_position: 408
+sidebar_class_name: " "
 tags: 
   - Charadriiformes
   - Scolopacidae (Sandpipers and Allies)

@@ -5,6 +5,8 @@ order: "Galliformes"
 family: "Cracidae (Guans, Chachalacas, and Curassows)"
 species_group: "Chachalacas, Guans, and Curassows"
 species_code: "wemcha1"
+sidebar_position: 377
+sidebar_class_name: " "
 tags: 
   - Galliformes
   - Cracidae (Guans, Chachalacas, and Curassows)

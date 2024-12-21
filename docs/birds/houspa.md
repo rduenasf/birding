@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Passeridae (Old World Sparrows)"
 species_group: "Old World Sparrows"
 species_code: "houspa"
+sidebar_position: 204
+sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
   - Passeridae (Old World Sparrows)

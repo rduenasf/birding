@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "wesfly"
+sidebar_position: 380
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Tyrannidae (Tyrant Flycatchers)

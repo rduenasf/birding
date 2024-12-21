@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
 species_group: "Wrens"
 species_code: "houwre4"
+sidebar_position: 341
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Troglodytidae (Wrens)

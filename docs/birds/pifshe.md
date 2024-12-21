@@ -5,6 +5,8 @@ order: "Procellariiformes"
 family: "Procellariidae (Shearwaters and Petrels)"
 species_group: "Petrels, Shearwaters, and Diving-Petrels"
 species_code: "pifshe"
+sidebar_position: 279
+sidebar_class_name: " "
 tags: 
   - Procellariiformes
   - Procellariidae (Shearwaters and Petrels)

@@ -5,6 +5,8 @@ order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
 species_group: "Shorebirds"
 species_code: "margod"
+sidebar_position: 233
+sidebar_class_name: "has-photo "
 tags: 
   - Charadriiformes
   - Scolopacidae (Sandpipers and Allies)

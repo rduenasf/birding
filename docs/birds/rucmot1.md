@@ -5,6 +5,8 @@ order: "Coraciiformes"
 family: "Momotidae (Motmots)"
 species_group: "Motmots"
 species_code: "rucmot1"
+sidebar_position: 321
+sidebar_class_name: " "
 tags: 
   - Coraciiformes
   - Momotidae (Motmots)

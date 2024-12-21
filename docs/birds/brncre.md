@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Certhiidae (Treecreepers)"
 species_group: "Treecreepers"
 species_code: "brncre"
+sidebar_position: 72
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Certhiidae (Treecreepers)

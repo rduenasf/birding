@@ -5,6 +5,8 @@ order: "Trogoniformes"
 family: "Trogonidae (Trogons)"
 species_group: "Trogons and Quetzals"
 species_code: "moutro1"
+sidebar_position: 243
+sidebar_class_name: " "
 tags: 
   - Trogoniformes
   - Trogonidae (Trogons)

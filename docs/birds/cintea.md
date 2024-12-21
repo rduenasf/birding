@@ -5,6 +5,8 @@ order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "cintea"
+sidebar_position: 111
+sidebar_class_name: " "
 tags: 
   - Anseriformes
   - Anatidae (Ducks, Geese, and Waterfowl)

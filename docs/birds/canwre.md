@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
 species_group: "Wrens"
 species_code: "canwre"
+sidebar_position: 94
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Troglodytidae (Wrens)

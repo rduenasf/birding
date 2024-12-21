@@ -5,6 +5,8 @@ order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
 species_group: "Vultures, Hawks, and Allies"
 species_code: "norhar2"
+sidebar_position: 253
+sidebar_class_name: " "
 tags: 
   - Accipitriformes
   - Accipitridae (Hawks, Eagles, and Kites)

@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
 species_group: "Blackbirds"
 species_code: "stbori"
+sidebar_position: 348
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Icteridae (Troupials and Allies)

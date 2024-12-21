@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Sturnidae (Starlings)"
 species_group: "Starlings and Mynas"
 species_code: "commyn"
+sidebar_position: 124
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Sturnidae (Starlings)

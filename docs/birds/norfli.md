@@ -5,6 +5,8 @@ order: "Piciformes"
 family: "Picidae (Woodpeckers)"
 species_group: "Woodpeckers"
 species_code: "norfli"
+sidebar_position: 251
+sidebar_class_name: "has-photo "
 tags: 
   - Piciformes
   - Picidae (Woodpeckers)

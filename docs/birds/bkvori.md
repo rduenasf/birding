@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
 species_group: "Blackbirds"
 species_code: "bkvori"
+sidebar_position: 56
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Icteridae (Troupials and Allies)

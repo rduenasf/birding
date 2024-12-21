@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
 species_group: "New World Sparrows"
 species_code: "daejun"
+sidebar_position: 134
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Passerellidae (New World Sparrows)

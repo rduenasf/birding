@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Cotingidae (Cotingas)"
 species_group: "Cotingas"
 species_code: "rutpla1"
+sidebar_position: 319
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Cotingidae (Cotingas)

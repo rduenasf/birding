@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
 species_group: "Wood-Warblers"
 species_code: "hooyel1"
+sidebar_position: 201
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Parulidae (New World Warblers)

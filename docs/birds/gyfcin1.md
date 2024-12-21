@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Furnariidae (Ovenbirds and Woodcreepers)"
 species_group: "Ovenbirds"
 species_code: "gyfcin1"
+sidebar_position: 172
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Furnariidae (Ovenbirds and Woodcreepers)

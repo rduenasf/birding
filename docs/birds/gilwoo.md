@@ -5,6 +5,8 @@ order: "Piciformes"
 family: "Picidae (Woodpeckers)"
 species_group: "Woodpeckers"
 species_code: "gilwoo"
+sidebar_position: 156
+sidebar_class_name: " "
 tags: 
   - Piciformes
   - Picidae (Woodpeckers)

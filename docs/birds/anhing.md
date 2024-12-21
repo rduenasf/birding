@@ -5,6 +5,8 @@ order: "Suliformes"
 family: "Anhingidae (Anhingas)"
 species_group: "Cormorants and Anhingas"
 species_code: "anhing"
+sidebar_position: 19
+sidebar_class_name: " "
 tags: 
   - Suliformes
   - Anhingidae (Anhingas)

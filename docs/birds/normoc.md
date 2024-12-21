@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Mimidae (Mockingbirds and Thrashers)"
 species_group: "Catbirds, Mockingbirds, and Thrashers"
 species_code: "normoc"
+sidebar_position: 255
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
   - Mimidae (Mockingbirds and Thrashers)

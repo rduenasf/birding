@@ -5,6 +5,8 @@ order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
 species_group: "Vultures, Hawks, and Allies"
 species_code: "swahaw"
+sidebar_position: 357
+sidebar_class_name: " "
 tags: 
   - Accipitriformes
   - Accipitridae (Hawks, Eagles, and Kites)

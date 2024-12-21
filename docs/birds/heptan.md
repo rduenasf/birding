@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Cardinalidae (Cardinals and Allies)"
 species_group: "Cardinals, Grosbeaks, and Allies"
 species_code: "heptan"
+sidebar_position: 196
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Cardinalidae (Cardinals and Allies)

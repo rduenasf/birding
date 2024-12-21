@@ -5,6 +5,8 @@ order: "Charadriiformes"
 family: "Haematopodidae (Oystercatchers)"
 species_group: "Shorebirds"
 species_code: "ameoys"
+sidebar_position: 11
+sidebar_class_name: " "
 tags: 
   - Charadriiformes
   - Haematopodidae (Oystercatchers)

@@ -5,6 +5,8 @@ order: "Charadriiformes"
 family: "Laridae (Gulls, Terns, and Skimmers)"
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "ribgul"
+sidebar_position: 302
+sidebar_class_name: " "
 tags: 
   - Charadriiformes
   - Laridae (Gulls, Terns, and Skimmers)

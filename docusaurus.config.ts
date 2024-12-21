@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Rodrigo\'s Birding Site',
+  tagline: 'Birds are cool',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -41,6 +41,9 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
         },
         blog: false,
+        theme: {
+          customCss: ['./src/css/custom.css'],
+        },
       } satisfies Preset.Options,
     ],
   ],
@@ -57,7 +60,7 @@ const config: Config = {
       title: 'Rodrigo\'s Birding Site',
       hideOnScroll: true,
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Rodrigo\'s Birding Site Logo',
         src: 'img/logo.svg',
       },
       items: [{

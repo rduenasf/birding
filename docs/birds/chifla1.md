@@ -5,6 +5,8 @@ order: "Phoenicopteriformes"
 family: "Phoenicopteridae (Flamingos)"
 species_group: "Flamingos"
 species_code: "chifla1"
+sidebar_position: 103
+sidebar_class_name: " "
 tags: 
   - Phoenicopteriformes
   - Phoenicopteridae (Flamingos)

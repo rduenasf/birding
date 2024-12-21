@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Corvidae (Crows, Jays, and Magpies)"
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "amecro"
+sidebar_position: 7
+sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
   - Corvidae (Crows, Jays, and Magpies)

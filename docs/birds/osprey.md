@@ -5,6 +5,8 @@ order: "Accipitriformes"
 family: "Pandionidae (Osprey)"
 species_group: "Vultures, Hawks, and Allies"
 species_code: "osprey"
+sidebar_position: 265
+sidebar_class_name: " "
 tags: 
   - Accipitriformes
   - Pandionidae (Osprey)

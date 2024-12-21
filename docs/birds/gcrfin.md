@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Fringillidae (Finches, Euphonias, and Allies)"
 species_group: "Finches, Euphonias, and Allies"
 species_code: "gcrfin"
+sidebar_position: 171
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Fringillidae (Finches, Euphonias, and Allies)

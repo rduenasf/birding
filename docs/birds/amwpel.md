@@ -5,6 +5,8 @@ order: "Pelecaniformes"
 family: "Pelecanidae (Pelicans)"
 species_group: "Pelicans"
 species_code: "amwpel"
+sidebar_position: 14
+sidebar_class_name: " "
 tags: 
   - Pelecaniformes
   - Pelecanidae (Pelicans)

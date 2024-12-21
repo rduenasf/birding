@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Vireonidae (Vireos, Shrike-Babblers, and Erpornis)"
 species_group: "Vireos"
 species_code: "hutvir"
+sidebar_position: 206
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Vireonidae (Vireos, Shrike-Babblers, and Erpornis)

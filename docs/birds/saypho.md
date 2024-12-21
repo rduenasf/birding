@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "saypho"
+sidebar_position: 326
+sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
   - Tyrannidae (Tyrant Flycatchers)

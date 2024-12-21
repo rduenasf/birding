@@ -5,6 +5,8 @@ order: "Pelecaniformes"
 family: "Ardeidae (Herons, Egrets, and Bitterns)"
 species_group: "Herons, Ibis, and Allies"
 species_code: "snoegr"
+sidebar_position: 336
+sidebar_class_name: " "
 tags: 
   - Pelecaniformes
   - Ardeidae (Herons, Egrets, and Bitterns)

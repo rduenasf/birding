@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Aegithalidae (Long-tailed Tits)"
 species_group: "Long-tailed Tits and Bushtit"
 species_code: "bushti"
+sidebar_position: 82
+sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
   - Aegithalidae (Long-tailed Tits)

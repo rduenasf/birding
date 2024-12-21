@@ -5,6 +5,8 @@ order: "Charadriiformes"
 family: "Alcidae (Auks, Murres, and Puffins)"
 species_group: "Alcids"
 species_code: "rhiauk"
+sidebar_position: 300
+sidebar_class_name: " "
 tags: 
   - Charadriiformes
   - Alcidae (Auks, Murres, and Puffins)

@@ -5,6 +5,8 @@ order: "Piciformes"
 family: "Picidae (Woodpeckers)"
 species_group: "Woodpeckers"
 species_code: "acowoo"
+sidebar_position: 2
+sidebar_class_name: " has-audio"
 tags: 
   - Piciformes
   - Picidae (Woodpeckers)

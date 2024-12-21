@@ -5,6 +5,8 @@ order: "Apodiformes"
 family: "Trochilidae (Hummingbirds)"
 species_group: "Hummingbirds"
 species_code: "annhum"
+sidebar_position: 20
+sidebar_class_name: " has-audio"
 tags: 
   - Apodiformes
   - Trochilidae (Hummingbirds)

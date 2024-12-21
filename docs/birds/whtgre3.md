@@ -5,6 +5,8 @@ order: "Podicipediformes"
 family: "Podicipedidae (Grebes)"
 species_group: "Grebes"
 species_code: "whtgre3"
+sidebar_position: 403
+sidebar_class_name: " "
 tags: 
   - Podicipediformes
   - Podicipedidae (Grebes)

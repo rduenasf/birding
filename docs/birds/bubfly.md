@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "bubfly"
+sidebar_position: 78
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Tyrannidae (Tyrant Flycatchers)

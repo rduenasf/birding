@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
 species_group: "Wrens"
 species_code: "marwre"
+sidebar_position: 234
+sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
   - Troglodytidae (Wrens)

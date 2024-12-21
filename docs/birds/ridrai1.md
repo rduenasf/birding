@@ -5,6 +5,8 @@ order: "Gruiformes"
 family: "Rallidae (Rails, Gallinules, and Coots)"
 species_group: "Rails, Gallinules, and Allies"
 species_code: "ridrai1"
+sidebar_position: 301
+sidebar_class_name: " has-audio"
 tags: 
   - Gruiformes
   - Rallidae (Rails, Gallinules, and Coots)

@@ -5,6 +5,8 @@ order: "Charadriiformes"
 family: "Haematopodidae (Oystercatchers)"
 species_group: "Shorebirds"
 species_code: "blkoys"
+sidebar_position: 35
+sidebar_class_name: "has-photo "
 tags: 
   - Charadriiformes
   - Haematopodidae (Oystercatchers)

@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Sturnidae (Starlings)"
 species_group: "Starlings and Mynas"
 species_code: "eursta"
+sidebar_position: 149
+sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
   - Sturnidae (Starlings)

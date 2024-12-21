@@ -5,6 +5,8 @@ order: "Suliformes"
 family: "Phalacrocoracidae (Cormorants and Shags)"
 species_group: "Cormorants and Anhingas"
 species_code: "bracor"
+sidebar_position: 66
+sidebar_class_name: "has-photo "
 tags: 
   - Suliformes
   - Phalacrocoracidae (Cormorants and Shags)

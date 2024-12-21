@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
 species_group: "Wrens"
 species_code: "cacwre"
+sidebar_position: 84
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Troglodytidae (Wrens)

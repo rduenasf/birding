@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Furnariidae (Ovenbirds and Woodcreepers)"
 species_group: "Ovenbirds"
 species_code: "sctear1"
+sidebar_position: 327
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Furnariidae (Ovenbirds and Woodcreepers)

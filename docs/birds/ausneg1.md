@@ -5,6 +5,8 @@ order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "ausneg1"
+sidebar_position: 24
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Tyrannidae (Tyrant Flycatchers)
