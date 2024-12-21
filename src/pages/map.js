@@ -1,5 +1,4 @@
 import React, { useEffect } from "react";
-import L from "leaflet";
 import "leaflet/dist/leaflet.css";
 import useBaseUrl from "@docusaurus/useBaseUrl";
 import Layout from "@theme/Layout";
@@ -49,7 +48,7 @@ const onEachFeature = (feature, layer, data) => {
   }
 };
 
-const Map = () => {
+const MapComponent = () => {
   const geojsonUrl = useBaseUrl("ne_50m_admin_0_map_units.geojson");
 
   const getQueryParam = (param) => {
@@ -61,6 +60,7 @@ const Map = () => {
   };
 
   useEffect(() => {
+    const L = require("leaflet");
     const speciesCode = getQueryParam("species_code");
     const countData = speciesCode
       ? countrySpeciesData[speciesCode]
@@ -102,15 +102,17 @@ const Map = () => {
   }, [geojsonUrl]);
 
   return (
-    <BrowserOnly>
-      <Layout>
-        <div
-          id="map"
-          style={{ height: "100vh", width: "100%", background: "transparent" }}
-        ></div>
-      </Layout>
-    </BrowserOnly>
+    <div
+      id="map"
+      style={{ height: "100vh", width: "100%", background: "transparent" }}
+    ></div>
   );
 };
+
+const Map = () => (
+  <Layout>
+    <BrowserOnly>{() => <MapComponent />}</BrowserOnly>
+  </Layout>
+);
 
 export default Map;
