@@ -6,9 +6,9 @@ const taxonomyFile =
   "c:/Users/rduen/my-website/scripts/eBird_taxonomy_v2024.csv";
 const ebirdOutputFile = "c:/Users/rduen/my-website/scripts/ebirdData.json";
 const countrySummaryOutputFile =
-  "c:/Users/rduen/my-website/scripts/country_summary.json";
+  "c:/Users/rduen/my-website/static/country_summary.json";
 const countrySpeciesOutputFile =
-  "c:/Users/rduen/my-website/scripts/country_for_species.json";
+  "c:/Users/rduen/my-website/static/country_for_species.json";
 
 const dataDict = {};
 const speciesCodeMap = {};
