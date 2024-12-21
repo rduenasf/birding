@@ -3,7 +3,7 @@ id: Birds
 slug: /
 ---
 
-1. [Abert's Towhee](docs/birds/abetow)
+1. [Abert's Towhee](./birds/abetow)
 1. [Acorn Woodpecker](./birds/acowoo)
 1. [Allen's Hummingbird](./birds/allhum)
 1. [American Avocet](./birds/ameavo)
