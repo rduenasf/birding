@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Passerellidae (New World Sparrows)
   - New World Sparrows
-  
-  - Audio
+  - Needs Photo
+  - Has Audio
 ---
 
 # Savannah Sparrow (Passerculus sandwichensis)

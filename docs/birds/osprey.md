@@ -11,8 +11,8 @@ tags:
   - Accipitriformes
   - Pandionidae (Osprey)
   - Vultures, Hawks, and Allies
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Osprey (Pandion haliaetus)

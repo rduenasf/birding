@@ -11,8 +11,8 @@ tags:
   - Galliformes
   - Phasianidae (Pheasants, Grouse, and Allies)
   - Grouse, Quail, and Allies
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Ring-necked Pheasant (Phasianus colchicus)

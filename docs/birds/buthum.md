@@ -11,8 +11,8 @@ tags:
   - Apodiformes
   - Trochilidae (Hummingbirds)
   - Hummingbirds
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Blue-throated Mountain-gem (Lampornis clemenciae)

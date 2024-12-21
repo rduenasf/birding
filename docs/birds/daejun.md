@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Passerellidae (New World Sparrows)
   - New World Sparrows
-  - Photo
-  
+  - Has Photo
+  - Needs Audio
 ---
 
 # Dark-eyed Junco (Junco hyemalis)

@@ -11,8 +11,8 @@ tags:
   - Apodiformes
   - Apodidae (Swifts)
   - Swifts
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # White-throated Swift (Aeronautes saxatalis)

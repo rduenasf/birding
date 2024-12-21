@@ -11,8 +11,8 @@ tags:
   - Apodiformes
   - Trochilidae (Hummingbirds)
   - Hummingbirds
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Broad-tailed Hummingbird (Selasphorus platycercus)

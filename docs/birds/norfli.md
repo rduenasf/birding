@@ -11,8 +11,8 @@ tags:
   - Piciformes
   - Picidae (Woodpeckers)
   - Woodpeckers
-  - Photo
-  
+  - Has Photo
+  - Needs Audio
 ---
 
 # Northern Flicker (Colaptes auratus)

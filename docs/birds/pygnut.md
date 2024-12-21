@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Sittidae (Nuthatches)
   - Nuthatches
-  - Photo
-  
+  - Has Photo
+  - Needs Audio
 ---
 
 # Pygmy Nuthatch (Sitta pygmaea)

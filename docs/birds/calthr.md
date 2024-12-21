@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Mimidae (Mockingbirds and Thrashers)
   - Catbirds, Mockingbirds, and Thrashers
-  
-  - Audio
+  - Needs Photo
+  - Has Audio
 ---
 
 # California Thrasher (Toxostoma redivivum)

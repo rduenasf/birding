@@ -11,8 +11,8 @@ tags:
   - Coraciiformes
   - Alcedinidae (Kingfishers)
   - Kingfishers
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Belted Kingfisher (Megaceryle alcyon)

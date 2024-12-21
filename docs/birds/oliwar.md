@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Peucedramidae (Olive Warbler)
   - Olive Warbler
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Olive Warbler (Peucedramus taeniatus)

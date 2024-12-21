@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Mimidae (Mockingbirds and Thrashers)
   - Catbirds, Mockingbirds, and Thrashers
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Curve-billed Thrasher (Toxostoma curvirostre)

@@ -11,8 +11,8 @@ tags:
   - Suliformes
   - Phalacrocoracidae (Cormorants and Shags)
   - Cormorants and Anhingas
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Double-crested Cormorant (Nannopterum auritum)

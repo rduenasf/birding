@@ -11,8 +11,8 @@ tags:
   - Charadriiformes
   - Laridae (Gulls, Terns, and Skimmers)
   - Gulls, Terns, and Skimmers
-  
-  - Audio
+  - Needs Photo
+  - Has Audio
 ---
 
 # Forster's Tern (Sterna forsteri)

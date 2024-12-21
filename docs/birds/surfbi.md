@@ -11,8 +11,8 @@ tags:
   - Charadriiformes
   - Scolopacidae (Sandpipers and Allies)
   - Shorebirds
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Surfbird (Calidris virgata)

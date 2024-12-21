@@ -11,8 +11,8 @@ tags:
   - Apodiformes
   - Trochilidae (Hummingbirds)
   - Hummingbirds
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Costa's Hummingbird (Calypte costae)

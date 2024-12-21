@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Ptiliogonatidae (Silky-flycatchers)
   - Silky-flycatchers
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Phainopepla (Phainopepla nitens)

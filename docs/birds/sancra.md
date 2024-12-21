@@ -11,8 +11,8 @@ tags:
   - Gruiformes
   - Gruidae (Cranes)
   - Cranes
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Sandhill Crane (Antigone canadensis)

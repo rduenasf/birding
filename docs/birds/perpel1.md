@@ -11,8 +11,8 @@ tags:
   - Pelecaniformes
   - Pelecanidae (Pelicans)
   - Pelicans
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Peruvian Pelican (Pelecanus thagus)

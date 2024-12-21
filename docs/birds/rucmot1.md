@@ -11,8 +11,8 @@ tags:
   - Coraciiformes
   - Momotidae (Motmots)
   - Motmots
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Russet-crowned Motmot (Momotus mexicanus)

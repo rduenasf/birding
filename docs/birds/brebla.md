@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Icteridae (Troupials and Allies)
   - Blackbirds
-  - Photo
-  
+  - Has Photo
+  - Needs Audio
 ---
 
 # Brewer's Blackbird (Euphagus cyanocephalus)

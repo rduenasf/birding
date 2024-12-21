@@ -11,8 +11,8 @@ tags:
   - Gaviiformes
   - Gaviidae (Loons)
   - Loons
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Pacific Loon (Gavia pacifica)

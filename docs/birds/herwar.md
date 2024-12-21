@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Parulidae (New World Warblers)
   - Wood-Warblers
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Hermit Warbler (Setophaga occidentalis)

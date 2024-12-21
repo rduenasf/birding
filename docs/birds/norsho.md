@@ -11,8 +11,8 @@ tags:
   - Anseriformes
   - Anatidae (Ducks, Geese, and Waterfowl)
   - Waterfowl
-  
-  - Audio
+  - Needs Photo
+  - Has Audio
 ---
 
 # Northern Shoveler (Spatula clypeata)

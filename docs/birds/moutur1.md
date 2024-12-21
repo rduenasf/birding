@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Rhinocryptidae (Tapaculos)
   - Tapaculos
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Moustached Turca (Pteroptochos megapodius)

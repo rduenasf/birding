@@ -11,8 +11,8 @@ tags:
   - Piciformes
   - Picidae (Woodpeckers)
   - Woodpeckers
-  
-  - Audio
+  - Needs Photo
+  - Has Audio
 ---
 
 # Nuttall's Woodpecker (Dryobates nuttallii)

@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Passerellidae (New World Sparrows)
   - New World Sparrows
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Striped Sparrow (Oriturus superciliosus)

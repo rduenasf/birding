@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Vireonidae (Vireos, Shrike-Babblers, and Erpornis)
   - Vireos
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Golden Vireo (Vireo hypochryseus)

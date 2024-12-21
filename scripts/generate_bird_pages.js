@@ -68,8 +68,8 @@ tags:
   ${order ? "- " + order : ""}
   ${family ? "- " + family : ""}
   ${speciesGroup ? "- " + speciesGroup.replace(":", " -") : ""}
-  ${photos.length > 0 ? "- Photo" : ""}
-  ${audios.length > 0 ? "- Audio" : ""}
+  - ${photos.length > 0 ? "Has Photo" : "Needs Photo"}
+  - ${audios.length > 0 ? "Has Audio" : "Needs Audio"}
 ---
 
 # ${primaryComName} (${sciName})

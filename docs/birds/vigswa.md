@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Hirundinidae (Swallows)
   - Martins and Swallows
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Violet-green Swallow (Tachycineta thalassina)

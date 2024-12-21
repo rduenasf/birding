@@ -11,8 +11,8 @@ tags:
   - Galliformes
   - Phasianidae (Pheasants, Grouse, and Allies)
   - Grouse, Quail, and Allies
-  - Photo
-  - Audio
+  - Has Photo
+  - Has Audio
 ---
 
 # Wild Turkey (Meleagris gallopavo)

@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Corvidae (Crows, Jays, and Magpies)
   - Jays, Magpies, Crows, and Ravens
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Blue Jay (Cyanocitta cristata)

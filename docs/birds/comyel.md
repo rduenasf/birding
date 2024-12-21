@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Parulidae (New World Warblers)
   - Wood-Warblers
-  
-  - Audio
+  - Needs Photo
+  - Has Audio
 ---
 
 # Common Yellowthroat (Geothlypis trichas)

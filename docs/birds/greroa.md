@@ -11,8 +11,8 @@ tags:
   - Cuculiformes
   - Cuculidae (Cuckoos)
   - Cuckoos
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Greater Roadrunner (Geococcyx californianus)

@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Fringillidae (Finches, Euphonias, and Allies)
   - Finches, Euphonias, and Allies
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Cassin's Finch (Haemorhous cassinii)

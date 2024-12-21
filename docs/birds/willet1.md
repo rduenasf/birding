@@ -11,8 +11,8 @@ tags:
   - Charadriiformes
   - Scolopacidae (Sandpipers and Allies)
   - Shorebirds
-  
-  - Audio
+  - Needs Photo
+  - Has Audio
 ---
 
 # Willet (Tringa semipalmata)

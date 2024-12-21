@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Turdidae (Thrushes and Allies)
   - Thrushes
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Austral Thrush (Turdus falcklandii)

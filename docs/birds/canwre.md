@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Troglodytidae (Wrens)
   - Wrens
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Canyon Wren (Catherpes mexicanus)

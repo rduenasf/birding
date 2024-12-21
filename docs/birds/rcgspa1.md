@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Passerellidae (New World Sparrows)
   - New World Sparrows
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Rusty-crowned Ground-Sparrow (Melozone kieneri)

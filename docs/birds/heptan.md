@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Cardinalidae (Cardinals and Allies)
   - Cardinals, Grosbeaks, and Allies
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Hepatic Tanager (Piranga flava)

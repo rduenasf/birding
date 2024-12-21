@@ -11,8 +11,8 @@ tags:
   - Galliformes
   - Odontophoridae (New World Quail)
   - Grouse, Quail, and Allies
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Mountain Quail (Oreortyx pictus)

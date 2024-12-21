@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Fringillidae (Finches, Euphonias, and Allies)
   - Finches, Euphonias, and Allies
-  
-  - Audio
+  - Needs Photo
+  - Has Audio
 ---
 
 # House Finch (Haemorhous mexicanus)

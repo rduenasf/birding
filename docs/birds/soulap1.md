@@ -11,8 +11,8 @@ tags:
   - Charadriiformes
   - Charadriidae (Plovers and Lapwings)
   - Shorebirds
-  - Photo
-  
+  - Has Photo
+  - Needs Audio
 ---
 
 # Southern Lapwing (Vanellus chilensis)

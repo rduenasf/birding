@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Remizidae (Penduline-Tits)
   - Penduline-Tits and Verdin
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Verdin (Auriparus flaviceps)

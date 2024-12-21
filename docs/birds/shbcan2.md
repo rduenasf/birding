@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Furnariidae (Ovenbirds and Woodcreepers)
   - Ovenbirds
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Sharp-billed Canastero (Asthenes pyrrholeuca)

@@ -11,8 +11,8 @@ tags:
   - Suliformes
   - Sulidae (Boobies and Gannets)
   - Frigatebirds, Boobies, and Gannets
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Northern Gannet (Morus bassanus)

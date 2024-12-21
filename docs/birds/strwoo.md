@@ -11,8 +11,8 @@ tags:
   - Piciformes
   - Picidae (Woodpeckers)
   - Woodpeckers
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Strickland's Woodpecker (Dryobates stricklandi)

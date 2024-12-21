@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Icteridae (Troupials and Allies)
   - Blackbirds
-  - Photo
-  
+  - Has Photo
+  - Needs Audio
 ---
 
 # Yellow-winged Blackbird (Agelasticus thilius)

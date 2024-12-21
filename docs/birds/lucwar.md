@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Parulidae (New World Warblers)
   - Wood-Warblers
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Lucy's Warbler (Leiothlypis luciae)

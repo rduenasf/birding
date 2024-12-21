@@ -11,8 +11,8 @@ tags:
   - Charadriiformes
   - Charadriidae (Plovers and Lapwings)
   - Shorebirds
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Black-bellied Plover (Pluvialis squatarola)

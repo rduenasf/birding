@@ -11,8 +11,8 @@ tags:
   - Suliformes
   - Fregatidae (Frigatebirds)
   - Frigatebirds, Boobies, and Gannets
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Magnificent Frigatebird (Fregata magnificens)

@@ -11,8 +11,8 @@ tags:
   - Pelecaniformes
   - Ardeidae (Herons, Egrets, and Bitterns)
   - Herons, Ibis, and Allies
-  - Photo
-  - Audio
+  - Has Photo
+  - Has Audio
 ---
 
 # Great Egret (Ardea alba)

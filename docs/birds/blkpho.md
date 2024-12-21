@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Tyrannidae (Tyrant Flycatchers)
   - Tyrant Flycatchers - Pewees, Kingbirds, and Allies
-  
-  - Audio
+  - Needs Photo
+  - Has Audio
 ---
 
 # Black Phoebe (Sayornis nigricans)

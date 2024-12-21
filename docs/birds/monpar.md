@@ -11,8 +11,8 @@ tags:
   - Psittaciformes
   - Psittacidae (New World and African Parrots)
   - Parrots, Parakeets, and Allies
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Monk Parakeet (Myiopsitta monachus)

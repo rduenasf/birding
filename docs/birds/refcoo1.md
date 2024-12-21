@@ -11,8 +11,8 @@ tags:
   - Gruiformes
   - Rallidae (Rails, Gallinules, and Coots)
   - Rails, Gallinules, and Allies
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Red-fronted Coot (Fulica rufifrons)

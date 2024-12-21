@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Mimidae (Mockingbirds and Thrashers)
   - Catbirds, Mockingbirds, and Thrashers
-  - Photo
-  - Audio
+  - Has Photo
+  - Has Audio
 ---
 
 # Northern Mockingbird (Mimus polyglottos)

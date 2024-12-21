@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Regulidae (Kinglets)
   - Kinglets
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Golden-crowned Kinglet (Regulus satrapa)

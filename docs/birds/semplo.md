@@ -11,8 +11,8 @@ tags:
   - Charadriiformes
   - Charadriidae (Plovers and Lapwings)
   - Shorebirds
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Semipalmated Plover (Charadrius semipalmatus)

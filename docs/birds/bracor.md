@@ -11,8 +11,8 @@ tags:
   - Suliformes
   - Phalacrocoracidae (Cormorants and Shags)
   - Cormorants and Anhingas
-  - Photo
-  
+  - Has Photo
+  - Needs Audio
 ---
 
 # Brandt's Cormorant (Urile penicillatus)

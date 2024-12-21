@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Aegithalidae (Long-tailed Tits)
   - Long-tailed Tits and Bushtit
-  
-  - Audio
+  - Needs Photo
+  - Has Audio
 ---
 
 # Bushtit (Psaltriparus minimus)

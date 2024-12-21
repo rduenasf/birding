@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Turdidae (Thrushes and Allies)
   - Thrushes
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Rufous-backed Robin (Turdus rufopalliatus)

@@ -11,8 +11,8 @@ tags:
   - Charadriiformes
   - Recurvirostridae (Stilts and Avocets)
   - Shorebirds
-  
-  - Audio
+  - Needs Photo
+  - Has Audio
 ---
 
 # Black-necked Stilt (Himantopus mexicanus)

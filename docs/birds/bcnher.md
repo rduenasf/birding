@@ -11,8 +11,8 @@ tags:
   - Pelecaniformes
   - Ardeidae (Herons, Egrets, and Bitterns)
   - Herons, Ibis, and Allies
-  - Photo
-  
+  - Has Photo
+  - Needs Audio
 ---
 
 # Black-crowned Night Heron (Nycticorax nycticorax)

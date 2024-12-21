@@ -11,8 +11,8 @@ tags:
   - Tinamiformes
   - Tinamidae (Tinamous)
   - Tinamous
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Chilean Tinamou (Nothoprocta perdicaria)

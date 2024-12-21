@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Tyrannidae (Tyrant Flycatchers)
   - Tyrant Flycatchers - Pewees, Kingbirds, and Allies
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Spot-billed Ground-Tyrant (Muscisaxicola maculirostris)

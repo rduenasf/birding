@@ -11,8 +11,8 @@ tags:
   - Apodiformes
   - Trochilidae (Hummingbirds)
   - Hummingbirds
-  
-  - Audio
+  - Needs Photo
+  - Has Audio
 ---
 
 # Anna's Hummingbird (Calypte anna)

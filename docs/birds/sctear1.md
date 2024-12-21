@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Furnariidae (Ovenbirds and Woodcreepers)
   - Ovenbirds
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Scale-throated Earthcreeper (Upucerthia dumetaria)

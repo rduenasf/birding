@@ -11,8 +11,8 @@ tags:
   - Strigiformes
   - Strigidae (Owls)
   - Owls
-  - Photo
-  
+  - Has Photo
+  - Needs Audio
 ---
 
 # Lesser Horned Owl (Bubo magellanicus)

@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Sittidae (Nuthatches)
   - Nuthatches
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # White-breasted Nuthatch (Sitta carolinensis)

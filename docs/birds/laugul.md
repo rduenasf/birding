@@ -11,8 +11,8 @@ tags:
   - Charadriiformes
   - Laridae (Gulls, Terns, and Skimmers)
   - Gulls, Terns, and Skimmers
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Laughing Gull (Leucophaeus atricilla)

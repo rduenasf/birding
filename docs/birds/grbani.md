@@ -11,8 +11,8 @@ tags:
   - Cuculiformes
   - Cuculidae (Cuckoos)
   - Cuckoos
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Groove-billed Ani (Crotophaga sulcirostris)

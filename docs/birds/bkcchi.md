@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Paridae (Tits, Chickadees, and Titmice)
   - Tits, Chickadees, and Titmice
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Black-capped Chickadee (Poecile atricapillus)

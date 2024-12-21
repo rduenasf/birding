@@ -11,8 +11,8 @@ tags:
   - Apodiformes
   - Trochilidae (Hummingbirds)
   - Hummingbirds
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Lucifer Hummingbird (Calothorax lucifer)

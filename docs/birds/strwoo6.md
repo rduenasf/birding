@@ -11,8 +11,8 @@ tags:
   - Piciformes
   - Picidae (Woodpeckers)
   - Woodpeckers
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Striped Woodpecker (Dryobates lignarius)

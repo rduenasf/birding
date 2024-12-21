@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Paridae (Tits, Chickadees, and Titmice)
   - Tits, Chickadees, and Titmice
-  
-  - Audio
+  - Needs Photo
+  - Has Audio
 ---
 
 # Oak Titmouse (Baeolophus inornatus)

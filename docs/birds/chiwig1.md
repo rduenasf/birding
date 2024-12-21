@@ -11,8 +11,8 @@ tags:
   - Anseriformes
   - Anatidae (Ducks, Geese, and Waterfowl)
   - Waterfowl
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Chiloe Wigeon (Mareca sibilatrix)

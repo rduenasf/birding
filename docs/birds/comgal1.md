@@ -11,8 +11,8 @@ tags:
   - Gruiformes
   - Rallidae (Rails, Gallinules, and Coots)
   - Rails, Gallinules, and Allies
-  - Photo
-  - Audio
+  - Has Photo
+  - Has Audio
 ---
 
 # Common Gallinule (Gallinula galeata)

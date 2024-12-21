@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Certhiidae (Treecreepers)
   - Treecreepers
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Brown Creeper (Certhia americana)

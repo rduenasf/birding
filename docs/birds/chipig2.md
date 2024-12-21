@@ -11,8 +11,8 @@ tags:
   - Columbiformes
   - Columbidae (Pigeons and Doves)
   - Pigeons and Doves
-  - Photo
-  
+  - Has Photo
+  - Needs Audio
 ---
 
 # Chilean Pigeon (Patagioenas araucana)

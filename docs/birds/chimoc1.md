@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Mimidae (Mockingbirds and Thrashers)
   - Catbirds, Mockingbirds, and Thrashers
-  - Photo
-  
+  - Has Photo
+  - Needs Audio
 ---
 
 # Chilean Mockingbird (Mimus thenca)

@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Passeridae (Old World Sparrows)
   - Old World Sparrows
-  
-  - Audio
+  - Needs Photo
+  - Has Audio
 ---
 
 # House Sparrow (Passer domesticus)

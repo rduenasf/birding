@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Troglodytidae (Wrens)
   - Wrens
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Southern House Wren (Troglodytes musculus)

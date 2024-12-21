@@ -11,8 +11,8 @@ tags:
   - Phoenicopteriformes
   - Phoenicopteridae (Flamingos)
   - Flamingos
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Chilean Flamingo (Phoenicopterus chilensis)

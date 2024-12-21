@@ -11,8 +11,8 @@ tags:
   - Accipitriformes
   - Accipitridae (Hawks, Eagles, and Kites)
   - Vultures, Hawks, and Allies
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Gray Hawk (Buteo plagiatus)

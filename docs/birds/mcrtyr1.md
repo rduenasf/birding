@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Tyrannidae (Tyrant Flycatchers)
   - Tyrant Flycatchers - Elaenias, Tyrannulets, and Allies
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Many-colored Rush Tyrant (Tachuris rubrigastra)

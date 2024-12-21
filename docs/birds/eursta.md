@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Sturnidae (Starlings)
   - Starlings and Mynas
-  
-  - Audio
+  - Needs Photo
+  - Has Audio
 ---
 
 # European Starling (Sturnus vulgaris)

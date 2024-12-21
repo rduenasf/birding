@@ -11,8 +11,8 @@ tags:
   - Apodiformes
   - Apodidae (Swifts)
   - Swifts
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Vaux's Swift (Chaetura vauxi)

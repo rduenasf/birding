@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Thraupidae (Tanagers and Allies)
   - Tanagers and Allies
-  - Photo
-  
+  - Has Photo
+  - Needs Audio
 ---
 
 # Gray-hooded Sierra Finch (Phrygilus gayi)

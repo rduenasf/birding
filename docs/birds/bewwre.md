@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Troglodytidae (Wrens)
   - Wrens
-  
-  - Audio
+  - Needs Photo
+  - Has Audio
 ---
 
 # Bewick's Wren (Thryomanes bewickii)

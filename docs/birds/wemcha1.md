@@ -11,8 +11,8 @@ tags:
   - Galliformes
   - Cracidae (Guans, Chachalacas, and Curassows)
   - Chachalacas, Guans, and Curassows
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # West Mexican Chachalaca (Ortalis poliocephala)

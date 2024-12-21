@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Paridae (Tits, Chickadees, and Titmice)
   - Tits, Chickadees, and Titmice
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Mountain Chickadee (Poecile gambeli)

@@ -11,8 +11,8 @@ tags:
   - Charadriiformes
   - Scolopacidae (Sandpipers and Allies)
   - Shorebirds
-  - Photo
-  
+  - Has Photo
+  - Needs Audio
 ---
 
 # Marbled Godwit (Limosa fedoa)

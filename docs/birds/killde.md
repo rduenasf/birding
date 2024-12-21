@@ -11,8 +11,8 @@ tags:
   - Charadriiformes
   - Charadriidae (Plovers and Lapwings)
   - Shorebirds
-  
-  - Audio
+  - Needs Photo
+  - Has Audio
 ---
 
 # Killdeer (Charadrius vociferus)

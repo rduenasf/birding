@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Bombycillidae (Waxwings)
   - Waxwings
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Cedar Waxwing (Bombycilla cedrorum)

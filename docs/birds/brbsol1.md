@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Turdidae (Thrushes and Allies)
   - Thrushes
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Brown-backed Solitaire (Myadestes occidentalis)

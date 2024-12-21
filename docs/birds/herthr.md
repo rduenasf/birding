@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Turdidae (Thrushes and Allies)
   - Thrushes
-  
-  - Audio
+  - Needs Photo
+  - Has Audio
 ---
 
 # Hermit Thrush (Catharus guttatus)

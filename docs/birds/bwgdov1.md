@@ -11,8 +11,8 @@ tags:
   - Columbiformes
   - Columbidae (Pigeons and Doves)
   - Pigeons and Doves
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Black-winged Ground Dove (Metriopelia melanoptera)

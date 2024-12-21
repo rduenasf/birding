@@ -11,8 +11,8 @@ tags:
   - Strigiformes
   - Strigidae (Owls)
   - Owls
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Great Horned Owl (Bubo virginianus)

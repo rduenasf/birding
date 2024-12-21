@@ -11,8 +11,8 @@ tags:
   - Charadriiformes
   - Recurvirostridae (Stilts and Avocets)
   - Shorebirds
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # American Avocet (Recurvirostra americana)

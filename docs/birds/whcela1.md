@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Tyrannidae (Tyrant Flycatchers)
   - Tyrant Flycatchers - Elaenias, Tyrannulets, and Allies
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # White-crested Elaenia (Elaenia albiceps)

@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Cotingidae (Cotingas)
   - Cotingas
-  - Photo
-  
+  - Has Photo
+  - Needs Audio
 ---
 
 # Rufous-tailed Plantcutter (Phytotoma rara)

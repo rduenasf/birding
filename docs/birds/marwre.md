@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Troglodytidae (Wrens)
   - Wrens
-  
-  - Audio
+  - Needs Photo
+  - Has Audio
 ---
 
 # Marsh Wren (Cistothorus palustris)

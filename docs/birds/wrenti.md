@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Paradoxornithidae (Parrotbills)
   - Parrotbills, Wrentit, and Allies
-  
-  - Audio
+  - Needs Photo
+  - Has Audio
 ---
 
 # Wrentit (Chamaea fasciata)

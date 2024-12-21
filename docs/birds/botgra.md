@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Icteridae (Troupials and Allies)
   - Blackbirds
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Boat-tailed Grackle (Quiscalus major)

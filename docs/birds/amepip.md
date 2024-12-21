@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Motacillidae (Wagtails and Pipits)
   - Wagtails and Pipits
-  
-  - Audio
+  - Needs Photo
+  - Has Audio
 ---
 
 # American Pipit (Anthus rubescens)

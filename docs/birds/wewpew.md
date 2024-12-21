@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Tyrannidae (Tyrant Flycatchers)
   - Tyrant Flycatchers - Pewees, Kingbirds, and Allies
-  - Photo
-  
+  - Has Photo
+  - Needs Audio
 ---
 
 # Western Wood-Pewee (Contopus sordidulus)

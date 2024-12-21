@@ -11,8 +11,8 @@ tags:
   - Columbiformes
   - Columbidae (Pigeons and Doves)
   - Pigeons and Doves
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # West Peruvian Dove (Zenaida meloda)

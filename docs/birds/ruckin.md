@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Regulidae (Kinglets)
   - Kinglets
-  
-  - Audio
+  - Needs Photo
+  - Has Audio
 ---
 
 # Ruby-crowned Kinglet (Corthylio calendula)

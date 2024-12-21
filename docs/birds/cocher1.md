@@ -11,8 +11,8 @@ tags:
   - Pelecaniformes
   - Ardeidae (Herons, Egrets, and Bitterns)
   - Herons, Ibis, and Allies
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Cocoi Heron (Ardea cocoi)

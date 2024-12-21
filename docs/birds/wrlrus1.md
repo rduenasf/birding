@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Furnariidae (Ovenbirds and Woodcreepers)
   - Ovenbirds
-  - Photo
-  
+  - Has Photo
+  - Needs Audio
 ---
 
 # Wren-like Rushbird (Phleocryptes melanops)

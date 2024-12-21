@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Troglodytidae (Wrens)
   - Wrens
-  - Photo
-  
+  - Has Photo
+  - Needs Audio
 ---
 
 # Rock Wren (Salpinctes obsoletus)

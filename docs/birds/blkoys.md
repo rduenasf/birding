@@ -11,8 +11,8 @@ tags:
   - Charadriiformes
   - Haematopodidae (Oystercatchers)
   - Shorebirds
-  - Photo
-  
+  - Has Photo
+  - Needs Audio
 ---
 
 # Black Oystercatcher (Haematopus bachmani)

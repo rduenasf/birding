@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Sturnidae (Starlings)
   - Starlings and Mynas
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Common Myna (Acridotheres tristis)

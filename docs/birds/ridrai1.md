@@ -11,8 +11,8 @@ tags:
   - Gruiformes
   - Rallidae (Rails, Gallinules, and Coots)
   - Rails, Gallinules, and Allies
-  
-  - Audio
+  - Needs Photo
+  - Has Audio
 ---
 
 # Ridgway's Rail (Rallus obsoletus)

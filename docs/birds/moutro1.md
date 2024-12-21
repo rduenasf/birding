@@ -11,8 +11,8 @@ tags:
   - Trogoniformes
   - Trogonidae (Trogons)
   - Trogons and Quetzals
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Mountain Trogon (Trogon mexicanus)

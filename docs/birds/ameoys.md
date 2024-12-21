@@ -11,8 +11,8 @@ tags:
   - Charadriiformes
   - Haematopodidae (Oystercatchers)
   - Shorebirds
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # American Oystercatcher (Haematopus palliatus)

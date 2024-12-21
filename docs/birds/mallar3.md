@@ -11,8 +11,8 @@ tags:
   - Anseriformes
   - Anatidae (Ducks, Geese, and Waterfowl)
   - Waterfowl
-  - Photo
-  - Audio
+  - Has Photo
+  - Has Audio
 ---
 
 # Mallard (Anas platyrhynchos)

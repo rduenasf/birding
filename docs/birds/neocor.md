@@ -11,8 +11,8 @@ tags:
   - Suliformes
   - Phalacrocoracidae (Cormorants and Shags)
   - Cormorants and Anhingas
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Neotropic Cormorant (Nannopterum brasilianum)

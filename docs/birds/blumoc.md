@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Mimidae (Mockingbirds and Thrashers)
   - Catbirds, Mockingbirds, and Thrashers
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Blue Mockingbird (Melanotis caerulescens)

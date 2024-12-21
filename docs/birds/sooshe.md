@@ -11,8 +11,8 @@ tags:
   - Procellariiformes
   - Procellariidae (Shearwaters and Petrels)
   - Petrels, Shearwaters, and Diving-Petrels
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Sooty Shearwater (Ardenna grisea)

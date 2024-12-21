@@ -11,8 +11,8 @@ tags:
   - Apodiformes
   - Apodidae (Swifts)
   - Swifts
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Black Swift (Cypseloides niger)

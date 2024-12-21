@@ -11,8 +11,8 @@ tags:
   - Cathartiformes
   - Cathartidae (New World Vultures)
   - Vultures, Hawks, and Allies
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Andean Condor (Vultur gryphus)

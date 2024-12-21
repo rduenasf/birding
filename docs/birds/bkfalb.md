@@ -11,8 +11,8 @@ tags:
   - Procellariiformes
   - Diomedeidae (Albatrosses)
   - Albatrosses
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Black-footed Albatross (Phoebastria nigripes)

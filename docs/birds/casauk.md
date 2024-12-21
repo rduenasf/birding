@@ -11,8 +11,8 @@ tags:
   - Charadriiformes
   - Alcidae (Auks, Murres, and Puffins)
   - Alcids
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Cassin's Auklet (Ptychoramphus aleuticus)

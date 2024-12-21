@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Furnariidae (Ovenbirds and Woodcreepers)
   - Leaftossers and Miners
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Rufous-banded Miner (Geositta rufipennis)

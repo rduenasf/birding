@@ -11,8 +11,8 @@ tags:
   - Sphenisciformes
   - Spheniscidae (Penguins)
   - Penguins
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Humboldt Penguin (Spheniscus humboldti)

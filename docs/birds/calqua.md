@@ -11,8 +11,8 @@ tags:
   - Galliformes
   - Odontophoridae (New World Quail)
   - Grouse, Quail, and Allies
-  
-  - Audio
+  - Needs Photo
+  - Has Audio
 ---
 
 # California Quail (Callipepla californica)

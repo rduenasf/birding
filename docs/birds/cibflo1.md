@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Thraupidae (Tanagers and Allies)
   - Tanagers and Allies
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Cinnamon-bellied Flowerpiercer (Diglossa baritula)

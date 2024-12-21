@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Passerellidae (New World Sparrows)
   - New World Sparrows
-  
-  - Audio
+  - Needs Photo
+  - Has Audio
 ---
 
 # White-crowned Sparrow (Zonotrichia leucophrys)

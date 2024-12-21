@@ -11,8 +11,8 @@ tags:
   - Accipitriformes
   - Accipitridae (Hawks, Eagles, and Kites)
   - Vultures, Hawks, and Allies
-  - Photo
-  - Audio
+  - Has Photo
+  - Has Audio
 ---
 
 # White-tailed Kite (Elanus leucurus)

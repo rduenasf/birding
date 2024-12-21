@@ -11,8 +11,8 @@ tags:
   - Pelecaniformes
   - Pelecanidae (Pelicans)
   - Pelicans
-  - Photo
-  
+  - Has Photo
+  - Needs Audio
 ---
 
 # Brown Pelican (Pelecanus occidentalis)

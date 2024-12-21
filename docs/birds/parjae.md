@@ -11,8 +11,8 @@ tags:
   - Charadriiformes
   - Stercorariidae (Skuas and Jaegers)
   - Skuas and Jaegers
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Parasitic Jaeger (Stercorarius parasiticus)

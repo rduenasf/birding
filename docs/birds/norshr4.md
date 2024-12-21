@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Laniidae (Shrikes)
   - Shrikes
-  
-  
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Northern Shrike (Lanius borealis)

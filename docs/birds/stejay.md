@@ -11,8 +11,8 @@ tags:
   - Passeriformes
   - Corvidae (Crows, Jays, and Magpies)
   - Jays, Magpies, Crows, and Ravens
-  
-  - Audio
+  - Needs Photo
+  - Has Audio
 ---
 
 # Steller's Jay (Cyanocitta stelleri)
