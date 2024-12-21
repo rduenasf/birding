@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Waterfowl](/tags/waterfowl)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wooduc)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wooduc) | [Map](/map?species_code=wooduc)
 
 **Photo**: No 
 

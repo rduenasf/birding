@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Frigatebirds, Boobies, and Gannets](/tags/frigatebirds-boobies-and-gannets)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cocboo1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cocboo1) | [Map](/map?species_code=cocboo1)
 
 **Photo**: No 
 

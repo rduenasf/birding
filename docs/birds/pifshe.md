@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Petrels, Shearwaters, and Diving-Petrels](/tags/petrels-shearwaters-and-diving-petrels)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pifshe)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pifshe) | [Map](/map?species_code=pifshe)
 
 **Photo**: No 
 

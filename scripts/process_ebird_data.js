@@ -86,9 +86,11 @@ fs.createReadStream(taxonomyFile)
           speciesCountryCount[speciesCode] = {};
         }
         if (!speciesCountryCount[speciesCode][country]) {
-          speciesCountryCount[speciesCode][country] = 0;
+          speciesCountryCount[speciesCode][country] = new Set();
         }
-        speciesCountryCount[speciesCode][country] += 1;
+        speciesCountryCount[speciesCode][country].add(
+          camelCaseRow["locationId"]
+        );
       })
       .on("end", () => {
         // Remove entries without observations
@@ -120,23 +122,32 @@ fs.createReadStream(taxonomyFile)
         console.log(`JSON data has been written to ${ebirdOutputFile}`);
 
         // Create summary data
-        const summary = {};
+        const countrySummary = {};
         for (const country in countrySpeciesCount) {
-          summary[country] = countrySpeciesCount[country].size;
+          countrySummary[country] = countrySpeciesCount[country].size;
         }
 
         fs.writeFileSync(
           countrySummaryOutputFile,
-          JSON.stringify(summary, null, 2)
+          JSON.stringify(countrySummary, null, 2)
         );
         console.log(
           `Summary JSON file has been created at ${countrySummaryOutputFile}`
         );
 
+        const countrySpeciesSummary = {};
+        for (const species in speciesCountryCount) {
+          countrySpeciesSummary[species] = {};
+          for (const country in speciesCountryCount[species]) {
+            countrySpeciesSummary[species][country] =
+              speciesCountryCount[species][country].size;
+          }
+        }
+
         // Write country species count data
         fs.writeFileSync(
           countrySpeciesOutputFile,
-          JSON.stringify(speciesCountryCount, null, 2)
+          JSON.stringify(countrySpeciesSummary, null, 2)
         );
         console.log(
           `Country species count JSON file has been created at ${countrySpeciesOutputFile}`

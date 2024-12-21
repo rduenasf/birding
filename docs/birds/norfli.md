@@ -6,12 +6,12 @@ family: "Picidae (Woodpeckers)"
 species_group: "Woodpeckers"
 species_code: "norfli"
 sidebar_position: 251
-sidebar_class_name: "has-photo "
+sidebar_class_name: " "
 tags: 
   - Piciformes
   - Picidae (Woodpeckers)
   - Woodpeckers
-  - Has Photo
+  - Needs Photo
   - Needs Audio
 ---
 
@@ -23,15 +23,15 @@ tags:
 
 **Species Group:** [Woodpeckers](/tags/woodpeckers)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=norfli)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=norfli) | [Map](/map?species_code=norfli)
 
-**Photo**: Yes 
+**Photo**: No 
 
 **Audio**: No
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/626996238/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+No photographs available.
 
 ### Audio Recordings
 No audio recordings available.

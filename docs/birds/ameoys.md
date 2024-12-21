@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Shorebirds](/tags/shorebirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ameoys)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ameoys) | [Map](/map?species_code=ameoys)
 
 **Photo**: No 
 

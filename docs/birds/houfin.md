@@ -6,13 +6,13 @@ family: "Fringillidae (Finches, Euphonias, and Allies)"
 species_group: "Finches, Euphonias, and Allies"
 species_code: "houfin"
 sidebar_position: 203
-sidebar_class_name: " has-audio"
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Fringillidae (Finches, Euphonias, and Allies)
   - Finches, Euphonias, and Allies
   - Needs Photo
-  - Has Audio
+  - Needs Audio
 ---
 
 # House Finch (Haemorhous mexicanus)
@@ -23,23 +23,18 @@ tags:
 
 **Species Group:** [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=houfin)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=houfin) | [Map](/map?species_code=houfin)
 
 **Photo**: No 
 
-**Audio**: Yes
+**Audio**: No
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626557644/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626447649/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626684827/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626559480/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626559496/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626917182/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+No audio recordings available.
 
 ## Links
 * [eBird](https://ebird.org/species/houfin) 

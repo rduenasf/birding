@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Falcons and Caracaras](/tags/falcons-and-caracaras)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=amekes)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=amekes) | [Map](/map?species_code=amekes)
 
 **Photo**: No 
 

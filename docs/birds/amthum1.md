@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Hummingbirds](/tags/hummingbirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=amthum1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=amthum1) | [Map](/map?species_code=amthum1)
 
 **Photo**: No 
 

@@ -6,13 +6,13 @@ family: "Charadriidae (Plovers and Lapwings)"
 species_group: "Shorebirds"
 species_code: "killde"
 sidebar_position: 210
-sidebar_class_name: " has-audio"
+sidebar_class_name: " "
 tags: 
   - Charadriiformes
   - Charadriidae (Plovers and Lapwings)
   - Shorebirds
   - Needs Photo
-  - Has Audio
+  - Needs Audio
 ---
 
 # Killdeer (Charadrius vociferus)
@@ -23,18 +23,18 @@ tags:
 
 **Species Group:** [Shorebirds](/tags/shorebirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=killde)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=killde) | [Map](/map?species_code=killde)
 
 **Photo**: No 
 
-**Audio**: Yes
+**Audio**: No
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626557748/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+No audio recordings available.
 
 ## Links
 * [eBird](https://ebird.org/species/killde) 

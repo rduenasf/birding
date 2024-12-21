@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Martins and Swallows](/tags/martins-and-swallows)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chiswa1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chiswa1) | [Map](/map?species_code=chiswa1)
 
 **Photo**: No 
 

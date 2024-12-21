@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Alcids](/tags/alcids)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=commur)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=commur) | [Map](/map?species_code=commur)
 
 **Photo**: No 
 

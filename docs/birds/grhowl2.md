@@ -6,12 +6,12 @@ family: "Strigidae (Owls)"
 species_group: "Owls"
 species_code: "grhowl2"
 sidebar_position: 219
-sidebar_class_name: "has-photo "
+sidebar_class_name: " "
 tags: 
   - Strigiformes
   - Strigidae (Owls)
   - Owls
-  - Has Photo
+  - Needs Photo
   - Needs Audio
 ---
 
@@ -23,17 +23,15 @@ tags:
 
 **Species Group:** [Owls](/tags/owls)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grhowl2)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grhowl2) | [Map](/map?species_code=grhowl2)
 
-**Photo**: Yes 
+**Photo**: No 
 
 **Audio**: No
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/625246862/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/625246863/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/625246864/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+No photographs available.
 
 ### Audio Recordings
 No audio recordings available.

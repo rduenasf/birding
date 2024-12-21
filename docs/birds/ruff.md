@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Shorebirds](/tags/shorebirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ruff)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ruff) | [Map](/map?species_code=ruff)
 
 **Photo**: No 
 

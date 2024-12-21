@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Vireos](/tags/vireos)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whevir)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whevir) | [Map](/map?species_code=whevir)
 
 **Photo**: No 
 

@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Skuas and Jaegers](/tags/skuas-and-jaegers)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=parjae)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=parjae) | [Map](/map?species_code=parjae)
 
 **Photo**: No 
 

@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Waterfowl](/tags/waterfowl)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=commer)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=commer) | [Map](/map?species_code=commer)
 
 **Photo**: No 
 

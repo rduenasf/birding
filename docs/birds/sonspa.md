@@ -6,13 +6,13 @@ family: "Passerellidae (New World Sparrows)"
 species_group: "New World Sparrows"
 species_code: "sonspa"
 sidebar_position: 337
-sidebar_class_name: " has-audio"
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Passerellidae (New World Sparrows)
   - New World Sparrows
   - Needs Photo
-  - Has Audio
+  - Needs Audio
 ---
 
 # Song Sparrow (Melospiza melodia)
@@ -23,24 +23,18 @@ tags:
 
 **Species Group:** [New World Sparrows](/tags/new-world-sparrows)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sonspa)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sonspa) | [Map](/map?species_code=sonspa)
 
 **Photo**: No 
 
-**Audio**: Yes
+**Audio**: No
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626447800/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626618068/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626618074/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626617721/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626617722/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626617940/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626684724/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+No audio recordings available.
 
 ## Links
 * [eBird](https://ebird.org/species/sonspa) 

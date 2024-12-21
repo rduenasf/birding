@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Pelicans](/tags/pelicans)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=perpel1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=perpel1) | [Map](/map?species_code=perpel1)
 
 **Photo**: No 
 

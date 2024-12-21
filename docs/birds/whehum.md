@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Hummingbirds](/tags/hummingbirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whehum)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whehum) | [Map](/map?species_code=whehum)
 
 **Photo**: No 
 

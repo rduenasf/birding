@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Rails, Gallinules, and Allies](/tags/rails-gallinules-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sora)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sora) | [Map](/map?species_code=sora)
 
 **Photo**: No 
 

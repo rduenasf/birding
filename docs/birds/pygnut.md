@@ -6,12 +6,12 @@ family: "Sittidae (Nuthatches)"
 species_group: "Nuthatches"
 species_code: "pygnut"
 sidebar_position: 282
-sidebar_class_name: "has-photo "
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Sittidae (Nuthatches)
   - Nuthatches
-  - Has Photo
+  - Needs Photo
   - Needs Audio
 ---
 
@@ -23,18 +23,15 @@ tags:
 
 **Species Group:** [Nuthatches](/tags/nuthatches)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pygnut)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pygnut) | [Map](/map?species_code=pygnut)
 
-**Photo**: Yes 
+**Photo**: No 
 
 **Audio**: No
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/615266972/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/615266973/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/615266974/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/615266975/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+No photographs available.
 
 ### Audio Recordings
 No audio recordings available.

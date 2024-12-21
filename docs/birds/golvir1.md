@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Vireos](/tags/vireos)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=golvir1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=golvir1) | [Map](/map?species_code=golvir1)
 
 **Photo**: No 
 

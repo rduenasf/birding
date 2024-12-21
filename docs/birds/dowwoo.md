@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Woodpeckers](/tags/woodpeckers)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=dowwoo)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=dowwoo) | [Map](/map?species_code=dowwoo)
 
 **Photo**: No 
 

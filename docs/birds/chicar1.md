@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Falcons and Caracaras](/tags/falcons-and-caracaras)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chicar1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chicar1) | [Map](/map?species_code=chicar1)
 
 **Photo**: No 
 

@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Tanagers and Allies](/tags/tanagers-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gryfin2)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gryfin2) | [Map](/map?species_code=gryfin2)
 
 **Photo**: No 
 

@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Shorebirds](/tags/shorebirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whimbr)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whimbr) | [Map](/map?species_code=whimbr)
 
 **Photo**: No 
 

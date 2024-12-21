@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Shorebirds](/tags/shorebirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sposan)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sposan) | [Map](/map?species_code=sposan)
 
 **Photo**: No 
 

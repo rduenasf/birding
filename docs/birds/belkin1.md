@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Kingfishers](/tags/kingfishers)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=belkin1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=belkin1) | [Map](/map?species_code=belkin1)
 
 **Photo**: No 
 

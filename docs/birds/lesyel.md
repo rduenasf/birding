@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Shorebirds](/tags/shorebirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=lesyel)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=lesyel) | [Map](/map?species_code=lesyel)
 
 **Photo**: No 
 

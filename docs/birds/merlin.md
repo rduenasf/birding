@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Falcons and Caracaras](/tags/falcons-and-caracaras)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=merlin)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=merlin) | [Map](/map?species_code=merlin)
 
 **Photo**: No 
 

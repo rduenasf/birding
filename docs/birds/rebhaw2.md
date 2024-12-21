@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rebhaw2)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rebhaw2) | [Map](/map?species_code=rebhaw2)
 
 **Photo**: No 
 

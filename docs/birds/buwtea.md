@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Waterfowl](/tags/waterfowl)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=buwtea)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=buwtea) | [Map](/map?species_code=buwtea)
 
 **Photo**: No 
 

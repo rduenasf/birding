@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Tanagers and Allies](/tags/tanagers-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mosfin1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mosfin1) | [Map](/map?species_code=mosfin1)
 
 **Photo**: No 
 

@@ -6,12 +6,12 @@ family: "Icteridae (Troupials and Allies)"
 species_group: "Blackbirds"
 species_code: "brebla"
 sidebar_position: 67
-sidebar_class_name: "has-photo "
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Icteridae (Troupials and Allies)
   - Blackbirds
-  - Has Photo
+  - Needs Photo
   - Needs Audio
 ---
 
@@ -23,15 +23,15 @@ tags:
 
 **Species Group:** [Blackbirds](/tags/blackbirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=brebla)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=brebla) | [Map](/map?species_code=brebla)
 
-**Photo**: Yes 
+**Photo**: No 
 
 **Audio**: No
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/614231410/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+No photographs available.
 
 ### Audio Recordings
 No audio recordings available.

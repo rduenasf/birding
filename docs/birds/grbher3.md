@@ -6,12 +6,12 @@ family: "Ardeidae (Herons, Egrets, and Bitterns)"
 species_group: "Herons, Ibis, and Allies"
 species_code: "grbher3"
 sidebar_position: 174
-sidebar_class_name: "has-photo "
+sidebar_class_name: " "
 tags: 
   - Pelecaniformes
   - Ardeidae (Herons, Egrets, and Bitterns)
   - Herons, Ibis, and Allies
-  - Has Photo
+  - Needs Photo
   - Needs Audio
 ---
 
@@ -23,16 +23,15 @@ tags:
 
 **Species Group:** [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grbher3)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grbher3) | [Map](/map?species_code=grbher3)
 
-**Photo**: Yes 
+**Photo**: No 
 
 **Audio**: No
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/619242587/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626996232/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+No photographs available.
 
 ### Audio Recordings
 No audio recordings available.

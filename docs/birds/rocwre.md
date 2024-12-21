@@ -6,12 +6,12 @@ family: "Troglodytidae (Wrens)"
 species_group: "Wrens"
 species_code: "rocwre"
 sidebar_position: 306
-sidebar_class_name: "has-photo "
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Troglodytidae (Wrens)
   - Wrens
-  - Has Photo
+  - Needs Photo
   - Needs Audio
 ---
 
@@ -23,16 +23,15 @@ tags:
 
 **Species Group:** [Wrens](/tags/wrens)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rocwre)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rocwre) | [Map](/map?species_code=rocwre)
 
-**Photo**: Yes 
+**Photo**: No 
 
 **Audio**: No
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/616427604/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/616427612/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+No photographs available.
 
 ### Audio Recordings
 No audio recordings available.

@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Swifts](/tags/swifts)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=vauswi)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=vauswi) | [Map](/map?species_code=vauswi)
 
 **Photo**: No 
 

@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Thrushes](/tags/thrushes)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=amerob)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=amerob) | [Map](/map?species_code=amerob)
 
 **Photo**: No 
 

@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Shorebirds](/tags/shorebirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=dunlin)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=dunlin) | [Map](/map?species_code=dunlin)
 
 **Photo**: No 
 

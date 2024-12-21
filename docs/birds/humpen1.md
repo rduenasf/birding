@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Penguins](/tags/penguins)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=humpen1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=humpen1) | [Map](/map?species_code=humpen1)
 
 **Photo**: No 
 

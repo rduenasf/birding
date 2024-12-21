@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Penduline-Tits and Verdin](/tags/penduline-tits-and-verdin)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=verdin)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=verdin) | [Map](/map?species_code=verdin)
 
 **Photo**: No 
 

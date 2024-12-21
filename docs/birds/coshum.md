@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Hummingbirds](/tags/hummingbirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=coshum)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=coshum) | [Map](/map?species_code=coshum)
 
 **Photo**: No 
 

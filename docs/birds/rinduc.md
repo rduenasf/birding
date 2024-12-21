@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Waterfowl](/tags/waterfowl)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rinduc)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rinduc) | [Map](/map?species_code=rinduc)
 
 **Photo**: No 
 

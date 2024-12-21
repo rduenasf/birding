@@ -6,13 +6,13 @@ family: "Rallidae (Rails, Gallinules, and Coots)"
 species_group: "Rails, Gallinules, and Allies"
 species_code: "comgal1"
 sidebar_position: 117
-sidebar_class_name: "has-photo has-audio"
+sidebar_class_name: " "
 tags: 
   - Gruiformes
   - Rallidae (Rails, Gallinules, and Coots)
   - Rails, Gallinules, and Allies
-  - Has Photo
-  - Has Audio
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Common Gallinule (Gallinula galeata)
@@ -23,18 +23,18 @@ tags:
 
 **Species Group:** [Rails, Gallinules, and Allies](/tags/rails-gallinules-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=comgal1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=comgal1) | [Map](/map?species_code=comgal1)
 
-**Photo**: Yes 
+**Photo**: No 
 
-**Audio**: Yes
+**Audio**: No
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/626996488/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+No photographs available.
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626843308/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+No audio recordings available.
 
 ## Links
 * [eBird](https://ebird.org/species/comgal1) 

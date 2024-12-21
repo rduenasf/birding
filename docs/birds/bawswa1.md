@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Martins and Swallows](/tags/martins-and-swallows)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bawswa1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bawswa1) | [Map](/map?species_code=bawswa1)
 
 **Photo**: No 
 

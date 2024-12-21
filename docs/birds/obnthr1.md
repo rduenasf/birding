@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Thrushes](/tags/thrushes)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=obnthr1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=obnthr1) | [Map](/map?species_code=obnthr1)
 
 **Photo**: No 
 

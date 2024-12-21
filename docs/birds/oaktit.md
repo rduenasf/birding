@@ -6,13 +6,13 @@ family: "Paridae (Tits, Chickadees, and Titmice)"
 species_group: "Tits, Chickadees, and Titmice"
 species_code: "oaktit"
 sidebar_position: 261
-sidebar_class_name: " has-audio"
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Paridae (Tits, Chickadees, and Titmice)
   - Tits, Chickadees, and Titmice
   - Needs Photo
-  - Has Audio
+  - Needs Audio
 ---
 
 # Oak Titmouse (Baeolophus inornatus)
@@ -23,19 +23,18 @@ tags:
 
 **Species Group:** [Tits, Chickadees, and Titmice](/tags/tits-chickadees-and-titmice)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=oaktit)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=oaktit) | [Map](/map?species_code=oaktit)
 
 **Photo**: No 
 
-**Audio**: Yes
+**Audio**: No
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626995518/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626995519/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+No audio recordings available.
 
 ## Links
 * [eBird](https://ebird.org/species/oaktit) 

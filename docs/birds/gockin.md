@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Kinglets](/tags/kinglets)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gockin)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gockin) | [Map](/map?species_code=gockin)
 
 **Photo**: No 
 

@@ -6,13 +6,13 @@ family: "Corvidae (Crows, Jays, and Magpies)"
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "stejay"
 sidebar_position: 347
-sidebar_class_name: " has-audio"
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Corvidae (Crows, Jays, and Magpies)
   - Jays, Magpies, Crows, and Ravens
   - Needs Photo
-  - Has Audio
+  - Needs Audio
 ---
 
 # Steller's Jay (Cyanocitta stelleri)
@@ -23,18 +23,18 @@ tags:
 
 **Species Group:** [Jays, Magpies, Crows, and Ravens](/tags/jays-magpies-crows-and-ravens)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=stejay)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=stejay) | [Map](/map?species_code=stejay)
 
 **Photo**: No 
 
-**Audio**: Yes
+**Audio**: No
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626995552/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+No audio recordings available.
 
 ## Links
 * [eBird](https://ebird.org/species/stejay) 

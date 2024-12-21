@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Alcids](/tags/alcids)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=piggui)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=piggui) | [Map](/map?species_code=piggui)
 
 **Photo**: No 
 

@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Waterfowl](/tags/waterfowl)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=redsho1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=redsho1) | [Map](/map?species_code=redsho1)
 
 **Photo**: No 
 

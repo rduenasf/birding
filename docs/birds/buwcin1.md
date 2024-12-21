@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Ovenbirds](/tags/ovenbirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=buwcin1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=buwcin1) | [Map](/map?species_code=buwcin1)
 
 **Photo**: No 
 

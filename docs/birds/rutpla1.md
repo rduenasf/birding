@@ -6,12 +6,12 @@ family: "Cotingidae (Cotingas)"
 species_group: "Cotingas"
 species_code: "rutpla1"
 sidebar_position: 319
-sidebar_class_name: "has-photo "
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Cotingidae (Cotingas)
   - Cotingas
-  - Has Photo
+  - Needs Photo
   - Needs Audio
 ---
 
@@ -23,15 +23,15 @@ tags:
 
 **Species Group:** [Cotingas](/tags/cotingas)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rutpla1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rutpla1) | [Map](/map?species_code=rutpla1)
 
-**Photo**: Yes 
+**Photo**: No 
 
 **Audio**: No
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/625246687/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+No photographs available.
 
 ### Audio Recordings
 No audio recordings available.

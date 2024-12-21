@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Cuckoos](/tags/cuckoos)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=greroa)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=greroa) | [Map](/map?species_code=greroa)
 
 **Photo**: No 
 

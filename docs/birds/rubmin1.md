@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Leaftossers and Miners](/tags/leaftossers-and-miners)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rubmin1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rubmin1) | [Map](/map?species_code=rubmin1)
 
 **Photo**: No 
 

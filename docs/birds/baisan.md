@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Shorebirds](/tags/shorebirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=baisan)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=baisan) | [Map](/map?species_code=baisan)
 
 **Photo**: No 
 

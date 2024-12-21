@@ -6,13 +6,13 @@ family: "Motacillidae (Wagtails and Pipits)"
 species_group: "Wagtails and Pipits"
 species_code: "amepip"
 sidebar_position: 12
-sidebar_class_name: " has-audio"
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Motacillidae (Wagtails and Pipits)
   - Wagtails and Pipits
   - Needs Photo
-  - Has Audio
+  - Needs Audio
 ---
 
 # American Pipit (Anthus rubescens)
@@ -23,20 +23,18 @@ tags:
 
 **Species Group:** [Wagtails and Pipits](/tags/wagtails-and-pipits)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=amepip)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=amepip) | [Map](/map?species_code=amepip)
 
 **Photo**: No 
 
-**Audio**: Yes
+**Audio**: No
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626684923/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626684924/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626684926/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+No audio recordings available.
 
 ## Links
 * [eBird](https://ebird.org/species/amepip) 

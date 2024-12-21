@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Cardinals, Grosbeaks, and Allies](/tags/cardinals-grosbeaks-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=lazbun)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=lazbun) | [Map](/map?species_code=lazbun)
 
 **Photo**: No 
 

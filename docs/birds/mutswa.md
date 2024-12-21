@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Waterfowl](/tags/waterfowl)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mutswa)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mutswa) | [Map](/map?species_code=mutswa)
 
 **Photo**: No 
 

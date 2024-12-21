@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Tyrant Flycatchers: Elaenias, Tyrannulets, and Allies](/tags/tyrant-flycatchers-elaenias-tyrannulets-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mcrtyr1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mcrtyr1) | [Map](/map?species_code=mcrtyr1)
 
 **Photo**: No 
 

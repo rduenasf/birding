@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Vireos](/tags/vireos)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=belvir)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=belvir) | [Map](/map?species_code=belvir)
 
 **Photo**: No 
 

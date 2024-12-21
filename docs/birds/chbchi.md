@@ -6,13 +6,13 @@ family: "Paridae (Tits, Chickadees, and Titmice)"
 species_group: "Tits, Chickadees, and Titmice"
 species_code: "chbchi"
 sidebar_position: 101
-sidebar_class_name: " has-audio"
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Paridae (Tits, Chickadees, and Titmice)
   - Tits, Chickadees, and Titmice
   - Needs Photo
-  - Has Audio
+  - Needs Audio
 ---
 
 # Chestnut-backed Chickadee (Poecile rufescens)
@@ -23,18 +23,18 @@ tags:
 
 **Species Group:** [Tits, Chickadees, and Titmice](/tags/tits-chickadees-and-titmice)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chbchi)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chbchi) | [Map](/map?species_code=chbchi)
 
 **Photo**: No 
 
-**Audio**: Yes
+**Audio**: No
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626559383/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+No audio recordings available.
 
 ## Links
 * [eBird](https://ebird.org/species/chbchi) 

@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Jays, Magpies, Crows, and Ravens](/tags/jays-magpies-crows-and-ravens)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=yebmag)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=yebmag) | [Map](/map?species_code=yebmag)
 
 **Photo**: No 
 

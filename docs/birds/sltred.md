@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Wood-Warblers](/tags/wood-warblers)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sltred)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sltred) | [Map](/map?species_code=sltred)
 
 **Photo**: No 
 

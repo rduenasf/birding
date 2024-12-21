@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Tits, Chickadees, and Titmice](/tags/tits-chickadees-and-titmice)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=britit)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=britit) | [Map](/map?species_code=britit)
 
 **Photo**: No 
 

@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Cranes](/tags/cranes)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sancra)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sancra) | [Map](/map?species_code=sancra)
 
 **Photo**: No 
 

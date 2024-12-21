@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Tits, Chickadees, and Titmice](/tags/tits-chickadees-and-titmice)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mexchi)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mexchi) | [Map](/map?species_code=mexchi)
 
 **Photo**: No 
 

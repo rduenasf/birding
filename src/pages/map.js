@@ -20,7 +20,7 @@ const getColor = (d) => {
     ? "#FD8D3C"
     : d > 10
     ? "#FEB24C"
-    : d > 5
+    : d > 0
     ? "#FED976"
     : "#DDDDDD";
 };

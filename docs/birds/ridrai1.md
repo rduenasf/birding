@@ -6,13 +6,13 @@ family: "Rallidae (Rails, Gallinules, and Coots)"
 species_group: "Rails, Gallinules, and Allies"
 species_code: "ridrai1"
 sidebar_position: 301
-sidebar_class_name: " has-audio"
+sidebar_class_name: " "
 tags: 
   - Gruiformes
   - Rallidae (Rails, Gallinules, and Coots)
   - Rails, Gallinules, and Allies
   - Needs Photo
-  - Has Audio
+  - Needs Audio
 ---
 
 # Ridgway's Rail (Rallus obsoletus)
@@ -23,18 +23,18 @@ tags:
 
 **Species Group:** [Rails, Gallinules, and Allies](/tags/rails-gallinules-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ridrai1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ridrai1) | [Map](/map?species_code=ridrai1)
 
 **Photo**: No 
 
-**Audio**: Yes
+**Audio**: No
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626917178/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+No audio recordings available.
 
 ## Links
 * [eBird](https://ebird.org/species/ridrai1) 

@@ -6,13 +6,13 @@ family: "Mimidae (Mockingbirds and Thrashers)"
 species_group: "Catbirds, Mockingbirds, and Thrashers"
 species_code: "calthr"
 sidebar_position: 89
-sidebar_class_name: " has-audio"
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Mimidae (Mockingbirds and Thrashers)
   - Catbirds, Mockingbirds, and Thrashers
   - Needs Photo
-  - Has Audio
+  - Needs Audio
 ---
 
 # California Thrasher (Toxostoma redivivum)
@@ -23,19 +23,18 @@ tags:
 
 **Species Group:** [Catbirds, Mockingbirds, and Thrashers](/tags/catbirds-mockingbirds-and-thrashers)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=calthr)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=calthr) | [Map](/map?species_code=calthr)
 
 **Photo**: No 
 
-**Audio**: Yes
+**Audio**: No
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626995460/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626995461/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+No audio recordings available.
 
 ## Links
 * [eBird](https://ebird.org/species/calthr) 

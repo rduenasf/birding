@@ -6,12 +6,12 @@ family: "Columbidae (Pigeons and Doves)"
 species_group: "Pigeons and Doves"
 species_code: "chipig2"
 sidebar_position: 105
-sidebar_class_name: "has-photo "
+sidebar_class_name: " "
 tags: 
   - Columbiformes
   - Columbidae (Pigeons and Doves)
   - Pigeons and Doves
-  - Has Photo
+  - Needs Photo
   - Needs Audio
 ---
 
@@ -23,15 +23,15 @@ tags:
 
 **Species Group:** [Pigeons and Doves](/tags/pigeons-and-doves)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chipig2)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chipig2) | [Map](/map?species_code=chipig2)
 
-**Photo**: Yes 
+**Photo**: No 
 
 **Audio**: No
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/625246747/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+No photographs available.
 
 ### Audio Recordings
 No audio recordings available.

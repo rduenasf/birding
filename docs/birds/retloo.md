@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Loons](/tags/loons)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=retloo)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=retloo) | [Map](/map?species_code=retloo)
 
 **Photo**: No 
 

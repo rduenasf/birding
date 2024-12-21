@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=comter)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=comter) | [Map](/map?species_code=comter)
 
 **Photo**: No 
 

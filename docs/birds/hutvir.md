@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Vireos](/tags/vireos)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=hutvir)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=hutvir) | [Map](/map?species_code=hutvir)
 
 **Photo**: No 
 

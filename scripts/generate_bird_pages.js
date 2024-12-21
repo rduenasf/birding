@@ -80,7 +80,7 @@ tags:
 
 **Species Group:** [${speciesGroup}](/tags/${generateSlug(speciesGroup)})
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=${speciesCode})
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=${speciesCode}) | [Map](/map?species_code=${speciesCode})
 
 **Photo**: ${photos.length > 0 ? "Yes" : "No"} 
 

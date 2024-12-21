@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Treecreepers](/tags/treecreepers)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=brncre)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=brncre) | [Map](/map?species_code=brncre)
 
 **Photo**: No 
 

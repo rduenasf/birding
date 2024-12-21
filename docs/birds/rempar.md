@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Parrots, Parakeets, and Allies](/tags/parrots-parakeets-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rempar)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rempar) | [Map](/map?species_code=rempar)
 
 **Photo**: No 
 

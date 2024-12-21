@@ -6,13 +6,13 @@ family: "Recurvirostridae (Stilts and Avocets)"
 species_group: "Shorebirds"
 species_code: "bknsti"
 sidebar_position: 52
-sidebar_class_name: " has-audio"
+sidebar_class_name: " "
 tags: 
   - Charadriiformes
   - Recurvirostridae (Stilts and Avocets)
   - Shorebirds
   - Needs Photo
-  - Has Audio
+  - Needs Audio
 ---
 
 # Black-necked Stilt (Himantopus mexicanus)
@@ -23,19 +23,18 @@ tags:
 
 **Species Group:** [Shorebirds](/tags/shorebirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bknsti)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bknsti) | [Map](/map?species_code=bknsti)
 
 **Photo**: No 
 
-**Audio**: Yes
+**Audio**: No
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626684567/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626685012/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+No audio recordings available.
 
 ## Links
 * [eBird](https://ebird.org/species/bknsti) 

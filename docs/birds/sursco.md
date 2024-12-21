@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Waterfowl](/tags/waterfowl)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sursco)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sursco) | [Map](/map?species_code=sursco)
 
 **Photo**: No 
 

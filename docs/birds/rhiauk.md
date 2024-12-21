@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Alcids](/tags/alcids)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rhiauk)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rhiauk) | [Map](/map?species_code=rhiauk)
 
 **Photo**: No 
 

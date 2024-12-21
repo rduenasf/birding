@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Owls](/tags/owls)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grhowl)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grhowl) | [Map](/map?species_code=grhowl)
 
 **Photo**: No 
 

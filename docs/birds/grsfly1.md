@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Silky-flycatchers](/tags/silky-flycatchers)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grsfly1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grsfly1) | [Map](/map?species_code=grsfly1)
 
 **Photo**: No 
 

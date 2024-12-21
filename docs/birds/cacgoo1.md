@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Waterfowl](/tags/waterfowl)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cacgoo1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cacgoo1) | [Map](/map?species_code=cacgoo1)
 
 **Photo**: No 
 

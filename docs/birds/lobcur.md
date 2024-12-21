@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Shorebirds](/tags/shorebirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=lobcur)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=lobcur) | [Map](/map?species_code=lobcur)
 
 **Photo**: No 
 

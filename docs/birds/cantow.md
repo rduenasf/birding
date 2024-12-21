@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [New World Sparrows](/tags/new-world-sparrows)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cantow)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cantow) | [Map](/map?species_code=cantow)
 
 **Photo**: No 
 

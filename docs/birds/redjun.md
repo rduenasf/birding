@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Grouse, Quail, and Allies](/tags/grouse-quail-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=redjun)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=redjun) | [Map](/map?species_code=redjun)
 
 **Photo**: No 
 

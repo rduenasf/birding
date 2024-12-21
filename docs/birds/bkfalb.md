@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Albatrosses](/tags/albatrosses)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkfalb)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkfalb) | [Map](/map?species_code=bkfalb)
 
 **Photo**: No 
 

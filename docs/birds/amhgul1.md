@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=amhgul1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=amhgul1) | [Map](/map?species_code=amhgul1)
 
 **Photo**: No 
 

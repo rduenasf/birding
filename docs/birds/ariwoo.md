@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Woodpeckers](/tags/woodpeckers)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ariwoo)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ariwoo) | [Map](/map?species_code=ariwoo)
 
 **Photo**: No 
 

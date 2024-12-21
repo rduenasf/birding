@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Grebes](/tags/grebes)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=clagre)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=clagre) | [Map](/map?species_code=clagre)
 
 **Photo**: No 
 

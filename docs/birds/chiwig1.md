@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Waterfowl](/tags/waterfowl)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chiwig1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chiwig1) | [Map](/map?species_code=chiwig1)
 
 **Photo**: No 
 

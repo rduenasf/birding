@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Blackbirds](/tags/blackbirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=hooori)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=hooori) | [Map](/map?species_code=hooori)
 
 **Photo**: No 
 

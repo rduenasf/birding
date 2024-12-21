@@ -6,13 +6,13 @@ family: "Turdidae (Thrushes and Allies)"
 species_group: "Thrushes"
 species_code: "herthr"
 sidebar_position: 197
-sidebar_class_name: " has-audio"
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Turdidae (Thrushes and Allies)
   - Thrushes
   - Needs Photo
-  - Has Audio
+  - Needs Audio
 ---
 
 # Hermit Thrush (Catharus guttatus)
@@ -23,18 +23,18 @@ tags:
 
 **Species Group:** [Thrushes](/tags/thrushes)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=herthr)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=herthr) | [Map](/map?species_code=herthr)
 
 **Photo**: No 
 
-**Audio**: Yes
+**Audio**: No
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626583611/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+No audio recordings available.
 
 ## Links
 * [eBird](https://ebird.org/species/herthr) 

@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Blackbirds](/tags/blackbirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=botgra)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=botgra) | [Map](/map?species_code=botgra)
 
 **Photo**: No 
 

@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [New World Sparrows](/tags/new-world-sparrows)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=foxspa)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=foxspa) | [Map](/map?species_code=foxspa)
 
 **Photo**: No 
 

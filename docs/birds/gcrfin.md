@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gcrfin)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gcrfin) | [Map](/map?species_code=gcrfin)
 
 **Photo**: No 
 

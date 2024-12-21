@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Silky-flycatchers](/tags/silky-flycatchers)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=phaino)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=phaino) | [Map](/map?species_code=phaino)
 
 **Photo**: No 
 

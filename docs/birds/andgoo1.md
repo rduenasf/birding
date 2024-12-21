@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Waterfowl](/tags/waterfowl)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=andgoo1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=andgoo1) | [Map](/map?species_code=andgoo1)
 
 **Photo**: No 
 

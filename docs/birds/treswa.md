@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Martins and Swallows](/tags/martins-and-swallows)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=treswa)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=treswa) | [Map](/map?species_code=treswa)
 
 **Photo**: No 
 

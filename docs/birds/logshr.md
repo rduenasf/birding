@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Shrikes](/tags/shrikes)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=logshr)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=logshr) | [Map](/map?species_code=logshr)
 
 **Photo**: No 
 

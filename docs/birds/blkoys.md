@@ -6,12 +6,12 @@ family: "Haematopodidae (Oystercatchers)"
 species_group: "Shorebirds"
 species_code: "blkoys"
 sidebar_position: 35
-sidebar_class_name: "has-photo "
+sidebar_class_name: " "
 tags: 
   - Charadriiformes
   - Haematopodidae (Oystercatchers)
   - Shorebirds
-  - Has Photo
+  - Needs Photo
   - Needs Audio
 ---
 
@@ -23,16 +23,15 @@ tags:
 
 **Species Group:** [Shorebirds](/tags/shorebirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blkoys)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blkoys) | [Map](/map?species_code=blkoys)
 
-**Photo**: Yes 
+**Photo**: No 
 
 **Audio**: No
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/619242520/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/619242521/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+No photographs available.
 
 ### Audio Recordings
 No audio recordings available.

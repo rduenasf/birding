@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Nuthatches](/tags/nuthatches)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whbnut)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whbnut) | [Map](/map?species_code=whbnut)
 
 **Photo**: No 
 

@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Cardinals, Grosbeaks, and Allies](/tags/cardinals-grosbeaks-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pyrrhu)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pyrrhu) | [Map](/map?species_code=pyrrhu)
 
 **Photo**: No 
 

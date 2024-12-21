@@ -6,13 +6,13 @@ family: "Regulidae (Kinglets)"
 species_group: "Kinglets"
 species_code: "ruckin"
 sidebar_position: 308
-sidebar_class_name: " has-audio"
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Regulidae (Kinglets)
   - Kinglets
   - Needs Photo
-  - Has Audio
+  - Needs Audio
 ---
 
 # Ruby-crowned Kinglet (Corthylio calendula)
@@ -23,23 +23,18 @@ tags:
 
 **Species Group:** [Kinglets](/tags/kinglets)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ruckin)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ruckin) | [Map](/map?species_code=ruckin)
 
 **Photo**: No 
 
-**Audio**: Yes
+**Audio**: No
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626557557/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626618113/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626995435/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626995436/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626559382/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626559392/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+No audio recordings available.
 
 ## Links
 * [eBird](https://ebird.org/species/ruckin) 

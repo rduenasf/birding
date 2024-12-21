@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Tinamous](/tags/tinamous)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chitin1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chitin1) | [Map](/map?species_code=chitin1)
 
 **Photo**: No 
 

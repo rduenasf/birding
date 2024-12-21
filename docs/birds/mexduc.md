@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Waterfowl](/tags/waterfowl)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mexduc)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mexduc) | [Map](/map?species_code=mexduc)
 
 **Photo**: No 
 

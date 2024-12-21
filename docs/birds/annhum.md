@@ -6,13 +6,13 @@ family: "Trochilidae (Hummingbirds)"
 species_group: "Hummingbirds"
 species_code: "annhum"
 sidebar_position: 20
-sidebar_class_name: " has-audio"
+sidebar_class_name: " "
 tags: 
   - Apodiformes
   - Trochilidae (Hummingbirds)
   - Hummingbirds
   - Needs Photo
-  - Has Audio
+  - Needs Audio
 ---
 
 # Anna's Hummingbird (Calypte anna)
@@ -23,20 +23,18 @@ tags:
 
 **Species Group:** [Hummingbirds](/tags/hummingbirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=annhum)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=annhum) | [Map](/map?species_code=annhum)
 
 **Photo**: No 
 
-**Audio**: Yes
+**Audio**: No
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626917191/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626843418/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626583047/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+No audio recordings available.
 
 ## Links
 * [eBird](https://ebird.org/species/annhum) 

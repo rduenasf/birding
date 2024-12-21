@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=redcro)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=redcro) | [Map](/map?species_code=redcro)
 
 **Photo**: No 
 

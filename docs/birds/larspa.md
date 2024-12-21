@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [New World Sparrows](/tags/new-world-sparrows)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=larspa)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=larspa) | [Map](/map?species_code=larspa)
 
 **Photo**: No 
 

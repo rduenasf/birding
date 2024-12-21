@@ -6,13 +6,13 @@ family: "Picidae (Woodpeckers)"
 species_group: "Woodpeckers"
 species_code: "acowoo"
 sidebar_position: 2
-sidebar_class_name: " has-audio"
+sidebar_class_name: " "
 tags: 
   - Piciformes
   - Picidae (Woodpeckers)
   - Woodpeckers
   - Needs Photo
-  - Has Audio
+  - Needs Audio
 ---
 
 # Acorn Woodpecker (Melanerpes formicivorus)
@@ -23,19 +23,18 @@ tags:
 
 **Species Group:** [Woodpeckers](/tags/woodpeckers)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=acowoo)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=acowoo) | [Map](/map?species_code=acowoo)
 
 **Photo**: No 
 
-**Audio**: Yes
+**Audio**: No
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626995429/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626995430/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+No audio recordings available.
 
 ## Links
 * [eBird](https://ebird.org/species/acowoo) 

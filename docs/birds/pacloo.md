@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Loons](/tags/loons)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pacloo)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pacloo) | [Map](/map?species_code=pacloo)
 
 **Photo**: No 
 

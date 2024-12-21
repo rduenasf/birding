@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Wrens](/tags/wrens)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=carwre)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=carwre) | [Map](/map?species_code=carwre)
 
 **Photo**: No 
 

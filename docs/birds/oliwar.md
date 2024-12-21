@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Olive Warbler](/tags/olive-warbler)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=oliwar)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=oliwar) | [Map](/map?species_code=oliwar)
 
 **Photo**: No 
 

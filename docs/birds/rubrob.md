@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Thrushes](/tags/thrushes)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rubrob)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rubrob) | [Map](/map?species_code=rubrob)
 
 **Photo**: No 
 

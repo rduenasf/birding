@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Waterfowl](/tags/waterfowl)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gresca)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gresca) | [Map](/map?species_code=gresca)
 
 **Photo**: No 
 

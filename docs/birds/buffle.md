@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Waterfowl](/tags/waterfowl)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=buffle)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=buffle) | [Map](/map?species_code=buffle)
 
 **Photo**: No 
 

@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Flamingos](/tags/flamingos)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chifla1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chifla1) | [Map](/map?species_code=chifla1)
 
 **Photo**: No 
 

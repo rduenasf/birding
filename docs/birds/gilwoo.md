@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Woodpeckers](/tags/woodpeckers)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gilwoo)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gilwoo) | [Map](/map?species_code=gilwoo)
 
 **Photo**: No 
 

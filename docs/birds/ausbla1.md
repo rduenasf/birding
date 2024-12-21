@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Blackbirds](/tags/blackbirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ausbla1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ausbla1) | [Map](/map?species_code=ausbla1)
 
 **Photo**: No 
 

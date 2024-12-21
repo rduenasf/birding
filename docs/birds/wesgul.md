@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wesgul)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wesgul) | [Map](/map?species_code=wesgul)
 
 **Photo**: No 
 

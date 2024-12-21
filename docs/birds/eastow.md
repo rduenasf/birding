@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [New World Sparrows](/tags/new-world-sparrows)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=eastow)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=eastow) | [Map](/map?species_code=eastow)
 
 **Photo**: No 
 

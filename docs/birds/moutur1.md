@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Tapaculos](/tags/tapaculos)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=moutur1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=moutur1) | [Map](/map?species_code=moutur1)
 
 **Photo**: No 
 

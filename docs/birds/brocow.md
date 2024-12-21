@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Blackbirds](/tags/blackbirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=brocow)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=brocow) | [Map](/map?species_code=brocow)
 
 **Photo**: No 
 

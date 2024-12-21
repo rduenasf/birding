@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blcsis2)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blcsis2) | [Map](/map?species_code=blcsis2)
 
 **Photo**: No 
 

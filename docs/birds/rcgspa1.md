@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [New World Sparrows](/tags/new-world-sparrows)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rcgspa1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rcgspa1) | [Map](/map?species_code=rcgspa1)
 
 **Photo**: No 
 

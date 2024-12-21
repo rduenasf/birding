@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Chachalacas, Guans, and Curassows](/tags/chachalacas-guans-and-curassows)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wemcha1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wemcha1) | [Map](/map?species_code=wemcha1)
 
 **Photo**: No 
 

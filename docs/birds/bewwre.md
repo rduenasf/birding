@@ -6,13 +6,13 @@ family: "Troglodytidae (Wrens)"
 species_group: "Wrens"
 species_code: "bewwre"
 sidebar_position: 34
-sidebar_class_name: " has-audio"
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Troglodytidae (Wrens)
   - Wrens
   - Needs Photo
-  - Has Audio
+  - Needs Audio
 ---
 
 # Bewick's Wren (Thryomanes bewickii)
@@ -23,21 +23,18 @@ tags:
 
 **Species Group:** [Wrens](/tags/wrens)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bewwre)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bewwre) | [Map](/map?species_code=bewwre)
 
 **Photo**: No 
 
-**Audio**: Yes
+**Audio**: No
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626557613/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626843422/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626559384/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626584496/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+No audio recordings available.
 
 ## Links
 * [eBird](https://ebird.org/species/bewwre) 

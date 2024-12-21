@@ -6,13 +6,13 @@ family: "Accipitridae (Hawks, Eagles, and Kites)"
 species_group: "Vultures, Hawks, and Allies"
 species_code: "whtkit"
 sidebar_position: 398
-sidebar_class_name: "has-photo has-audio"
+sidebar_class_name: " "
 tags: 
   - Accipitriformes
   - Accipitridae (Hawks, Eagles, and Kites)
   - Vultures, Hawks, and Allies
-  - Has Photo
-  - Has Audio
+  - Needs Photo
+  - Needs Audio
 ---
 
 # White-tailed Kite (Elanus leucurus)
@@ -23,21 +23,18 @@ tags:
 
 **Species Group:** [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whtkit)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whtkit) | [Map](/map?species_code=whtkit)
 
-**Photo**: Yes 
+**Photo**: No 
 
-**Audio**: Yes
+**Audio**: No
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/626996149/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626996162/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626996180/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+No photographs available.
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626618148/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626995496/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+No audio recordings available.
 
 ## Links
 * [eBird](https://ebird.org/species/whtkit) 

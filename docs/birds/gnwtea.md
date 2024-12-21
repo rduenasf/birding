@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Waterfowl](/tags/waterfowl)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gnwtea)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gnwtea) | [Map](/map?species_code=gnwtea)
 
 **Photo**: No 
 

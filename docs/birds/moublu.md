@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Thrushes](/tags/thrushes)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=moublu)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=moublu) | [Map](/map?species_code=moublu)
 
 **Photo**: No 
 

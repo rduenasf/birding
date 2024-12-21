@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Blackbirds](/tags/blackbirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wesmea)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wesmea) | [Map](/map?species_code=wesmea)
 
 **Photo**: No 
 

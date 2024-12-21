@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Waterfowl](/tags/waterfowl)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ambduc)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ambduc) | [Map](/map?species_code=ambduc)
 
 **Photo**: No 
 

@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Frigatebirds, Boobies, and Gannets](/tags/frigatebirds-boobies-and-gannets)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=norgan)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=norgan) | [Map](/map?species_code=norgan)
 
 **Photo**: No 
 

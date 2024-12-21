@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Shorebirds](/tags/shorebirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkbplo)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkbplo) | [Map](/map?species_code=bkbplo)
 
 **Photo**: No 
 

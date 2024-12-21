@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Waterfowl](/tags/waterfowl)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blnswa2)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blnswa2) | [Map](/map?species_code=blnswa2)
 
 **Photo**: No 
 

@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whiibi)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whiibi) | [Map](/map?species_code=whiibi)
 
 **Photo**: No 
 

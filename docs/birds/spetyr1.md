@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=spetyr1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=spetyr1) | [Map](/map?species_code=spetyr1)
 
 **Photo**: No 
 

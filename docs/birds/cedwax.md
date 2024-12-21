@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Waxwings](/tags/waxwings)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cedwax)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cedwax) | [Map](/map?species_code=cedwax)
 
 **Photo**: No 
 

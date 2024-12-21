@@ -6,13 +6,13 @@ family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "mallar3"
 sidebar_position: 231
-sidebar_class_name: "has-photo has-audio"
+sidebar_class_name: " "
 tags: 
   - Anseriformes
   - Anatidae (Ducks, Geese, and Waterfowl)
   - Waterfowl
-  - Has Photo
-  - Has Audio
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Mallard (Anas platyrhynchos)
@@ -23,20 +23,18 @@ tags:
 
 **Species Group:** [Waterfowl](/tags/waterfowl)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mallar3)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mallar3) | [Map](/map?species_code=mallar3)
 
-**Photo**: Yes 
+**Photo**: No 
 
-**Audio**: Yes
+**Audio**: No
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/626996611/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+No photographs available.
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626557641/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626618132/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626617932/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+No audio recordings available.
 
 ## Links
 * [eBird](https://ebird.org/species/mallar3) 

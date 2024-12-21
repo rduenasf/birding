@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Shorebirds](/tags/shorebirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blktur)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blktur) | [Map](/map?species_code=blktur)
 
 **Photo**: No 
 

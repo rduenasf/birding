@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grnher)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grnher) | [Map](/map?species_code=grnher)
 
 **Photo**: No 
 

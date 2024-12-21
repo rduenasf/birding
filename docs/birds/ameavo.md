@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Shorebirds](/tags/shorebirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ameavo)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ameavo) | [Map](/map?species_code=ameavo)
 
 **Photo**: No 
 

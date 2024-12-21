@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Shorebirds](/tags/shorebirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=semplo)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=semplo) | [Map](/map?species_code=semplo)
 
 **Photo**: No 
 

@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Grebes](/tags/grebes)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wesgre)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wesgre) | [Map](/map?species_code=wesgre)
 
 **Photo**: No 
 

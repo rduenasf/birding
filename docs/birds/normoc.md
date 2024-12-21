@@ -6,13 +6,13 @@ family: "Mimidae (Mockingbirds and Thrashers)"
 species_group: "Catbirds, Mockingbirds, and Thrashers"
 species_code: "normoc"
 sidebar_position: 255
-sidebar_class_name: "has-photo has-audio"
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Mimidae (Mockingbirds and Thrashers)
   - Catbirds, Mockingbirds, and Thrashers
-  - Has Photo
-  - Has Audio
+  - Needs Photo
+  - Needs Audio
 ---
 
 # Northern Mockingbird (Mimus polyglottos)
@@ -23,18 +23,18 @@ tags:
 
 **Species Group:** [Catbirds, Mockingbirds, and Thrashers](/tags/catbirds-mockingbirds-and-thrashers)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=normoc)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=normoc) | [Map](/map?species_code=normoc)
 
-**Photo**: Yes 
+**Photo**: No 
 
-**Audio**: Yes
+**Audio**: No
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/626996435/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+No photographs available.
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626583307/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+No audio recordings available.
 
 ## Links
 * [eBird](https://ebird.org/species/normoc) 

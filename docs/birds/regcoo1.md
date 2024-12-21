@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Rails, Gallinules, and Allies](/tags/rails-gallinules-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=regcoo1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=regcoo1) | [Map](/map?species_code=regcoo1)
 
 **Photo**: No 
 

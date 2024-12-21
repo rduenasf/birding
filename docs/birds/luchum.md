@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Hummingbirds](/tags/hummingbirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=luchum)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=luchum) | [Map](/map?species_code=luchum)
 
 **Photo**: No 
 

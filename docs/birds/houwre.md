@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Wrens](/tags/wrens)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=houwre)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=houwre) | [Map](/map?species_code=houwre)
 
 **Photo**: No 
 

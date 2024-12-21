@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Falcons and Caracaras](/tags/falcons-and-caracaras)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=perfal)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=perfal) | [Map](/map?species_code=perfal)
 
 **Photo**: No 
 

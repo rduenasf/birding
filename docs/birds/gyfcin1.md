@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Ovenbirds](/tags/ovenbirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gyfcin1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gyfcin1) | [Map](/map?species_code=gyfcin1)
 
 **Photo**: No 
 

@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=casfin)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=casfin) | [Map](/map?species_code=casfin)
 
 **Photo**: No 
 

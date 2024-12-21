@@ -6,13 +6,13 @@ family: "Parulidae (New World Warblers)"
 species_group: "Wood-Warblers"
 species_code: "yerwar"
 sidebar_position: 417
-sidebar_class_name: " has-audio"
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Parulidae (New World Warblers)
   - Wood-Warblers
   - Needs Photo
-  - Has Audio
+  - Needs Audio
 ---
 
 # Yellow-rumped Warbler (Setophaga coronata)
@@ -23,21 +23,18 @@ tags:
 
 **Species Group:** [Wood-Warblers](/tags/wood-warblers)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=yerwar)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=yerwar) | [Map](/map?species_code=yerwar)
 
 **Photo**: No 
 
-**Audio**: Yes
+**Audio**: No
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626557552/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626618143/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626684771/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626485786/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+No audio recordings available.
 
 ## Links
 * [eBird](https://ebird.org/species/yerwar) 

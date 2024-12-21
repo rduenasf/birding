@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Thrushes](/tags/thrushes)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wesblu)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wesblu) | [Map](/map?species_code=wesblu)
 
 **Photo**: No 
 

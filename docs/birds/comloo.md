@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Loons](/tags/loons)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=comloo)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=comloo) | [Map](/map?species_code=comloo)
 
 **Photo**: No 
 

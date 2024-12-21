@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blkvul)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blkvul) | [Map](/map?species_code=blkvul)
 
 **Photo**: No 
 

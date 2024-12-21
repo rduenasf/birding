@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Wood-Warblers](/tags/wood-warblers)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=naswar)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=naswar) | [Map](/map?species_code=naswar)
 
 **Photo**: No 
 

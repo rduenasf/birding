@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Shorebirds](/tags/shorebirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wessan)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wessan) | [Map](/map?species_code=wessan)
 
 **Photo**: No 
 

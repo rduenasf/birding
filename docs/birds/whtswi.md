@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Swifts](/tags/swifts)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whtswi)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whtswi) | [Map](/map?species_code=whtswi)
 
 **Photo**: No 
 

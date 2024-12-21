@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Jays, Magpies, Crows, and Ravens](/tags/jays-magpies-crows-and-ravens)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blujay)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blujay) | [Map](/map?species_code=blujay)
 
 **Photo**: No 
 

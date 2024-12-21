@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Vireos](/tags/vireos)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=plsvir)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=plsvir) | [Map](/map?species_code=plsvir)
 
 **Photo**: No 
 

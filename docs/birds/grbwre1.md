@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Wrens](/tags/wrens)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grbwre1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grbwre1) | [Map](/map?species_code=grbwre1)
 
 **Photo**: No 
 

@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Alcids](/tags/alcids)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=casauk)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=casauk) | [Map](/map?species_code=casauk)
 
 **Photo**: No 
 

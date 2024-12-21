@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Waterfowl](/tags/waterfowl)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gadwal)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gadwal) | [Map](/map?species_code=gadwal)
 
 **Photo**: No 
 

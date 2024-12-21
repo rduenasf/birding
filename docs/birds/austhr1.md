@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Thrushes](/tags/thrushes)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=austhr1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=austhr1) | [Map](/map?species_code=austhr1)
 
 **Photo**: No 
 

@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Starlings and Mynas](/tags/starlings-and-mynas)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=commyn)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=commyn) | [Map](/map?species_code=commyn)
 
 **Photo**: No 
 

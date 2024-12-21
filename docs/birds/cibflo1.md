@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Tanagers and Allies](/tags/tanagers-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cibflo1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cibflo1) | [Map](/map?species_code=cibflo1)
 
 **Photo**: No 
 

@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Trogons and Quetzals](/tags/trogons-and-quetzals)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=moutro1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=moutro1) | [Map](/map?species_code=moutro1)
 
 **Photo**: No 
 

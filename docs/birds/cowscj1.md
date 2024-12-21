@@ -6,13 +6,13 @@ family: "Corvidae (Crows, Jays, and Magpies)"
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "cowscj1"
 sidebar_position: 88
-sidebar_class_name: " has-audio"
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Corvidae (Crows, Jays, and Magpies)
   - Jays, Magpies, Crows, and Ravens
   - Needs Photo
-  - Has Audio
+  - Needs Audio
 ---
 
 # California Scrub-Jay (Aphelocoma californica)
@@ -23,21 +23,18 @@ tags:
 
 **Species Group:** [Jays, Magpies, Crows, and Ravens](/tags/jays-magpies-crows-and-ravens)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cowscj1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cowscj1) | [Map](/map?species_code=cowscj1)
 
 **Photo**: No 
 
-**Audio**: Yes
+**Audio**: No
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626557545/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626557548/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626447081/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626559393/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+No audio recordings available.
 
 ## Links
 * [eBird](https://ebird.org/species/cowscj1) 

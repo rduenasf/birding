@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Wood-Warblers](/tags/wood-warblers)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=yelwar)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=yelwar) | [Map](/map?species_code=yelwar)
 
 **Photo**: No 
 

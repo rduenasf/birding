@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Waterfowl](/tags/waterfowl)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=lakduc1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=lakduc1) | [Map](/map?species_code=lakduc1)
 
 **Photo**: No 
 

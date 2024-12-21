@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Ovenbirds](/tags/ovenbirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=corcan1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=corcan1) | [Map](/map?species_code=corcan1)
 
 **Photo**: No 
 

@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Grebes](/tags/grebes)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gregre1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gregre1) | [Map](/map?species_code=gregre1)
 
 **Photo**: No 
 

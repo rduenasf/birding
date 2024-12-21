@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Grebes](/tags/grebes)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=horgre)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=horgre) | [Map](/map?species_code=horgre)
 
 **Photo**: No 
 

@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Alcids](/tags/alcids)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=tufpuf)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=tufpuf) | [Map](/map?species_code=tufpuf)
 
 **Photo**: No 
 

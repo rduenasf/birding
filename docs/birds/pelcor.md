@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Cormorants and Anhingas](/tags/cormorants-and-anhingas)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pelcor)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pelcor) | [Map](/map?species_code=pelcor)
 
 **Photo**: No 
 

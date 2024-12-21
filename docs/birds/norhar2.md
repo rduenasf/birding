@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=norhar2)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=norhar2) | [Map](/map?species_code=norhar2)
 
 **Photo**: No 
 

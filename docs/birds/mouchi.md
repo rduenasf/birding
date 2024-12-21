@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Tits, Chickadees, and Titmice](/tags/tits-chickadees-and-titmice)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mouchi)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mouchi) | [Map](/map?species_code=mouchi)
 
 **Photo**: No 
 

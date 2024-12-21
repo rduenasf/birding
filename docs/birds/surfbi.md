@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Shorebirds](/tags/shorebirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=surfbi)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=surfbi) | [Map](/map?species_code=surfbi)
 
 **Photo**: No 
 

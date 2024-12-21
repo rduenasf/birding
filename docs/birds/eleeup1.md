@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=eleeup1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=eleeup1) | [Map](/map?species_code=eleeup1)
 
 **Photo**: No 
 

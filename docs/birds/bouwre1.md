@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Wrens](/tags/wrens)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bouwre1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bouwre1) | [Map](/map?species_code=bouwre1)
 
 **Photo**: No 
 

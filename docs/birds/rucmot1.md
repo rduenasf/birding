@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Motmots](/tags/motmots)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rucmot1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rucmot1) | [Map](/map?species_code=rucmot1)
 
 **Photo**: No 
 

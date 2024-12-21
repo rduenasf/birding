@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Woodpeckers](/tags/woodpeckers)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkbwoo)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkbwoo) | [Map](/map?species_code=bkbwoo)
 
 **Photo**: No 
 

@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Shorebirds](/tags/shorebirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wilpha)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wilpha) | [Map](/map?species_code=wilpha)
 
 **Photo**: No 
 

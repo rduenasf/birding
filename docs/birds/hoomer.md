@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Waterfowl](/tags/waterfowl)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=hoomer)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=hoomer) | [Map](/map?species_code=hoomer)
 
 **Photo**: No 
 

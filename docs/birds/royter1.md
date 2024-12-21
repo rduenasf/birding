@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=royter1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=royter1) | [Map](/map?species_code=royter1)
 
 **Photo**: No 
 

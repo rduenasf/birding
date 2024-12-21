@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Wood-Warblers](/tags/wood-warblers)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=hooyel1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=hooyel1) | [Map](/map?species_code=hooyel1)
 
 **Photo**: No 
 

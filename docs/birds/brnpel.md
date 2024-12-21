@@ -6,12 +6,12 @@ family: "Pelecanidae (Pelicans)"
 species_group: "Pelicans"
 species_code: "brnpel"
 sidebar_position: 73
-sidebar_class_name: "has-photo "
+sidebar_class_name: " "
 tags: 
   - Pelecaniformes
   - Pelecanidae (Pelicans)
   - Pelicans
-  - Has Photo
+  - Needs Photo
   - Needs Audio
 ---
 
@@ -23,16 +23,15 @@ tags:
 
 **Species Group:** [Pelicans](/tags/pelicans)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=brnpel)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=brnpel) | [Map](/map?species_code=brnpel)
 
-**Photo**: Yes 
+**Photo**: No 
 
 **Audio**: No
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/617717278/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/619242703/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+No photographs available.
 
 ### Audio Recordings
 No audio recordings available.

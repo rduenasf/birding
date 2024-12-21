@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Catbirds, Mockingbirds, and Thrashers](/tags/catbirds-mockingbirds-and-thrashers)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cubthr)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cubthr) | [Map](/map?species_code=cubthr)
 
 **Photo**: No 
 

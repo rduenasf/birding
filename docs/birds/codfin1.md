@@ -6,12 +6,12 @@ family: "Thraupidae (Tanagers and Allies)"
 species_group: "Tanagers and Allies"
 species_code: "codfin1"
 sidebar_position: 135
-sidebar_class_name: "has-photo "
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Thraupidae (Tanagers and Allies)
   - Tanagers and Allies
-  - Has Photo
+  - Needs Photo
   - Needs Audio
 ---
 
@@ -23,15 +23,15 @@ tags:
 
 **Species Group:** [Tanagers and Allies](/tags/tanagers-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=codfin1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=codfin1) | [Map](/map?species_code=codfin1)
 
-**Photo**: Yes 
+**Photo**: No 
 
 **Audio**: No
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/625246637/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+No photographs available.
 
 ### Audio Recordings
 No audio recordings available.

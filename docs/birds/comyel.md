@@ -6,13 +6,13 @@ family: "Parulidae (New World Warblers)"
 species_group: "Wood-Warblers"
 species_code: "comyel"
 sidebar_position: 127
-sidebar_class_name: " has-audio"
+sidebar_class_name: " "
 tags: 
   - Passeriformes
   - Parulidae (New World Warblers)
   - Wood-Warblers
   - Needs Photo
-  - Has Audio
+  - Needs Audio
 ---
 
 # Common Yellowthroat (Geothlypis trichas)
@@ -23,19 +23,18 @@ tags:
 
 **Species Group:** [Wood-Warblers](/tags/wood-warblers)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=comyel)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=comyel) | [Map](/map?species_code=comyel)
 
 **Photo**: No 
 
-**Audio**: Yes
+**Audio**: No
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626557707/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626485734/embed" width="550" height="440" frameborder="0" allowfullscreen></iframe>
+No audio recordings available.
 
 ## Links
 * [eBird](https://ebird.org/species/comyel) 

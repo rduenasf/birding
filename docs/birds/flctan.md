@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Cardinals, Grosbeaks, and Allies](/tags/cardinals-grosbeaks-and-allies)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=flctan)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=flctan) | [Map](/map?species_code=flctan)
 
 **Photo**: No 
 

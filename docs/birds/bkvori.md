@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Blackbirds](/tags/blackbirds)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkvori)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkvori) | [Map](/map?species_code=bkvori)
 
 **Photo**: No 
 

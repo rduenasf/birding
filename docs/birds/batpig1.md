@@ -23,7 +23,7 @@ tags:
 
 **Species Group:** [Pigeons and Doves](/tags/pigeons-and-doves)
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=batpig1)
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=batpig1) | [Map](/map?species_code=batpig1)
 
 **Photo**: No 
 
