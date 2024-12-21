@@ -68,7 +68,13 @@ const config: Config = {
         position: 'left',
         sidebarId: 'tutorialSidebar',
         label: 'Birds',
-      },],
+      },
+      {
+        to: 'map',
+        position: 'left',
+        label: 'Map',
+      }
+    ],
     },
     footer: {
       style: 'dark',
