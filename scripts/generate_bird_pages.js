@@ -5,7 +5,7 @@ const path = require("path");
 const ebirdData = JSON.parse(fs.readFileSync("ebirdData.json", "utf8"));
 
 // Ensure the output directory exists
-const outputDir = path.join(__dirname, "../src/pages/birds");
+const outputDir = path.join(__dirname, "../docs/birds");
 if (!fs.existsSync(outputDir)) {
   fs.mkdirSync(outputDir, { recursive: true });
 }
