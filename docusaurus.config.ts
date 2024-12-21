@@ -48,13 +48,24 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
+    docs: {
+      sidebar: {
+        hideable: true,
+      }
+    },
     navbar: {
       title: 'Rodrigo\'s Birding Site',
+      hideOnScroll: true,
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
       },
-      items: [],
+      items: [{
+        type: 'docSidebar',
+        position: 'left',
+        sidebarId: 'tutorialSidebar',
+        label: 'Birds',
+      },],
     },
     footer: {
       style: 'dark',
