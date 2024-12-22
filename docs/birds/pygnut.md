@@ -31,10 +31,10 @@ tags:
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/615266972/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/615266973/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/615266974/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/615266975/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/615266972/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/615266973/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/615266974/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/615266975/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

@@ -31,9 +31,9 @@ tags:
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/626996149/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626996162/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626996180/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626996149/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626996162/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626996180/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 <iframe src="https://macaulaylibrary.org/asset/626618148/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>

@@ -31,7 +31,7 @@ tags:
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/626996611/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626996611/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 <iframe src="https://macaulaylibrary.org/asset/626557641/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>

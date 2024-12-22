@@ -33,7 +33,7 @@ function generatePhotoEmbeds(photos) {
     .sort((a, b) => b.averageCommunityRating - a.averageCommunityRating)
     .map(
       ({ MlCatalogNumber }) =>
-        `<iframe src="https://macaulaylibrary.org/asset/${MlCatalogNumber}/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>`
+        `<iframe src="https://macaulaylibrary.org/asset/${MlCatalogNumber}/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>`
     )
     .join("\n");
 }
