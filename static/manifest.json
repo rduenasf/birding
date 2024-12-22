@@ -3,17 +3,22 @@
   "name": "RD Birding: Do I need a bird?",
   "icons": [
     {
-      "src": "/img/docusaurus.png",
+      "src": "/img/icon-512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "256x256"
     },
     {
-      "src": "/img/docusaurus.png",
+      "src": "/img/icon-1024.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    },
+    {
+      "src": "/img/icon-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/img/docusaurus.png",
+      "src": "/img/icon-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
