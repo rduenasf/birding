@@ -10,12 +10,69 @@ const countrySummaryOutputFile =
   "c:/Users/rduen/my-website/static/country_summary.json";
 const countrySpeciesOutputFile =
   "c:/Users/rduen/my-website/static/country_for_species.json";
+const cacheFile = "c:/Users/rduen/my-website/scripts/wikiCache.json"; // Cache file path
 
 const dataDict = {};
 const speciesCodeMap = {};
 const countrySpeciesCount = {};
 const speciesCountryCount = {};
 const mlDataMap = {};
+let cache = {};
+
+// Load cache from file
+const loadCache = () => {
+  if (fs.existsSync(cacheFile)) {
+    cache = JSON.parse(fs.readFileSync(cacheFile, "utf-8"));
+  }
+};
+
+// Save cache to file
+const saveCache = () => {
+  fs.writeFileSync(cacheFile, JSON.stringify(cache, null, 2), "utf-8");
+};
+
+async function fetchWikipedia(title) {
+  const fetch = (await import("node-fetch")).default; // Use dynamic import for node-fetch
+  const url = `https://en.wikipedia.org/w/api.php?format=json&action=query&prop=extracts|pageimages|info&exintro=&explaintext=&piprop=original&inprop=url&titles=${encodeURIComponent(
+    title
+  )}&redirects`;
+  const response = await fetch(url);
+  const data = await response.json();
+  const pages = data.query.pages;
+  const page = Object.values(pages)[0];
+  if (page.missing !== undefined) {
+    return undefined;
+  } else {
+    return {
+      description: page.extract.trim(),
+      image: page.original,
+      wikipediaUrl: page.fullurl,
+    };
+  }
+}
+
+async function fetchMetadata({ sciName, primaryComName }) {
+  if (cache[sciName]) {
+    return cache[sciName]; // Return cached data if available
+  }
+
+  console.info(`Cache missing ${sciName}, fetching data from Wikipedia`);
+
+  let metadata = await fetchWikipedia(sciName);
+
+  if (metadata === undefined) {
+    console.warn(
+      `No Wikipedia page found for ${sciName}, fetchin ${primaryComName} instead`
+    );
+    metadata = await fetchWikipedia(primaryComName);
+    metadata.primaryComNameUsed = true;
+  }
+
+  cache[sciName] = metadata; // Cache the fetched data
+  saveCache(); // Save the cache to file
+
+  return metadata;
+}
 
 // Function to convert keys to camelCase and remove text within parentheses
 const toCamelCase = (str) => {
@@ -129,6 +186,14 @@ const removeEmptyEntries = () => {
   }
 };
 
+const fetchBirdMetadata = async () => {
+  // let counter = 0;
+  for (const key in dataDict) {
+    if (dataDict[key].category !== "species") continue;
+    // if (counter++ > 10) break;
+    dataDict[key].metadata = await fetchMetadata(dataDict[key]);
+  }
+};
 // Function to replace mlCatalogNumbers with metadata objects
 const replaceMlCatalogNumbers = () => {
   for (const key in dataDict) {
@@ -178,10 +243,12 @@ const createSummaryData = () => {
 
 // Main function to process all data
 const main = async () => {
+  loadCache(); // Load cache from file
   await processMLData();
   await processTaxonomyData();
   await processEBirdData();
   removeEmptyEntries();
+  await fetchBirdMetadata();
   replaceMlCatalogNumbers();
   sortObservations();
   writeJSONToFile(ebirdOutputFile, dataDict);

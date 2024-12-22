@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The ring-necked duck (Aythya collaris) is a diving duck from North America commonly found in freshwater ponds and lakes. The scientific name is derived from Greek aithuia, an unidentified seabird mentioned by authors including  Hesychius and Aristotle, and Latin  collaris, "of the neck" from collum, "neck".[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Ring-necked_duck
+
 ## Media
 ### Photographs
 No photographs available.

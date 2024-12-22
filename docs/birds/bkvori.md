@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Description
+The black-vented oriole (Icterus wagleri) is a species of bird in the family Icteridae. It is found in El Salvador, Guatemala, Honduras, Mexico, Nicaragua, and the United States.
+Its natural habitats are subtropical or tropical dry forest, subtropical or tropical moist lowland forest, and subtropical or tropical moist montane forest.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Black-vented_oriole
+
 ## Media
 ### Photographs
 No photographs available.

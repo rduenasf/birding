@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The mute swan (Cygnus olor) is a species of swan and a member of the waterfowl family Anatidae. It is native to much of Eurasia, and (as a rare winter visitor) the far north of Africa. It is an introduced species in North America, home to the largest populations outside of its native range, with additional smaller introductions in Australasia and southern Africa. The name "mute" derives from it being less vocal than other swan species. Measuring 125 to 160 cm (49 to 63 in) in length, this large swan is wholly white in plumage with an orange beak bordered with black. It is recognisable by its pronounced knob atop the beak, which is larger in males.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Mute_swan
+
 ## Media
 ### Photographs
 No photographs available.

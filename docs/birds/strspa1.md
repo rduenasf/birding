@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Description
+The striped sparrow (Oriturus superciliosus) is a species of bird in the family Passerellidae. It is monotypic within the genus Oriturus.
+It is endemic to Mexico where its natural habitats are subtropical or tropical moist montane forest and temperate grassland.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Striped_sparrow
+
 ## Media
 ### Photographs
 No photographs available.

@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Description
+The mourning sierra finch (Rhopospina fruticeti) is a species of South American bird in the tanager family Thraupidae. It is the only member of the genus Rhopospina.
+It is found in Argentina, Bolivia, Chile and Peru. It is a vagrant to the Falkland Islands and Brazil. Its natural habitats are subtropical or tropical dry shrubland and subtropical or tropical high-altitude shrubland.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Mourning_sierra_finch
+
 ## Media
 ### Photographs
 No photographs available.

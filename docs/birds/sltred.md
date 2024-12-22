@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The slate-throated whitestart or slate-throated redstart (Myioborus miniatus) is a species of bird in the family Parulidae native to Central and South America.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Slate-throated_whitestart
+
 ## Media
 ### Photographs
 No photographs available.

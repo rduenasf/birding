@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The black-backed oriole (Icterus abeillei) is a species of bird in the family Icteridae.  It is endemic to Mexico.  Its natural habitats are subtropical or tropical moist lowland forest and subtropical or tropical moist montane forest, but it is also found in cities. It is one of the few species that can consume monarch butterflies due to evolving a tolerance to their natural poison.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Black-backed_oriole
+
 ## Media
 ### Photographs
 No photographs available.

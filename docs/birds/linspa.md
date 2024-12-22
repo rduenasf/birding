@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+Lincoln's sparrow (Melospiza lincolnii) is a small sparrow native to North America. It is a less common passerine bird that often stays hidden under thick ground cover, but can be distinguished by its sweet, wrenlike song. Lincoln's sparrow is one of three species in the genus Melospiza which also includes the song sparrow (M. melodia) and the swamp sparrow (M. georgiana). It lives in well-covered brushy habitats, often near water. This bird is poorly documented because of its secretive nature and breeding habits solely in boreal regions.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Lincoln%27s_sparrow
+
 ## Media
 ### Photographs
 No photographs available.

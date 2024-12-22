@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The red shoveler (Spatula platalea) is a species of dabbling duck native to southern South America.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Red_shoveler
+
 ## Media
 ### Photographs
 No photographs available.

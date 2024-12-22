@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The rock wren (Salpinctes obsoletus) is a small songbird of the wren family native to western North America, Mexico and Central America.  It is the only species in the genus Salpinctes.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Rock_wren
+
 ## Media
 ### Photographs
 <iframe src="https://macaulaylibrary.org/asset/616427612/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>

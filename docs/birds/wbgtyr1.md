@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Description
+The white-browed ground tyrant (Muscisaxicola albilora) is a species of bird in the family Tyrannidae.
+It breeds in the Andes in Argentina and Chile between 1,500 and 4,000 m above sea-level. It migrates north to Bolivia, Colombia, Ecuador and Peru. It is a vagrant to the Falkland Islands. Its natural habitat is subtropical or tropical high-altitude grassland.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/White-browed_ground_tyrant
+
 ## Media
 ### Photographs
 No photographs available.

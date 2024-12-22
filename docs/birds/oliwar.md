@@ -29,6 +29,13 @@ tags:
 
 **Audio**: No
 
+## Description
+The olive warbler (Peucedramus taeniatus) is a small passerine bird. It is the only member of the genus Peucedramus and the family Peucedramidae.
+This species breeds from southern Arizona and New Mexico, USA, south through Mexico to Nicaragua. It is the only bird family endemic to North America (including Central America). It was in the past classed with the Parulidae (New World warblers), but DNA studies suggest that it split early from the other related passerines, prior to the differentiation of the entire New World warbler/American sparrow/Icterid group. It is therefore now given a family of its own.
+It is an insectivorous species of coniferous forests. Though it is often said to be non-migratory, most New Mexican birds leave the state from November to late February. It lays 3–4 eggs in a tree nest.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Olive_warbler
+
 ## Media
 ### Photographs
 No photographs available.

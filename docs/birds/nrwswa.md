@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The northern rough-winged swallow (Stelgidopteryx serripennis) is a small, migratory swallow. It is very similar to the southern rough-winged swallow, Stelgidopteryx ruficollis.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Northern_rough-winged_swallow
+
 ## Media
 ### Photographs
 No photographs available.

@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The spotted sandpiper (Actitis macularius) is a small shorebird. Together with its sister species the common sandpiper (A. hypoleucos), it makes up the genus Actitis. They replace each other geographically; stray birds may settle down with breeders of the other species and hybridize.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Spotted_sandpiper
+
 ## Media
 ### Photographs
 No photographs available.

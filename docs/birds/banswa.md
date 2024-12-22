@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The sand martin (Riparia riparia), also known as collared sand martin or common sand martin, and in the Americas as the bank swallow, is a migratory passerine bird in the swallow family Hirundinidae. It has a wide range in summer, embracing practically the whole Holarctic area, from Europe, across Asia to the Pacific Ocean, and throughout North America. It winters in eastern and southern Africa, southern Asia, and South America.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Sand_martin
+
 ## Media
 ### Photographs
 No photographs available.

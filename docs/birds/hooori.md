@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The hooded oriole (Icterus cucullatus) is a medium-sized New World oriole. The male of this species ranges in color from a bright orange to a paler yellow, with a black back, face, tail and bib, with the wing containing two white bars. The female is more of an olive color with some yellow accents.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Hooded_oriole
+
 ## Media
 ### Photographs
 No photographs available.

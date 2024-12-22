@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The West Mexican chachalaca (Ortalis poliocephala) is a species of bird in the family Cracidae, the chachalacas, guans, and curassows.  It is endemic to Mexico.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/West_Mexican_chachalaca
+
 ## Media
 ### Photographs
 No photographs available.

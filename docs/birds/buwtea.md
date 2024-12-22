@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The blue-winged teal (Spatula discors) is a species of bird in the duck, goose, and swan family Anatidae. One of the smaller members of the dabbling duck group, it occurs in North America, where it breeds from southern Alaska to Nova Scotia, and south to northern Texas. It winters along the Pacific and Atlantic coasts and south into the Caribbean islands and Central America.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Blue-winged_teal
+
 ## Media
 ### Photographs
 No photographs available.

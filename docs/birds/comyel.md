@@ -29,6 +29,11 @@ tags:
 
 **Audio**: Yes
 
+## Description
+The common yellowthroat (Geothlypis trichas), also known as the yellow bandit or Maryland yellow-throat, is a New World warbler. It is an abundant breeder in North America, ranging from southern Canada to central Mexico. The genus name Geothlypis is from Ancient Greek geo, "ground", and thlupis, an unidentified small bird; thlypis is often used in the scientific names of New World warblers. The specific  trichas is also from Greek; trikhas is a kind of thrush, the word being derived from trikhos, "hair".[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Common_yellowthroat
+
 ## Media
 ### Photographs
 No photographs available.

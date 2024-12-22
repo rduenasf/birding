@@ -29,6 +29,11 @@ tags:
 
 **Audio**: Yes
 
+## Description
+The white-tailed kite (Elanus leucurus) is a small raptor found in western North America and parts of South America. It replaces the related Old World black-winged kite in its native range.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/White-tailed_kite
+
 ## Media
 ### Photographs
 <iframe src="https://macaulaylibrary.org/asset/626996149/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>

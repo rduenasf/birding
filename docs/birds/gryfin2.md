@@ -29,6 +29,13 @@ tags:
 
 **Audio**: No
 
+## Description
+The greater yellow finch (Sicalis auriventris) is a species of bird in the family Thraupidae.
+It is found in Argentina and Chile.
+Its natural habitats are subtropical or tropical high-altitude shrubland, temperate grassland, and heavily degraded former forest.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Greater_yellow_finch
+
 ## Media
 ### Photographs
 No photographs available.

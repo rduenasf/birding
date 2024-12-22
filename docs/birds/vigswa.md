@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The violet-green swallow (Tachycineta thalassina) is a small North American passerine bird in the swallow family. These aerial insectivores are distributed along the west coast from Alaska to Mexico, extending as far east as Montana and Texas. With an appearance very similar to the tree swallow, these individuals can be identified by the white rump side-patches that appear to separate their green back and purple tail. Violet-green swallows are secondary cavity nesters, found in a number of habitats including deciduous and coniferous forest. In addition to nesting in tree holes within these habitats, they are also widely observed nesting in the cracks of large cliffs.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Violet-green_swallow
+
 ## Media
 ### Photographs
 No photographs available.

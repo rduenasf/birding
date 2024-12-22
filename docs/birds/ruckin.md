@@ -29,6 +29,12 @@ tags:
 
 **Audio**: Yes
 
+## Description
+The ruby-crowned kinglet (Corthylio calendula) is a very small passerine bird found throughout North America. It is a member of the kinglet family. The bird has olive-green plumage with two white wing bars and a white eye-ring. Males have a red crown patch, which is often concealed. The sexes are identical apart from the crown, and juveniles are similar in plumage to adult females. It is one of the smallest songbirds in North America. The ruby-crowned kinglet is not closely related to other kinglets and was moved from Regulus to its own genus, Corthylio in 2021. Three subspecies are currently recognized.
+The kinglet is mostly migratory, and its range extends from northwest Canada and Alaska south to Mexico. Its breeding habitat is spruce-fir forests in the northern and mountainous regions of the United States and Canada. The ruby-crowned kinglet builds a cup-shaped nest, which may be pensile or placed on a tree branch and is often hidden. It lays up to 12 eggs, and has the largest clutch of any North American passerine for its size. It is mainly insectivorous, but also eats fruits and seeds.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Ruby-crowned_kinglet
+
 ## Media
 ### Photographs
 No photographs available.

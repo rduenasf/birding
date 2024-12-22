@@ -29,6 +29,12 @@ tags:
 
 **Audio**: Yes
 
+## Description
+The yellow-rumped warbler (Setophaga coronata) is a regular North American bird species that can be commonly observed all across the continent. Its extensive range connects both the Pacific and Atlantic coasts of the U.S. as well as Canada and Central America, with the population concentrated in the continent's northern reaches during the breeding season and migrating southwards to southern North and Central America in the winter. It generally prefers coniferous forests or mixed coniferous-deciduous forests as its breeding habitat, while during the winter it can be found inhabiting more open areas such as shrublands that offer food resources. The yellow-rumped warbler is primarily insectivorous, though the species does eat fruits such as juniper berries as well, especially in winter.
+The species combines four closely related forms: the eastern myrtle warbler (spp. coronata); its western counterpart, Audubon's warbler (spp. group auduboni); the northwest Mexican black-fronted warbler (spp. nigrifrons); and the Guatemalan Goldman's warbler (spp. goldmani). All subspecies of the yellow-rumped warbler are characterized by the yellow rump as its name implies, while intra-group and inter-group variations in appearance exist in spite of many similarities. The myrtle and Audubon's groups, as two major subspecies, are distinguished by noticeable features such as differing throat colorations.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Yellow-rumped_warbler
+
 ## Media
 ### Photographs
 No photographs available.

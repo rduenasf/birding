@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The mountain chickadee (Poecile gambeli) is a small songbird, a passerine bird in the tit family Paridae.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Mountain_chickadee
+
 ## Media
 ### Photographs
 No photographs available.

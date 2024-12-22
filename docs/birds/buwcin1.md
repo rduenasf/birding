@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The buff-winged cinclodes (Cinclodes fuscus) is a species of bird in the Furnariinae subfamily of the ovenbird family Furnariidae. It is found in Argentina, Brazil, Chile, Paraguay, Uruguay and as a vagrant on the Falkland Islands.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Buff-winged_cinclodes
+
 ## Media
 ### Photographs
 No photographs available.

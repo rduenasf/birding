@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The Arizona woodpecker (Leuconotopicus arizonae) is a woodpecker native to southern Arizona and New Mexico and the Sierra Madre Occidental of western Mexico. The species' northernmost range in southeastern Arizona, extreme southwestern New Mexico, and northern Sonora is the region of the Madrean Sky Islands, a region of higher Sonoran Desert mountain ranges.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Arizona_woodpecker
+
 ## Media
 ### Photographs
 No photographs available.

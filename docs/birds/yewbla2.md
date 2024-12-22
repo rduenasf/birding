@@ -29,6 +29,13 @@ tags:
 
 **Audio**: No
 
+## Description
+The yellow-winged blackbird (Agelasticus thilius) is a species of bird in the family Icteridae.
+It is found in Argentina, Bolivia, Brazil, Chile, Paraguay, Peru, and Uruguay.
+Its natural habitats are swamps, intertidal marshes, and pastureland.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Yellow-winged_blackbird
+
 ## Media
 ### Photographs
 <iframe src="https://macaulaylibrary.org/asset/625246625/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>

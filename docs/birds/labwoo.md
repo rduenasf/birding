@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The ladder-backed woodpecker (Dryobates scalaris) is a North American woodpecker.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Ladder-backed_woodpecker
+
 ## Media
 ### Photographs
 No photographs available.

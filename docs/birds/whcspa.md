@@ -29,6 +29,11 @@ tags:
 
 **Audio**: Yes
 
+## Description
+The white-crowned sparrow (Zonotrichia leucophrys) is a species of passerine bird native to North America. A medium-sized member of the New World sparrow family, this species is marked by a grey face and black and white streaking on the upper head. It breeds in brushy areas in the taiga and tundra of the northernmost parts of the continent and in the Rocky Mountains and Pacific coast. While southerly populations in the Rocky Mountains and coast are largely resident, the breeding populations of the northerly part of its range are migratory and can be found as wintering or passage visitors through most of North America south to central Mexico.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/White-crowned_sparrow
+
 ## Media
 ### Photographs
 No photographs available.

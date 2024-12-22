@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The blue-and-white swallow (Pygochelidon cyanoleuca) is a passerine bird that breeds from Nicaragua south throughout South America, except in the deserts and the Amazon Basin. The southern race is migratory, wintering as far north as Trinidad, where it is a regular visitor. The nominate northern race may have bred on that island.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Blue-and-white_swallow
+
 ## Media
 ### Photographs
 No photographs available.

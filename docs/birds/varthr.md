@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The varied thrush (Ixoreus naevius) is a member of the thrush family, Turdidae. It is the only species in the monotypic genus Ixoreus.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Varied_thrush
+
 ## Media
 ### Photographs
 No photographs available.

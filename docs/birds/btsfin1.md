@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The band-tailed sierra finch (Rhopospina alaudina) is a species of bird in the family Thraupidae and is found in Argentina, Bolivia, Chile, Ecuador, and Peru. Its natural habitats are subtropical or tropical dry shrubland and subtropical or tropical high-altitude shrubland.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Band-tailed_sierra_finch
+
 ## Media
 ### Photographs
 No photographs available.

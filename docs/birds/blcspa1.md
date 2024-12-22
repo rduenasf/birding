@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The black-chested sparrow (Peucaea humeralis) is a species of bird in the family Passerellidae that is endemic to Mexico. Its natural habitats are subtropical or tropical dry shrubland and subtropical or tropical high-altitude shrubland.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Black-chested_sparrow
+
 ## Media
 ### Photographs
 No photographs available.

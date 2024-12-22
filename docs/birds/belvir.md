@@ -29,6 +29,13 @@ tags:
 
 **Audio**: No
 
+## Description
+Bell's vireo (Vireo bellii) is a songbird that migrates between a breeding range in Western North America and a winter range in Central America. It is dull olive-gray above and whitish below. It has a faint white eye ring and faint wing bars.
+This bird was named by Audubon for John Graham Bell, who accompanied him on his trip up the Missouri River in the 1840s.
+The least Bell's vireo (Vireo bellii pusillus) is an endangered subspecies in Southern California. Consideration of Bell's vireo has been a factor in several land development projects, to protect least Bell's vireo habitat. The decline of the least Bell's vireo is mostly due to a loss of riparian habitat.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Bell%27s_vireo
+
 ## Media
 ### Photographs
 No photographs available.

@@ -29,6 +29,11 @@ tags:
 
 **Audio**: Yes
 
+## Description
+Say's phoebe (Sayornis saya) is a passerine bird in the tyrant flycatcher family, Tyrannidae. A common bird across western North America, it prefers dry, desolate areas. It was named for Thomas Say, an American naturalist.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Say%27s_phoebe
+
 ## Media
 ### Photographs
 No photographs available.

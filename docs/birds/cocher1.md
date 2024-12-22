@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The cocoi heron (Ardea cocoi) is a species of long-legged wading bird in the heron family Ardeidae found across South America. It has predominantly pale grey plumage with a darker grey crest. A carnivore, it hunts fish and crustaceans in shallow water.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Cocoi_heron
+
 ## Media
 ### Photographs
 No photographs available.

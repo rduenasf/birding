@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The harlequin duck (Histrionicus histrionicus) is a small sea duck. It takes its name from Harlequin (Italian Arlecchino, French Arlequin), a colourfully dressed character in Commedia dell'arte. The species name comes from the Latin word "histrio", meaning "actor". In North America it is also known as lords and ladies. Other names include painted duck, totem pole duck, rock duck, glacier duck, mountain duck, white-eyed diver, squeaker and blue streak.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Harlequin_duck
+
 ## Media
 ### Photographs
 No photographs available.

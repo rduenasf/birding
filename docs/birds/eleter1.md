@@ -29,6 +29,14 @@ tags:
 
 **Audio**: No
 
+## Description
+The elegant tern (Thalasseus elegans) is a tern in the family Laridae. It breeds on the Pacific coasts of the southern United States and Mexico and winters south to Peru, Ecuador and Chile.
+This species breeds in very dense colonies on coasts and islands, including Isla Rasa and Montague Island (Mexico), and exceptionally inland on suitable large freshwater lakes close to the coast. It nests in a ground scrape and lays one or two eggs. Unlike some of the smaller white terns, it is not very aggressive toward potential predators, relying on the sheer density of the nests (often only 20–30 cm apart) and nesting close to other more aggressive species, such as Heermann's gulls, to avoid predation.
+The elegant tern feeds by plunge-diving for fish, almost invariably from the sea, like most Thalasseus terns. It usually dives directly, and not from the "stepped-hover" favoured by the Arctic tern.  The offering of fish by the male to the female is part of the courtship display.
+This Pacific species has wandered to western Europe as a rare vagrant on a number of occasions, has nested in Spain and has interbred with the Sandwich tern in France; there is also one record from Cape Town, South Africa, in January 2006, the first record for Africa. An elegant tern was recorded in the British Isles, in Pagham, West Sussex, in June 2017. In May 2021, 1500 sand nests with thousands of eggs were abandoned when a drone crashed land near a nesting site in Bolsa Chica Ecological Reserve, scaring off 2,500 nesting elegant terns and leading to a catastrophic loss.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Elegant_tern
+
 ## Media
 ### Photographs
 No photographs available.

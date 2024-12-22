@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Description
+The red crossbill or common crossbill (Loxia curvirostra) is a small passerine bird in the finch family Fringillidae. Crossbills have distinctive mandibles, crossed at the tips, which enable them to extract seeds from conifer cones and other fruits.
+Adults are often brightly coloured, with red or orange males and green or yellow females, but there is wide variation in beak size and shape, and call types, leading to different classifications of variants, some of which have been named as subspecies. The species is known as "red crossbill" in North America and "common crossbill" in Europe.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Red_crossbill
+
 ## Media
 ### Photographs
 No photographs available.

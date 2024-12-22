@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The grey-flanked cinclodes (Cinclodes oustaleti), formerly known as Oustalet's cinclodes, is a species of bird in the Furnariinae subfamily of the ovenbird family Furnariidae. It is found in Argentina and Chile.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Grey-flanked_cinclodes
+
 ## Media
 ### Photographs
 No photographs available.

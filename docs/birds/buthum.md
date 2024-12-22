@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The blue-throated mountaingem, also known as the blue-throated mountain-gem or blue-throated hummingbird (Lampornis clemenciae) is a species of hummingbird in tribe Lampornithini of subfamily Trochilinae. It is found in the United States and Mexico.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Blue-throated_mountaingem
+
 ## Media
 ### Photographs
 No photographs available.

@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Description
+The great-tailed grackle or Mexican grackle (Quiscalus mexicanus) is a medium-sized, highly social passerine bird native to North and South America. A member of the family Icteridae, it is one of 10 extant species of grackle and is closely related to the boat-tailed grackle and the extinct slender-billed grackle.  In the southern and southwestern United States, the grackle is sometimes referred to simply as a "blackbird" or (erroneously) a "crow" due to its glossy black plumage; however, grackles form their own unique genus that is separate from other "blackbirds", such as the red-winged and Brewer's blackbirds, despite being in the same family (Icteridae). Superficially, Brewer's blackbird is one of the most visually similar species to grackles.
+In some parts of México, the grackle is sometimes referred to in Spanish as cuervo ("raven"; "crow"), although it is not a member of the crow genus (Corvus) nor of their family (Corvidae).[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Great-tailed_grackle
+
 ## Media
 ### Photographs
 No photographs available.

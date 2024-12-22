@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The gray-barred wren (Campylorhynchus megalopterus) is a species of bird in the family Troglodytidae. It is endemic to Mexico.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Gray-barred_wren
+
 ## Media
 ### Photographs
 No photographs available.

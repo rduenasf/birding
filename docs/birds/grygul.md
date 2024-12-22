@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The grey gull, also known as garuma gull (Leucophaeus modestus) is a medium-sized gull native to South America. Unusual among gulls, it breeds inland in the extremely dry Atacama Desert in northern Chile, although it is present as a non-breeding bird along much of the Pacific coast of South America.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Grey_gull
+
 ## Media
 ### Photographs
 No photographs available.

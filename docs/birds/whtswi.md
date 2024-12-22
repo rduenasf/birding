@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The white-throated swift (Aeronautes saxatalis) is a swift of the family Apodidae native to western North America, south to cordilleran western Honduras. Its coastal range extends as far north as Northern California, while inland it has migratory populations found throughout the Great Basin and Rocky Mountain regions, ranging as far north as southern British Columbia. White-throated swifts are found in open areas near cliffs, rock faces, or man-made structures, where they roost. Swifts are social birds, and groups are often seen roosting and foraging for flying insects together.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/White-throated_swift
+
 ## Media
 ### Photographs
 No photographs available.

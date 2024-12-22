@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The cordilleran canastero (Asthenes modesta) is a species of bird in the Furnariinae subfamily of the ovenbird family Furnariidae. It is found in Argentina, Bolivia, Chile, and Peru.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Cordilleran_canastero
+
 ## Media
 ### Photographs
 No photographs available.

@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The pine siskin (Spinus pinus) is a North American bird in the finch family. It is a migratory bird with an extremely sporadic winter range.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Pine_siskin
+
 ## Media
 ### Photographs
 No photographs available.

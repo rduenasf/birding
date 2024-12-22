@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The black-chinned siskin (Spinus barbatus) is a species of finch in the family Fringillidae. Found in Argentina, Chile and the Falkland Islands, its natural habitats are temperate forests and heavily degraded former forest.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Black-chinned_siskin
+
 ## Media
 ### Photographs
 No photographs available.

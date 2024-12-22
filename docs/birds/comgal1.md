@@ -29,6 +29,11 @@ tags:
 
 **Audio**: Yes
 
+## Description
+The common gallinule (Gallinula galeata) is a bird in the family Rallidae. It was split from the common moorhen by the American Ornithologists' Union in July 2011. It lives around well-vegetated marshes, ponds, canals, and other wetlands in the Americas. The common gallinule is one of the most conspicuous rail species in North America, along with the American coot.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Common_gallinule
+
 ## Media
 ### Photographs
 <iframe src="https://macaulaylibrary.org/asset/626996488/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>

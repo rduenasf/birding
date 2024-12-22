@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Description
+The ruddy duck (Oxyura jamaicensis) is one duck of six species within the stiff-tailed ducks (Oxyura). They occupy heavily vegetated habitats in North and South America as well as the British Isles, France and Spain. Ruddy ducks were introduced to the United Kingdom in the 1940s where they have since established a growing population. Outside the Americas, ruddy ducks are considered a highly invasive species, prompting many countries to initiate culling projects to eradicate them from the native ecosystem.
+The genus name is derived from Ancient Greek oxus, "sharp", and oura, "tail", and jamaicensis is "from Jamaica". Ruddy ducks have also been nicknamed “butterball”, a term used to describe an individual who is somewhat fat, due to their short and stout stature making activities like flying and walking upright awkward.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Ruddy_duck
+
 ## Media
 ### Photographs
 No photographs available.

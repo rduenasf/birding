@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The long-billed curlew (Numenius americanus) is a large North American shorebird of the family Scolopacidae. This species was also called "sicklebird" and the "candlestick bird". The species breeds in central and western North America, migrating southward and coastward for the winter.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Long-billed_curlew
+
 ## Media
 ### Photographs
 No photographs available.

@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The streak-backed oriole (Icterus pustulatus) is a medium-sized species of passerine bird from the icterid family (the same family as many blackbirds, meadowlarks, cowbirds, grackles, and others, including the New World orioles). It is native to Central America and Mexico and is an occasional visitor to the United States.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Streak-backed_oriole
+
 ## Media
 ### Photographs
 No photographs available.

@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+Vaux's swift (Chaetura vauxi) is a small swift native to North America, Central America, and northern South America. It was named for the American scientist William Sansom Vaux.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Vaux%27s_swift
+
 ## Media
 ### Photographs
 No photographs available.

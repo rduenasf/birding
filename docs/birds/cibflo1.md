@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Description
+The cinnamon-bellied flowerpiercer (Diglossa baritula) is a species of bird in the family Thraupidae. It is found in El Salvador, Guatemala, Honduras, and Mexico.
+Its natural habitats are subtropical or tropical moist montane forests and heavily degraded former forest. It is a species known to be a nectar robber, apparently taking nectar while not pollinating the plant.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Cinnamon-bellied_flowerpiercer
+
 ## Media
 ### Photographs
 No photographs available.

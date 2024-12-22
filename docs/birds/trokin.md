@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The tropical kingbird (Tyrannus melancholicus) is a large tyrant flycatcher. This bird breeds from southern Arizona and the lower Rio Grande Valley of Texas in the United States through Central America, South America as far as south as central Argentina and eastern Peru, and on Trinidad and Tobago. Birds from the northernmost and southern breeding areas migrate to warmer parts of the range after breeding.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Tropical_kingbird
+
 ## Media
 ### Photographs
 No photographs available.

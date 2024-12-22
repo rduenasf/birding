@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The black-winged ground dove (Metriopelia melanoptera) is a species of bird in the family Columbidae. It is found in Argentina, Bolivia, Chile, Colombia, Ecuador, and Peru.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Black-winged_ground_dove
+
 ## Media
 ### Photographs
 No photographs available.

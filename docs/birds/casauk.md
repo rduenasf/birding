@@ -29,6 +29,18 @@ tags:
 
 **Audio**: No
 
+## Description
+Cassin's auklet (Ptychoramphus aleuticus) is a small, chunky seabird that ranges widely in the North Pacific. It is the only species placed in the genus Ptychoramphus. It nests in small burrows and because of its presence on well studied islands in British Columbia and off California it is one of the better known auks. It is named for the American ornithologist John Cassin.
+Cassin's auklet is a small (25 cm, 200 g) nondescript auk. Its plumage is generally dark above and pale below, with a small white mark above the eye. Its bill is overall dark with a pale spot, and its feet are blue. Unlike many other auks, Cassin's auklet lacks dramatic breeding plumage, remaining the same over most of the year. At sea it is usually identified by its flight, which is described as looking like a flying tennis ball.
+Cassin's auklet ranges from midway up the Baja California peninsula to Alaska's Aleutian Islands, off North America. It nests on offshore islands, with the main population stronghold being Triangle Island off Vancouver Island's Cape Scott, where the population is estimated to be around 55,0000 pairs. It is not known to be migratory. However, northern birds may move farther south during the winter.
+Two subspecies are recognised:
+
+P. a. aleuticus – (Pallas, 1811): Aleutian Islands & south Alaska to northern Baja California.Kurile Islands.
+P. a. australis – van Rossem, 1939: southern Baja California.
+An extinct relative or predecessor species, Ptychoramphus tenuis L. H. Miller et Bowman, 1958, is known from the Late Pliocene of the San Diego Formation in California.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Cassin%27s_auklet
+
 ## Media
 ### Photographs
 No photographs available.

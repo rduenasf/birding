@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Description
+Wilson's phalarope (Phalaropus tricolor) is a small wader. This bird, the largest of the phalaropes, breeds in the prairies of North America in western Canada and the western United States. It is migratory, wintering in inland salt lakes near the Andes in Argentina. They are passage migrants through Central America around March/April and again during September/October. The species is a rare vagrant to western Europe.
+This species is often very tame and approachable. Sometimes it is placed in a monotypic genus Steganopus.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Wilson%27s_phalarope
+
 ## Media
 ### Photographs
 No photographs available.

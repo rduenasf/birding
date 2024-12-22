@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The West Peruvian dove or Pacific dove (Zenaida meloda) is a species of dove in the genus Zenaida.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/West_Peruvian_dove
+
 ## Media
 ### Photographs
 No photographs available.

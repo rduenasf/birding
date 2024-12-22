@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+Townsend's warbler (Setophaga townsendi) is a small songbird of the New World warbler family.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Townsend%27s_warbler
+
 ## Media
 ### Photographs
 No photographs available.

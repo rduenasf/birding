@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The canyon towhee (Melozone fusca) is a bird of the family Passerellidae.  Until 1989, the canyon towhee and the California towhee were considered to be a single species which was called the brown towhee.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Canyon_towhee
+
 ## Media
 ### Photographs
 No photographs available.

@@ -29,6 +29,13 @@ tags:
 
 **Audio**: No
 
+## Description
+The russet-crowned motmot (Momotus mexicanus) is a species of motmot native to north-western Mexico and central Guatemala.
+It is a year-round resident of the tropical and subtropical dry broadleaf forests and scrubland. The russet-crowned motmot is the most understudied species of motmot in the family Momotidae.
+"Russet" refers to the reddish-brown colour of the bird's head and originates from the Latin russus meaning red.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Russet-crowned_motmot
+
 ## Media
 ### Photographs
 No photographs available.

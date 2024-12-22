@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The phainopepla or northern phainopepla (Phainopepla nitens) is the most northerly representative of the mainly tropical Central American family Ptiliogonatidae, the silky flycatchers. Its name is from the Greek phain pepla meaning "shining robe" in reference to the male's plumage.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Phainopepla
+
 ## Media
 ### Photographs
 No photographs available.

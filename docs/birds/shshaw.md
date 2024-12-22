@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The sharp-shinned hawk (Accipiter striatus) or northern sharp-shinned hawk, commonly known as a sharpie, is a small hawk, with males being the smallest hawks in the United States and Canada, but with the species averaging larger than some Neotropical species, such as the tiny hawk. The taxonomy is far from resolved, with some authorities considering the southern taxa to represent three separate species: white-breasted hawk (A. chionogaster), plain-breasted hawk (A. ventralis), and rufous-thighed hawk (A. erythronemius). The American Ornithological Society and some other checklists keep all four species conspecific.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Sharp-shinned_hawk
+
 ## Media
 ### Photographs
 No photographs available.

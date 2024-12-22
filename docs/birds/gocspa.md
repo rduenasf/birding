@@ -29,6 +29,11 @@ tags:
 
 **Audio**: Yes
 
+## Description
+The golden-crowned sparrow (Zonotrichia atricapilla) is a large New World sparrow found in the western part of North America.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Golden-crowned_sparrow
+
 ## Media
 ### Photographs
 No photographs available.

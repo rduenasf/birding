@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Description
+The black-throated sparrow (Amphispiza bilineata) is a small New World sparrow primarily found in the southwestern United States and Mexico. It is the only member of the genus Amphispiza; the five-striped sparrow, formerly also classified in Amphispiza, is now thought to be in the monotypic genus Amphispizopsis.
+It is sometimes referred to as the desert sparrow, due to its preferred habitat of arid desert hillsides and scrub. This name usually refers to the desert sparrow of Africa and Asia.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Black-throated_sparrow
+
 ## Media
 ### Photographs
 No photographs available.

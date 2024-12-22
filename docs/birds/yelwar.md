@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The yellow warbler (Setophaga petechia) is a New World warbler species. Yellow warblers are the most widespread species in the diverse genus Setophaga, breeding in almost the whole of North America, the Caribbean, as well as northern South America.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Yellow_warbler
+
 ## Media
 ### Photographs
 No photographs available.

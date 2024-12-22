@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+Swainson's thrush (Catharus ustulatus), also called olive-backed thrush and russet-backed thrush is a medium-sized thrush. It is a member of genus Catharus and is typical of it in terms of its subdued coloration and beautiful, ascending flute-like voice. Swainson's thrush was named after William Swainson, an English ornithologist.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Swainson%27s_thrush
+
 ## Media
 ### Photographs
 No photographs available.

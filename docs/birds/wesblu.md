@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The western bluebird (Sialia mexicana) is a small North American thrush.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Western_bluebird
+
 ## Media
 ### Photographs
 No photographs available.

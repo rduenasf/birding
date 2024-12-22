@@ -29,6 +29,11 @@ tags:
 
 **Audio**: Yes
 
+## Description
+The acorn woodpecker (Melanerpes formicivorus) is a medium-sized woodpecker with a length of around 20 cm (8 in), and an average weight of 85 g (3.0 oz). It is found across Central America, as well as North into the western United States and South into parts of Colombia.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Acorn_woodpecker
+
 ## Media
 ### Photographs
 No photographs available.

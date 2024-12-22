@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The greater pewee (Contopus pertinax) is a passerine and is in the tyrant flycatcher group. This species' range is further north than the other Mexican species. This bird was formerly known as Coues' flycatcher.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Greater_pewee
+
 ## Media
 ### Photographs
 No photographs available.

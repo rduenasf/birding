@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The lark sparrow (Chondestes grammacus) is a fairly large New World sparrow. It is the only member of the genus Chondestes.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Lark_sparrow
+
 ## Media
 ### Photographs
 No photographs available.

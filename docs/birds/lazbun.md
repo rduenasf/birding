@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The lazuli bunting (Passerina amoena) is a North American songbird named for the gemstone lapis lazuli.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Lazuli_bunting
+
 ## Media
 ### Photographs
 No photographs available.

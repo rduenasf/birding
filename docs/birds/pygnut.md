@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The pygmy nuthatch (Sitta pygmaea) is a tiny songbird, about 10 cm (4 in) long and about 10 grams in weight.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Pygmy_nuthatch
+
 ## Media
 ### Photographs
 <iframe src="https://macaulaylibrary.org/asset/615266972/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>

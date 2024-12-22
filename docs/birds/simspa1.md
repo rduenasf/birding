@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The Sierra Madre sparrow (Xenospiza baileyi), also known as Bailey's sparrow, is an endangered, range-restricted, enigmatic American sparrow.  It is endemic to Mexico and is threatened with extinction through habitat loss.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Sierra_Madre_sparrow
+
 ## Media
 ### Photographs
 No photographs available.

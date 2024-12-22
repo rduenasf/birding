@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The western tanager (Piranga ludoviciana), is a medium-sized American songbird. Formerly placed in the tanager family (Thraupidae), it and other members of its genus are classified in the cardinal family (Cardinalidae). The species's plumage and vocalizations are similar to other members of the cardinal family.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Western_tanager
+
 ## Media
 ### Photographs
 No photographs available.

@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The gadwall (Mareca strepera) is a common and widespread dabbling duck in the family Anatidae.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Gadwall
+
 ## Media
 ### Photographs
 No photographs available.

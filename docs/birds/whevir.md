@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The white-eyed vireo (Vireo griseus) is a small songbird of the family Vireonidae.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/White-eyed_vireo
+
 ## Media
 ### Photographs
 No photographs available.

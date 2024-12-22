@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The golden-crowned kinglet (Regulus satrapa) is a very small songbird in the family Regulidae that lives throughout much of North America.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Golden-crowned_kinglet
+
 ## Media
 ### Photographs
 No photographs available.

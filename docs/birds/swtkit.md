@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The swallow-tailed kite (Elanoides forficatus) is a pernine raptor which breeds from the southeastern United States to eastern Peru and northern Argentina. It is the only species in the genus Elanoides. Most North and Central American breeders winter in South America where the species is resident year round.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Swallow-tailed_kite
+
 ## Media
 ### Photographs
 No photographs available.

@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The Transvolcanic jay (Aphelocoma ultramarina) is a bird endemic to Mexico.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Transvolcanic_jay
+
 ## Media
 ### Photographs
 No photographs available.

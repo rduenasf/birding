@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The striped woodpecker (Veniliornis lignarius) is a species of bird in subfamily Picinae of the woodpecker family Picidae. It is found in Argentina, Bolivia, and Chile.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Striped_woodpecker
+
 ## Media
 ### Photographs
 No photographs available.

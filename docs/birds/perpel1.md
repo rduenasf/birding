@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The Peruvian pelican (Pelecanus thagus) is a member of the pelican family. It lives on the west coast of South America, breeding in loose colonies from about 33.5 degrees south in central Chile to Piura in northern Peru, and occurring as a visitor in southern Chile and Ecuador. It used to be considered a subspecies of the brown pelican.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Peruvian_pelican
+
 ## Media
 ### Photographs
 No photographs available.

@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+Brewer's blackbird (Euphagus cyanocephalus) is a medium-sized New World blackbird. It is named after the ornithologist Thomas Mayo Brewer.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Brewer%27s_blackbird
+
 ## Media
 ### Photographs
 <iframe src="https://macaulaylibrary.org/asset/614231410/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>

@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The American avocet (Recurvirostra americana) is a large wader in the avocet and stilt family, Recurvirostridae, found in North America. It spends much of its time foraging in shallow water or on mud flats, often sweeping its bill from side to side in water as it seeks crustacean and insect prey.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/American_avocet
+
 ## Media
 ### Photographs
 No photographs available.

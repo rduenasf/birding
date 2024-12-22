@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The Chilean swallow (Tachycineta leucopyga) is a species of bird in the family Hirundinidae. It breeds in Chile and Patagonia, migrating north as far as Bolivia, Paraguay, and Rio Grande do Sul.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Chilean_swallow
+
 ## Media
 ### Photographs
 No photographs available.

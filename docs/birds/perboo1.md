@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The Peruvian booby (Sula variegata) is an endemic bird of the Peruvian current, and an important predator of the marine community to which it belongs. Its distribution is much less widespread than other closely related booby species. It is the most abundant seabird species that inhabits the Peruvian coast and the second most important guano-producing seabird. During the mid-twentieth century, the Peruvian booby population reached 3 million birds.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Peruvian_booby
+
 ## Media
 ### Photographs
 No photographs available.

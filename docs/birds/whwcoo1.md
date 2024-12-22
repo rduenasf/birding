@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The white-winged coot (Fulica leucoptera) is a species of bird in subfamily Rallinae of family Rallidae, the rails, gallinules, and coots. It is found in Argentina, Bolivia, Brazil, Chile, Paraguay, Uruguay, and the Falkland Islands.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/White-winged_coot
+
 ## Media
 ### Photographs
 No photographs available.

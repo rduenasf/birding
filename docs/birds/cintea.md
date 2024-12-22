@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The cinnamon teal (Spatula cyanoptera) is a species of duck found in western North and South America. It is a small dabbling duck, with bright reddish plumage on the male and duller brown plumage on the female. It lives in marshes and ponds, and feeds mostly on plants.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Cinnamon_teal
+
 ## Media
 ### Photographs
 No photographs available.

@@ -29,6 +29,13 @@ tags:
 
 **Audio**: No
 
+## Description
+The Humboldt penguin (Spheniscus humboldti)  is a medium-sized penguin. It resides in South America, along the Pacific coast of Peru and Chile. Its nearest relatives are the African penguin, the Magellanic penguin and the Galápagos penguin. The Humboldt penguin and the cold water current it swims in both are named after the explorer Alexander von Humboldt. The species is listed as vulnerable by the IUCN with no population recovery plan in place. The current wild population is composed of roughly 23,800 mature individuals and is declining. It is a migrant species.
+Humboldt penguins nest on islands and rocky coasts, burrowing holes in guano and sometimes using scrapes or caves. In South America the Humboldt penguin is found only along the Pacific coast, and the range of the Humboldt penguin overlaps that of the Magellanic penguin on the central Chilean coast. It is vagrant in Ecuador and Colombia. The Humboldt penguin has been known to live in mixed species colonies with the Magellanic penguin in at least two different locations at the south of Chile.
+The Humboldt penguin has become a focus of ecotourism over the last decades.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Humboldt_penguin
+
 ## Media
 ### Photographs
 No photographs available.

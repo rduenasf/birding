@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The northern shrike (Lanius borealis) is a large songbird species in the shrike family (Laniidae) native to North America and Siberia. Long considered a subspecies of the great grey shrike, it was classified as a distinct species in 2017. Six subspecies are recognised.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Northern_shrike
+
 ## Media
 ### Photographs
 No photographs available.

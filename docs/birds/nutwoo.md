@@ -29,6 +29,11 @@ tags:
 
 **Audio**: Yes
 
+## Description
+Nuttall's woodpecker (Dryobates nuttallii) is a species of woodpecker named after naturalist Thomas Nuttall in 1843. They are found in oak woodlands of California and are similar to the ladder-backed woodpecker in both genetics and appearance.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Nuttall%27s_woodpecker
+
 ## Media
 ### Photographs
 No photographs available.

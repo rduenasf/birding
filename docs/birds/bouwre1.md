@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+Boucard's wren (Campylorhynchus jocosus) is a species of bird in the family Troglodytidae. It is endemic to Mexico.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Boucard%27s_wren
+
 ## Media
 ### Photographs
 No photographs available.

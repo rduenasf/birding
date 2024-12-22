@@ -29,6 +29,11 @@ tags:
 
 **Audio**: Yes
 
+## Description
+The great egret (Ardea alba), also known as the common egret, large egret, or (in the Old World) great white egret or great white heron, is a large, widely distributed egret.  The four subspecies are found in Asia, Africa, the Americas, and southern Europe.  Recently, it has also been spreading to more northern areas of Europe. Distributed across most of the tropical and warmer temperate regions of the world, it builds tree nests in colonies close to water.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Great_egret
+
 ## Media
 ### Photographs
 <iframe src="https://macaulaylibrary.org/asset/619242708/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>

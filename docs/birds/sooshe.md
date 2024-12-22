@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The sooty shearwater (Ardenna grisea) is a medium-large shearwater in the seabird family Procellariidae. In New Zealand, it is also known by its Māori name tītī, and is harvested by Māori people for muttonbird, like its relatives the wedge-tailed shearwater (A. pacificus) and the Australian short-tailed shearwater (A. tenuirostris).[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Sooty_shearwater
+
 ## Media
 ### Photographs
 No photographs available.

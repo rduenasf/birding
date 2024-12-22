@@ -29,6 +29,12 @@ tags:
 
 **Audio**: Yes
 
+## Description
+Ridgway's rail (Rallus obsoletus) is a species of bird found principally along the Pacific coast of North America from the San Francisco Bay Area to southern Baja California, as well as in some regions of the Gulf of California. A member of the rail family, Rallidae, it is a chicken-sized bird that lives brackish tidal marshes and rarely flies.  Its name commemorates American ornithologist Robert Ridgway.
+This species is closely related to the clapper rail, and until recently was considered a subspecies. It has a long, downward curving bill and is grayish brown with a pale chestnut breast and conspicuous whitish rump patch. It is most active nocturnally and crepuscularly.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Ridgway%27s_rail
+
 ## Media
 ### Photographs
 No photographs available.

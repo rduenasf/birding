@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The amethyst-throated mountaingem (Lampornis amethystinus), also called amethyst-throated mountain-gem or amethyst-throated hummingbird, is a species of hummingbird in tribe Lampornithini of subfamily Trochilinae. It is found in El Salvador, Guatemala, Honduras, and Mexico.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Amethyst-throated_mountaingem
+
 ## Media
 ### Photographs
 No photographs available.

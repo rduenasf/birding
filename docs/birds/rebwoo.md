@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The red-bellied woodpecker (Melanerpes carolinus) is a medium-sized woodpecker of the family Picidae. It breeds mainly in the eastern United States, ranging as far south as Florida and as far north as Canada. Though it has a vivid orange-red crown and nape it is not to be confused with the red-headed woodpecker, a separate species of woodpecker in the same genus with an entirely red head and neck that sports a solid black back and white belly.  The red-bellied earns its name from the pale reddish tint on its lower underside.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Red-bellied_woodpecker
+
 ## Media
 ### Photographs
 No photographs available.

@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Description
+The common goldeneye or simply goldeneye (Bucephala clangula) is a medium-sized sea duck of the genus Bucephala, the goldeneyes. Its closest relative is the similar Barrow's goldeneye. The genus name is derived from the Ancient Greek boukephalos ("bullheaded", from bous, "bull " and kephale, "head"), a reference to the bulbous head shape of the bufflehead. The species name is derived from the Latin clangere ("to resound").
+Common goldeneyes are aggressive and territorial ducks, and have elaborate courtship displays.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Common_goldeneye
+
 ## Media
 ### Photographs
 No photographs available.

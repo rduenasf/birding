@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The western flycatcher (Empidonax difficilis) is a small insectivorous bird in the family Tyrannidae.  It is native to western North America, where it breeds in the Rocky Mountains and Pacific Coast forests and mountain ranges from California to Alaska and south to central Mexico; northern populations migrate south to Mexico for the winter.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Western_flycatcher
+
 ## Media
 ### Photographs
 No photographs available.

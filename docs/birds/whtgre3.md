@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The white-tufted grebe (Rollandia rolland), also known as Rolland's grebe, is a species of grebe in the family Podicipedidae. Found in the southern and western South America, its natural habitat is freshwater lakes, ponds and sluggish rivers and streams.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/White-tufted_grebe
+
 ## Media
 ### Photographs
 No photographs available.

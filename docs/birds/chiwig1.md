@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Description
+The Chiloé wigeon (Mareca sibilatrix), also known as the southern wigeon, is one of three extant species of wigeon in the genus Mareca of the dabbling duck subfamily. This bird is indigenous to the southern part of South America, including the Chiloé Archipelago.
+In its native range, it is called the pato overo ("piebald duck") or pato real ("royal duck"), although the latter name also refers to the Muscovy in the wild. Its specific epithet, sibilatrix, means 'whistler', referring to the bird's. Its name comes from its residence, the Chiloé Archipelago[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Chilo%C3%A9_wigeon
+
 ## Media
 ### Photographs
 No photographs available.

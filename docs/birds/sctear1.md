@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The scale-throated earthcreeper (Upucerthia dumetaria) is a species of bird in the Furnariinae subfamily of the ovenbird family Furnariidae. It is found in Argentina, Bolivia, Chile, Peru, and possibly Uruguay.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Scale-throated_earthcreeper
+
 ## Media
 ### Photographs
 No photographs available.

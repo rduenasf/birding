@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The black-crowned night heron (Nycticorax nycticorax) [or black-capped night heron], commonly shortened to just night heron in Eurasia, is a medium-sized heron found throughout a large part of the world, including parts of Europe, Asia, and North and South America. In Australasia it is replaced by the closely related Nankeen night heron (N. caledonicus), with which it has hybridised in the area of contact.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Black-crowned_night_heron
+
 ## Media
 ### Photographs
 <iframe src="https://macaulaylibrary.org/asset/617717429/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>

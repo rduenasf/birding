@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The sooty grouse (Dendragapus fuliginosus) is a species of forest-dwelling grouse native to North America's Pacific Coast Ranges. It is closely related to the dusky grouse (Dendragapus obscurus), and the two were previously considered a single species, the blue grouse.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Sooty_grouse
+
 ## Media
 ### Photographs
 No photographs available.

@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Description
+The pelagic cormorant (Urile pelagicus), also known as Baird's cormorant or violet-green cormorant, is a small member of the cormorant family Phalacrocoracidae. Analogous to other smallish cormorants, it is also called the pelagic shag occasionally. This seabird lives along the coasts of the northern Pacific; during winter it can also be found in the open ocean. Pelagic cormorants have relatively short wings due to their need for economical movement underwater, and consequently have the highest flight costs of any bird.
+It was formerly classified in the genus Phalacrocorax, but a 2014 study supported reclassifying it and several other Pacific cormorant species into the genus Urile. The IOC followed this classification in 2021.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Pelagic_cormorant
+
 ## Media
 ### Photographs
 No photographs available.

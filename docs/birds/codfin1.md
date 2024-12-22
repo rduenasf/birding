@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The diuca finch (Diuca diuca) is a species of bird in the tanager family Thraupidae. It is the only member of the genus Diuca. It is found in Argentina, Bolivia, Brazil, Chile, and Uruguay. Its natural habitats are subtropical or tropical dry shrubland, subtropical or tropical high-altitude shrubland, and heavily degraded former forest.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Diuca_finch
+
 ## Media
 ### Photographs
 <iframe src="https://macaulaylibrary.org/asset/625246637/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>

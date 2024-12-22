@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The fox sparrow (Passerella iliaca) is a large New World sparrow. It is the only member of the genus Passerella, although some authors split the species into four (see below).[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Fox_sparrow
+
 ## Media
 ### Photographs
 No photographs available.

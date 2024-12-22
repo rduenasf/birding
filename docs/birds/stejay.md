@@ -29,6 +29,11 @@ tags:
 
 **Audio**: Yes
 
+## Description
+Steller's jay (Cyanocitta stelleri) is a bird native to western North America and the mountains of Central America, closely related to the blue jay (C. cristata) found in eastern North America. It is the only crested jay west of the Rocky Mountains. It is also sometimes colloquially called a "blue jay" in the Pacific Northwest, but is distinct from the blue jay of eastern North America. The species inhabits pine-oak and coniferous forests.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Steller%27s_jay
+
 ## Media
 ### Photographs
 No photographs available.

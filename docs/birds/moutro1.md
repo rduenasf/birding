@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Description
+The mountain trogon (Trogon mexicanus), also known as the Mexican trogon, is a species of bird in the family Trogonidae. First described by William John Swainson in 1827, it is resident in Guatemala, Honduras, and Mexico and has occurred in El Salvador as a vagrant. Like all trogons, the mountain trogon is sexually dimorphic. The male is metallic green on the crown, nape, upperparts and chest, the latter separated from its bright red belly and vent by a narrow band of white. The female is warm brown on the head, upperparts and chest, separated from its paler brown lower chest and red belly and vent by a narrow white band.
+Its natural habitat is subtropical and tropical moist montane forests. It prefers pine-evergreen and pine-oak woodland between 3,000 and 10,000 ft (914 and 3,048 m) in elevation. Unlike some rarer trogons, this species shows some adaptability to human land use and has utilized coffee plantations with suitable shade trees like oaks.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Mountain_trogon
+
 ## Media
 ### Photographs
 No photographs available.

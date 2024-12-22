@@ -29,6 +29,13 @@ tags:
 
 **Audio**: Yes
 
+## Description
+The Savannah sparrow (Passerculus sandwichensis) is a small New World sparrow that is the only member of the genus Passerculus. It is a widespread and abundant species that occupies open grassland habitats in North America.
+Over most of its range it is migratory, breeding in Canada and the northern United States while wintering in Mexico and the southern United States. It is a sexually monomorphic species that is quite variable in appearance. Around 17 subspecies are currently recognised. These are divided into several groups, some of which have sometimes been considered as separate species.
+The species name sandwichensis is Latin from Sandwich Sound (now Prince William Sound) in southern Alaska from where the first specimen was collected. The common name refers to Savannah, Georgia, where Alexander Wilson observed the species in 1811.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Savannah_sparrow
+
 ## Media
 ### Photographs
 No photographs available.

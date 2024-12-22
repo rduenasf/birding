@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The ash-throated flycatcher (Myiarchus cinerascens) is a passerine bird in the tyrant flycatcher family.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Ash-throated_flycatcher
+
 ## Media
 ### Photographs
 No photographs available.

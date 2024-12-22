@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The wren-like rushbird (Phleocryptes melanops) is a species of bird in the Furnariinae subfamily of the ovenbird family Furnariidae. It is found in Argentina, Bolivia, Brazil, Chile, Paraguay, Peru, and Uruguay.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Wren-like_rushbird
+
 ## Media
 ### Photographs
 <iframe src="https://macaulaylibrary.org/asset/625246708/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>

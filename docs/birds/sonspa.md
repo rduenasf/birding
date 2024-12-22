@@ -29,6 +29,11 @@ tags:
 
 **Audio**: Yes
 
+## Description
+The song sparrow (Melospiza melodia) is a medium-sized New World sparrow. Among the native sparrows in North America, it is easily one of the most abundant, variable and adaptable species.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Song_sparrow
+
 ## Media
 ### Photographs
 No photographs available.

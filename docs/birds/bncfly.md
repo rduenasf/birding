@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The brown-crested flycatcher (Myiarchus tyrannulus) is a passerine bird in the tyrant flycatcher family.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Brown-crested_flycatcher
+
 ## Media
 ### Photographs
 No photographs available.

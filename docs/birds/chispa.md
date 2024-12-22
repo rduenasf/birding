@@ -29,6 +29,14 @@ tags:
 
 **Audio**: No
 
+## Description
+The Chipping Sparrow (Spizella passerina) is a species of New World sparrow, a passerine bird in the family Passerellidae. It is widespread, fairly tame, and common across most of its North American range.
+The Chipping Sparrow has two subspecies, the Eastern Chipping Sparrow and the Western Chipping Sparrow. This bird is a partial migrant with northerly populations flying southwards in the fall to overwinter in Mexico and the southern United States, and flying northward again in spring.
+It molts twice a year. In its breeding plumage it has orangish-rust upper parts, gray head and underparts and a distinctive reddish cap. In non-breeding plumage, the cap is brown and the facial markings are less distinct. The song is a trill and the bird has a piercing flight call that can be heard while it is migrating at night.
+In the winter, Chipping Sparrows are gregarious and form flocks, sometimes associating with other bird species. They mostly forage on the ground for seeds and other food items, as well as clambering on plants and trees, feeding on buds and small arthropods. In the west of their range they breed mainly in coniferous forests, but in the east, they choose woodland, farmland, parks and gardens. Breeding starts in late April and May and the nest is often built in a tree.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Chipping_sparrow
+
 ## Media
 ### Photographs
 No photographs available.

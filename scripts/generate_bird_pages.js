@@ -48,8 +48,15 @@ function generateAudioEmbeds(audios) {
 }
 
 function generateMarkdownContent(bird, index, photoEmbeds, audioEmbeds) {
-  const { primaryComName, sciName, order, family, speciesGroup, speciesCode } =
-    bird;
+  const {
+    primaryComName,
+    sciName,
+    order,
+    family,
+    speciesGroup,
+    speciesCode,
+    metadata: { description, wikipediaUrl },
+  } = bird;
   return `---
 title: "${primaryComName}"
 scientific_name: "${sciName}"
@@ -82,6 +89,15 @@ tags:
 **Photo**: ${photoEmbeds.length > 0 ? "Yes" : "No"} 
 
 **Audio**: ${audioEmbeds.length > 0 ? "Yes" : "No"}
+
+${
+  description
+    ? `## Description
+${description}[^1]
+
+[^1]: ${wikipediaUrl}`
+    : ""
+}
 
 ## Media
 ### Photographs

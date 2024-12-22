@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The western kingbird (Tyrannus verticalis) is a large tyrant flycatcher found throughout western environments of North America, as far south as Mexico.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Western_kingbird
+
 ## Media
 ### Photographs
 No photographs available.

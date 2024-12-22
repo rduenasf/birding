@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+Grace's warbler (Setophaga graciae) is a small New World warbler that specializes in pine woods.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Grace%27s_warbler
+
 ## Media
 ### Photographs
 No photographs available.

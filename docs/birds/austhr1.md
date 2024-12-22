@@ -29,6 +29,13 @@ tags:
 
 **Audio**: No
 
+## Description
+The austral thrush (Turdus falcklandii) is a medium-sized thrush from southern South America. There are three subspecies, the Magellan thrush (T. f. magellanicus) from south Argentina and south and central Chile, the Falkland thrush (T. f. falcklandii) from the Falkland Islands, and T. f. pembertoni from the Neuquén and Río Negro provinces of Argentina.
+The austral thrush is similar to the European blackbird, also of the genus Turdus, with a yellow bill and feet, a dark brown head, back and wings and paler underparts. The smaller T. f. magellanicus is more olive below, while in  T. f. falcklandii the underside tends towards ochre. Both subspecies have streaked throats.
+In Chile and Argentina the austral thrush lives in a variety of habitats from Nothofagus forests to agricultural lands and even gardens. On the Falkland Islands it makes use of human altered habitat as well but is most numerous in tussac grasses near beaches.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Austral_thrush
+
 ## Media
 ### Photographs
 No photographs available.

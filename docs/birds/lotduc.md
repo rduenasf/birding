@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The long-tailed duck (Clangula hyemalis) or coween, formerly known as the oldsquaw, is a medium-sized sea duck that breeds in the tundra and taiga regions of the arctic and winters along the northern coastlines of the Atlantic and Pacific Oceans. It is the only member of the genus Clangula.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Long-tailed_duck
+
 ## Media
 ### Photographs
 No photographs available.

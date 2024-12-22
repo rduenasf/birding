@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The painted redstart or painted whitestart (Myioborus pictus) is a species of New World warbler found in mountainous areas across inland Central America. They are among the largest warblers, reaching the length of 6 inches (150 mm), tail included. Adult birds have glossy black plumage, with white strips on the wing and a bright red belly. Female and male birds have similar appearance. Female painted redstarts have a rare feature of being as good singers as the males.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Painted_redstart
+
 ## Media
 ### Photographs
 No photographs available.

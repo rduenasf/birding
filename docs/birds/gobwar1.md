@@ -29,6 +29,14 @@ tags:
 
 **Audio**: No
 
+## Description
+The golden-browed warbler (Basileuterus belli) is a species of bird in the family Parulidae, the New World warblers.
+It is found in El Salvador, Guatemala, Honduras, and Mexico.
+Its natural habitat is subtropical or tropical moist montane forests.
+The species was described by Jacob Post Giraud, Jr. in 1841.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Golden-browed_warbler
+
 ## Media
 ### Photographs
 No photographs available.

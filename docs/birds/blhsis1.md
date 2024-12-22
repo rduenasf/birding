@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The black-headed siskin (Spinus notatus) is a species of finch in the family Fringillidae. It is found in Mexico, Belize, El Salvador, Guatemala, Honduras, and Nicaragua. Its natural habitats are subtropical or tropical moist montane forest and heavily degraded former forest.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Black-headed_siskin
+
 ## Media
 ### Photographs
 No photographs available.

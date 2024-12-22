@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Description
+The rufous-capped brushfinch (Atlapetes pileatus) is a species of bird in the family Passerellidae. It is endemic to Mexico.
+Its natural habitats are subtropical or tropical moist montane forest and subtropical or tropical high-altitude shrubland.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Rufous-capped_brushfinch
+
 ## Media
 ### Photographs
 No photographs available.

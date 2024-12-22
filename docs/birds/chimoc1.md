@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The Chilean mockingbird (Mimus thenca), locally known as tenca, is a species of bird in the family Mimidae. It primarily inhabits Chile's northern half, though there are sightings in Argentina.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Chilean_mockingbird
+
 ## Media
 ### Photographs
 <iframe src="https://macaulaylibrary.org/asset/625246481/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>

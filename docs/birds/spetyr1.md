@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Description
+The spectacled tyrant (Hymenops perspicillatus) is a species of bird in the tyrant flycatcher family Tyrannidae. It is the only species placed in the genus Hymenops.
+It is found in Chile, Argentina and Uruguay; it is a vagrant to Bolivia, Paraguay and south-eastern Brazil, once even in far north-eastern Brazil. Its natural habitats are subtropical or tropical dry shrubland and swamps.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Spectacled_tyrant
+
 ## Media
 ### Photographs
 No photographs available.

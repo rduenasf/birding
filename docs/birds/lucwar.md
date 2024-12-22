@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+Lucy's warbler (Leiothlypis luciae) is a small New World warbler found in North America. This species ranges includes southwestern United States and northwestern Mexico. It is one of only two warblers to nest in cavities.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Lucy%27s_warbler
+
 ## Media
 ### Photographs
 No photographs available.

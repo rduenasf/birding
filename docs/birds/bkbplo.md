@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The grey plover or black-bellied plover (Pluvialis squatarola) is a large plover breeding in Arctic regions. It is a long-distance migrant, with a nearly worldwide coastal distribution when not breeding.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Grey_plover
+
 ## Media
 ### Photographs
 No photographs available.

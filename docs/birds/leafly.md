@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The least flycatcher (Empidonax minimus) (also called chebec, or chebecker, after the sound it makes) is a small insect-eating bird. It is the smallest Empidonax flycatcher in eastern North America.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Least_flycatcher
+
 ## Media
 ### Photographs
 No photographs available.

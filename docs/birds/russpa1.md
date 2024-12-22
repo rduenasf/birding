@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The rusty sparrow (Aimophila rufescens) is a species of bird in the family Passerellidae that is found in Belize, Costa Rica, El Salvador, Guatemala, Honduras, Mexico and Nicaragua. Its natural habitats are subtropical or tropical dry forest, subtropical or tropical moist montane forest, and subtropical or tropical high-altitude shrubland.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Rusty_sparrow
+
 ## Media
 ### Photographs
 No photographs available.

@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+Cassin's finch (Haemorhous cassinii) is a bird in the finch family, Fringillidae. This species and the other "American rosefinches" are placed in the genus Haemorhous.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Cassin%27s_finch
+
 ## Media
 ### Photographs
 No photographs available.

@@ -29,6 +29,12 @@ tags:
 
 **Audio**: Yes
 
+## Description
+The lesser goldfinch (Spinus psaltria) is a small finch in the genus Spinus native to the Americas.
+As is the case for most species in the genus Spinus, lesser goldfinch males have a black forehead, which females lack. Males in this species vary strikingly in the color of their back across their range, from green in western North America to black in the eastern Rocky Mountains and Texas south to northern South America; this variation has resulted in five subspecies being recognized.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Lesser_goldfinch
+
 ## Media
 ### Photographs
 No photographs available.

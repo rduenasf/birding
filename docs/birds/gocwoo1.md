@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The golden-cheeked woodpecker (Melanerpes chrysogenys) is a species of bird in subfamily Picinae of the woodpecker family Picidae. It is endemic to Mexico.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Golden-cheeked_woodpecker
+
 ## Media
 ### Photographs
 No photographs available.

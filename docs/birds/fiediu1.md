@@ -29,6 +29,13 @@ tags:
 
 **Audio**: No
 
+## Description
+The fire-eyed diucon (Pyrope pyrope) is a passerine bird of South America belonging to the tyrant flycatcher family Tyrannidae. It is the only species placed in the genus Pyrope.
+It is 19–21 cm long. The upperparts are mainly plain grey. The underparts are pale grey with white throat and undertail-coverts. The eyes are bright coral-red, for which the bird is named.
+It is found in central and southern Chile, southwestern Argentina, and Tierra del Fuego. Vagrant birds have occurred just eastwards of Tierra del Fuego in the Falkland Islands.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Fire-eyed_diucon
+
 ## Media
 ### Photographs
 No photographs available.

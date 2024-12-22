@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The loggerhead shrike (Lanius ludovicianus) is a passerine bird in the family Laniidae. It is the only member of the shrike family endemic to North America; the related northern shrike (L. borealis) occurs north of its range, however it is also found in Siberia. It is nicknamed the butcherbird after its carnivorous tendencies, as it consumes prey such as insects, amphibians, lizards, small mammals and small birds, and some prey end up displayed and stored at a site, for example in a tree. Due to its small size and weak talons, this predatory bird relies on impaling its prey upon thorns or barbed wire for facilitated consumption. The numbers of loggerhead shrike have significantly decreased in recent years, especially in Midwestern, New England and Mid-Atlantic areas.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Loggerhead_shrike
+
 ## Media
 ### Photographs
 No photographs available.

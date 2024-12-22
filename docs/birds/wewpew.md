@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The western wood pewee (Contopus sordidulus) is a small tyrant flycatcher. Adults are gray-olive on the upperparts with light underparts, washed with olive on the breast. They have two wing bars and a dark bill with yellow at the base of the lower mandible. This bird is very similar in appearance to the eastern wood pewee; the two birds were formerly considered to be one species. The call of C. sordidulus is a loud buzzy peeer; the song consists of three rapid descending tsees ending with a descending peeer.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Western_wood_pewee
+
 ## Media
 ### Photographs
 <iframe src="https://macaulaylibrary.org/asset/619037692/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>

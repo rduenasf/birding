@@ -29,6 +29,13 @@ tags:
 
 **Audio**: No
 
+## Description
+The black oystercatcher (Haematopus bachmani) is a conspicuous black bird found on the shoreline of western North America, ranging from the Aleutian Islands of Alaska to the coast of the Baja California peninsula.
+It is the only representative of the oystercatcher family (Haematopodidae) over most of its range, overlapping slightly with the American oystercatcher (H. palliatus) on the coast of Baja California. Within its range it is most commonly referred to as the black oystercatcher, although this name is also used locally for the blackish oystercatcher and the African oystercatcher. Its scientific name was derived by John James Audubon from that of his friend John Bachman.
+Although the species is not considered threatened, its global population is estimated between 8,900–11,000.  It is a species of high conservation concern throughout its range (U.S., Canadian, Alaskan, and Northern & Southern Pacific Shorebird Conservation Plans), a keystone indicator species along the north Pacific shoreline, a management indicator species in the Chugach National Forest, and a U.S. Fish & Wildlife Service focal species for priority conservation action.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Black_oystercatcher
+
 ## Media
 ### Photographs
 <iframe src="https://macaulaylibrary.org/asset/619242520/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>

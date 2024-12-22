@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The red tanager (Piranga flava) is a medium-sized American songbird in the family Cardinalidae.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Red_tanager
+
 ## Media
 ### Photographs
 No photographs available.

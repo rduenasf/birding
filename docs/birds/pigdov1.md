@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The Picui ground dove or Picui dove (Columbina picui) is a species of bird in the family Columbidae. It is found in Argentina, Bolivia, Brazil, Chile, Colombia, Paraguay, Peru, and Uruguay.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Picui_ground_dove
+
 ## Media
 ### Photographs
 No photographs available.

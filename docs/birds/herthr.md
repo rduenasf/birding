@@ -29,6 +29,11 @@ tags:
 
 **Audio**: Yes
 
+## Description
+The hermit thrush (Catharus guttatus) is a medium-sized North American thrush.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Hermit_thrush
+
 ## Media
 ### Photographs
 No photographs available.

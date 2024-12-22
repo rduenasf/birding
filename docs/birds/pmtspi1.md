@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The plain-mantled tit-spinetail (Leptasthenura aegithaloides) is a small passerine bird of South America in the Furnariinae subfamily of the ovenbird family Furnariidae. It is found in Argentina, Bolivia, Chile, and Peru.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Plain-mantled_tit-spinetail
+
 ## Media
 ### Photographs
 No photographs available.

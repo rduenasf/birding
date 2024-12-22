@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The groove-billed ani (Crotophaga sulcirostris) is a tropical bird in the cuckoo family with a long tail and a large, curved beak. It is a resident species throughout most of its range, from southern Texas, central Mexico and The Bahamas, through Central America, to northern Colombia and Venezuela, and coastal Ecuador and Peru. It only retreats from the northern limits of its range in Texas and northern Mexico during winter.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Groove-billed_ani
+
 ## Media
 ### Photographs
 No photographs available.

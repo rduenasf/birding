@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The hooded yellowthroat (Geothlypis nelsoni) is a species of bird in the family Parulidae. It is endemic to the highlands of Mexico north of the Isthmus of Tehuantepec. It is resident in dense semiarid to humid montane shrubland or chaparral.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Hooded_yellowthroat
+
 ## Media
 ### Photographs
 No photographs available.

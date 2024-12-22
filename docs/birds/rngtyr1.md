@@ -29,6 +29,13 @@ tags:
 
 **Audio**: No
 
+## Description
+The rufous-naped ground tyrant (Muscisaxicola rufivertex) is a species of bird in the family Tyrannidae.
+It is found in Argentina, Bolivia, Chile, and Peru.
+Its natural habitats are subtropical or tropical high-altitude shrubland and subtropical or tropical high-altitude grassland.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Rufous-naped_ground_tyrant
+
 ## Media
 ### Photographs
 No photographs available.

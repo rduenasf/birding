@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The Pacific loon or Pacific diver (Gavia pacifica), is a medium-sized member of the loon, or diver, family.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Pacific_loon
+
 ## Media
 ### Photographs
 No photographs available.

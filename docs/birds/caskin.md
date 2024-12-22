@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+Cassin's kingbird (Tyrannus vociferans) is a large tyrant flycatcher native to western North America. The name of this bird commemorates the American ornithologist John Cassin.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Cassin%27s_kingbird
+
 ## Media
 ### Photographs
 No photographs available.

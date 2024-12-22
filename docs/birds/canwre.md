@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The canyon wren (Catherpes mexicanus) is a small North American songbird of the wren family Troglodytidae. It is resident throughout its range and is generally found in arid, rocky cliffs, outcrops, and canyons. It is a small bird that is hard to see on its rocky habitat; however, it can be heard throughout the canyons by its distinctive, loud song. It is currently in a monotypic taxon and is the only species in the genus Catherpes.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Canyon_wren
+
 ## Media
 ### Photographs
 No photographs available.

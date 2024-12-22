@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The southern lapwing (Vanellus chilensis), commonly called quero-quero in Brazil, or tero in Argentina and Uruguay, tero-tero in Paraguay, and queltehue in Chile is a wader in the order Charadriiformes. It is a common and widespread resident throughout South America, except in densely forested regions (e.g. most of the Amazon), the higher parts of the Andes, and the arid coast of a large part of western South America. This bird is particularly common in the basin of the Río de la Plata. It has also been spreading through Central America in recent years. It reached Trinidad in 1961, Tobago in 1974, and has rapidly increased on both islands, sporadically making its way North to Barbados where one pair mated, nested, and produced chicks in 2007. There have been sightings reported in North America with a verified sighting of a bird in Texas posted on Birda on the 17th April 2024.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Southern_lapwing
+
 ## Media
 ### Photographs
 <iframe src="https://macaulaylibrary.org/asset/614236123/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>

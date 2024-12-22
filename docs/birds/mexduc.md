@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The Mexican duck (Anas diazi) is a species of dabbling duck that breeds in Mexico and the southwestern United States.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Mexican_duck
+
 ## Media
 ### Photographs
 No photographs available.

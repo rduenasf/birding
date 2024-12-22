@@ -29,6 +29,13 @@ tags:
 
 **Audio**: No
 
+## Description
+The eastern towhee (Pipilo erythrophthalmus), also known as chewink, joree, or joree bird, is a large New World sparrow. The taxonomy of the towhees has been under debate in recent decades, and formerly this bird and the spotted towhee were considered a single species, the rufous-sided towhee.
+Their breeding habitat is brushy areas across eastern North America. They nest either low in bushes or on the ground under shrubs. Northern birds migrate to the southern United States. There has been one record of this species as a vagrant to western Europe: a single bird in Great Britain in 1966.
+The song is a short drink your teeeeea lasting around one second, starting with a sharp call ("drink!") and ending with a short trill "teeeeea". The name "towhee" is onomatopoeic description of one of the towhee's most common calls, a short two-part call rising in pitch and sometimes also called a "chewink" call.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Eastern_towhee
+
 ## Media
 ### Photographs
 No photographs available.

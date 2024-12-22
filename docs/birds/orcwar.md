@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The orange-crowned warbler (Leiothlypis celata) is a small songbird of the New World warbler family.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Orange-crowned_warbler
+
 ## Media
 ### Photographs
 No photographs available.

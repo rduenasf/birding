@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Description
+Virginia's warbler (Leiothlypis virginiae) is a species of New World warbler.
+Despite what its name may suggest, Virginia's warbler is not actually named after the American State of Virginia, which makes sense as the birds' typical range only reaches as far east as the state of Texas. The bird's common eastern range is central and southern mountains of Colorado, central Wyoming, and central and western New Mexico. The bird was named for Virginia Anderson, the wife of an army surgeon who discovered the bird at Fort Burgwin, New Mexico, in 1858. When Spencer Fullerton Baird of the Smithsonian Institution fully described the bird for science in 1860 he honored the wishes of the warbler's discoverer and designated Virginia to be both the bird's common and scientific name.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Virginia%27s_warbler
+
 ## Media
 ### Photographs
 No photographs available.

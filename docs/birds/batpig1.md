@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The band-tailed pigeon (Patagioenas fasciata) is a pigeon native to the Americas, being the largest pigeon native to North America. They are a native species throughout the Southwestern United States and Mexico, extending south to Peru.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Band-tailed_pigeon
+
 ## Media
 ### Photographs
 No photographs available.

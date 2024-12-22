@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The boat-tailed grackle (Quiscalus major) is a passerine bird of the family Icteridae found as a permanent resident on the coasts of the Southeastern and Mid-Atlantic United States.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Boat-tailed_grackle
+
 ## Media
 ### Photographs
 No photographs available.

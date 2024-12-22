@@ -29,6 +29,11 @@ tags:
 
 **Audio**: Yes
 
+## Description
+The marsh wren (Cistothorus palustris) is a small North American songbird of the wren family. It is sometimes called the long-billed marsh wren to distinguish it from the sedge wren, also known as the short-billed marsh wren.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Marsh_wren
+
 ## Media
 ### Photographs
 No photographs available.

@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The American white pelican (Pelecanus erythrorhynchos) is a large aquatic soaring bird from the order Pelecaniformes. It breeds in interior North America, moving south and to the coasts, as far as Costa Rica, in winter.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/American_white_pelican
+
 ## Media
 ### Photographs
 No photographs available.

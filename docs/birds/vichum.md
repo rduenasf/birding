@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The violet-crowned hummingbird (Ramosomyia violiceps) is a hummingbird in the "emeralds", tribe Trochilini of subfamily Trochilinae. It is found in Mexico and the southwestern United States.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Violet-crowned_hummingbird
+
 ## Media
 ### Photographs
 No photographs available.

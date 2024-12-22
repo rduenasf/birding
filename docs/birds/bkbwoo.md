@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The black-backed woodpecker (Picoides arcticus), also known as the Arctic three-toed woodpecker, is a medium-sized woodpecker (23 cm (9.1 in) long) inhabiting the forests of North America.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Black-backed_woodpecker
+
 ## Media
 ### Photographs
 No photographs available.

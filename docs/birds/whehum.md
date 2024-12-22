@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The white-eared hummingbird (Basilinna leucotis) is a species of hummingbird in the "emeralds", tribe Trochilini of subfamily Trochilinae. It is found from the southwestern U.S. to Nicaragua.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/White-eared_hummingbird
+
 ## Media
 ### Photographs
 No photographs available.

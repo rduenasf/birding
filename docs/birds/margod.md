@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The marbled godwit (Limosa fedoa) is a large migratory shorebird in the family Scolopacidae. On average, it is the largest of the four species of godwit.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Marbled_godwit
+
 ## Media
 ### Photographs
 <iframe src="https://macaulaylibrary.org/asset/619242609/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>

@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The dark-eyed junco (Junco hyemalis) is a species of junco, a group of small, grayish New World sparrows. The species is common across much of temperate North America and in summer it ranges far into the Arctic. It is a variable species, much like the related fox sparrow (Passerella iliaca), and its systematics are still not completely resolved.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Dark-eyed_junco
+
 ## Media
 ### Photographs
 <iframe src="https://macaulaylibrary.org/asset/614232433/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>

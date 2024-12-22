@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The black-chinned hummingbird (Archilochus alexandri) is a hummingbird occupying a broad range of habitats. Its summer range is in the western United States and southwestern Canada. It is migratory, wintering as far south as Mexico. In sunlight, the gorget of iridescent purple feathers bordering its black chin is noticeable.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Black-chinned_hummingbird
+
 ## Media
 ### Photographs
 No photographs available.

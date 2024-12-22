@@ -29,6 +29,11 @@ tags:
 
 **Audio**: Yes
 
+## Description
+The wild turkey (Meleagris gallopavo) is an upland game bird native to North America, one of two extant species of turkey and the heaviest member of the order Galliformes. It is the ancestor to the domestic turkey (M. g. domesticus), which was originally derived from a southern Mexican subspecies of wild turkey (not the related ocellated turkey).[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Wild_turkey
+
 ## Media
 ### Photographs
 <iframe src="https://macaulaylibrary.org/asset/626996607/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>

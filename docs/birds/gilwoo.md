@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The Gila woodpecker (Melanerpes uropygialis) is a medium-sized woodpecker of the desert regions of the southwestern United States and western Mexico. In the U.S., they range through southeastern California, southern Nevada, Arizona, and New Mexico.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Gila_woodpecker
+
 ## Media
 ### Photographs
 No photographs available.

@@ -29,6 +29,12 @@ tags:
 
 **Audio**: Yes
 
+## Description
+The spotted towhee (Pipilo maculatus) is a large New World sparrow. The taxonomy of the towhees has been debated in recent decades, and until 1995 this bird and the eastern towhee were considered a single species, the rufous-sided towhee.  Another outdated name for the spotted towhee is the Oregon towhee (Pipilo maculatus oregonus). The call may be harsher and more varied than for the eastern towhee.
+Individuals in the Socorro Island population are much smaller than other spotted towhees, and show distinctive gray upper-parts. That population is sometimes treated as a species: the Socorro towhee (Pipilo socorroensis).[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Spotted_towhee
+
 ## Media
 ### Photographs
 No photographs available.

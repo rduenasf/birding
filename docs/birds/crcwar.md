@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The crescent-chested warbler (Oreothlypis superciliosa) is a small New World warbler. It is common throughout its montane range, from northern Mexico to northern Nicaragua, and is an occasional vagrant to Texas. It shows an affinity for oaks.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Crescent-chested_warbler
+
 ## Media
 ### Photographs
 No photographs available.

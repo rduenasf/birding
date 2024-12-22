@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The brown-hooded gull (Chroicocephalus maculipennis) is a species of gull found in Argentina, Brazil, Chile, the Falkland Islands, and Uruguay. Its specific epithet, maculipennis, means 'spotted wings' (macula + penna). It is a white bird with a brown head and red beak and feet.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Brown-hooded_gull
+
 ## Media
 ### Photographs
 No photographs available.

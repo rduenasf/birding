@@ -29,6 +29,13 @@ tags:
 
 **Audio**: No
 
+## Description
+The Chilean flamingo (Phoenicopterus chilensis) is a species of large flamingo at a height of 110–130 cm (43–51 in) closely related to the American flamingo and the greater flamingo, with which it was sometimes considered conspecific. The species is listed as Near Threatened by the IUCN.
+It breeds in South America from Ecuador and Peru to Chile and Argentina and east to Brazil; it has been introduced into Germany. Like all flamingos, it lays a single chalky-white egg on a mud mound. 
+These flamingos are mainly restricted to salt lagoons and soda lakes but these areas are vulnerable to habitat loss and water pollution.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Chilean_flamingo
+
 ## Media
 ### Photographs
 No photographs available.

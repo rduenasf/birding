@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The sharp-billed canastero or lesser canastero (Asthenes pyrrholeuca) is a species of bird in the Furnariinae subfamily of the ovenbird family Furnariidae. It is found in Argentina, Bolivia, Chile, Paraguay, and Uruguay, and has also occurred as a vagrant in Brazil.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Sharp-billed_canastero
+
 ## Media
 ### Photographs
 No photographs available.

@@ -29,6 +29,13 @@ tags:
 
 **Audio**: No
 
+## Description
+Cooper's hawk (Astur cooperii) is a medium-sized hawk native to the North American continent and found from southern Canada to Mexico. This species was formerly placed in the genus Accipiter. As in many birds of prey, the male is smaller than the female. The birds found east of the Mississippi River tend to be larger on average than the birds found to the west. It is easily confused with the smaller but similar sharp-shinned hawk. (Accipiter striatus)
+The species was named in 1828 by Charles Lucien Bonaparte in honor of his friend and fellow ornithologist, William Cooper. Other common names for Cooper's hawk include: big blue darter, chicken hawk, flying cross, hen hawk, quail hawk, striker, and swift hawk. Many of the names applied to Cooper's hawks refer to their ability to hunt large and evasive prey using extremely well-developed agility. This species primarily hunts small-to-medium-sized birds, but will also commonly take small mammals and sometimes reptiles.
+Like most related hawks, Cooper's hawks prefer to nest in tall trees with extensive canopy cover and can commonly produce up to two to four fledglings depending on conditions. Breeding attempts may be compromised by poor weather, predators and anthropogenic causes, in particular the use of industrial pesticides and other chemical pollution in the 20th century. Despite declines due to manmade causes, the bird remains a stable species.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Cooper%27s_hawk
+
 ## Media
 ### Photographs
 No photographs available.

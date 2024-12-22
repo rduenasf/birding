@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The zone-tailed hawk (Buteo albonotatus) is a medium-sized hawk of warm, dry parts of the Americas. It is somewhat similar in plumage and flight style to a common scavenger, the turkey vulture, and may benefit from being able to blend into groups of vultures. It feeds on small terrestrial tetrapods of all kinds.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Zone-tailed_hawk
+
 ## Media
 ### Photographs
 No photographs available.

@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Description
+The western sandpiper (Calidris mauri) is a small shorebird. The genus name is from Ancient Greek kalidris or skalidris, a term used by Aristotle for some grey-coloured waterside birds. The specific mauri commemorates Italian botanist Ernesto Mauri (1791–1836).
+This is one of the most abundant shorebird species in North America, with a population in the millions.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Western_sandpiper
+
 ## Media
 ### Photographs
 No photographs available.

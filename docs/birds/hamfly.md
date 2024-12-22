@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+Hammond's flycatcher (Empidonax hammondii) is a flycatcher in the family Tyrannidae. This small insectivorous bird inhabits the coniferous and mixed forests of western North America. The name of this bird commemorates William Alexander Hammond who was the surgeon general of the US Army. Hammond collected bird specimens for Spencer Fullerton Baird.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Hammond%27s_flycatcher
+
 ## Media
 ### Photographs
 No photographs available.

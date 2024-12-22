@@ -29,6 +29,11 @@ tags:
 
 **Audio**: Yes
 
+## Description
+The California thrasher (Toxostoma redivivum) is a large member of family Mimidae found primarily in chaparral habitat in California in the United States and Baja California in Mexico. It is the only species of the genus Toxostoma throughout most of its range.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/California_thrasher
+
 ## Media
 ### Photographs
 No photographs available.

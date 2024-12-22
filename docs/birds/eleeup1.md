@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Description
+The elegant or blue-hooded euphonia (Chlorophonia elegantissima) is a species of bird in the family Fringillidae. It is found in Belize, Costa Rica, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, and Panama. It was formerly classified in the genus Euphonia, but phylogenetic evidence indicates that it groups with Chlorophonia.
+Its natural habitats are subtropical or tropical moist montane forest and heavily degraded former forest.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Elegant_euphonia
+
 ## Media
 ### Photographs
 No photographs available.

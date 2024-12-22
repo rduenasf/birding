@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The austral negrito or Patagonian negrito (Lessonia rufa) is a species of bird in the family Tyrannidae. It breeds in Argentina and Chile, migrating north as far as Bolivia, southern Brazil, Paraguay and Uruguay. It is a vagrant to the Falkland Islands and the South Georgia and the South Sandwich Islands territory. It has also been seen in the South Shetland Islands. Its natural habitats are freshwater lakes and saline marshes. It is primarily insectivorous but can eat algae. It hunts in grassland environments with short grass. It perches and moves throughout foliage such as shrubs in order to find prey.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Austral_negrito
+
 ## Media
 ### Photographs
 No photographs available.

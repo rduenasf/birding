@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The black-footed albatross (Phoebastria nigripes) is a large seabird of the albatross family Diomedeidae from the North Pacific. All but 2.5% of the population is found among the Northwestern Hawaiian Islands. It is one of three species of albatross that range in the northern hemisphere, nesting on isolated tropical islands. Unlike many albatrosses, it is dark plumaged.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Black-footed_albatross
+
 ## Media
 ### Photographs
 No photographs available.

@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Description
+The broad-tailed hummingbird (Selasphorus platycercus) is a medium-sized hummingbird species found in highland regions from western United States and Western Canada to Mexico and Guatemala.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Broad-tailed_hummingbird
+
 ## Media
 ### Photographs
 No photographs available.
