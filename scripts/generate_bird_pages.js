@@ -12,50 +12,45 @@ function generateSlug(str) {
     .replace(/\:/g, " -");
 }
 
-// Read the JSON file
-const ebirdData = JSON.parse(fs.readFileSync("ebirdData.json", "utf8"));
-
-// Ensure the output directory exists
-const outputDir = path.join(__dirname, "../docs/birds");
-if (!fs.existsSync(outputDir)) {
-  fs.mkdirSync(outputDir, { recursive: true });
+function readEbirdData(filePath) {
+  return JSON.parse(fs.readFileSync(filePath, "utf8"));
 }
 
-// Generate markdown files for each bird
+function ensureDirectoryExists(dirPath) {
+  if (!fs.existsSync(dirPath)) {
+    fs.mkdirSync(dirPath, { recursive: true });
+  }
+}
 
-const species = Object.values(ebirdData)
-  .filter(({ category }) => category === "species")
-  .sort((a, b) => a.primaryComName.localeCompare(b.primaryComName));
+function getSpeciesData(ebirdData) {
+  return Object.values(ebirdData)
+    .filter(({ category }) => category === "species")
+    .sort((a, b) => a.primaryComName.localeCompare(b.primaryComName));
+}
 
-species.forEach((bird, index) => {
-  const { primaryComName, sciName, order, family, speciesGroup, speciesCode } =
-    bird;
-
-  const photos = bird.observations
-    .flatMap((obs) => obs.mlCatalogNumbers)
-    .filter((obj) => obj !== undefined && obj.format === "Photo");
-
-  const photoEmbeds = photos
+function generatePhotoEmbeds(photos) {
+  return photos
     .sort((a, b) => b.averageCommunityRating - a.averageCommunityRating)
     .map(
       ({ MlCatalogNumber }) =>
         `<iframe src="https://macaulaylibrary.org/asset/${MlCatalogNumber}/embed" width="550" height="510" frameborder="0" allowfullscreen></iframe>`
     )
     .join("\n");
+}
 
-  const audios = bird.observations
-    .sort((a, b) => b.averageCommunityRating - a.averageCommunityRating)
-    .flatMap((obs) => obs.mlCatalogNumbers)
-    .filter((obj) => obj !== undefined && obj.format === "Audio");
-
-  const audioEmbeds = audios
+function generateAudioEmbeds(audios) {
+  return audios
     .map(
       ({ MlCatalogNumber }) =>
         `<iframe src="https://macaulaylibrary.org/asset/${MlCatalogNumber}/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>`
     )
     .join("\n");
+}
 
-  const markdownContent = `---
+function generateMarkdownContent(bird, index, photoEmbeds, audioEmbeds) {
+  const { primaryComName, sciName, order, family, speciesGroup, speciesCode } =
+    bird;
+  return `---
 title: "${primaryComName}"
 scientific_name: "${sciName}"
 order: "${order}"
@@ -63,15 +58,15 @@ family: "${family}"
 species_group: "${speciesGroup}"
 species_code: "${speciesCode}"
 sidebar_position: ${index + 1}
-sidebar_class_name: "${photos.length > 0 ? "has-photo" : ""} ${
-    audios.length > 0 ? "has-audio" : ""
+sidebar_class_name: "${photoEmbeds.length > 0 ? "has-photo" : ""} ${
+    audioEmbeds.length > 0 ? "has-audio" : ""
   }"
 tags: 
   ${order ? "- " + order : ""}
   ${family ? "- " + family : ""}
   ${speciesGroup ? "- " + speciesGroup.replace(":", " -") : ""}
-  - ${photos.length > 0 ? "Has Photo" : "Needs Photo"}
-  - ${audios.length > 0 ? "Has Audio" : "Needs Audio"}
+  - ${photoEmbeds.length > 0 ? "Has Photo" : "Needs Photo"}
+  - ${audioEmbeds.length > 0 ? "Has Audio" : "Needs Audio"}
 ---
 
 # ${primaryComName} (${sciName})
@@ -84,9 +79,9 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=${speciesCode}) | [Map](/map?species_code=${speciesCode})
 
-**Photo**: ${photos.length > 0 ? "Yes" : "No"} 
+**Photo**: ${photoEmbeds.length > 0 ? "Yes" : "No"} 
 
-**Audio**: ${audios.length > 0 ? "Yes" : "No"}
+**Audio**: ${audioEmbeds.length > 0 ? "Yes" : "No"}
 
 ## Media
 ### Photographs
@@ -106,18 +101,43 @@ ${audioEmbeds.length > 0 ? audioEmbeds : "No audio recordings available."}
 * [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=${speciesCode}&sort=rating_rank_desc)
 * [Birds of the World](https://birdsoftheworld.org/bow/species/${speciesCode})
 `;
+}
 
-  const filePath = path.join(
-    outputDir,
-    `${speciesCode.toLowerCase().replace(/ /g, "-")}.md`
-  );
-  fs.writeFileSync(filePath, markdownContent, "utf8");
-});
+function writeMarkdownFile(filePath, content) {
+  fs.writeFileSync(filePath, content, "utf8");
+}
 
-console.log("Markdown files generated successfully.");
+function generateBirdPages(ebirdData, outputDir) {
+  const species = getSpeciesData(ebirdData);
+  species.forEach((bird, index) => {
+    const photos = bird.observations
+      .flatMap((obs) => obs.mlCatalogNumbers)
+      .filter((obj) => obj !== undefined && obj.format === "Photo");
 
-// Generate an index file with a list of all birds
-const indexContent = `---
+    const audios = bird.observations
+      .sort((a, b) => b.averageCommunityRating - a.averageCommunityRating)
+      .flatMap((obs) => obs.mlCatalogNumbers)
+      .filter((obj) => obj !== undefined && obj.format === "Audio");
+
+    const photoEmbeds = generatePhotoEmbeds(photos);
+    const audioEmbeds = generateAudioEmbeds(audios);
+    const markdownContent = generateMarkdownContent(
+      bird,
+      index,
+      photoEmbeds,
+      audioEmbeds
+    );
+
+    const filePath = path.join(
+      outputDir,
+      `${bird.speciesCode.toLowerCase().replace(/ /g, "-")}.md`
+    );
+    writeMarkdownFile(filePath, markdownContent);
+  });
+}
+
+function generateIndexFile(species, outputDir) {
+  const indexContent = `---
 id: Birds
 slug: /
 ---
@@ -145,7 +165,17 @@ slug: /
     .join("\n")}
 `;
 
-const indexPath = path.join(outputDir, "index.md");
-fs.writeFileSync(indexPath, indexContent, "utf8");
+  const indexPath = path.join(outputDir, "index.md");
+  writeMarkdownFile(indexPath, indexContent);
+}
 
-console.log("Index file generated successfully.");
+function main() {
+  const ebirdData = readEbirdData("ebirdData.json");
+  const outputDir = path.join(__dirname, "../docs/birds");
+  ensureDirectoryExists(outputDir);
+  generateBirdPages(ebirdData, outputDir);
+  generateIndexFile(getSpeciesData(ebirdData), outputDir);
+  console.log("Markdown files and index generated successfully.");
+}
+
+main();
