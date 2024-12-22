@@ -53,6 +53,14 @@ const resetHighlight = (e, data) => {
   layer.setStyle(style(layer.feature, data));
 };
 
+const getQueryParam = (param) => {
+  if (typeof window !== "undefined") {
+    const urlParams = new URLSearchParams(window.location.search);
+    return urlParams.get(param);
+  }
+  return null;
+};
+
 const onEachFeature = (feature, layer, data) => {
   if (feature.properties && feature.properties.NAME) {
     const countryName = feature.properties.NAME;
@@ -62,7 +70,11 @@ const onEachFeature = (feature, layer, data) => {
       mouseover: highlightFeature,
       mouseout: (e) => resetHighlight(e, data),
       click: function () {
-        console.log(feature.properties);
+        const speciesCode = getQueryParam("species_code");
+        const url = speciesCode
+          ? `https://ebird.org/lifelist?r=${feature.properties.ISO_A2}&time=life&spp=${speciesCode}`
+          : `https://ebird.org/lifelist/${feature.properties.ISO_A2}?r=${feature.properties.ISO_A2}&time=life`;
+        window.open(url, "_blank");
       },
     });
   }
@@ -70,14 +82,6 @@ const onEachFeature = (feature, layer, data) => {
 
 const MapComponent = () => {
   const geojsonUrl = useBaseUrl("ne_50m_admin_0_map_units.geojson");
-
-  const getQueryParam = (param) => {
-    if (typeof window !== "undefined") {
-      const urlParams = new URLSearchParams(window.location.search);
-      return urlParams.get(param);
-    }
-    return null;
-  };
 
   useEffect(() => {
     const L = require("leaflet");
