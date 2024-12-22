@@ -4,14 +4,16 @@
  * work well for content-centric websites.
  */
 
- .has-audio .menu__link::after {
+.has-audio .menu__link::after {
   content: "🔊";
   margin-left: 5px;
 }
+
 .has-photo .menu__link::after {
   content: "📸";
   margin-left: 5px;
 }
+
 .has-photo.has-audio .menu__link::after {
   content: "🔊📸";
   margin-left: 5px;
