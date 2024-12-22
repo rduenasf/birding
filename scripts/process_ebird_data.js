@@ -31,7 +31,7 @@ const saveCache = () => {
   fs.writeFileSync(cacheFile, JSON.stringify(cache, null, 2), "utf-8");
 };
 
-async function fetchWikipedia(title) {
+async function fetchWikipediaInformation(title) {
   const fetch = (await import("node-fetch")).default; // Use dynamic import for node-fetch
   const url = `https://en.wikipedia.org/w/api.php?format=json&action=query&prop=extracts|pageimages|info&exintro=&explaintext=&piprop=original&inprop=url&titles=${encodeURIComponent(
     title
@@ -58,13 +58,19 @@ async function fetchMetadata({ sciName, primaryComName }) {
 
   console.info(`Cache missing ${sciName}, fetching data from Wikipedia`);
 
-  let metadata = await fetchWikipedia(sciName);
+  let metadata = await fetchWikipediaInformation(sciName);
 
   if (metadata === undefined) {
     console.warn(
-      `No Wikipedia page found for ${sciName}, fetchin ${primaryComName} instead`
+      `No Wikipedia page found for Scientific Name "${sciName}", fetching using primary common name "${primaryComName}" instead`
     );
-    metadata = await fetchWikipedia(primaryComName);
+    metadata = await fetchWikipediaInformation(primaryComName);
+    if (metadata === undefined) {
+      console.error(
+        `No Wikipedia page found for primary common name "${primaryComName}" either`
+      );
+      return;
+    }
     metadata.primaryComNameUsed = true;
   }
 
