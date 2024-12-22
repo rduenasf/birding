@@ -1,6 +1,6 @@
 {
-  "short_name": "Weather",
-  "name": "Weather: Do I need an umbrella?",
+  "short_name": "RD Birding",
+  "name": "RD Birding: Do I need a bird?",
   "icons": [
     {
       "src": "/img/docusaurus.png",
@@ -18,27 +18,11 @@
       "sizes": "512x512"
     }
   ],
-  "id": "/?source=pwa",
-  "start_url": "/?source=pwa",
+  "id": "/birding?source=pwa",
+  "start_url": "/birding?source=pwa",
   "background_color": "#3367D6",
   "display": "standalone",
-  "scope": "/",
+  "scope": "/birding/",
   "theme_color": "#3367D6",
-  "shortcuts": [
-    {
-      "name": "How's the weather today?",
-      "short_name": "Today",
-      "description": "View weather information for today",
-      "url": "/today?source=pwa",
-      "icons": [{ "src": "/images/today.png", "sizes": "192x192" }]
-    },
-    {
-      "name": "How's the weather tomorrow?",
-      "short_name": "Tomorrow",
-      "description": "View weather information for tomorrow",
-      "url": "/tomorrow?source=pwa",
-      "icons": [{ "src": "/images/tomorrow.png", "sizes": "192x192" }]
-    }
-  ],
   "description": "Weather forecast information"
 }
