@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
 ## Description
 The mountain caracara (Phalcoboenus megalopterus), (Spanish: corequenque) is a species of bird of prey in the family Falconidae. It is found in puna and páramo in the Andes, ranging from northern Ecuador, through Peru and Bolivia, to northern Argentina and Chile. It is generally uncommon to fairly common. It resembles the closely related Carunculated Caracara and White-throated Caracara, but unlike those species, its chest is uniform black. Juveniles are far less distinctive than the red-faced pied adults, being overall brown with dull pinkish-grey facial skin.[^1]
 

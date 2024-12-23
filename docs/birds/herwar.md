@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+
 ## Description
 The hermit warbler (Setophaga occidentalis) is a small perching bird. It is a species of New World warbler or wood-warbler. They are a migratory bird, the breeding range spanning the majority of the west coast of the United States. Their winter range includes parts of Mexico and Central America as well as parts of the southern California coast.[^1]
 

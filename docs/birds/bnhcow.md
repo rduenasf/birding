@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+* Ontario, Canada
+
 ## Description
 The brown-headed cowbird (Molothrus ater) is a small, obligate brood parasitic icterid native to temperate and subtropical North America. It is a permanent resident in the southern parts of its range; northern birds migrate to the southern United States and Mexico in winter, returning to their summer habitat around March or April.[^1]
 

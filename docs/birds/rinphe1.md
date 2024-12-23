@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The common pheasant (Phasianus colchicus), ring-necked pheasant, or blue-headed pheasant, a bird in the pheasant family (Phasianidae). The genus name comes from Latin phasianus, "pheasant". The species name colchicus is Latin for "of Colchis" (modern day Georgia), a country on the Black Sea where pheasants became known to Europeans. Although Phasianus was previously thought to be closely related to the genus Gallus, the genus of junglefowl and domesticated chickens, recent studies show that they are in different subfamilies, having diverged over 20 million years ago.
 It is native to Asia and parts of Europe like the northern foothills of the Caucasus and the Balkans. It has been widely introduced elsewhere as a game bird. In parts of its range, namely in places where none of its relatives occur such as in Europe, where it is naturalised, it is simply known as the "pheasant". Ring-necked pheasant is both the name used for the species as a whole in North America and also the collective name for a number of subspecies and their intergrades that have white neck rings.

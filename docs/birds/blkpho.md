@@ -29,6 +29,10 @@ tags:
 
 **Audio**: Yes
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The black phoebe (Sayornis nigricans) is a passerine bird in the tyrant-flycatcher family. It breeds from southwest Oregon and California south through Central and South America. It occurs year-round throughout most of its range and migrates less than the other birds in its genus, though its northern populations are partially migratory. Six subspecies are commonly recognized, although two are occasionally combined as a separate species, the white-winged phoebe.
 The black phoebe has predominantly black plumage, with a white belly and undertail coverts. The sexes are identical in color, and juveniles have brown feather tips and brown wing-bars. Its song is a repeated tee-hee, tee ho. It lives in a variety of habitats but is always near water. It is mainly insectivorous and waits on a perch before sallying out and catching its prey in the air. It makes an open cup nest which is placed under a cliff or a bridge and cemented in its place with mud.[^1]

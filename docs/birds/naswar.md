@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The Nashville warbler (Leiothlypis ruficapilla) is a small songbird in the New World warbler family, found in North and Central America. It breeds in parts of the northern and western United States and southern Canada, and migrates to winter in southern California and Texas, Mexico, and the north of Central America. It has a gray head and a green back, and its underparts are yellow and white.[^1]
 

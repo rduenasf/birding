@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+* Florida, United States
+
 ## Description
 The Eurasian collared dove (Streptopelia decaocto), often simply just collared dove, is a dove species native to Europe, Asia, and northern Africa. It has also been introduced to Japan, North and Central America, and the islands in the Caribbean.[^1]
 

@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
 ## Description
 The dusky-tailed canastero (Pseudasthenes humicola) is a species of bird in the Furnariinae subfamily of the ovenbird family Furnariidae. It is endemic to Chile.[^1]
 

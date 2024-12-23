@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* Florida, United States
+* Ontario, Canada
+
 ## Description
 The northern cardinal (Cardinalis cardinalis), known colloquially as the common cardinal, red cardinal, or just cardinal, is a bird in the genus Cardinalis. It can be found in southeastern Canada, through the eastern United States from Maine to Minnesota to Texas, New Mexico, southern Arizona, southern California and south through Mexico, Belize, and Guatemala. It is also an introduced species in a few locations such as Bermuda and all major islands of Hawaii since its introduction in 1929. Its habitat includes woodlands, gardens, shrublands, and wetlands. It is the state bird of Illinois, Indiana, Kentucky, North Carolina, Ohio, Virginia, and West Virginia.
 The northern cardinal is a mid-sized perching songbird with a body length of 21–23 cm (8.3–9.1 in) and a crest on the top of the head. The species expresses sexual dimorphism: Females are a reddish olive color, and have a gray mask around the beak, while males are a vibrant red color, and have a black mask on the face, as well as a larger crest. Juvenile cardinals do not have the distinctive red-orange beak seen in adult birds until they are almost fully mature. On hatching, their beaks are grayish-black and they do not become the trademark orange-red color until they acquire their final adult plumage in the fall. 

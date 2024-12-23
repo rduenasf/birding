@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Florida, United States
+* Ontario, Canada
+
 ## Description
 The common grackle (Quiscalus quiscula) is a species of large icterid bird found in large numbers through much of North America. First described in 1758 by Carl Linnaeus, the common grackle has three subspecies. Adult common grackles have a long and dark bill, pale yellow eyes, and a long tail. Adults often have an iridescent appearance on their head, especially males. Common grackles can be found widely across North America east of the Rocky Mountains.[^1]
 

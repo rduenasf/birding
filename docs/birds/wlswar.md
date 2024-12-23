@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* California, United States
+* Ciudad de México, Mexico
+
 ## Description
 Wilson's warbler (Cardellina pusilla) is a small New World warbler. It is greenish above and yellow below, with rounded wings and a long, slim tail. The male has a black crown patch; depending on the subspecies, that mark is reduced or absent in the female. It breeds across Canada and south through the western United States, and winters from Mexico south through much of Central America. It is a very rare vagrant to western Europe.[^1]
 

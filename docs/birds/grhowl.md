@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+* Ciudad de México, Mexico
+
 ## Description
 The great horned owl (Bubo virginianus), also known as the tiger owl (originally derived from early naturalists' description as the "winged tiger" or "tiger of the air") or the hoot owl, is a large owl native to the Americas. It is an extremely adaptable bird with a vast range and is the most widely distributed true owl in the Americas. Its primary diet is rabbits and hares, rats and mice, and voles, although it freely hunts any animal it can overtake, including rodents and other small mammals, larger mid-sized mammals, birds, reptiles, amphibians, and invertebrates. 
 In ornithological study, the great horned owl is often compared to the Eurasian eagle-owl (Bubo bubo), a closely related species, which occupies the same ecological niche in Eurasia despite its notably larger size. The great horned owl is also compared to the red-tailed hawk (Buteo jamaicensis), with which it often shares similar habitat, prey, and nesting habits by day; thus the red-tailed hawk is something of a diurnal ecological equivalent. The great horned owl is one of the earliest nesting birds in North America, often laying eggs weeks or even months before other raptorial birds.[^1]

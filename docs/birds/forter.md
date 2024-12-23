@@ -29,6 +29,11 @@ tags:
 
 **Audio**: Yes
 
+## Places Seen
+
+* California, United States
+* Ciudad de México, Mexico
+
 ## Description
 Forster's tern (Sterna forsteri) is a tern in the family Laridae. The genus name Sterna is derived from Old English "stearn", "tern", and forsteri commemorates the naturalist Johann Reinhold Forster.
 It breeds inland in North America in the northern United States and southern Canada, and migrates south to winter in the southern United States, Mexico, the Caribbean, and northern Central America. It is also a rare but annual vagrant in western Europe, and has wintered in Ireland and Great Britain on a number of occasions.

@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* California, United States
+
 ## Description
 Vaux's swift (Chaetura vauxi) is a small swift native to North America, Central America, and northern South America. It was named for the American scientist William Sansom Vaux.[^1]
 

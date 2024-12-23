@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* Morelos, Mexico
+
 ## Description
 The ladder-backed woodpecker (Dryobates scalaris) is a North American woodpecker.[^1]
 

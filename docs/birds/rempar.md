@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The red-masked parakeet (Psittacara erythrogenys) is a medium-sized parrot from Ecuador and Peru. It is popular as a pet and are better known in aviculture as the cherry-headed conure or the red-headed conure. They are also considered the best talkers of all the conures.[^1]
 

@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Morelos, Mexico
+
 ## Description
 The golden-cheeked woodpecker (Melanerpes chrysogenys) is a species of bird in subfamily Picinae of the woodpecker family Picidae. It is endemic to Mexico.[^1]
 

@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+* Ciudad de México, Mexico
+* Morelos, Mexico
+
 ## Description
 The warbling vireo (Vireo gilvus) is a small North American songbird.
 Its breeding habitat is open deciduous and mixed woods from Alaska to Mexico. It often nests in widely spaced trees, often cottonwood or aspen, along streams or rivers. It migrates to Mexico and Central America.

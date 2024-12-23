@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* California, United States
+
 ## Description
 Townsend's warbler (Setophaga townsendi) is a small songbird of the New World warbler family.[^1]
 

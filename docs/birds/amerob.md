@@ -29,6 +29,13 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* California, United States
+* Ciudad de México, Mexico
+* Ontario, Canada
+
 ## Description
 The American robin (Turdus migratorius) is a migratory bird of the true thrush genus and Turdidae, the wider thrush family. It is named after the European robin because of its reddish-orange breast, though the two species are not closely related, with the European robin belonging to the Old World flycatcher family. The American robin is widely distributed throughout North America, wintering from southern Canada to central Mexico and along the Pacific coast.
 According to the Partners in Flight database (2019), the American robin is the most abundant landbird in North America (with 370 million individuals), ahead of red-winged blackbirds, introduced European starlings, mourning doves and house finches. It has seven subspecies.

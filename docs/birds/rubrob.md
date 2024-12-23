@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Ciudad de México, Mexico
+* Morelos, Mexico
+
 ## Description
 The rufous-backed robin (Turdus rufopalliatus) is a songbird of the thrush family. It is endemic to the Pacific slope of Mexico. It is also known as the rufous-backed thrush.[^1]
 

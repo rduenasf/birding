@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The northern rough-winged swallow (Stelgidopteryx serripennis) is a small, migratory swallow. It is very similar to the southern rough-winged swallow, Stelgidopteryx ruficollis.[^1]
 

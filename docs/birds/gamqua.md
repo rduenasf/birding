@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+
 ## Description
 Gambel's quail (Callipepla gambelii) is a small ground-dwelling bird in the New World quail family. It inhabits the desert regions of Arizona, California, Colorado, New Mexico, Nevada, Utah, Texas, and Sonora; also New Mexico-border Chihuahua and the Colorado River region of Baja California. Gambel's quail is named in honor of William Gambel, a 19th-century naturalist and explorer of the Southwestern United States.
 The species is not as widely introduced as the related California quail. It was, however, released on San Clemente Island in 1912 by Charles T. Howland et al., where it is currently still established.[^1]

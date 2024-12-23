@@ -29,6 +29,10 @@ tags:
 
 **Audio**: Yes
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The white-tailed kite (Elanus leucurus) is a small raptor found in western North America and parts of South America. It replaces the related Old World black-winged kite in its native range.[^1]
 

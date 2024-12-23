@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
 ## Description
 The white-crested elaenia (Elaenia albiceps) is a species of bird in subfamily Elaeniinae of family Tyrannidae, the tyrant flycatchers. It is found in Bolivia, Chile, Colombia, Ecuador, and Peru.[^1]
 

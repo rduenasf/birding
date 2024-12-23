@@ -29,6 +29,10 @@ tags:
 
 **Audio**: Yes
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The oak titmouse (Baeolophus inornatus) is a passerine bird in the tit family Paridae. The American Ornithologists' Union split the plain titmouse into the oak titmouse and the juniper titmouse in 1996, due to distinct differences in song, preferred habitat, and genetic makeup.
 The oak titmouse is a small, brown-tinged gray bird with small tuft or crest. The face is plain, and the undersides are a lighter gray. Sexes are similar, as there is very little to no sexual dimorphism.

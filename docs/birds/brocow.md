@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* Ciudad de México, Mexico
+
 ## Description
 The bronzed cowbird (Molothrus aeneus), once known as the red-eyed cowbird, is a small icterid.
 They breed from the U.S. states of California, Arizona, New Mexico, Texas, and Louisiana south through Central America to Panama. They tend to be found in farmland, brush, and feedlots. Outside the breeding season, they are found in very open habitats, and roost in thick woods. These birds forage in open areas, often near cattle in pastures. Their diet mostly consists of seeds and insects, along with snails during breeding season for a calcium source.

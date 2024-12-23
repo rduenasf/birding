@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+
 ## Description
 The red-faced warbler (Cardellina rubrifrons) is a species of New World warbler.
 Mature red-faced warblers are small birds, 14 cm (5+1⁄2 in) long. They are light gray on top with a white rump and a white underside. The face, neck, and upper breast are all bright red, while the crown and sides of the head are black. The spot on the back of the head where the black crown and gray back meet is sometimes speckled gray, or sometimes plain white. They have a quirky habit of flicking their tail sideways while feeding.

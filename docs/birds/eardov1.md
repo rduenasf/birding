@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Libertador General Bernardo O'Higgins, Chile
+* Región Metropolitana de Santiago, Chile
+* Valparaíso, Chile
+
 ## Description
 The eared dove (Zenaida auriculata) is a New World dove. It is a resident breeder throughout South America from Colombia to southern Argentina and Chile, and on the offshore islands from the Grenadines southwards. It may be a relatively recent colonist of Tobago and Trinidad. It appears to be partially migratory, its movements driven by food supplies.
 It is a close relative of the North American mourning dove. With that species, the Socorro dove, and possibly the Galápagos dove, it forms a superspecies. The latter two are insular offshoots, the Socorro birds from ancestral mourning doves, and the Galápagos ones from more ancient stock.[^1]

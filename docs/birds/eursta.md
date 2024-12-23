@@ -29,6 +29,12 @@ tags:
 
 **Audio**: Yes
 
+## Places Seen
+
+* Arizona, United States
+* California, United States
+* Ontario, Canada
+
 ## Description
 The common starling (Sturnus vulgaris), also known as the European starling in North America and simply as the starling in Great Britain and Ireland, is a medium-sized passerine bird in the starling family, Sturnidae. It is about 20 cm (8 in) long and has glossy black plumage with a metallic sheen, which is speckled with white at some times of the year. The legs are pink and the bill is black in winter and yellow in summer; young birds have browner plumage than the adults. It is a noisy bird, especially in communal roosts and other gregarious situations, with an unmusical but varied song. Its gift for mimicry has been noted in literature including the Mabinogion and the works of Pliny the Elder and William Shakespeare.
 The common starling has about 12 subspecies breeding in open habitats across its native range in temperate Europe and across the Palearctic to western Mongolia, and it has been introduced as an invasive species to Australia, New Zealand, Canada, the United States, Mexico, Argentina, South Africa and Fiji. This bird is resident in western and southern Europe and southwestern Asia, while northeastern populations migrate south and west in the winter within the breeding range and also further south to Iberia and North Africa. The common starling builds an untidy nest in a natural or artificial cavity in which four or five glossy, pale blue eggs are laid. These take two weeks to hatch and the young remain in the nest for another three weeks. There are normally one or two breeding attempts each year. This species is omnivorous, taking a wide range of invertebrates, as well as seeds and fruit. It is hunted by various mammals and birds of prey, and is host to a range of external and internal parasites.

@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+* Ontario, Canada
+
 ## Description
 The tree swallow (Tachycineta bicolor) is a migratory bird of the family Hirundinidae. Found in the Americas, the tree swallow was first described in 1807 by French ornithologist Louis Vieillot as Hirundo bicolor. It has since been moved to its current genus, Tachycineta, within which its phylogenetic placement is debated. The tree swallow has glossy blue-green upperparts, with the exception of the blackish wings and tail, and white underparts. The bill is black, the eyes dark brown, and the legs and feet pale brown. The female is generally duller than the male, and the first-year female has mostly brown upperparts, with some blue feathers. Juveniles have brown upperparts, and gray-brown-washed breasts. The tree swallow breeds in the US and Canada. It winters along southern US coasts south, along the Gulf Coast, to Panama and the northwestern coast of South America, and in the West Indies.
 The tree swallow nests either in isolated pairs or loose groups, in both natural and artificial cavities. Breeding can start as soon as early May, although this date is occurring earlier because of climate change, and it can end as late as July. This bird is generally socially monogamous (although about 8% of males are polygynous), with high levels of extra-pair paternity. This can benefit the male, but since the female controls copulation, the lack of resolution on how this behavior benefits females makes the high level of extra-pair paternity puzzling. The female incubates the clutch of two to eight (but usually four to seven) pure white eggs for around 14 to 15 days. The chicks hatch slightly asynchronously, allowing the female to prioritize which chicks to feed in times of food shortage. They generally fledge about 18 to 22 days after hatching. The tree swallow is sometimes considered a model organism, due to the large amount of research done on it.

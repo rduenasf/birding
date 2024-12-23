@@ -29,6 +29,14 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+* Ciudad de México, Mexico
+* Florida, United States
+* Región Metropolitana de Santiago, Chile
+* Valparaíso, Chile
+
 ## Description
 The snowy egret (Egretta thula) is a small white heron. The genus name comes from Provençal French for the little egret, aigrette, which is a diminutive of aigron, 'heron'. The species name thula is the Araucano term for the black-necked swan, applied to this species in error by Chilean naturalist Juan Ignacio Molina in 1782.
 The snowy egret is the American counterpart to the very similar Old World little egret, which has become established in the Bahamas. At one time, the plumes of the snowy egret were in great demand as decorations for women's hats. They were hunted for these plumes and this reduced the population of the species to dangerously low levels. Now protected in the United States by law, under the Migratory Bird Treaty Act, this bird's population has rebounded.[^1]

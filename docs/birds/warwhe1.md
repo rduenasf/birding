@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Hawaii, United States
+
 ## Description
 The warbling white-eye (Zosterops japonicus) is a small passerine bird in the white-eye family. The specific epithet is occasionally written japonica, but this is incorrect due to the gender of the genus. Its native range includes much of East Asia, including the Russian Far East, Japan, Indonesia, Korea, and the Philippines. It has been intentionally introduced to other parts of the world as a pet and as pest control, with mixed results.  As one of the native species of the Japanese islands, it has been depicted in Japanese art on numerous occasions, and historically was kept as a cage bird.[^1]
 

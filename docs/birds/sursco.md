@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The surf scoter (Melanitta perspicillata) is a large sea duck native to North America. Adult males are almost entirely black with characteristic white patches on the forehead and the nape and adult females are slightly smaller and browner. Surf scoters breed in Northern Canada and Alaska and winter along the Pacific and Atlantic coasts of North America. Those diving ducks mainly feed on benthic invertebrates, mussels representing an important part of their diet.[^1]
 

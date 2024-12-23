@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 Clark's grebe (Aechmophorus clarkii) is a North American waterbird species in the grebe family. Until the 1980s, it was thought to be a pale morph of the western grebe, which it resembles in size, range, and behavior. Intermediates between the two species are known.
 This species nests on large inland lakes in western North America and migrates to the Pacific coast over the winter. It maintains local populations year-round in California, Nevada, and Arizona (the Lower Colorado River Valley), as well as in central Mexico. 

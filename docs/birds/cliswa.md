@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+* Ciudad de México, Mexico
+* Morelos, Mexico
+
 ## Description
 The cliff swallow or  American cliff swallow (Petrochelidon pyrrhonota) is a member of the passerine bird family Hirundinidae, the swallows and martins. The generic name Petrochelidon is derived from the Ancient Greek petros meaning "stone" and khelidon (χελιδών) "swallow", and the specific name pyrrhonota comes from purrhos meaning "flame-coloured" and -notos "-backed".
 Cliff swallows are extremely social songbirds that can be found in large nesting colonies reaching over 2,000 nests. They are frequently seen flying overhead in large flocks during migration, gracefully foraging over fields for flying insects or perching tightly together on a wire preening under the sun.

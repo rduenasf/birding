@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The common murre or common guillemot (Uria aalge) is a large auk. It has a circumpolar distribution, occurring in low-Arctic and boreal waters in the North Atlantic and North Pacific. It spends most of its time at sea, only coming to land to breed on rocky cliff shores or islands.
 Common murres are fast in direct flight but are not very agile. They are highly mobile underwater using their wings to 'fly' through the water column, where they typically dive to depths of 30–60 m (100–195 ft). Depths of up to 180 m (590 ft) have been recorded.

@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The black-necked grebe or eared grebe (Podiceps nigricollis) is a member of the grebe family of water birds. It was described in 1831 by Christian Ludwig Brehm. Its breeding plumage features distinctive ochre-coloured feathers which extend behind its eye and over its ear coverts. The rest of the upper parts, including the head, neck, and breast, are coloured black to blackish brown. The flanks are tawny rufous to maroon-chestnut, and the abdomen is white. In its non-breeding plumage, this bird has greyish-black upper parts, including the top of the head and a vertical stripe on the back of the neck. The flanks are also greyish-black. The rest of the body is a white or whitish colour. The juvenile has more brown in its darker areas. This species is present in parts of Africa, Eurasia, and the Americas.
 The black-necked grebe uses multiple foraging techniques. Insects, which make up the majority of this bird's diet, are caught either on the surface of the water or when they are in flight; this species occasionally practices foliage gleaning. This grebe dives to catch crustaceans, molluscs, tadpoles, and small frogs and fish. When moulting at saline lakes, this bird feeds mostly on brine shrimps. The black-necked grebe makes a floating cup nest on an open lake. The nest cup is covered with a disc. This nest is located both in colonies and by itself. During the breeding season, which varies depending on location, this species will lay one (sometimes two) clutch of three to four eggs. The number of eggs is sometimes larger due to conspecific brood parasitism. After a 21-day incubation period, the eggs hatch, and then the nest is deserted. After about 10 days, the parents split up the chicks between themselves. After this, the chicks become independent in about 10 days, and fledge in about three weeks.

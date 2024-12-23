@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+
 ## Description
 The plumbeous vireo (Vireo plumbeus) is a small North American songbird, ranging from far southeastern areas of Montana and western South Dakota south to the Pacific coast of Mexico, which also includes the extreme southern regions of Baja California Sur. Known for its migratory behaviour, moving to the southern part of its range in winter, and its habitat generally encompasses open pine forests.
 The plumbeous vireo is 4.75 inches (12 cm) in length, with a gray head, back, and flanks, and whitish underparts.  It has a solid white eye ring and white wing bars.

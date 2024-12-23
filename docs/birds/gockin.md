@@ -29,6 +29,13 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+* Ciudad de México, Mexico
+* Ontario, Canada
+* Washington, United States
+
 ## Description
 The golden-crowned kinglet (Regulus satrapa) is a very small songbird in the family Regulidae that lives throughout much of North America.[^1]
 

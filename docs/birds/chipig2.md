@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Valparaíso, Chile
+
 ## Description
 The Chilean pigeon (Patagioenas araucana) is a species of bird in the family Columbidae. It is found in Chile and Argentina.[^1]
 

@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* Ciudad de México, Mexico
+
 ## Description
 Cassin's kingbird (Tyrannus vociferans) is a large tyrant flycatcher native to western North America. The name of this bird commemorates the American ornithologist John Cassin.[^1]
 

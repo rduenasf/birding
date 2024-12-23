@@ -29,6 +29,14 @@ tags:
 
 **Audio**: Yes
 
+## Places Seen
+
+* Arizona, United States
+* California, United States
+* Ciudad de México, Mexico
+* Morelos, Mexico
+* Ontario, Canada
+
 ## Description
 The house finch (Haemorhous mexicanus) is a North American bird in the finch family. It is native to Mexico and southwestern United States, but has since been introduced to the eastern part of North America and Hawaii; it is now found year-round in all parts of the United States and most of Mexico, with some residing near the border of Canada. There are estimated to be 40 million house finches across North America, making it the second-most populous finch, just behind the American goldfinch. The house finch and the other two American rosefinches (Cassin's and purple finch) are placed in the genus Haemorhous.[^1]
 

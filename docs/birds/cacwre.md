@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+
 ## Description
 The cactus wren (Campylorhynchus brunneicapillus) is a species of wren that is endemic to the deserts of the southwestern United States and northern and central Mexico. It is the state bird of Arizona, and the largest wren in the United States. Its plumage is brown, with black and white spots as markings. It has a distinctive white eyebrow that sweeps to the nape of the neck. The chest is white, whereas the underparts are cinnamon-buff colored. Both sexes appear similar. The tail, as well as flight feathers, are barred in black and white. Their song is a loud raspy chirrup; akin in the description of some ornithologists to the sound of a car engine that will not start. It is well-adapted to its native desert environment, and the birds can meet their water needs from their diet which consists chiefly of insects, but also of some plant matter. The cactus wren is a poor flier and generally forages for food on the ground. Ornithologists generally recognize seven subspecies, with the exact taxonomy under dispute.
 Its common name derives from their frequenting desert cactus plants such as the saguaro and cholla, building nests, roosting, and seeking protection from predators among them. Its bulky and globular nests are constructed of plant material and lined with feathers. They do not migrate; instead, they establish and defend the territories around their nests where they live all year-round. It lives in pairs, or as family groups from late spring through winter. Pairing among cactus wrens is monogamous; in each breeding season, the males chiefly build nests, the females incubate eggs, and both parents feed the young.

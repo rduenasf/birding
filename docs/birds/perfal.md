@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+* Región Metropolitana de Santiago, Chile
+
 ## Description
 The peregrine falcon (Falco peregrinus), also known simply as the peregrine, is a cosmopolitan bird of prey (raptor) in the family Falconidae. A large, crow-sized falcon, it has a blue-grey back, barred white underparts, and a black head. The peregrine is renowned for its speed. It can reach over 320 km/h (200 mph) during its characteristic hunting stoop (high-speed dive), making it the fastest animal on the planet. According to a National Geographic TV program, the highest measured speed of a peregrine falcon is 389 km/h (242 mph). As is typical for bird-eating (avivore) raptors, peregrine falcons are sexually dimorphic, with females being considerably larger than males. Historically, it has also been known as "black-cheeked falcon" in Australia, and "duck hawk" in North America.
 The breeding range includes land regions from the Arctic tundra to the tropics. It can be found nearly everywhere on Earth, except extreme polar regions, very high mountains, and most tropical rainforests; the only major ice-free landmass from which it is entirely absent is New Zealand. This makes it the world's most widespread raptor and one of the most widely found wild bird species. In fact, the only land-based bird species found over a larger geographic area owes its success to human-led introduction; the domestic and feral pigeons are both domesticated forms of the rock dove, a major prey species for Eurasian Peregrine populations. Due to their abundance over most other bird species in cities, feral pigeons support many peregrine populations as a staple food source, especially in urban settings.

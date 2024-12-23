@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Morelos, Mexico
+
 ## Description
 The russet-crowned motmot (Momotus mexicanus) is a species of motmot native to north-western Mexico and central Guatemala.
 It is a year-round resident of the tropical and subtropical dry broadleaf forests and scrubland. The russet-crowned motmot is the most understudied species of motmot in the family Momotidae.

@@ -29,6 +29,11 @@ tags:
 
 **Audio**: Yes
 
+## Places Seen
+
+* Arizona, United States
+* California, United States
+
 ## Description
 The hermit thrush (Catharus guttatus) is a medium-sized North American thrush.[^1]
 

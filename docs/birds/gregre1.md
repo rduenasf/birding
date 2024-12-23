@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Maldonado, Uruguay
+* Región Metropolitana de Santiago, Chile
+
 ## Description
 The great grebe (Podiceps major) is the largest species of grebe in the world. A disjunct population exists in northwestern Peru, while the main distribution is from extreme southeastern Brazil to Patagonia and central Chile. The population from southern Chile is considered a separate subspecies, P. m. navasi.[^1]
 

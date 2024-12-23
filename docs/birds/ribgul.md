@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+* Ontario, Canada
+
 ## Description
 The ring-billed gull (Larus delawarensis) is a medium-sized gull. The genus name is from Latin Larus which appears to have referred to a gull or other large seabird. The specific delawarensis refers to the Delaware River.[^1]
 

@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Morelos, Mexico
+
 ## Description
 The golden-browed warbler (Basileuterus belli) is a species of bird in the family Parulidae, the New World warblers.
 It is found in El Salvador, Guatemala, Honduras, and Mexico.

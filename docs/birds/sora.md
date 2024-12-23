@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The sora, sora rail or Carolina crake (Porzana carolina) is a small waterbird of the rail family Rallidae, sometimes also referred to as the sora rail or sora crake, that occurs throughout much of North America. The genus name Porzana is derived from Venetian terms for small rails, and the specific carolina refers to the Carolina Colony. The common name "Sora" is probably taken from a Native American language.
 Adult soras are 19–30 cm (7.5–11.8 in) long, with dark-marked brown upperparts, a blue-grey face and underparts, and black and white barring on the flanks. They have a short thick yellow bill, with black markings on the face at the base of the bill and on the throat. Sexes are similar, but young soras lack the black facial markings and have a whitish face and buff breast. They weigh about 49–112 g (1.7–4.0 oz).

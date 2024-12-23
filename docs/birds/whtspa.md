@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* California, United States
+* Ontario, Canada
+
 ## Description
 The white-throated sparrow (Zonotrichia albicollis) is a passerine bird of the New World sparrow family Passerellidae. It breeds in northern North America and winters in the southern United States.[^1]
 

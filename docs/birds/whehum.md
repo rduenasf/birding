@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Ciudad de México, Mexico
+* Morelos, Mexico
+
 ## Description
 The white-eared hummingbird (Basilinna leucotis) is a species of hummingbird in the "emeralds", tribe Trochilini of subfamily Trochilinae. It is found from the southwestern U.S. to Nicaragua.[^1]
 

@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+
 ## Description
 Costa's hummingbird (Calypte costae) is a bird species in the hummingbird family Trochilidae. It breeds in the arid region of the southwest United States and northwest Mexico; it winters in western Mexico.[^1]
 

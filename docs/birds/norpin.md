@@ -29,6 +29,10 @@ tags:
 
 **Audio**: Yes
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The pintail or northern pintail (Anas acuta) is a duck species with wide geographic distribution that breeds in the northern areas of Europe and across the Palearctic and North America. It is migratory and winters south of its breeding range to the equator. Unusually for a bird with such a large range, it has no geographical subspecies if the possibly conspecific duck Eaton's pintail is considered to be a separate species.
 This is a large duck, and the male's long central tail feathers give rise to the species' English and scientific names. Both sexes have blue-grey bills and grey legs and feet. The drake is more striking, having a thin white stripe running from the back of its chocolate-coloured head down its neck to its mostly white undercarriage. The drake also has attractive grey, brown, and black patterning on its back and sides. The hen's plumage is more subtle and subdued, with drab brown feathers similar to those of other female dabbling ducks. Hens make a coarse quack and the drakes a flute-like whistle.

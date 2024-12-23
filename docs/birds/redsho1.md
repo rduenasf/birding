@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+* Valparaíso, Chile
+
 ## Description
 The red shoveler (Spatula platalea) is a species of dabbling duck native to southern South America.[^1]
 

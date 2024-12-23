@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Morelos, Mexico
+
 ## Description
 The rusty-crowned ground sparrow (Melozone kieneri) is a species of bird in the family Passerellidae that is endemic to western and southwestern Mexico. The species occurs both in the Sierra Madre Occidental range, and the Cordillera Neovolcanica mountain belt.
 The rusty-crowned ground sparrow's natural habitats are subtropical or tropical dry forest, subtropical or tropical high-altitude shrubland, and heavily degraded former forest.[^1]

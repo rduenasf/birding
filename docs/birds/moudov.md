@@ -29,6 +29,14 @@ tags:
 
 **Audio**: Yes
 
+## Places Seen
+
+* Arizona, United States
+* California, United States
+* Ciudad de México, Mexico
+* Florida, United States
+* Ontario, Canada
+
 ## Description
 The mourning dove (Zenaida macroura) is a member of the dove family, Columbidae. The bird is also known as the American mourning dove, the rain dove, the chueybird, colloquially as the turtle dove, and it was once known as the Carolina pigeon and Carolina turtledove. It is one of the most abundant and widespread North American birds and a popular gamebird, with more than 20 million birds (up to 70 million in some years) shot annually in the U.S., both for sport and meat. Its ability to sustain its population under such pressure is due to its prolific breeding; in warm areas, one pair may raise up to six broods of two young each in a single year. The wings make an unusual whistling sound upon take-off and landing, a form of sonation. The bird is a strong flier, capable of speeds up to 88 km/h (55 mph).
 Mourning doves are light gray and brown and generally muted in color. Males and females are similar in appearance. The species is generally monogamous, with two squabs (young) per brood. Both parents incubate and care for the young. Mourning doves eat almost exclusively seeds, but the young are fed crop milk by their parents.[^1]

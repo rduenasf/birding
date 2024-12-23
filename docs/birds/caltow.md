@@ -29,6 +29,10 @@ tags:
 
 **Audio**: Yes
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The California towhee (Melozone crissalis) is a bird of the family Passerellidae, native to the coastal regions of western Oregon and California in the United States and Baja California  and Baja California Sur in Mexico.
 The taxonomy of this species has been debated. At the higher level, some authors place the towhees in the family Fringillidae. Within the group, there has been debate about whether the distinction between this species and the similar canyon towhee (Melozone fuscus) should be at the specific or subspecific level. The two species used to be grouped together as the brown towhee, yet today they are identified separately, especially because of their differing feather coloration, and the canyon towhee's dark central breast spot. The two populations are quite isolated from each other, and molecular genetics seems to have settled the matter in favour of two distinct species for the present. On the other hand, there seems to be little distinction between the northern and Baja Californian populations within M. crissalis.  Nowadays, scientists consider the Abert's towhee as the California towhee's closest relative due to closely aligned DNA and patterns.[^1]

@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Ontario, Canada
+
 ## Description
 The American herring gull or Smithsonian gull (Larus smithsonianus or Larus argentatus smithsonianus) is a large gull that breeds in North America, where it is treated by the American Ornithological Society as a subspecies of herring gull (L. argentatus).
 Adults are white with gray back and wings, black wingtips with white spots, and pink legs. Immature birds are gray-brown and are darker and more uniform than European herring gulls, with a darker tail.  As is common with other gulls, they are colloquially referred to simply as seagulls.  

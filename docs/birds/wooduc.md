@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+* Ontario, Canada
+
 ## Description
 The wood duck or Carolina duck (Aix sponsa) is a partially migratory species of perching duck found in North America. The male is one of the most colorful North American waterfowls.[^1]
 

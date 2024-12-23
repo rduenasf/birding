@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+* Valparaíso, Chile
+
 ## Description
 The red-gartered coot (Fulica armillata) is a species of bird in subfamily Rallinae of family Rallidae, the rails, gallinules, and coots. It is found in Argentina, Brazil, Chile, Paraguay, and Uruguay.[^1]
 

@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The Cocos booby (Sula brewsteri), formerly known as Brewster's booby, is a species of booby in the family Sulidae. It was formerly considered a subspecies of Brown booby, but it was split by the American Ornithological Society in 2024 due to morphological and behavioural differences. It is native to the east and central Pacific Ocean.[^1]
 

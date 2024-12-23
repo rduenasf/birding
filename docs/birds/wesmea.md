@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The western meadowlark (Sturnella neglecta) is a medium-sized icterid bird, about 8.5 in (22 cm) in length. It nests on the ground in open grasslands across western and central North America. It feeds mostly on bugs, but will also feed on seeds and berries. The western meadowlark has distinctive calls described as watery or flute-like, which distinguish it from the closely related eastern meadowlark. The western meadowlark is the state bird of six states: Kansas, Montana, Nebraska, North Dakota, Oregon, and Wyoming.[^1]
 

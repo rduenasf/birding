@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Ciudad de México, Mexico
+* Morelos, Mexico
+
 ## Description
 The grey silky-flycatcher or grey silky flycatcher (Ptiliogonys cinereus), is a species of bird in the family Ptiliogonatidae. It is usually found only in Guatemala and Mexico, but vagrants have turned up in the southern United States. It is found in montane forest and adjacent scrub, both mesic and xeric.[^1]
 

@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+* Ontario, Canada
+
 ## Description
 The gadwall (Mareca strepera) is a common and widespread dabbling duck in the family Anatidae.[^1]
 

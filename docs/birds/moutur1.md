@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
 ## Description
 The moustached turca (Pteroptochos megapodius) is a passerine bird which is endemic to Chile and belongs to the tapaculo family Rhinocryptidae. Common names of this species include "Turco" or "Turca". It is a terrestrial bird that burrows its nest on steep hillsides and uses flight for short distances. It is not threatened, yet it is unfortunately an understudied species of bird.[^1]
 

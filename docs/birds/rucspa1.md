@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Libertador General Bernardo O'Higgins, Chile
+* Región Metropolitana de Santiago, Chile
+* Valparaíso, Chile
+
 ## Description
 The rufous-collared sparrow or Andean sparrow (Zonotrichia capensis) is an American sparrow found in a wide range of habitats, often near humans, from the extreme south-east of Mexico to Tierra del Fuego, and the island of Hispaniola (split between the Dominican Republic and Haiti) in the Caribbean. It has diverse vocalizations, which have been intensely studied since the 1970s, particularly by Paul Handford and Stephen C. Lougheed (UWO), Fernando Nottebohm (Rockefeller University) and Pablo Luis Tubaro (UBA). Local names for this bird include the Portuguese tico-tico, the Spanish copetón ("tufted") in Colombia, as well as chingolo and chincol, comemaíz "corn eater" in Costa Rica, and Cigua de Constanza in the Dominican Republic.[^1]
 

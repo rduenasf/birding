@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* California, United States
+* Washington, United States
+
 ## Description
 The great blue heron (Ardea herodias) is a large wading bird in the heron family Ardeidae, common near the shores of open water and in wetlands over most of North and Central America, as well as far northwestern South America, the Caribbean and the Galápagos Islands. It is occasionally found in the Azores and is a rare vagrant to Europe. An all-white population found in south Florida and the Florida Keys is known as the great white heron. Debate exists about whether these white birds are a color morph of the great blue heron, a subspecies of it, or an entirely separate species.[^1]
 

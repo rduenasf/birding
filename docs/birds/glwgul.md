@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Washington, United States
+
 ## Description
 The glaucous-winged gull (Larus glaucescens) is a large, white-headed gull. The genus name is from Latin Larus which appears to have referred to a gull or other large seabird. The specific glaucescens is Neo-Latin for "glaucous" from the Ancient Greek, glaukos, denoting the grey color of its wings.[^1]
 

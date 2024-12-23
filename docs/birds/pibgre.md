@@ -29,6 +29,11 @@ tags:
 
 **Audio**: Yes
 
+## Places Seen
+
+* California, United States
+* Ciudad de México, Mexico
+
 ## Description
 The pied-billed grebe (Podilymbus podiceps) is a species of the grebe family of water birds primarily found in ponds throughout the Americas.[^1]
 

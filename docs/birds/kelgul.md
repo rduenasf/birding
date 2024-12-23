@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+* Valparaíso, Chile
+
 ## Description
 The  kelp gull (Larus dominicanus), also known as the Dominican gull, is a gull that breeds on coasts and islands through much of the Southern Hemisphere. The nominate L. d. dominicanus is the subspecies found around South America, parts of Australia (where it overlaps with the Pacific gull), and New Zealand (where it is known as the black-backed gull, the southern black-backed gull, mollyhawk – particularly the juveniles, or by its Māori name karoro). L. d. vetula (known as the Cape gull) is a subspecies occurring around Southern Africa.
 The specific name comes from the Dominican Order of friars, who wear black and white habits.[^1]

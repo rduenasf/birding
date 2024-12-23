@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+
 ## Description
 Rivoli's hummingbird (Eugenes fulgens), also known as the magnificent hummingbird, is a species of hummingbird in the "mountain gems", tribe Lampornithini in subfamily Trochilinae. It is found in El Salvador, Guatemala, Honduras, Mexico, Nicaragua, and the United States.[^1]
 

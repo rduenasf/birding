@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The rufous hummingbird (Selasphorus rufus) is a small hummingbird, about 8 cm (3 in) long with a long, straight and slender bill. These birds are known for their extraordinary flight skills, flying 3,200 kilometres (2,000 miles) during their migratory transits. It is one of nine species in the genus Selasphorus.[^1]
 

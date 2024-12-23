@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+* Ontario, Canada
+
 ## Description
 The downy woodpecker (Dryobates pubescens) is a species of woodpecker, the smallest in North America. Length ranges from 14 to 18 cm (5.5 to 7.1 in). Downy woodpeckers primarily live in forested areas throughout the United States and Canada, with the exception of deserts in the southwest and the northern tundra. The bird nests in tree cavities and feeds primarily on insects, although it supplements its diet with seeds and berries. The downy woodpecker is very similar in appearance to the hairy woodpecker, although they are not closely related.[^1]
 

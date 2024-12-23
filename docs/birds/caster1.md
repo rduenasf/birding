@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+* Ontario, Canada
+* Washington, United States
+
 ## Description
 The Caspian tern (Hydroprogne caspia) is a species of tern, with a subcosmopolitan but scattered distribution. Despite its extensive range, it is monotypic of its genus, and has no accepted subspecies. The genus name is from Ancient Greek hudros, "water", and Latin progne, "swallow". The specific caspia is from Latin and, like the English name, refers to the Caspian Sea.[^1]
 

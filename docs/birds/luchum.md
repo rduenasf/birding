@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+
 ## Description
 The lucifer sheartail or lucifer hummingbird (Calothorax lucifer) is a medium-sized, 10 cm long, green hummingbird with a slightly curved bill and distinctive outward flare of its gorget feathers. Its habitat is in high-altitude areas of northern Mexico and southwestern United States. It winters in central Mexico.[^1]
 

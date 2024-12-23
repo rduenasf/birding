@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+* Valparaíso, Chile
+
 ## Description
 The West Peruvian dove or Pacific dove (Zenaida meloda) is a species of dove in the genus Zenaida.[^1]
 

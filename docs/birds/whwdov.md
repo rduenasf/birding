@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* Ciudad de México, Mexico
+
 ## Description
 The white-winged dove (Zenaida asiatica) is a dove whose native range extends from the Southwestern United States through Mexico, Central America, and the Caribbean. They are large for doves, and can be distinguished from similar doves by the distinctive white edge on their wings. They have a blue eyering, and red eyes. The plumage is brownish-gray to gray. Juveniles are duller in color, and have brown eyes. The call is likened to English phrase "who cooks for you". There are three subspecies. It was first described by George Edwards in 1743, and given its binomial name by Linnaeus in 1756. It was moved into the genus Zenaida in 1838.
 They inhabit a variety of environments, including desert, scrub, and urban. Their diet consists mostly of grains, but will also include pollen and nectar, especially from the saguaro cactus, which is a vital source of water.

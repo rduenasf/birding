@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
 ## Description
 The variable hawk (Geranoaetus polyosoma) is a polymorphic species of bird of prey in the family Accipitridae.
 It is widespread and often common in open habitats in western and southern South America, including the Falkland Islands. Its taxonomy is disputed, with some splitting it into the widespread red-backed hawk (G. polyosoma) and the Puna hawk or Gurney's hawk (G. poecilochrous) of the central and north Andean highlands, but the differences between the two are unclear. Most recent authorities have supported the lumping together of the two hawks although the issue still is controversial. On the contrary, the rare taxon from the Juan Fernández Islands is relatively distinctive, and possibly worthy of species recognition as the Juan Fernández hawk (B. exsul). In this article and most current accounts, the three races are regarded as subspecies.[^1]

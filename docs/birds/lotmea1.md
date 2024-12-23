@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Libertador General Bernardo O'Higgins, Chile
+* Región Metropolitana de Santiago, Chile
+* Valparaíso, Chile
+
 ## Description
 The long-tailed meadowlark (Leistes loyca) is a passerine bird of southern South America and the Falkland Islands, belonging to the meadowlark genus Leistes in the icterid family that looks very similar to the related endangered species, the Pampas meadowlark.
 

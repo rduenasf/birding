@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Ontario, Canada
+
 ## Description
 The sandhill crane (Antigone canadensis) is a species of large crane of North America and extreme northeastern Siberia. The common name of this bird refers to their habitat such as the Platte River, on the edge of Nebraska's Sandhills on the American Great Plains. Sandhill cranes are known to frequent the edges of bodies of water. The central Platte River valley in Nebraska is the most important stopover area for the nominotypical subspecies, the great sandhill crane (A. c. canadensis), with up to 450,000 of these birds migrating through annually.[^1]
 

@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The gray-crowned rosy finch or gray-crowned rosy-finch (Leucosticte tephrocotis) is a species of passerine bird in the family Fringillidae native to Alaska, western Canada, and the north-western United States.  Due to its remote and rocky alpine habitat it is rarely seen. There are currently six recognized subspecies. It is one of four species of rosy finches.[^1]
 

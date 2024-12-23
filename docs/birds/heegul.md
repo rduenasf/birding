@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 Heermann's gull (Larus heermanni) is a gull resident in the United States, Mexico and extreme southwestern British Columbia, nearly all nesting on Isla Rasa in the Gulf of California. They are usually found near shores or well out to sea, very rarely inland. The species is named after Adolphus Lewis Heermann, nineteenth-century explorer and naturalist.[^1]
 

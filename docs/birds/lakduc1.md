@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
 ## Description
 The lake duck (Oxyura vittata) is a small, South American stiff-tailed duck. It is also called the Argentine blue-bill, Argentine blue-billed duck, Argentine lake duck, or Argentine ruddy duck.[^1]
 

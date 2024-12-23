@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Ciudad de México, Mexico
+
 ## Description
 The Transvolcanic jay (Aphelocoma ultramarina) is a bird endemic to Mexico.[^1]
 

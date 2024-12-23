@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Washington, United States
+
 ## Description
 The parasitic jaeger (North America) or Arctic skua (Europe) (Stercorarius parasiticus), is a seabird in the skua family Stercorariidae. It is a migratory species that breeds in Northern Scandinavia, Scotland, Iceland, Greenland, Northern Canada, Alaska, and Siberia and winters across the southern hemisphere. Kleptoparasitism is a major source of food for this species during migration and winter, and is where the name is derived from.[^1]
 

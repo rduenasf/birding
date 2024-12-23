@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
 ## Description
 The black-faced ibis (Theristicus melanopis) is a species of bird in the family Threskiornithidae. It is found in grassland and fields in southern and western South America. It has been included as a subspecies of the similar buff-necked ibis, but today all major authorities accept the split. The black-faced ibis also includes the Andean ibis (T. branickii) as a subspecies.  Some taxonomic authorities (including the American Ornithological Society) still do so.[^1]
 

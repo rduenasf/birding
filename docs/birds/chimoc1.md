@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Libertador General Bernardo O'Higgins, Chile
+* Región Metropolitana de Santiago, Chile
+* Valparaíso, Chile
+
 ## Description
 The Chilean mockingbird (Mimus thenca), locally known as tenca, is a species of bird in the family Mimidae. It primarily inhabits Chile's northern half, though there are sightings in Argentina.[^1]
 

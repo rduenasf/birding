@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* Ciudad de México, Mexico
+* Morelos, Mexico
+
 ## Description
 The olive warbler (Peucedramus taeniatus) is a small passerine bird. It is the only member of the genus Peucedramus and the family Peucedramidae.
 This species breeds from southern Arizona and New Mexico, USA, south through Mexico to Nicaragua. It is the only bird family endemic to North America (including Central America). It was in the past classed with the Parulidae (New World warblers), but DNA studies suggest that it split early from the other related passerines, prior to the differentiation of the entire New World warbler/American sparrow/Icterid group. It is therefore now given a family of its own.

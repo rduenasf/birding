@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The mountain quail (Oreortyx pictus) is a small ground-dwelling bird in the New World quail family. This species is the only one in the genus Oreortyx, which is sometimes included in Callipepla. This is not appropriate, however, as the mountain quail's ancestors diverged from other New World quails earlier than the bobwhites, no later than 6 mya.[^1]
 

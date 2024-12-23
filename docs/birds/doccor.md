@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+* Florida, United States
+* Ontario, Canada
+
 ## Description
 The double-crested cormorant (Nannopterum auritum) is a member of the cormorant family of water birds. It is found near rivers and lakes and in coastal areas and is widely distributed across North America, from the Aleutian Islands in Alaska down to Florida and Mexico. Measuring 70–90 cm (28–35 in) in length, it is entirely black except for a bare patch of orange-yellow facial skin and some extra plumage that it exhibits in the breeding season when it grows a double crest in which black feathers are mingled with white. Five subspecies are recognized. It mainly eats fish and hunts by swimming and diving. Its feathers, like all cormorants, are not waterproof, and it must dry them out after spending time in the water. Once threatened by the use of DDT, the numbers of this bird have increased markedly in recent years.[^1]
 

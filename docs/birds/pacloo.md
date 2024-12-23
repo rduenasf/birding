@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The Pacific loon or Pacific diver (Gavia pacifica), is a medium-sized member of the loon, or diver, family.[^1]
 

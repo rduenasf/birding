@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Morelos, Mexico
+
 ## Description
 The sulphur-bellied flycatcher (Myiodynastes luteiventris) is a large tyrant flycatcher.  This bird breeds from southeasternmost Arizona of the United States (the Madrean sky islands region of Arizona, southwestern New Mexico, and northern Sonora, Mexico) to Costa Rica.  They are short distance migrants, spending winters in the eastern Andean foothills of Colombia, Ecuador, Peru, Bolivia, and Brazil, and are passage migrants over the southern portions of Central America.
 The most distinguishing characteristics of this flycatcher are the heavy streaking of its plumage, and its pale yellow belly. The bird also shows a rusty brown tail, and a black eyestripe. Its call sounds like noises made by squeaky toys.

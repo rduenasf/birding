@@ -29,6 +29,10 @@ tags:
 
 **Audio**: Yes
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The willet (Tringa semipalmata) is a large shorebird in the family Scolopacidae. It is a relatively large and robust sandpiper and is the largest of the species called "shanks" in the genus Tringa. Its closest relative is the lesser yellowlegs, a much smaller bird with a very different appearance apart from the fine, clear, and dense pattern of the neck, which both species show in breeding plumage. It breeds in North America and the West Indies and winters in southern North America, Central America, the West Indies and South America.[^1]
 

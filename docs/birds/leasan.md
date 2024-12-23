@@ -29,6 +29,10 @@ tags:
 
 **Audio**: Yes
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The least sandpiper (Calidris minutilla) is the smallest shorebird. The genus name is from Ancient Greek kalidris or skalidris, a term used by Aristotle for some grey-colored waterside birds. The specific minutilla is Medieval Latin for "very small".[^1]
 

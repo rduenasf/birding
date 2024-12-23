@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The canvasback (Aythya valisineria) is a species of diving duck, the largest found in North America.[^1]
 

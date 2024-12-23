@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+* Valparaíso, Chile
+
 ## Description
 The shiny cowbird (Molothrus bonariensis) is a passerine bird in the New World family Icteridae. It breeds in most of South America except for dense forests and areas of high altitude such as mountains. Since 1900 the shiny cowbird's range has shifted northward, and it was recorded in the Caribbean islands as well as the United States, where it is found breeding in southern Florida. It is a bird associated with open habitats, including disturbed land from agriculture and deforestation.
 Adults are sexually dimorphic. Males are all black with a purple-blue iridescence. The female is smaller, with dull brown plumage that is sometimes paler on the underparts. Females of the species can be distinguished from the female brown-headed cowbird by their longer, finer bills and flatter heads. The shiny cowbird's diet consists mainly of insects, other arthropods and seeds, and they have been recorded foraging for grains in cattle troughs.

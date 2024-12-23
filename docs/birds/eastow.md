@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Ontario, Canada
+
 ## Description
 The eastern towhee (Pipilo erythrophthalmus), also known as chewink, joree, or joree bird, is a large New World sparrow. The taxonomy of the towhees has been under debate in recent decades, and formerly this bird and the spotted towhee were considered a single species, the rufous-sided towhee.
 Their breeding habitat is brushy areas across eastern North America. They nest either low in bushes or on the ground under shrubs. Northern birds migrate to the southern United States. There has been one record of this species as a vagrant to western Europe: a single bird in Great Britain in 1966.

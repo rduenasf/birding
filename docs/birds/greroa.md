@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The greater roadrunner (Geococcyx californianus) is a long-legged bird in the cuckoo family, Cuculidae, from the Aridoamerica region in the Southwestern United States and Mexico. The scientific name means "Californian earth-cuckoo". Along with the lesser roadrunner, it is one of two species in the genus Geococcyx. This roadrunner is also known as the chaparral cock, ground cuckoo, and snake killer.[^1]
 

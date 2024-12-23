@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+
 ## Description
 Swainson's hawk (Buteo swainsoni) is a large bird species in the Accipitriformes order. This species was named after William Swainson, a British naturalist. It is colloquially known as the grasshopper hawk or locust hawk, as it is very fond of Acrididae (locusts and grasshoppers) and will voraciously eat these insects whenever they are available.
 Their breeding habitat is prairie and dry grasslands in western North America. They build a stick nest in a tree or shrub or on a cliff edge. This species is a long-distance migrant, wintering in Argentina; it has been recorded as a vagrant in neighboring Chile, in the island countries of the Dominican Republic, and Trinidad and Tobago, and in Norway.

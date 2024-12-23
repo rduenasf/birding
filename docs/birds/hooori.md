@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* California, United States
+
 ## Description
 The hooded oriole (Icterus cucullatus) is a medium-sized New World oriole. The male of this species ranges in color from a bright orange to a paler yellow, with a black back, face, tail and bib, with the wing containing two white bars. The female is more of an olive color with some yellow accents.[^1]
 

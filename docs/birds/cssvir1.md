@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Morelos, Mexico
+
 ## Description
 The chestnut-sided shrike-vireo (Vireolanius melitophrys), sometimes called the honey-browed shrike-vireo, is a species of bird in the family Vireonidae, and probably the largest member of the entire family. A widespread species of subtropical and tropical moist montane forests, this species is found from Jalisco and San Luis Potosí, Mexico in the north to southern Guatemala.[^1]
 

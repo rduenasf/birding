@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* Morelos, Mexico
+
 ## Description
 The dusky-capped flycatcher (Myiarchus tuberculifer) is a passerine bird in the tyrant flycatcher family. It breeds in forest and other woodland from southern Arizona, as well as the Chisos Mountains, Texas, south to northern Argentina and on Trinidad. It is resident in most of its range, but American breeders retreat to Mexico in winter.
 Adult dusky-capped flycatchers are 18 cm (7.1 in) long and weigh 19.4 g (0.68 oz). The upperparts are brown, with a blackish head and short crest. The breast is grey and the belly is bright yellow. The brown tail feathers and wings have paler outer webs. The sexes are similar, but young birds have rufous edgings to the wings and tail.

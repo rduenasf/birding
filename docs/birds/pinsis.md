@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* California, United States
+* Ontario, Canada
+
 ## Description
 The pine siskin (Spinus pinus) is a North American bird in the finch family. It is a migratory bird with an extremely sporadic winter range.[^1]
 

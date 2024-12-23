@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+
 ## Description
 The Scott's oriole (Icterus parisorum) is a medium-sized icterid (the same family as many blackbirds, meadowlarks, cowbirds, grackles, and others, including the New World orioles).
 It is primarily found in the Southwestern United States and south to Baja California Sur and central Mexico. It is very common in Sacramento and south in California. The bird is an infrequent wanderer to eastern North America, with records from NY, PA, VA, KY, TN, NC, SC, GA, and ONT. A bird in NYC's Union Square Park was seen by many in 2007.

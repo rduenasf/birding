@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The lesser scaup (Aythya affinis) is a small North American diving duck that migrates south as far as Central America in winter. It is colloquially known as the little bluebill or broadbill because of its distinctive blue bill. The origin of the name scaup may stem from the bird's preference for feeding on scalp—the Scottish word for clams, oysters, and mussels; however, some credit it to the female's discordant scaup call as the name's source. It is apparently a very close relative of the Holarctic greater scaup or "bluebill" (A. marila), with which it forms a superspecies. The scientific name is derived from Ancient Greek aithuia an unidentified seabird mentioned by authors including Hesychius and Aristotle, and Latin, affinis "related to", from its resemblance to the greater scaup.[^1]
 

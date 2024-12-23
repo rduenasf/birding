@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 Cassin's finch (Haemorhous cassinii) is a bird in the finch family, Fringillidae. This species and the other "American rosefinches" are placed in the genus Haemorhous.[^1]
 

@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
 ## Description
 The spot-billed ground tyrant (Muscisaxicola maculirostris) is a species of bird in the family Tyrannidae.
 It is found in Argentina, Bolivia, Chile, Colombia, Ecuador, and Peru. Its natural habitats are subtropical or tropical high-altitude shrubland and pastureland.[^1]

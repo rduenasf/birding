@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* California, United States
+* Ciudad de México, Mexico
+
 ## Description
 The pygmy nuthatch (Sitta pygmaea) is a tiny songbird, about 10 cm (4 in) long and about 10 grams in weight.[^1]
 

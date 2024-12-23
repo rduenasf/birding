@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The merlin (Falco columbarius) is a small species of falcon from the Northern Hemisphere, with numerous subspecies throughout North America and Eurasia. A bird of prey, the merlin breeds in the northern Holarctic; some migrate to subtropical and northern tropical regions in winter.  Males typically have wingspans of 53–58 centimetres (21–23 in), with females being slightly larger. They are swift fliers and skilled hunters which specialize in preying on small birds in the size range of sparrows to doves and medium-sized shorebirds. In recent decades merlin populations in North America have been significantly increasing, with some merlins becoming so well adapted to city life that they forgo migration; in Europe, populations increased up to about 2000 but have been steady subsequently. The merlin has for centuries been well regarded as a falconry bird.[^1]
 

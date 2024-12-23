@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Ciudad de México, Mexico
+* Morelos, Mexico
+
 ## Description
 The slate-throated whitestart or slate-throated redstart (Myioborus miniatus) is a species of bird in the family Parulidae native to Central and South America.[^1]
 

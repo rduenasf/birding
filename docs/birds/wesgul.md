@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The western gull (Larus occidentalis) is a large white-headed gull that lives on the west coast of North America and the Pacific Ocean. The western gull ranges from British Columbia, Canada, to Baja California, Mexico.
 It was previously considered conspecific with the yellow-footed gull (Larus livens) of the Gulf of California.[^1]

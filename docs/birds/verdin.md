@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+
 ## Description
 The verdin (Auriparus flaviceps) is a species of penduline tit. It is the only species in the genus Auriparus and the only representative of the old world family Remizidae to be found in North America.[^1]
 

@@ -29,6 +29,10 @@ tags:
 
 **Audio**: Yes
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The wrentit (Chamaea fasciata) is a small bird that lives in chaparral, oak woodlands, and bushland on the western coast of North America. It is the only species in the genus Chamaea.
 Its systematics have been the subject of much debate, the wrentit having been placed in many different families by different authors for as long as it has been known to science. Its common name reflects the uncertainty, and its external resemblance to both tits and wrens. It is not related to either, however. More recent and comprehensive phylogenetic studies support it belonging to the parrotbills.[^1]

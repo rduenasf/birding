@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The Virginia rail (Rallus limicola) is a small waterbird, of the family Rallidae.
 These birds remain fairly common despite continuing loss of habitat, but are secretive by nature and more often heard than seen. They are also considered a game species in some provinces and states, though rarely hunted. The Ecuadorian rail is often considered a subspecies, but some taxonomic authorities consider it distinct.[^1]

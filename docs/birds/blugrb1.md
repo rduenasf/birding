@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Morelos, Mexico
+* Yucatán, Mexico
+
 ## Description
 The blue grosbeak (Passerina caerulea), is a medium-sized North American passerine bird in the cardinal family Cardinalidae. It is mainly migratory, wintering in Central America and breeding in northern Mexico and the southern United States. The male is blue with two brown wing bars. The female is mainly brown with scattered blue feathers on the upperparts and two brown wing bars.[^1]
 

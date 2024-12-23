@@ -29,6 +29,12 @@ tags:
 
 **Audio**: Yes
 
+## Places Seen
+
+* California, United States
+* Ciudad de México, Mexico
+* Ontario, Canada
+
 ## Description
 The killdeer (Charadrius vociferus) is a large plover found in the Americas. It gets its name from its shrill, two-syllable call, which is often heard. It was described and given its current scientific name in 1758 by Carl Linnaeus in the 10th edition of his Systema Naturae. Three subspecies are described. Its upperparts are mostly brown with rufous fringes, the head has patches of white and black, and two black bands cross the breast. The belly and the rest of the breast are white. The nominate (or originally described) subspecies breeds from southeastern Alaska and southern Canada to Mexico. It is seen year-round in the southern half of its breeding range; the subspecies C. v. ternominatus is resident in the West Indies, and C. v. peruvianus inhabits Peru and surrounding South American countries throughout the year. North American breeders winter from their resident range south to Central America, the West Indies, and the northernmost portions of South America. Despite their name, they are not known for killing deer.
 The nonbreeding habitat of the killdeer includes coastal wetlands, beach habitats, and coastal fields. Its breeding grounds are generally open fields with short vegetation (but locations such as rooftops are sometimes used); although it is a shorebird, it does not necessarily nest close to water. The nest itself is a scrape lined with vegetation and white material, such as pebbles or seashell fragments. This bird lays a clutch of four to six buff to beige eggs with dark markings. The breeding season (starting with egg-laying) occurs from mid-March to August, with later timing of egg-laying in the northern portion of the range. Both parents incubate the eggs for 22 to 28 days typically. The young stay in the nest until the day after being hatched, when they are led by their parents to a feeding territory (generally with dense vegetation where hiding spots are abundant), where the chicks feed themselves. The young then fledge about 31 days after hatching, and breeding first occurs after one year of age.

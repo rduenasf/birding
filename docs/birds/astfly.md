@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* California, United States
+* Morelos, Mexico
+
 ## Description
 The ash-throated flycatcher (Myiarchus cinerascens) is a passerine bird in the tyrant flycatcher family.[^1]
 

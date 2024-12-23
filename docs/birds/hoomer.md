@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+* Ontario, Canada
+
 ## Description
 The hooded merganser (Lophodytes cucullatus) is a species of fish-eating duck in the subfamily Anatinae. It is the only extant species in the genus Lophodytes. The genus name derives from the Greek language: lophos meaning 'crest', and dutes meaning 'diver'. The bird is striking in appearance; both sexes have crests that they can raise or lower, and the breeding plumage of the male is handsomely patterned and coloured. The hooded merganser has a sawbill but is not classified as a typical merganser.
 Hooded mergansers are the second-smallest species of merganser, with only the smew of Europe and Asia being smaller, and it also is the only merganser whose native habitat is restricted to North America.

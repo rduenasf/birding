@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Morelos, Mexico
+
 ## Description
 The western kingbird (Tyrannus verticalis) is a large tyrant flycatcher found throughout western environments of North America, as far south as Mexico.[^1]
 

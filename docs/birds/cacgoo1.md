@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The cackling goose (Branta hutchinsii) is a species of goose found in North America and East Asia.[^1]
 

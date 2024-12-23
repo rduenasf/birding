@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Morelos, Mexico
+
 ## Description
 The blue mockingbird (Melanotis caerulescens) is a species of bird in the family Mimidae. It is endemic to Mexico, but has occurred as a vagrant in the southern United States. Its natural habitats are subtropical or tropical dry forests, subtropical or tropical moist montane forests, and heavily degraded former forest.
 The blue mockingbird is uniformly blue on its back, tail, wings, head and underbelly. This color is a result of feather structure rather than pigment, and therefore can look gray in the shade. It has a black "mask" surrounding its reddish-brown eyes. It has a rather long, slightly graduated tail, and dark blue streaks over its breast. Its bill is long, thin and slightly curved, and its legs and feet are black.[^1]

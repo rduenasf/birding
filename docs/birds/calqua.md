@@ -29,6 +29,12 @@ tags:
 
 **Audio**: Yes
 
+## Places Seen
+
+* California, United States
+* Región Metropolitana de Santiago, Chile
+* Valparaíso, Chile
+
 ## Description
 The California quail (Callipepla californica), also known as the California valley quail or Valley quail, is a small ground-dwelling bird in the New World quail family. These birds have a curving crest, plume or topknot   made of six feathers, that droops forward: black in males and brown in females; the flanks are brown with white streaks. Males have a dark brown cap and a black face with a brown back, a grey-blue chest and a light brown belly. Females and immature birds are mainly grey-brown with a light-colored belly.
 Their closest relative is Gambel's quail, which has a more southerly distribution and a longer crest at 2.5 in (6.4 cm), a brighter head and lacks the scaly appearance of the California quail. The two species separated about 1–2 million years ago, during the Late Pliocene or Early Pleistocene. It was selected as the state bird of California in 1931.[^1]

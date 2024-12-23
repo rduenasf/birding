@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The belted kingfisher (Megaceryle alcyon) is a large, conspicuous water kingfisher, native to North America. All kingfishers are placed in one family, Alcedinidae, and recent research suggests that this should be divided into three subfamilies.[^1]
 

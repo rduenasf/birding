@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Valparaíso, Chile
+
 ## Description
 The guanay cormorant or guanay shag (Leucocarbo bougainvilliorum) is a member of the cormorant family found on the Pacific coast of Peru and northern Chile.  (The Argentinian population on the Patagonian Atlantic coast appears to be extirpated.) After breeding it spreads south to southern parts of Chile and north to Ecuador, and has also been recorded as far north as Panama and Colombia – probably a result of mass dispersal due to food shortage in El Niño years. Its major habitats include shallow seawater and rocky shores.
 

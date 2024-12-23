@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+* Ontario, Canada
+* Washington, United States
+
 ## Description
 The brown creeper (Certhia americana), also known as the American treecreeper, is a small songbird, the only North American member of the treecreeper family Certhiidae.[^1]
 

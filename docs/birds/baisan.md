@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 Baird's sandpiper (Calidris bairdii) is a small shorebird. It is among those calidrids which were formerly included in the genus Erolia, which was subsumed into the genus Calidris in 1973. The genus name is from Ancient Greek kalidris or skalidris, a term used by Aristotle for some grey-coloured waterside birds. The English name and specific bairdii commemorate Spencer Fullerton Baird, 19th-century naturalist and assistant secretary of the Smithsonian Institution.[^1]
 

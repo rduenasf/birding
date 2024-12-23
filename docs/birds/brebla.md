@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 Brewer's blackbird (Euphagus cyanocephalus) is a medium-sized New World blackbird. It is named after the ornithologist Thomas Mayo Brewer.[^1]
 

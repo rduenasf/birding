@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+* Valparaíso, Chile
+
 ## Description
 The many-colored rush tyrant or many-coloured rush tyrant (Tachuris rubrigastra) is a small passerine bird of South America belonging to the tyrant flycatcher family, Tyrannidae. It is the only member of the genus Tachuris and is sometimes placed in a separate monotypic family. It inhabits marshland and reedbeds around lakes and rivers. It is particularly associated with stands of Scirpus. The nest is built among plant stems.[^1]
 

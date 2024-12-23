@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 Bullock's oriole (Icterus bullockii) is a small New World blackbird. At one time, this species and the Baltimore oriole were considered to be a single species, the northern oriole. This bird is named after William Bullock, an English amateur naturalist.[^1]
 

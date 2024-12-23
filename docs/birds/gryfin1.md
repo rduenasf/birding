@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
 ## Description
 The grassland yellow finch (Sicalis luteola) is a small passerine bird. Despite its name, it is not a  finch, but is a seedeater. These were formerly united with the buntings and American sparrows in the Emberizidae, but are now known to be tanagers.
 It is a resident in tropical South America, from Colombia south and east to the Guianas and central Ecuador, Peru and Brazil. Birds which breed further south in Argentina and Uruguay migrate to Bolivia and southern Brazil, (the cerrado etc.), in the austral winter. There are also isolated populations in Central America and Mexico. It was discovered on Trinidad in 2004, presumably having colonised from nearby Venezuela. Also known from Barbados, certainly since 1960 if not earlier.

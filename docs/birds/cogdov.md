@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Florida, United States
+
 ## Description
 The common ground dove (Columbina passerina) is a small bird that inhabits the southern United States, parts of Central America, the Caribbean and northern South America. It is considered to be the smallest dove that inhabits the United States. As its name suggests, the bird spends the majority of its time on the ground walking but still has the ability to fly.[^1]
 

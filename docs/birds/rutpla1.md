@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+* Valparaíso, Chile
+
 ## Description
 The rufous-tailed plantcutter (Phytotoma rara), sometimes called the Chilean plantcutter, is a passerine bird of southern South America, now placed in the cotinga family. It is a medium-sized bird about 19 centimetres (7.5 in) long with a long black tail with a red base. Males have greyish-brown upper parts, a chestnut crown and breast, and dark facial markings. Females are similar but lack the chestnut crown and have streaked, buff underparts. There is a wing bar which is white in the male and buff in the female. This is a fairly common species with a wide range, and the International Union for Conservation of Nature has rated its conservation status as being of "least concern".[^1]
 

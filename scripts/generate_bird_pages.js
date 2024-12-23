@@ -1,6 +1,8 @@
 const fs = require("fs");
 const path = require("path");
 
+const stateMap = require("./all-states.json");
+
 function generateSlug(str) {
   return str
     .toLowerCase()
@@ -47,6 +49,18 @@ function generateAudioEmbeds(audios) {
     .join("\n");
 }
 
+function generatePlacesSeen(observations) {
+  const places = new Set();
+  observations.forEach((obs) => {
+    places.add(
+      `* ${stateMap[obs["state/Province"]].name}, ${
+        stateMap[obs["state/Province"]].countryName
+      }`
+    );
+  });
+  return [...places].sort((a, b) => a.localeCompare(b)).join("\n");
+}
+
 function generateMarkdownContent(bird, index, photoEmbeds, audioEmbeds) {
   const {
     primaryComName,
@@ -89,6 +103,10 @@ tags:
 **Photo**: ${photoEmbeds.length > 0 ? "Yes" : "No"} 
 
 **Audio**: ${audioEmbeds.length > 0 ? "Yes" : "No"}
+
+## Places Seen
+
+${generatePlacesSeen(bird.observations)}
 
 ${
   description

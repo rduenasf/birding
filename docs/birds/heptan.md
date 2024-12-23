@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* Morelos, Mexico
+
 ## Description
 The red tanager (Piranga flava) is a medium-sized American songbird in the family Cardinalidae.[^1]
 

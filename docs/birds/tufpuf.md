@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The tufted puffin (Fratercula cirrhata), also known as crested puffin, is a relatively abundant medium-sized pelagic seabird in the auk family (Alcidae) found throughout the North Pacific Ocean.
 It is one of three species of puffin that make up the genus Fratercula and is easily recognizable by its thick red bill and yellow tufts.[^1]

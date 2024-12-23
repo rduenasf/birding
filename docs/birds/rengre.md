@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Ontario, Canada
+
 ## Description
 The red-necked grebe (Podiceps grisegena) is a migratory aquatic bird found in the temperate regions of the northern hemisphere. Its wintering habitat is largely restricted to calm waters just beyond the waves around ocean coasts, although some birds may winter on large lakes. Grebes prefer shallow bodies of fresh water such as lakes, marshes or fish-ponds as breeding sites.
 The red-necked grebe is a fairly drab dusky-grey bird in winter. During the breeding season, it acquires the distinctive red neck plumage, black cap and contrasting pale grey face from which its name was derived. It also has an elaborate courtship display and a variety of loud mating calls. Once paired, it builds a nest from water plants on top of floating vegetation in a shallow lake or bog.

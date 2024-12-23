@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+
 ## Description
 Grace's warbler (Setophaga graciae) is a small New World warbler that specializes in pine woods.[^1]
 

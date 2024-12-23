@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Libertador General Bernardo O'Higgins, Chile
+* Región Metropolitana de Santiago, Chile
+* Valparaíso, Chile
+
 ## Description
 The diuca finch (Diuca diuca) is a species of bird in the tanager family Thraupidae. It is the only member of the genus Diuca. It is found in Argentina, Bolivia, Brazil, Chile, and Uruguay. Its natural habitats are subtropical or tropical dry shrubland, subtropical or tropical high-altitude shrubland, and heavily degraded former forest.[^1]
 

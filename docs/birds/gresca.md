@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+* Ontario, Canada
+
 ## Description
 The greater scaup (Aythya marila), just scaup in Europe or, colloquially, "bluebill" in North America, is a mid-sized diving duck, larger than the closely related lesser scaup and tufted duck. It spends the summer months breeding in Iceland, east across Scandinavia, northern Russia and Siberia, Alaska, and northern Canada. During the winter, it migrates south to the coasts of Europe, eastern Asia, and North America.
 Drake greater scaup are larger and have more rounded heads than the females; they have a bright blue bill and yellow eyes. Their heads are dark, with a green to purple (depending on light angle) gloss; the breast is black, the belly white, the upperparts pale grey, and the wing shows a strong white stripe. The females are mostly brown, again with white on the wing. They have dull blue bills and a white patch on the face.

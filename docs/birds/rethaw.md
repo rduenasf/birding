@@ -29,6 +29,13 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* California, United States
+* Morelos, Mexico
+* Ontario, Canada
+
 ## Description
 The red-tailed hawk (Buteo jamaicensis) is a bird of prey that breeds throughout most of North America, from the interior of Alaska and northern Canada to as far south as Panama and the West Indies. It is one of the most common members within the genus of Buteo in North America or worldwide. The red-tailed hawk is one of three species colloquially known in the United States as the "chickenhawk", though it rarely preys on standard-sized chickens. The bird is sometimes also referred to as the red-tail for short, when the meaning is clear in context. 
 Red-tailed hawks can acclimate to all the biomes within their range, occurring on the edges of non-ideal habitats such as dense forests and sandy deserts. The red-tailed hawk occupies a wide range of habitats and altitudes, including deserts, grasslands (from small meadows to the treed fringes of more extensive prairies), coniferous and deciduous forests, agricultural fields, and urban areas. Its latitudinal limits fall around the tree line in the subarctic and it is absent from the high Arctic. Generally it favors varied habitats with open woodland, woodland edge and open terrain. It is legally protected in Canada, Mexico, and the United States by the Migratory Bird Treaty Act.

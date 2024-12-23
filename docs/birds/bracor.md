@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 Brandt's cormorant (Urile penicillatus) is a strictly marine bird of the cormorant family of seabirds that inhabits the Pacific coast of North America. It ranges, in the summer, from Alaska to the Gulf of California, but the population north of Vancouver Island migrates south during the winter. Its specific name, penicillatus is Latin for a painter's brush (pencil of hairs), in reference to white plumes on its neck and back during the early breeding season. The common name honors the German naturalist Johann Friedrich von Brandt of the Academy of Sciences at St. Petersburg, who described the species from specimens collected on expeditions to the Pacific during the early 19th century.[^1]
 

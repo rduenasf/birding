@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Ciudad de México, Mexico
+
 ## Description
 The buff-breasted flycatcher (Empidonax fulvifrons) is a small insectivorous bird. It is the smallest Empidonax flycatcher, typically ranging from 11.5 to 13 cm (4.5 to 5 in) in size.
 Adults have olive gray upper bodies, darker coloration on the wings and tail, conspicuous white eye rings, white wing bars, small bills, and short tails. The breast of this species is distinctive, washed with a strong orange-buff color.

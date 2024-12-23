@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The surfbird (Calidris virgata) is a small stocky wader in the family Scolopacidae. It was once considered to be allied to the turnstones, and placed in the monotypic genus Aphriza, but is now placed in the genus Calidris.
 This bird has a short dark bill, yellow legs and a black band at the end of the white rump. In breeding plumage, it has dark streaks on the brownish head and breast with dark spots on its white underparts; the upperparts are dark with rust colouring on the wings. Birds in winter plumage and immature birds are mainly grey on the upperparts and breast and white on the underparts with streaking.

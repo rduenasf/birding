@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+* Ontario, Canada
+
 ## Description
 The bufflehead (Bucephala albeola) is a small sea duck of the genus Bucephala, the goldeneyes. It breeds in Alaska and Canada and migrates in winter to southern North America. This species was first described by Carl Linnaeus in his landmark 1758 10th edition of Systema Naturae as Anas albeola.[^1]
 

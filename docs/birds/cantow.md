@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* Ciudad de México, Mexico
+
 ## Description
 The canyon towhee (Melozone fusca) is a bird of the family Passerellidae.  Until 1989, the canyon towhee and the California towhee were considered to be a single species which was called the brown towhee.[^1]
 

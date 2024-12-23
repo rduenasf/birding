@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The northern harrier (Circus hudsonius), also known as the marsh hawk or ring-tailed hawk, is a bird of prey. It breeds throughout the northern parts of the northern hemisphere in Canada and the northernmost USA.
 The northern harrier migrates south in winter, with breeding birds in Canada and northern Great Plains of the U.S. moving to the American south, Mexico, and Central America. In the midwestern, mountain west, and north Atlantic states of the U.S., they may be present all year. This bird inhabits prairies, open areas, and marshes.[^1]

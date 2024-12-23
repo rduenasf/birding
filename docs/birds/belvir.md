@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+
 ## Description
 Bell's vireo (Vireo bellii) is a songbird that migrates between a breeding range in Western North America and a winter range in Central America. It is dull olive-gray above and whitish below. It has a faint white eye ring and faint wing bars.
 This bird was named by Audubon for John Graham Bell, who accompanied him on his trip up the Missouri River in the 1840s.

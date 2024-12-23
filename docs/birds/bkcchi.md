@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Ontario, Canada
+* Washington, United States
+
 ## Description
 The black-capped chickadee (Poecile atricapillus) is a small, nonmigratory, North American passerine bird that lives in deciduous and mixed forests. It is a member of the Paridae family, also known as tits. It has a distinct black cap on its head, a black bib underneath, and white cheeks. It has a white belly, buff sides, and grey wings, back, and tail. The bird is well known for its vocalizations, including its fee-bee call and its chick-a-dee-dee-dee call, from which it derives its name.
 The black-capped chickadee is widely distributed throughout North America, ranging from the northern United States to southern Canada and all the way up to Alaska and Yukon. It feeds primarily on insects and seeds, and is known for its ability to cache food for use during the winter. The hippocampus of the black-capped chickadee grows during the caching season, which is believed to help it better remember its cache locations. The black-capped chickadee is a social bird and forms strict dominance hierarchies within its flock. During the winter, these flocks include other bird species. It has the ability to lower its body temperature during cold winter nights, allowing it to conserve energy.

@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Ciudad de México, Mexico
+
 ## Description
 The white-throated flycatcher (Empidonax albigularis) is a species of bird in the family Tyrannidae. It is found in Belize, Costa Rica, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, and Panama. Its natural habitats are subtropical or tropical moist shrubland and heavily degraded former forest.[^1]
 

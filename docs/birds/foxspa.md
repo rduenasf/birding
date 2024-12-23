@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The fox sparrow (Passerella iliaca) is a large New World sparrow. It is the only member of the genus Passerella, although some authors split the species into four (see below).[^1]
 

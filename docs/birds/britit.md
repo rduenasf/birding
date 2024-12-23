@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+
 ## Description
 The bridled titmouse (Baeolophus wollweberi) is a small songbird, a passerine bird in the tit family Paridae.
 These birds range from 11.5 – 12.7 cm. (4.5 to 5 in.) long. It is small, crested and gray with a black and white patterned face, a black bib. Its crest is boarded with black and white (sometimes gray) underparts. A standard nest ranges from 5 – 9 eggs colored white, speckled, or reddish brown.

@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Florida, United States
+
 ## Description
 The laughing gull (Leucophaeus atricilla) is a medium-sized gull of North and South America. Named for its laugh-like call, it is an opportunistic omnivore and scavenger. It breeds in large colonies mostly along the Atlantic coast of North America, the Caribbean, and northern South America. The two subspecies are L. a. megalopterus — which can be seen from southeast Canada down to Central America — and L. a. atricilla, which appears from the West Indies to the Venezuelan islands. The laughing gull was long placed in the genus Larus until its present placement in Leucophaeus.[^1]
 

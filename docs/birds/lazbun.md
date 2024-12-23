@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* California, United States
+
 ## Description
 The lazuli bunting (Passerina amoena) is a North American songbird named for the gemstone lapis lazuli.[^1]
 

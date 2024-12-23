@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Ciudad de México, Mexico
+* Morelos, Mexico
+
 ## Description
 The brown-backed solitaire (Myadestes occidentalis) is considered a thrush and is placed in the family Turdidae. It is a medium-sized bird about 21 centimeters (8 inches) long. It is a mostly grayish bird with brown flight feathers (hence the "brown back" when it is perched), a white eye ring and white rectrices (tail) feathers.[^1]
 

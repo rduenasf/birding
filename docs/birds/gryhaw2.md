@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+
 ## Description
 The gray hawk (Buteo plagiatus) or Mexican goshawk is a smallish raptor found in open country and forest edges. It is sometimes placed in the genus Asturina as Asturina plagiata. The species was split by the American Ornithological Society (AOU) from the gray-lined hawk. The gray hawk is found from Costa Rica north into the southwestern United States.
 The gray hawk is 46–61 cm (18–24 in) in length and weighs 475 g (16.8 oz) on average. The adult has a pale gray body, the tail is black with three white bands and the legs are orange. It is a solid, unpatterned gray on the upper parts.

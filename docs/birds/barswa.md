@@ -29,6 +29,13 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* California, United States
+* Ciudad de México, Mexico
+* Morelos, Mexico
+
 ## Description
 The barn swallow (Hirundo rustica) is the most widespread species of swallow in the world, occurring on all continents, with vagrants reported even in Antarctica. It is a distinctive passerine bird with blue upperparts and a long, deeply forked tail. In Anglophone Europe, it is just called the swallow; in northern Europe, it is the only member of family Hirundinidae called a "swallow" rather than a "martin".
 There are six subspecies of barn swallow, which breed across the Northern Hemisphere. Two subspecies, (H. r. savignii and H. r. transitiva) have fairly restricted ranges in the Nile valley and eastern Mediterranean, respectively. The other four are more widespread, with winter ranges covering much of the Southern Hemisphere.

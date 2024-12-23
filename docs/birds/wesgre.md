@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The western grebe (Aechmophorus occidentalis) is a species in the grebe family of water birds. Folk names include "dabchick", "swan grebe" and "swan-necked grebe".
 Western grebe fossils from the Late Pleistocene of southwest North America were described as a distinct species, but later ranked as a paleosubspecies Aechmophorus occidentalis lucasi. More recent study found them to fall within the variation now known to exist in today's birds.[^1]

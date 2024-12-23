@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+* Valparaíso, Chile
+
 ## Description
 The austral blackbird (Curaeus curaeus) is a species of bird in the family Icteridae. It is found in Argentina and Chile. Its natural habitats are temperate forests, subtropical or tropical high-altitude shrubland, and heavily degraded former forest.[^1]
 

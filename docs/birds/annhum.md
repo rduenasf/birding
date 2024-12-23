@@ -29,6 +29,11 @@ tags:
 
 **Audio**: Yes
 
+## Places Seen
+
+* Arizona, United States
+* California, United States
+
 ## Description
 Anna's hummingbird (Calypte anna) is a North American species of hummingbird. It was named after Anna Masséna, Duchess of Rivoli.
 It is native to western coastal regions of North America. In the early 20th century, Anna's hummingbirds bred only in northern Baja California and Southern California. The transplanting of exotic ornamental plants in residential areas throughout the Pacific coast and inland deserts provided expanded nectar and nesting sites, allowing the species to expand its breeding range. Year-round residence of Anna's hummingbirds in the Pacific Northwest is an example of ecological release dependent on acclimation to colder winter temperatures, introduced plants, and human provision of nectar feeders during winter.

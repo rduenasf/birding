@@ -29,6 +29,12 @@ tags:
 
 **Audio**: Yes
 
+## Places Seen
+
+* Arizona, United States
+* California, United States
+* Florida, United States
+
 ## Description
 The northern mockingbird (Mimus polyglottos) is a mockingbird commonly found in North America, of the family Mimidae. The species is also found in some parts of the Caribbean, as well as on the Hawaiian Islands. It is typically a permanent resident across much of its range, but northern mockingbirds may move farther south during inclement weather or prior to the onset of winter. The northern mockingbird has gray to brown upper feathers and a paler belly. Its tail and wings have white patches which are visible in flight.
 The species is known for its ability to mimic bird calls and other types of sound, including artificial and electronic noises. Studies have shown its ability to identify individual humans and treat them differently based on learned threat assessments. It is an omnivore and consumes fruit, invertebrates, and small vertebrates. It is often found in open areas, open woodlands and forest edges, and is quite common in urbanized areas. The species breeds from southeastern Canada throughout the United States to the Greater Antilles. It is listed as a species of least concern by the International Union for Conservation of Nature.

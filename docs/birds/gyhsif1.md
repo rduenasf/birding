@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
 ## Description
 The grey-hooded sierra finch (Phrygilus gayi) is a species of bird in the family Thraupidae.
 It is found in Argentina and Chile where its natural habitats are subtropical or tropical dry shrubland and subtropical or tropical high-altitude shrubland.[^1]

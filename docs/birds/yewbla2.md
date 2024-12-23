@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+* Valparaíso, Chile
+
 ## Description
 The yellow-winged blackbird (Agelasticus thilius) is a species of bird in the family Icteridae.
 It is found in Argentina, Bolivia, Brazil, Chile, Paraguay, Peru, and Uruguay.

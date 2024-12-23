@@ -29,6 +29,12 @@ tags:
 
 **Audio**: Yes
 
+## Places Seen
+
+* Arizona, United States
+* California, United States
+* Washington, United States
+
 ## Description
 The common raven or northern raven (Corvus corax) is a large all-black passerine bird. It is the most widely distributed of all corvids, found across the Northern Hemisphere. There are 11 accepted subspecies with little variation in appearance, although recent research has demonstrated significant genetic differences among populations from various regions. It is one of the two largest corvids, alongside the thick-billed raven, and is the heaviest passerine bird; at maturity, the common raven averages 63 centimetres (25 inches) in length and 1.47 kilograms (3.2 pounds) in weight, though up to 2 kg (4.4 lb) in the heaviest individuals. Although their typical lifespan is considerably shorter, common ravens can live more than 23 years in the wild. Young birds may travel in flocks but later mate for life, with each mated pair defending a territory.
 Common ravens have coexisted with humans for thousands of years and in some areas have been so numerous that people have regarded them as pests. Part of their success as a species is due to their omnivorous diet; they are extremely versatile and opportunistic in finding sources of nutrition, feeding on carrion, insects, cereal grains, berries, fruit, small animals, nesting birds, and food waste. Some notable feats of problem-solving provide evidence that the common raven is unusually intelligent.

@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* Morelos, Mexico
+
 ## Description
 The American dusky flycatcher (Empidonax oberholseri), or simply dusky flycatcher, is a small insectivorous passerine of the tyrant flycatcher family.
 The dusky flycatcher is one of many species in the genus Empidonax. These species are very similar in appearance and behavior, and they are notoriously difficult to differentiate. The best characteristics for distinguishing these species are voice, breeding habitat, and range.[^1]

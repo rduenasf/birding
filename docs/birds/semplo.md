@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The semipalmated plover (Charadrius semipalmatus) is a small plover. Charadrius is a Late Latin word for a yellowish bird mentioned in the fourth-century Vulgate. It derives from Ancient Greek kharadrios a bird found in ravines and river valleys (kharadra, "ravine"). The specific semipalmatus is  Latin and comes from  semi, "half" and palma, "palm". Like the English name, this refers to its only partially webbed feet.[^1]
 

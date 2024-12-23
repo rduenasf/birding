@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Florida, United States
+
 ## Description
 The anhinga (; Anhinga anhinga), sometimes called snakebird, darter, American darter, or water turkey, is a water bird of the warmer parts of the Americas. The word anhinga comes from a'ñinga in the Brazilian Tupi language and means "devil bird" or "snake bird". The origin of the name is apparent when swimming: only the neck appears above water, so the bird looks like a snake ready to strike. They do not have external nares (nostrils) and breathe solely through their epiglottis.
 The anhinga is placed in the darter family, Anhingidae, and is closely related to Indian (Anhinga melanogaster), African (Anhinga rufa), and Australian (Anhinga novaehollandiae) darters. Like other darters, the anhinga hunts by spearing fish and other small prey using its sharp, slender beak.[^1]

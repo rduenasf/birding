@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+* Ciudad de México, Mexico
+* Morelos, Mexico
+
 ## Description
 Hutton's vireo (Vireo huttoni) is a small  songbird. It is approximately 5 inches (12–13 cm) in length, dull olive-gray above and below. It has a faint white eye ring and faint white wing bars.  It closely resembles a ruby-crowned kinglet, but has a thicker bill, blue-gray legs, and is slightly larger in size.  Its most common song is a repeated chu-wee, or a chew, but will have other variations.  Its call is a mewing chatter.
 It is found from southern British Columbia in Canada to central Guatemala in Central America.  Recent DNA studies suggest this species may be split into at least 2 different species, with coastal Pacific birds showing enough genetic variation when compared to interior ones.

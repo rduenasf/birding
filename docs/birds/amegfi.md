@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+* Ontario, Canada
+
 ## Description
 The American goldfinch (Spinus tristis) is a small North American bird in the finch family. It is migratory, ranging from mid-Alberta to North Carolina during the breeding season, and from just south of the Canada–United States border to Mexico during the winter.
 The only finch in its subfamily to undergo a complete molt, the American goldfinch displays sexual dichromatism: the male is a vibrant yellow in the summer and an olive color during the winter, while the female is a dull yellow-brown shade which brightens only slightly during the summer. The male displays brightly colored plumage during the breeding season to attract a mate.

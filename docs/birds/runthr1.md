@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Morelos, Mexico
+
 ## Description
 The russet nightingale-thrush (Catharus occidentalis) is a species of bird in the family Turdidae. It is endemic to Mexico.
 Its natural habitat is subtropical or tropical moist montane forests.[^1]

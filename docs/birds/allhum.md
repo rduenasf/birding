@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 Allen's hummingbird (Selasphorus sasin) is a species of hummingbird that breeds in the western United States. It is one of seven species in the genus Selasphorus.[^1]
 

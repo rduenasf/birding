@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
 ## Description
 The Andean goose (Chloephaga melanoptera) is a species of waterfowl in tribe Tadornini of subfamily Anserinae. It is found in Argentina, Bolivia, Chile, and Peru.[^1]
 

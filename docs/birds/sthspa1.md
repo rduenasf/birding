@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Morelos, Mexico
+
 ## Description
 The stripe-headed sparrow (Peucaea ruficauda) is an American sparrow which breeds from Pacific coastal south-western Mexico, including the transverse ranges, Cordillera Neovolcanica to Pacific coastal northern Costa Rica.
 This common bird is found in lowlands up to 1,800 m (5,900 ft) in altitude in the north of its range, and 800 m (2,600 ft) in Costa Rica. Its habitat is brushy savannah, scrubby second growth and woodland edges, but it avoids the forest interior.

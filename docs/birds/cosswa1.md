@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+* Valparaíso, Chile
+
 ## Description
 The coscoroba swan (Coscoroba coscoroba) is a species of waterfowl in the subfamily Anserinae of the family Anatidae. It is found in Argentina, Bolivia, Brazil, Chile, Paraguay, Uruguay, and the Falkland Islands.[^1]
 

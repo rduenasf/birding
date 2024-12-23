@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Ciudad de México, Mexico
+
 ## Description
 The white-naped swift (Streptoprocne semicollaris) is the largest representative of the swift family in the New World and one of the two largest species in the world. Only the purple needletail of Asia may be slightly larger. This bird is found principally in western and central Mexico, with one record on the Guatemalan border.
 This species is essentially a bird of wild highland landscapes, where it favors cliff faces, deep river gorges and high crags. Its main habitats are pine-oak forests, tropical deciduous forests and second-growth scrub. This swift is usually found at an elevation of 1,500 to 3,000 m (4,900 to 9,800 ft) and, much more rarely, down to sea level.

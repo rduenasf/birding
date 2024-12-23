@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The lesser yellowlegs (Tringa flavipes) is a medium-sized shorebird. It breeds in the boreal forest region of North America.[^1]
 

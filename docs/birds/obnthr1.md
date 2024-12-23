@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Morelos, Mexico
+
 ## Description
 The orange-billed nightingale-thrush (Catharus aurantiirostris) is a species of bird in the family Turdidae. It is found in Colombia, Costa Rica, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama, Trinidad and Tobago, and Venezuela. Its natural habitats are subtropical or tropical dry forest, subtropical or tropical moist lowland forest, subtropical or tropical moist montane forest, and heavily degraded former forest.
 Measuring 14 cm (5.5 in) long, this nightingale-thrush has a bright orange bill, eye ring, and legs. Northern birds have a brown back and cap, and a whitish chest and belly. Southern birds have a distinctive grey crown and darker chest and flanks.

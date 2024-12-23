@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+
 ## Description
 The green-tailed towhee (Pipilo chlorurus) is the smallest towhee, but is still one of the larger members of the American sparrow family Passerellidae.
 Its breeding range covers most of the interior Western United States, with a winter range in Mexico and the southern edge of the Southwestern United States.

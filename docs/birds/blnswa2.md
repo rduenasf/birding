@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
 ## Description
 The black-necked swan (Cygnus melancoryphus) is a species of waterfowl in the tribe Cygnini of the subfamily Anserinae. It is found in Argentina, Brazil, Chile, Uruguay, and the Falkland Islands.[^1]
 

@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* Morelos, Mexico
+
 ## Description
 The lark sparrow (Chondestes grammacus) is a fairly large New World sparrow. It is the only member of the genus Chondestes.[^1]
 

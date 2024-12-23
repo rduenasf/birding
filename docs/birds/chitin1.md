@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
 ## Description
 The Chilean tinamou (Nothoprocta perdicaria) is a type of tinamou commonly found in high elevation shrubland in subtropical regions of central Chile.[^1]
 

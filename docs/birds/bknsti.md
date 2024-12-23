@@ -29,6 +29,11 @@ tags:
 
 **Audio**: Yes
 
+## Places Seen
+
+* California, United States
+* Región Metropolitana de Santiago, Chile
+
 ## Description
 The black-necked stilt (Himantopus mexicanus) is a locally abundant shorebird of North and South American wetlands and coastlines. It is found from the coastal areas of California through much of the interior western United States and along the Gulf of Mexico as far east as Florida, then south through Central America and the Caribbean to Brazil, Peru and the Galápagos Islands, with an isolated population, the Hawaiian stilt, in Hawaii. The northernmost populations, particularly those from inland, are migratory, wintering from the extreme south of the United States to southern Mexico, rarely as far south as Costa Rica; on the Baja California peninsula it is only found regularly in winter. Some authorities, including the IUCN, treat it as a synonym of Himantopus himantopus.[^1]
 

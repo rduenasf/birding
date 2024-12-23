@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The glaucous gull (Larus hyperboreus) is a large gull, the second-largest gull in the world. The genus name is from Latin larus, which appears to have referred to a gull or other large seabird. The specific name hyperboreus is Latin for "northern" from the Ancient Greek Huperboreoi people from the far north  "Glaucous" is from Latin glaucus and denotes the grey colour of the gull. An older English name for this species is burgomaster.[^1]
 

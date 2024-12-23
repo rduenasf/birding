@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+
 ## Description
 The yellow-eyed junco (Junco phaeonotus) is a species of junco, a group of small New World sparrows.
 Its range is primarily in Mexico, extending into some of the mountains of the southern tips of the U.S. states of Arizona and New Mexico. It is not generally migratory, but sometimes moves to nearby lower elevations during winter. The female lays three to five pale gray or bluish-white eggs in an open nest of dried grass two to three times a year. Incubation takes 15 days, and when hatched, the chicks are ready to leave the nest two weeks later. This bird's diet consists mainly of seeds, berries and insects.[^1]

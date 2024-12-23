@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
 ## Description
 The lesser horned owl or Magellanic horned owl (Bubo magellanicus) is a large owl of the genus Bubo found in southern South America, extending north to the central Andes. It has traditionally been classified as a subspecies of the great horned owl (Bubo virginianus), but is now treated as a separate species based on differences in voice and size and because of the genetic distance between the two.
 It is about 45 cm (18 in) long with birds in the north of the range being largest. It has broad wings and a large head with two "ear" tufts. The plumage is mainly grey-brown but is quite variable in colour. The underparts are pale with narrow grey-brown bars and the breast has dark blotches. There is a black border to the facial disc and white stripes above the yellow eyes. The great horned owl is similar but larger with stronger feet and bill, broader bars on the underparts and longer ear-tufts.

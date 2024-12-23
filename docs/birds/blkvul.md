@@ -29,6 +29,13 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* Florida, United States
+* Morelos, Mexico
+* Valparaíso, Chile
+
 ## Description
 The black vulture (Coragyps atratus), also known as the American black vulture, Mexican vulture, zopilote, urubu, or gallinazo, is a bird in the New World vulture family whose range extends from the southeastern United States to Peru, Central Chile and Uruguay in South America. Although a common and widespread species, it has a somewhat more restricted distribution than its compatriot, the turkey vulture, which breeds well into Canada and all the way south to Tierra del Fuego. It is the only extant member of the genus Coragyps, which is in the family Cathartidae. Despite the similar name and appearance, this species is not closely related to the Eurasian black vulture, an Old World vulture, of the family Accipitridae (which includes raptors like the eagles, hawks, kites, and harriers). For ease of locating animal corpses (their primary source of sustenance), black vultures tend to inhabit relatively open areas with scattered trees, such as chaparral, in addition to subtropical forested areas and parts of the Brazilian pantanal.
 With a wingspan of 1.5 m (4.9 ft), the black vulture is an imposing bird, though relatively small for a vulture, let alone a raptor. It has black plumage, a featherless, grayish-black head and neck, and a short, hooked beak. These features are all evolutionary adaptations to life as a scavenger; their black plumage stays visibly cleaner than that of a lighter-colored bird, the bare head is designed for easily digging inside animal carcasses, and the hooked beak is built for stripping the bodies clean of meat. The absence of head feathers helps the birds stay clean and remain (more or less) free of animal blood and bodily fluids, which could become problematic for the vultures and attract parasites; most vultures are known to bathe after eating, provided there is a water source. This water source can be natural or man-made, such as a stream or a livestock water tank.

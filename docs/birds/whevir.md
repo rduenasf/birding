@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Florida, United States
+
 ## Description
 The white-eyed vireo (Vireo griseus) is a small songbird of the family Vireonidae.[^1]
 

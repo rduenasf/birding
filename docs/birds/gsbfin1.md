@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Ciudad de México, Mexico
+* Morelos, Mexico
+
 ## Description
 The green-striped brushfinch (Arremon virenticeps) is a species of bird in the family Passerellidae. Until recently, it was placed in the genus Buarremon.
 It is endemic to Mexico where its natural habitat is subtropical or tropical moist montane forest.[^1]

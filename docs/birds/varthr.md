@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The varied thrush (Ixoreus naevius) is a member of the thrush family, Turdidae. It is the only species in the monotypic genus Ixoreus.[^1]
 

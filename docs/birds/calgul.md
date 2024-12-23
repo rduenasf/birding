@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+* Washington, United States
+
 ## Description
 The California gull (Larus californicus) is a medium-sized gull, smaller on average than the herring gull, but larger on average than the ring-billed gull (though it may overlap in size with both). Although named after California, it can be found annually across most of western North America, from the Canadian prairie provinces in the northeast and south through western Mexico.[^1]
 

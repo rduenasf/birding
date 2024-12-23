@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Ciudad de México, Mexico
+
 ## Description
 The Mexican chickadee (Poecile sclateri) is a small songbird, a passerine bird in the tit family Paridae. It is still often placed in the genus Parus with most other tits, but mtDNA cytochrome b sequence data and morphology suggest that separating Poecile more adequately expresses these birds' relationships (Gill et al., 2005). The American Ornithologists' Union had been treating Poecile as distinct genus for some time already.
 Adults are 12.5–13.5 cm long with a wingspan of 18–21 cm and a weight of 7.5–11 g. Both sexes have a black cap, white cheeks, and a short black bill. Their backs and flanks are gray and they have paler grayish underparts. Similar in appearance to the black-capped chickadee and mountain chickadee, the Mexican chickadee can be distinguished by its longer black bib, which extends from its chin down onto its upper breast. A whitish band below the bib extends down the center of the belly.

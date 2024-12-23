@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The elegant tern (Thalasseus elegans) is a tern in the family Laridae. It breeds on the Pacific coasts of the southern United States and Mexico and winters south to Peru, Ecuador and Chile.
 This species breeds in very dense colonies on coasts and islands, including Isla Rasa and Montague Island (Mexico), and exceptionally inland on suitable large freshwater lakes close to the coast. It nests in a ground scrape and lays one or two eggs. Unlike some of the smaller white terns, it is not very aggressive toward potential predators, relying on the sheer density of the nests (often only 20–30 cm apart) and nesting close to other more aggressive species, such as Heermann's gulls, to avoid predation.

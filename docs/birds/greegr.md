@@ -29,6 +29,14 @@ tags:
 
 **Audio**: Yes
 
+## Places Seen
+
+* California, United States
+* Ciudad de México, Mexico
+* Florida, United States
+* Ontario, Canada
+* Región Metropolitana de Santiago, Chile
+
 ## Description
 The great egret (Ardea alba), also known as the common egret, large egret, or (in the Old World) great white egret or great white heron, is a large, widely distributed egret.  The four subspecies are found in Asia, Africa, the Americas, and southern Europe.  Recently, it has also been spreading to more northern areas of Europe. Distributed across most of the tropical and warmer temperate regions of the world, it builds tree nests in colonies close to water.[^1]
 

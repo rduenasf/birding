@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+* Ciudad de México, Mexico
+
 ## Description
 The green heron (Butorides virescens) is a small heron of North and Central America. Butorides is from Middle English butor "bittern" and Ancient Greek -oides, "resembling", and virescens is Latin for "greenish".
 It was long considered conspecific with its sister species the striated heron (Butorides striata), and together they were called "green-backed heron". Birds of the nominate subspecies (no matter which taxonomic arrangement is preferred) are extremely rare vagrants to western Europe—for example, a sighting in Pembrokeshire in 2018 was only the second recorded sighting in Wales; individuals from the Pacific coast of North America may similarly stray as far as Hawaii.[^1]

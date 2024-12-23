@@ -29,6 +29,10 @@ tags:
 
 **Audio**: Yes
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The American pipit (Anthus rubescens), formerly known as the Buff-bellied pipit, is a small songbird native to North America. It was first described by Marmaduke Tunstall in his 1771 Ornithologia Britannica. It was formerly classified as a form of the water pipit. The former subspecies, Siberian pipit, is now considered a distinct species.[^1]
 

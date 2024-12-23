@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Morelos, Mexico
+
 ## Description
 The golden vireo (Vireo hypochryseus) is a species of bird in the family Vireonidae. It is endemic to Mexico. Its natural habitats are subtropical or tropical dry forests and subtropical or tropical moist lowland forests.[^1]
 

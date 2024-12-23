@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Libertador General Bernardo O'Higgins, Chile
+* Región Metropolitana de Santiago, Chile
+* Valparaíso, Chile
+
 ## Description
 The southern house wren (Troglodytes musculus) is a very small passerine bird in the wren family Troglodytidae. It is found from southern Mexico to southern Chile and southern Argentina. The name troglodytes means "hole dweller", and is a reference to the bird's tendency to disappear into crevices when hunting insects or to seek shelter. It was formerly considered to be conspecific with the northern house wren (Troglodytes aedon).[^1]
 

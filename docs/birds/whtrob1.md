@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Morelos, Mexico
+
 ## Description
 The white-throated thrush (Turdus assimilis) is a species of bird in the family Turdidae. It is found in Mexico and Central America, ranging south to central Panama. This species has been referred to in some literature as "white-throated robin." However, that name is now more usually applied to the Old World species Irania gutturalis.[^1]
 

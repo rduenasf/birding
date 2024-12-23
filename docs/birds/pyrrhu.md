@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+
 ## Description
 The pyrrhuloxia  or desert cardinal (Cardinalis sinuatus) is a medium-sized North American songbird found in the American southwest and northern Mexico. This distinctive species with a short, stout bill and red crest and wings, and closely resembles the northern cardinal and the vermilion cardinal, which are in the same genus.[^1]
 

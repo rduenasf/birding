@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Ciudad de México, Mexico
+
 ## Description
 Strickland's woodpecker (Leuconotopicus stricklandi) is a medium-sized species of woodpecker endemic to Mexico.  The Arizona woodpecker (L. arizonae) was formerly considered the northern subspecies of this bird until the 42nd supplement of the American Ornithologists Union checklist, which officially split them into two separate species.[^1]
 

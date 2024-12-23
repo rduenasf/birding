@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* California, United States
+* Ciudad de México, Mexico
+
 ## Description
 The western bluebird (Sialia mexicana) is a small North American thrush.[^1]
 

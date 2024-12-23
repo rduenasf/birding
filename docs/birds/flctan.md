@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Morelos, Mexico
+
 ## Description
 The flame-colored tanager  (Piranga bidentata), formerly known as the stripe-backed tanager, is a medium-sized American songbird in the family Cardinalidae, the cardinals or cardinal grosbeaks. It is found from Mexico throughout Central America to northern Panama and occasionally in the United States; four subspecies are recognized. The flame-colored tanager is 18 to 19 cm (7.1 to 7.5 in) long, the male having predominantly red-orange while the female is more yellowish orange.[^1]
 

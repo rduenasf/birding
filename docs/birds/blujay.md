@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Florida, United States
+* Ontario, Canada
+
 ## Description
 The blue jay (Cyanocitta cristata) is a passerine bird in the family Corvidae, native to eastern North America. It lives in most of the eastern and central United States; some eastern populations may be migratory. Resident populations are also in Newfoundland, Canada; breeding populations are found across southern Canada. It breeds in both deciduous and coniferous forests, and is common in residential areas. Its coloration is predominantly blue, with a white chest and underparts, and a blue crest; it has a black, U-shaped collar around its neck and a black border behind the crest. Males and females are similar in size and plumage, which does not vary throughout the year. Four subspecies have been recognized.
 The blue jay feeds mainly on seeds and nuts, such as acorns, which it may hide to eat later; soft fruits; arthropods; and occasionally small vertebrates. It typically gleans food from trees, shrubs, and the ground, and sometimes hawks insects from the air. Blue jays can be very aggressive to other birds; they sometimes raid nests and have even been found to have decapitated other birds.

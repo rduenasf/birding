@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
 ## Description
 The greater yellow finch (Sicalis auriventris) is a species of bird in the family Thraupidae.
 It is found in Argentina and Chile.

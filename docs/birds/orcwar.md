@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* California, United States
+
 ## Description
 The orange-crowned warbler (Leiothlypis celata) is a small songbird of the New World warbler family.[^1]
 

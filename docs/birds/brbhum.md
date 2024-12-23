@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+
 ## Description
 The broad-billed hummingbird (Cynanthus latirostris) is a small-sized hummingbird that resides in Mexico and the southwestern United States. Males and females have different features (see sexual dimorphism). The juveniles resemble the female adult more than the male adult. The broad-billed hummingbird is a bright coloured bird with a broad and bright red bill. The bird is also known for its other common names – the Colibrí Pico Ancho in Spanish and Colibri circé in French. It is more active during the day and less active during the night (see  diurnality).[^1]
 

@@ -29,6 +29,12 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+* Ciudad de México, Mexico
+* Región Metropolitana de Santiago, Chile
+
 ## Description
 The white-faced ibis (Plegadis chihi) is a wading bird in the ibis family, Threskiornithidae.
 This species breeds colonially in marshes, usually nesting in bushes or low trees. Its breeding range extends from the western United States south through Mexico, as well as from southeastern Brazil and southeastern Bolivia south to central Argentina, and along the coast of central Chile. Its winter range extends from southern California and Louisiana south to include the rest of its breeding range.[^1]

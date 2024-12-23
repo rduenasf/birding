@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The pink-footed shearwater (Ardenna creatopus) is a species of seabird.  The bird is 48 cm (19 in) in length, with a 109 cm (43 in) wingspan. It is polymorphic, having both darker- and lighter-phase populations. Together with the equally light-billed flesh-footed shearwater, it forms the Hemipuffinus group, a superspecies that may or may not have an Atlantic relative in the great shearwater. These are large shearwaters which are among those that could be separated in the genus Ardenna.
 A molecular phylogenetic study published in 2021 found very little genetic difference between the pink-footed shearwater and the flesh-footed shearwater (Ardenna carneipes). The authors of the study suggested that these two taxa might be better considered as conspecific.

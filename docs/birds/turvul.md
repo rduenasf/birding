@@ -29,6 +29,14 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* California, United States
+* Florida, United States
+* Ontario, Canada
+* Valparaíso, Chile
+
 ## Description
 The turkey vulture (Cathartes aura) is the most widespread of the New World vultures. One of three species in the genus Cathartes of the family Cathartidae, the turkey vulture ranges from southern Canada to the southernmost tip of South America. It inhabits a variety of open and semi-open areas, including subtropical forests, shrublands, pastures, and deserts.
 Like all New World vultures, it is not closely related to the Old World vultures of Europe, Africa, and Asia. However, the two groups strongly resemble each other due to convergent evolution.

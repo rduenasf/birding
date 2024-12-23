@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The royal tern (Thalasseus maximus) is a tern in the family Laridae. The species is endemic to the Americas, though vagrants have been identified in Europe.[^1]
 

@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
 ## Description
 The rufous-banded miner (Geositta rufipennis) is a species of bird in the subfamily Sclerurinae, the leaftossers and miners, of the ovenbird family Furnariidae. It is found in Argentina, Bolivia, and Chile.[^1]
 

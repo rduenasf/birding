@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Ontario, Canada
+
 ## Description
 The winter wren (Troglodytes hiemalis) is a very small North American bird and a member of the mainly New World wren family Troglodytidae. The species contained the congeneric Pacific wren (Troglodytes pacificus) of western North America and Eurasian wren (Troglodytes troglodytes) of Eurasia until they were split in 2010.
 It breeds in coniferous forests from British Columbia to the Atlantic Ocean. It migrates through and winters across southeastern Canada, the eastern half the United States and (rarely) north-eastern Mexico. Small numbers may be casual in the western United States and Canada.

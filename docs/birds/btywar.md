@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* California, United States
+
 ## Description
 The black-throated gray warbler or black-throated grey warbler (Setophaga nigrescens) is a passerine bird of the New World warbler family Parulidae. It is 13 cm (5.1 in) long and has gray and white plumage with black markings. The male has the bold black throat of its name, and black stripes on its head, as well as black streaks on its flanks; the female is a paler version of the male, with a white throat and less distinct black markings on the flanks and wings. It breeds in western North America from British Columbia to New Mexico, and winters in Mexico and the southwestern United States. The habitats it prefers are coniferous and mixed forests and scrubland, especially those with pinyon pines, junipers, sagebrush, and oaks. Its nest is an open cup of plant fibers lined with feathers, built a few metres from the ground in the branches of a tree or shrub. Three to five eggs are laid, and young are fed by both parents. Common in its breeding range, it does not seem to be seriously threatened by human activities, unlike many migratory warblers.[^1]
 

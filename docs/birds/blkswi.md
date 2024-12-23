@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The American black swift, or more simply black swift (Cypseloides niger), is a species of bird that is found from northern British Columbia in Canada through the United States and Mexico to Costa Rica and Brazil. They are also found in the Caribbean.[^1]
 

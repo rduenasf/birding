@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* California, United States
+
 ## Description
 The mountain chickadee (Poecile gambeli) is a small songbird, a passerine bird in the tit family Paridae.[^1]
 

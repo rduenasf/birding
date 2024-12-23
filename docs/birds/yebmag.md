@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The yellow-billed magpie (Pica nuttalli), also known as the California magpie, is a large corvid that inhabits California's Central Valley and the adjacent chaparral foothills and mountains. Apart from its having a yellow bill and a yellow streak around the eye, it is virtually identical to the black-billed magpie (Pica hudsonia) found in much of the rest of North America. 
 The scientific name commemorates the English naturalist Thomas Nuttall.[^1]

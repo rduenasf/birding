@@ -29,6 +29,13 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Arizona, United States
+* California, United States
+* Ciudad de México, Mexico
+* Morelos, Mexico
+
 ## Description
 The black-headed grosbeak (Pheucticus melanocephalus) is a medium-sized, seed-eating bird in the family Cardinalidae. It is sometimes considered conspecific with the rose-breasted grosbeak (P. ludovicianus) with which it hybridizes on the American Great Plains.
 The 19 cm (7.5 in) long, 47 g (1.7 oz) black-headed grosbeak is a migratory bird, with nesting grounds from southwestern British Columbia, through the western half of the United States, into central Mexico. It occurs as a vagrant further south in Central America.[^1]

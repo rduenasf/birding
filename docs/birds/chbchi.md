@@ -29,6 +29,11 @@ tags:
 
 **Audio**: Yes
 
+## Places Seen
+
+* California, United States
+* Washington, United States
+
 ## Description
 The chestnut-backed chickadee (Poecile rufescens) is a small passerine bird in the tit family, Paridae, native to western North America.[^1]
 

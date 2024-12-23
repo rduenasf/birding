@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Valparaíso, Chile
+
 ## Description
 The great shrike-tyrant (Agriornis lividus) is a species of bird in the family Tyrannidae.
 It is found in Chile and adjacent areas of south-western Argentina.[^1]

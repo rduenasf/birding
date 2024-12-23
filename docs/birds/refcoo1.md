@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+* Valparaíso, Chile
+
 ## Description
 The red-fronted coot (Fulica rufifrons) is a species of bird in subfamily Rallinae of family Rallidae, the rails, gallinules, and coots. It is found in Argentina, Bolivia, Brazil, Chile, Peru, and Uruguay.[^1]
 

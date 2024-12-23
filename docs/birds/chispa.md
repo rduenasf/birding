@@ -29,6 +29,11 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+* Morelos, Mexico
+
 ## Description
 The Chipping Sparrow (Spizella passerina) is a species of New World sparrow, a passerine bird in the family Passerellidae. It is widespread, fairly tame, and common across most of its North American range.
 The Chipping Sparrow has two subspecies, the Eastern Chipping Sparrow and the Western Chipping Sparrow. This bird is a partial migrant with northerly populations flying southwards in the fall to overwinter in Mexico and the southern United States, and flying northward again in spring.

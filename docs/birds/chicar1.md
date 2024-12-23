@@ -29,6 +29,13 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Libertador General Bernardo O'Higgins, Chile
+* Magallanes, Chile
+* Región Metropolitana de Santiago, Chile
+* Valparaíso, Chile
+
 ## Description
 The chimango caracara also known as chimango or tiuque (Milvago chimango) is a species of bird of prey in the family Falconidae, the falcons and caracaras. It is found in Argentina, Bolivia, Brazil, Chile, Paraguay, and Uruguay, as a vagrant on the Falkland Islands and has been introduced on Rapa Nui.[^1]
 

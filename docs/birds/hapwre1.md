@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Morelos, Mexico
+
 ## Description
 The happy wren (Pheugopedius felix) is a species of bird in the family Troglodytidae.  It is endemic to the Pacific slope of western Mexico, from the state of Sonora to the state of Oaxaca, and also on islands west of the Mexican coast.  As with other species of Pheugopedius, older sources (e.g. Howell and Webb) classify it within genus Thryothorus.  Some authorities have treated it as a subspecies of P. rutilus or P. sclateri.  There is significant geographical variation, and six subspecies are recognized: P. f. sonorae is found in southern Sonora and northern Sinaloa; P. f. pallidus is found in central Sinaloa, western Durango and southwards to Jalisco and Michoacán; P. f. lawrencii and P. f. magdalenae are found on different islands of the Islas Marías; P. f. grandis is found in the Balsas River basin, and the nominate subspecies, P. f. felix in southwestern Mexico from Jalisco to Oaxaca.[^1]
 

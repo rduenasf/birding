@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
 ## Description
 The striped woodpecker (Veniliornis lignarius) is a species of bird in subfamily Picinae of the woodpecker family Picidae. It is found in Argentina, Bolivia, and Chile.[^1]
 

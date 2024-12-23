@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* Ontario, Canada
+
 ## Description
 The eastern phoebe (Sayornis phoebe) is a small passerine bird. The genus name Sayornis is constructed from the specific part of Charles Lucien Bonaparte's name for Say's phoebe, Muscicapa saya, and Ancient Greek ornis, "bird". Phoebe is an alternative name for the Roman moon-goddess Diana, but it may also have been chosen to imitate the bird's call.[^1]
 

@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The California condor (Gymnogyps californianus) is a New World vulture and the largest North American land bird. It became extinct in the wild in 1987 when all remaining wild individuals were captured, but has since been reintroduced to northern Arizona and southern Utah (including the Grand Canyon area and Zion National Park), the coastal mountains of California, and northern Baja California in Mexico. It is the only surviving member of the genus Gymnogyps, although four extinct members of the genus are also known. The species is listed by the International Union for the Conservation of Nature as Critically Endangered, and similarly considered Critically Imperiled by NatureServe.
 The plumage is black with patches of white on the underside of the wings; the head is largely bald, with skin color ranging from gray on young birds to yellow and bright orange on breeding adults. Its 3.0 m (9.8 ft) wingspan is the widest of any North American bird, and its weight of up to 12 kg (26 lb) nearly equals that of the trumpeter swan, the heaviest among native North American bird species. The condor is a scavenger and eats large amounts of carrion. It is one of the world's longest-living birds, with a lifespan of up to 60 years.

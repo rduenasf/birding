@@ -29,6 +29,10 @@ tags:
 
 **Audio**: No
 
+## Places Seen
+
+* California, United States
+
 ## Description
 The common tern (Sterna hirundo) is a seabird in the family Laridae. This bird has a circumpolar distribution, its four subspecies breeding in temperate and subarctic regions of Europe, Asia and North America. It is strongly migratory, wintering in coastal tropical and subtropical regions. Breeding adults have light grey upperparts, white to very light grey underparts, a black cap, orange-red legs, and a narrow pointed bill. Depending on the subspecies, the bill may be mostly red with a black tip or all black. There are several similar species, including the partly sympatric Arctic tern, which can be separated on plumage details, leg and bill colour, or vocalisations.
 Breeding in a wider range of habitats than any of its relatives, the common tern nests on any flat, poorly vegetated surface close to water, including beaches and islands, and it readily adapts to artificial substrates such as floating rafts. The nest may be a bare scrape in sand or gravel, but it is often lined or edged with whatever debris is available. Up to three eggs may be laid, their dull colours and blotchy patterns providing camouflage on the open beach. Incubation is by both sexes, and the eggs hatch in around 21–22 days, longer if the colony is disturbed by predators. The downy chicks fledge in 22–28 days. Like most terns, this species feeds by plunge-diving for fish, either in the sea or in freshwater, but molluscs, crustaceans and other invertebrate prey may form a significant part of the diet in some areas.
