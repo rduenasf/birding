@@ -42,6 +42,8 @@ No photographs available.
 <iframe src="https://macaulaylibrary.org/asset/626557545/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 <iframe src="https://macaulaylibrary.org/asset/626557548/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 <iframe src="https://macaulaylibrary.org/asset/626447081/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/627593195/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/627274788/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 <iframe src="https://macaulaylibrary.org/asset/626559393/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 
 ## Links

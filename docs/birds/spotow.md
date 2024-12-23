@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
 species_group: "New World Sparrows"
 species_code: "spotow"
-sidebar_position: 346
+sidebar_position: 347
 sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes

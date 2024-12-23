@@ -6,13 +6,13 @@ family: "Picidae (Woodpeckers)"
 species_group: "Woodpeckers"
 species_code: "norfli"
 sidebar_position: 251
-sidebar_class_name: "has-photo "
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Piciformes
   - Picidae (Woodpeckers)
   - Woodpeckers
   - Has Photo
-  - Needs Audio
+  - Has Audio
 ---
 
 # Northern Flicker <span className='sci_name'>Colaptes auratus</span>
@@ -27,7 +27,7 @@ tags:
 
 **Photo**: Yes 
 
-**Audio**: No
+**Audio**: Yes
 
 ## Description
 The northern flicker or common flicker (Colaptes auratus) is a medium-sized bird of the woodpecker family. It is native to most of North America, parts of Central America, Cuba, and the Cayman Islands, and is one of the few woodpecker species that migrate. Over 100 common names for the northern flicker are known, including yellowhammer (not to be confused with the Eurasian yellowhammer (Emberiza citrinella)), clape, gaffer woodpecker, harry-wicket, heigh-ho, wake-up, walk-up, wick-up, yarrup, and gawker bird. Many of these names derive from attempts to imitate some of its calls. It is the state bird of Alabama (known by its colloquial name "yellowhammer").[^1]
@@ -39,7 +39,7 @@ The northern flicker or common flicker (Colaptes auratus) is a medium-sized bird
 <iframe src="https://macaulaylibrary.org/asset/626996238/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
-No audio recordings available.
+<iframe src="https://macaulaylibrary.org/asset/627593169/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/norfli) 

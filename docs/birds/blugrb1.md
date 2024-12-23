@@ -6,12 +6,12 @@ family: "Cardinalidae (Cardinals and Allies)"
 species_group: "Cardinals, Grosbeaks, and Allies"
 species_code: "blugrb1"
 sidebar_position: 58
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Cardinalidae (Cardinals and Allies)
   - Cardinals, Grosbeaks, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blugrb1) | [Map](/map?species_code=blugrb1)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
@@ -36,7 +36,7 @@ The blue grosbeak (Passerina caerulea), is a medium-sized North American passeri
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/627875333/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

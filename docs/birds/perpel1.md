@@ -6,12 +6,12 @@ family: "Pelecanidae (Pelicans)"
 species_group: "Pelicans"
 species_code: "perpel1"
 sidebar_position: 272
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Pelecaniformes
   - Pelecanidae (Pelicans)
   - Pelicans
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=perpel1) | [Map](/map?species_code=perpel1)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
@@ -36,7 +36,8 @@ The Peruvian pelican (Pelecanus thagus) is a member of the pelican family. It li
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/627873524/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/627873565/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

@@ -6,12 +6,12 @@ family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "cintea"
 sidebar_position: 111
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Anseriformes
   - Anatidae (Ducks, Geese, and Waterfowl)
   - Waterfowl
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cintea) | [Map](/map?species_code=cintea)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
@@ -36,7 +36,7 @@ The cinnamon teal (Spatula cyanoptera) is a species of duck found in western Nor
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/627867335/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

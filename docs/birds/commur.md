@@ -6,12 +6,12 @@ family: "Alcidae (Auks, Murres, and Puffins)"
 species_group: "Alcids"
 species_code: "commur"
 sidebar_position: 123
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Charadriiformes
   - Alcidae (Auks, Murres, and Puffins)
   - Alcids
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=commur) | [Map](/map?species_code=commur)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
@@ -39,7 +39,7 @@ Both male and female common murres moult after breeding and become flightless fo
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/627868853/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

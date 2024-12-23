@@ -6,12 +6,12 @@ family: "Falconidae (Falcons and Caracaras)"
 species_group: "Falcons and Caracaras"
 species_code: "chicar1"
 sidebar_position: 109
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Falconiformes
   - Falconidae (Falcons and Caracaras)
   - Falcons and Caracaras
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chicar1) | [Map](/map?species_code=chicar1)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
@@ -36,7 +36,7 @@ The chimango caracara also known as chimango or tiuque (Milvago chimango) is a s
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/627874151/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
 species_group: "Blackbirds"
 species_code: "yewbla2"
-sidebar_position: 418
+sidebar_position: 420
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes

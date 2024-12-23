@@ -5,13 +5,13 @@ order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
 species_group: "Shorebirds"
 species_code: "whimbr"
-sidebar_position: 388
-sidebar_class_name: " "
+sidebar_position: 390
+sidebar_class_name: "has-photo "
 tags: 
   - Charadriiformes
   - Scolopacidae (Sandpipers and Allies)
   - Shorebirds
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whimbr) | [Map](/map?species_code=whimbr)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
@@ -36,7 +36,7 @@ The Eurasian or common whimbrel (Numenius phaeopus), also known as the white-rum
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/627869533/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

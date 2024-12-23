@@ -6,12 +6,12 @@ family: "Cardinalidae (Cardinals and Allies)"
 species_group: "Cardinals, Grosbeaks, and Allies"
 species_code: "norcar"
 sidebar_position: 250
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Cardinalidae (Cardinals and Allies)
   - Cardinals, Grosbeaks, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=norcar) | [Map](/map?species_code=norcar)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
@@ -38,7 +38,7 @@ The northern cardinal is mainly granivorous but also feeds on insects and fruit.
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/627869081/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

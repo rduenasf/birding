@@ -5,13 +5,13 @@ order: "Passeriformes"
 family: "Corvidae (Crows, Jays, and Magpies)"
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "stejay"
-sidebar_position: 347
-sidebar_class_name: " has-audio"
+sidebar_position: 348
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
   - Corvidae (Crows, Jays, and Magpies)
   - Jays, Magpies, Crows, and Ravens
-  - Needs Photo
+  - Has Photo
   - Has Audio
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=stejay) | [Map](/map?species_code=stejay)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: Yes
 
@@ -36,7 +36,7 @@ Steller's jay (Cyanocitta stelleri) is a bird native to western North America an
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/627874239/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 <iframe src="https://macaulaylibrary.org/asset/626995552/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>

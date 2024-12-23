@@ -5,13 +5,13 @@ order: "Passeriformes"
 family: "Turdidae (Thrushes and Allies)"
 species_group: "Thrushes"
 species_code: "wesblu"
-sidebar_position: 379
-sidebar_class_name: " "
+sidebar_position: 381
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Turdidae (Thrushes and Allies)
   - Thrushes
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wesblu) | [Map](/map?species_code=wesblu)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
@@ -36,7 +36,7 @@ The western bluebird (Sialia mexicana) is a small North American thrush.[^1]
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/627114479/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

@@ -5,7 +5,7 @@ order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
 species_group: "Vultures, Hawks, and Allies"
 species_code: "whtkit"
-sidebar_position: 398
+sidebar_position: 400
 sidebar_class_name: "has-photo has-audio"
 tags: 
   - Accipitriformes
@@ -42,6 +42,7 @@ The white-tailed kite (Elanus leucurus) is a small raptor found in western North
 
 ### Audio Recordings
 <iframe src="https://macaulaylibrary.org/asset/626618148/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/627593370/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 <iframe src="https://macaulaylibrary.org/asset/626995496/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 
 ## Links

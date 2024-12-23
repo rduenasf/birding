@@ -6,12 +6,12 @@ family: "Strigidae (Owls)"
 species_group: "Owls"
 species_code: "grhowl"
 sidebar_position: 177
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Strigiformes
   - Strigidae (Owls)
   - Owls
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grhowl) | [Map](/map?species_code=grhowl)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
@@ -37,7 +37,7 @@ In ornithological study, the great horned owl is often compared to the Eurasian 
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/627869758/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

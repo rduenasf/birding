@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Vireonidae (Vireos, Shrike-Babblers, and Erpornis)"
 species_group: "Vireos"
 species_code: "whevir"
-sidebar_position: 395
+sidebar_position: 397
 sidebar_class_name: " "
 tags: 
   - Passeriformes

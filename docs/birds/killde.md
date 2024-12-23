@@ -6,12 +6,12 @@ family: "Charadriidae (Plovers and Lapwings)"
 species_group: "Shorebirds"
 species_code: "killde"
 sidebar_position: 210
-sidebar_class_name: " has-audio"
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Charadriiformes
   - Charadriidae (Plovers and Lapwings)
   - Shorebirds
-  - Needs Photo
+  - Has Photo
   - Has Audio
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=killde) | [Map](/map?species_code=killde)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: Yes
 
@@ -38,7 +38,7 @@ The killdeer primarily feeds on insects, although other invertebrates and seeds 
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/627868905/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 <iframe src="https://macaulaylibrary.org/asset/626557748/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>

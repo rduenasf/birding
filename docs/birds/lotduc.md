@@ -6,12 +6,12 @@ family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "lotduc"
 sidebar_position: 226
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Anseriformes
   - Anatidae (Ducks, Geese, and Waterfowl)
   - Waterfowl
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=lotduc) | [Map](/map?species_code=lotduc)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
@@ -36,7 +36,7 @@ The long-tailed duck (Clangula hyemalis) or coween, formerly known as the oldsqu
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/627869111/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

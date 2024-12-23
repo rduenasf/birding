@@ -6,12 +6,12 @@ family: "Accipitridae (Hawks, Eagles, and Kites)"
 species_group: "Vultures, Hawks, and Allies"
 species_code: "coohaw"
 sidebar_position: 128
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Accipitriformes
   - Accipitridae (Hawks, Eagles, and Kites)
   - Vultures, Hawks, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=coohaw) | [Map](/map?species_code=coohaw)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
@@ -38,7 +38,7 @@ Like most related hawks, Cooper's hawks prefer to nest in tall trees with extens
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/627868716/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

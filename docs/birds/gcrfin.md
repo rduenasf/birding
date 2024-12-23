@@ -6,12 +6,12 @@ family: "Fringillidae (Finches, Euphonias, and Allies)"
 species_group: "Finches, Euphonias, and Allies"
 species_code: "gcrfin"
 sidebar_position: 171
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Fringillidae (Finches, Euphonias, and Allies)
   - Finches, Euphonias, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gcrfin) | [Map](/map?species_code=gcrfin)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
@@ -36,7 +36,7 @@ The gray-crowned rosy finch or gray-crowned rosy-finch (Leucosticte tephrocotis)
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/627867943/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

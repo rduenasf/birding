@@ -6,12 +6,12 @@ family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "chiwig1"
 sidebar_position: 108
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Anseriformes
   - Anatidae (Ducks, Geese, and Waterfowl)
   - Waterfowl
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chiwig1) | [Map](/map?species_code=chiwig1)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
@@ -37,7 +37,7 @@ In its native range, it is called the pato overo ("piebald duck") or pato real (
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/627867390/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

@@ -5,7 +5,7 @@ order: "Apodiformes"
 family: "Trochilidae (Hummingbirds)"
 species_group: "Hummingbirds"
 species_code: "whehum"
-sidebar_position: 394
+sidebar_position: 396
 sidebar_class_name: " "
 tags: 
   - Apodiformes

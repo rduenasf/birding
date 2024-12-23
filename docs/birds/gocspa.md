@@ -40,6 +40,8 @@ No photographs available.
 
 ### Audio Recordings
 <iframe src="https://macaulaylibrary.org/asset/626485053/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/627219338/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/627219362/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 <iframe src="https://macaulaylibrary.org/asset/626583978/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 
 ## Links

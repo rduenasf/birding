@@ -6,12 +6,12 @@ family: "Corvidae (Crows, Jays, and Magpies)"
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "amecro"
 sidebar_position: 7
-sidebar_class_name: " has-audio"
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
   - Corvidae (Crows, Jays, and Magpies)
   - Jays, Magpies, Crows, and Ravens
-  - Needs Photo
+  - Has Photo
   - Has Audio
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=amecro) | [Map](/map?species_code=amecro)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: Yes
 
@@ -38,7 +38,7 @@ American crows are common, widespread, and susceptible to the West Nile virus, m
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/627868551/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 <iframe src="https://macaulaylibrary.org/asset/626557692/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>

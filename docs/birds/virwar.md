@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
 species_group: "Wood-Warblers"
 species_code: "virwar"
-sidebar_position: 375
+sidebar_position: 376
 sidebar_class_name: " "
 tags: 
   - Passeriformes

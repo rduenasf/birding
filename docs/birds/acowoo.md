@@ -6,12 +6,12 @@ family: "Picidae (Woodpeckers)"
 species_group: "Woodpeckers"
 species_code: "acowoo"
 sidebar_position: 2
-sidebar_class_name: " has-audio"
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Piciformes
   - Picidae (Woodpeckers)
   - Woodpeckers
-  - Needs Photo
+  - Has Photo
   - Has Audio
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=acowoo) | [Map](/map?species_code=acowoo)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: Yes
 
@@ -36,11 +36,14 @@ The acorn woodpecker (Melanerpes formicivorus) is a medium-sized woodpecker with
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/627869005/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
+<iframe src="https://macaulaylibrary.org/asset/627274808/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 <iframe src="https://macaulaylibrary.org/asset/626995429/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 <iframe src="https://macaulaylibrary.org/asset/626995430/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/627219250/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/627219355/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/acowoo) 

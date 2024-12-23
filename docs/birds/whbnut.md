@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Sittidae (Nuthatches)"
 species_group: "Nuthatches"
 species_code: "whbnut"
-sidebar_position: 390
+sidebar_position: 392
 sidebar_class_name: " "
 tags: 
   - Passeriformes

@@ -6,12 +6,12 @@ family: "Tyrannidae (Tyrant Flycatchers)"
 species_group: "Tyrant Flycatchers: Elaenias, Tyrannulets, and Allies"
 species_code: "mcrtyr1"
 sidebar_position: 232
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Tyrannidae (Tyrant Flycatchers)
   - Tyrant Flycatchers - Elaenias, Tyrannulets, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mcrtyr1) | [Map](/map?species_code=mcrtyr1)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
@@ -36,7 +36,8 @@ The many-colored rush tyrant or many-coloured rush tyrant (Tachuris rubrigastra)
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/627867371/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/627867381/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

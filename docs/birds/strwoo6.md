@@ -5,7 +5,7 @@ order: "Piciformes"
 family: "Picidae (Woodpeckers)"
 species_group: "Woodpeckers"
 species_code: "strwoo6"
-sidebar_position: 352
+sidebar_position: 353
 sidebar_class_name: " "
 tags: 
   - Piciformes

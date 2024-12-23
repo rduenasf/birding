@@ -6,12 +6,12 @@ family: "Fregatidae (Frigatebirds)"
 species_group: "Frigatebirds, Boobies, and Gannets"
 species_code: "magfri"
 sidebar_position: 230
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Suliformes
   - Fregatidae (Frigatebirds)
   - Frigatebirds, Boobies, and Gannets
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=magfri) | [Map](/map?species_code=magfri)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
@@ -37,7 +37,8 @@ The magnificent frigatebird is a large, lightly built seabird with brownish-blac
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/627874839/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/627868077/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

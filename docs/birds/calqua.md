@@ -40,6 +40,7 @@ Their closest relative is Gambel's quail, which has a more southerly distributio
 No photographs available.
 
 ### Audio Recordings
+<iframe src="https://macaulaylibrary.org/asset/627274791/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 <iframe src="https://macaulaylibrary.org/asset/626995523/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 <iframe src="https://macaulaylibrary.org/asset/626995524/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 

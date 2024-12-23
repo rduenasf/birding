@@ -6,12 +6,12 @@ family: "Icteridae (Troupials and Allies)"
 species_group: "Blackbirds"
 species_code: "grtgra"
 sidebar_position: 179
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Icteridae (Troupials and Allies)
   - Blackbirds
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grtgra) | [Map](/map?species_code=grtgra)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
@@ -37,7 +37,7 @@ In some parts of México, the grackle is sometimes referred to in Spanish as cue
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/627869315/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

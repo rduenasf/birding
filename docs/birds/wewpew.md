@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "wewpew"
-sidebar_position: 387
+sidebar_position: 389
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes

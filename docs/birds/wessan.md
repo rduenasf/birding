@@ -5,7 +5,7 @@ order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
 species_group: "Shorebirds"
 species_code: "wessan"
-sidebar_position: 385
+sidebar_position: 387
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

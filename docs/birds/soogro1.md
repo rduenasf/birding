@@ -5,13 +5,13 @@ order: "Galliformes"
 family: "Phasianidae (Pheasants, Grouse, and Allies)"
 species_group: "Grouse, Quail, and Allies"
 species_code: "soogro1"
-sidebar_position: 338
-sidebar_class_name: " "
+sidebar_position: 339
+sidebar_class_name: "has-photo "
 tags: 
   - Galliformes
   - Phasianidae (Pheasants, Grouse, and Allies)
   - Grouse, Quail, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=soogro1) | [Map](/map?species_code=soogro1)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
@@ -36,7 +36,7 @@ The sooty grouse (Dendragapus fuliginosus) is a species of forest-dwelling grous
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/627868759/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

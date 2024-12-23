@@ -6,12 +6,12 @@ family: "Trochilidae (Hummingbirds)"
 species_group: "Hummingbirds"
 species_code: "annhum"
 sidebar_position: 20
-sidebar_class_name: " has-audio"
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Apodiformes
   - Trochilidae (Hummingbirds)
   - Hummingbirds
-  - Needs Photo
+  - Has Photo
   - Has Audio
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=annhum) | [Map](/map?species_code=annhum)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: Yes
 
@@ -38,9 +38,10 @@ These birds feed on nectar from flowers using a long extendable tongue. They als
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/627869182/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
+<iframe src="https://macaulaylibrary.org/asset/627219266/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 <iframe src="https://macaulaylibrary.org/asset/626917191/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 <iframe src="https://macaulaylibrary.org/asset/626843418/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 <iframe src="https://macaulaylibrary.org/asset/626583047/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>

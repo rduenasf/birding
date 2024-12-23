@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Furnariidae (Ovenbirds and Woodcreepers)"
 species_group: "Ovenbirds"
 species_code: "shbcan2"
-sidebar_position: 330
+sidebar_position: 331
 sidebar_class_name: " "
 tags: 
   - Passeriformes

@@ -6,12 +6,12 @@ family: "Rallidae (Rails, Gallinules, and Coots)"
 species_group: "Rails, Gallinules, and Allies"
 species_code: "regcoo1"
 sidebar_position: 292
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Gruiformes
   - Rallidae (Rails, Gallinules, and Coots)
   - Rails, Gallinules, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=regcoo1) | [Map](/map?species_code=regcoo1)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
@@ -36,7 +36,8 @@ The red-gartered coot (Fulica armillata) is a species of bird in subfamily Ralli
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/627867360/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/627867315/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

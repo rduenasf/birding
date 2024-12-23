@@ -37,6 +37,7 @@ Brewer's blackbird (Euphagus cyanocephalus) is a medium-sized New World blackbir
 ## Media
 ### Photographs
 <iframe src="https://macaulaylibrary.org/asset/614231410/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/627869509/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

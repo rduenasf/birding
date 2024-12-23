@@ -6,12 +6,12 @@ family: "Podicipedidae (Grebes)"
 species_group: "Grebes"
 species_code: "gregre1"
 sidebar_position: 176
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Podicipediformes
   - Podicipedidae (Grebes)
   - Grebes
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gregre1) | [Map](/map?species_code=gregre1)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
@@ -36,7 +36,8 @@ The great grebe (Podiceps major) is the largest species of grebe in the world. A
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/627874550/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/627874551/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

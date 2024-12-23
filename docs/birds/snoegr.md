@@ -5,13 +5,13 @@ order: "Pelecaniformes"
 family: "Ardeidae (Herons, Egrets, and Bitterns)"
 species_group: "Herons, Ibis, and Allies"
 species_code: "snoegr"
-sidebar_position: 336
-sidebar_class_name: " "
+sidebar_position: 337
+sidebar_class_name: "has-photo "
 tags: 
   - Pelecaniformes
   - Ardeidae (Herons, Egrets, and Bitterns)
   - Herons, Ibis, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=snoegr) | [Map](/map?species_code=snoegr)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
@@ -37,7 +37,7 @@ The snowy egret is the American counterpart to the very similar Old World little
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/627869446/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

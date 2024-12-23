@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Furnariidae (Ovenbirds and Woodcreepers)"
 species_group: "Ovenbirds"
 species_code: "wrlrus1"
-sidebar_position: 412
+sidebar_position: 414
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
@@ -36,6 +36,8 @@ The wren-like rushbird (Phleocryptes melanops) is a species of bird in the Furna
 
 ## Media
 ### Photographs
+<iframe src="https://macaulaylibrary.org/asset/627867342/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/627867302/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 <iframe src="https://macaulaylibrary.org/asset/625246708/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings

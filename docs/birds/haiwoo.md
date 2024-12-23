@@ -6,13 +6,13 @@ family: "Picidae (Woodpeckers)"
 species_group: "Woodpeckers"
 species_code: "haiwoo"
 sidebar_position: 191
-sidebar_class_name: " "
+sidebar_class_name: " has-audio"
 tags: 
   - Piciformes
   - Picidae (Woodpeckers)
   - Woodpeckers
   - Needs Photo
-  - Needs Audio
+  - Has Audio
 ---
 
 # Hairy Woodpecker <span className='sci_name'>Dryobates villosus</span>
@@ -27,7 +27,7 @@ tags:
 
 **Photo**: No 
 
-**Audio**: No
+**Audio**: Yes
 
 ## Description
 The hairy woodpecker (Leuconotopicus villosus) is a medium-sized woodpecker that is found over a large area of North America. It is approximately 250 mm (9.8 in) in length with a 380 mm (15 in) wingspan. With an estimated population in 2020 of almost nine million individuals, the hairy woodpecker is listed by the IUCN as a species of least concern. Some nomenclature authorities, such as the eBird/Clements checklist, place this species in the genus Dryobates.[^1]
@@ -39,7 +39,7 @@ The hairy woodpecker (Leuconotopicus villosus) is a medium-sized woodpecker that
 No photographs available.
 
 ### Audio Recordings
-No audio recordings available.
+<iframe src="https://macaulaylibrary.org/asset/627219348/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/haiwoo) 

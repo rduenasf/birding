@@ -39,6 +39,7 @@ The black-crowned night heron (Nycticorax nycticorax) [or black-capped night her
 <iframe src="https://macaulaylibrary.org/asset/617717429/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 <iframe src="https://macaulaylibrary.org/asset/617717427/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 <iframe src="https://macaulaylibrary.org/asset/617717428/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/627869375/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.
