@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Black-faced Ibis (Theristicus melanopis)
+# Black-faced Ibis <span className='sci_name'>Theristicus melanopis</span>
 
 **Order:** [Pelecaniformes](/tags/pelecaniformes)
 

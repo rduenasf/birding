@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# West Mexican Chachalaca (Ortalis poliocephala)
+# West Mexican Chachalaca <span className='sci_name'>Ortalis poliocephala</span>
 
 **Order:** [Galliformes](/tags/galliformes)
 

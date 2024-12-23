@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Peruvian Booby (Sula variegata)
+# Peruvian Booby <span className='sci_name'>Sula variegata</span>
 
 **Order:** [Suliformes](/tags/suliformes)
 

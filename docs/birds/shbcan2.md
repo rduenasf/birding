@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Sharp-billed Canastero (Asthenes pyrrholeuca)
+# Sharp-billed Canastero <span className='sci_name'>Asthenes pyrrholeuca</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Black-winged Ground Dove (Metriopelia melanoptera)
+# Black-winged Ground Dove <span className='sci_name'>Metriopelia melanoptera</span>
 
 **Order:** [Columbiformes](/tags/columbiformes)
 

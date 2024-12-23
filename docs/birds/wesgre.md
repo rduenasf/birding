@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Western Grebe (Aechmophorus occidentalis)
+# Western Grebe <span className='sci_name'>Aechmophorus occidentalis</span>
 
 **Order:** [Podicipediformes](/tags/podicipediformes)
 

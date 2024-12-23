@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Red-bellied Woodpecker (Melanerpes carolinus)
+# Red-bellied Woodpecker <span className='sci_name'>Melanerpes carolinus</span>
 
 **Order:** [Piciformes](/tags/piciformes)
 

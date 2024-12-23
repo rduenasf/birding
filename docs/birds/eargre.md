@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Eared Grebe (Podiceps nigricollis)
+# Eared Grebe <span className='sci_name'>Podiceps nigricollis</span>
 
 **Order:** [Podicipediformes](/tags/podicipediformes)
 

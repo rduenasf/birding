@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Townsend's Warbler (Setophaga townsendi)
+# Townsend's Warbler <span className='sci_name'>Setophaga townsendi</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

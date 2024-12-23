@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Scott's Oriole (Icterus parisorum)
+# Scott's Oriole <span className='sci_name'>Icterus parisorum</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

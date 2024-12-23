@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Hooded Oriole (Icterus cucullatus)
+# Hooded Oriole <span className='sci_name'>Icterus cucullatus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

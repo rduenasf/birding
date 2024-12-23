@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Boat-tailed Grackle (Quiscalus major)
+# Boat-tailed Grackle <span className='sci_name'>Quiscalus major</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

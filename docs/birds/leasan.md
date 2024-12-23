@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Least Sandpiper (Calidris minutilla)
+# Least Sandpiper <span className='sci_name'>Calidris minutilla</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

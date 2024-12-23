@@ -76,7 +76,7 @@ tags:
   - ${audioEmbeds.length > 0 ? "Has Audio" : "Needs Audio"}
 ---
 
-# ${primaryComName} (${sciName})
+# ${primaryComName} <span className='sci_name'>${sciName}</span>
 
 **Order:** [${order}](/tags/${generateSlug(order)})
 

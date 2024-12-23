@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Black-headed Grosbeak (Pheucticus melanocephalus)
+# Black-headed Grosbeak <span className='sci_name'>Pheucticus melanocephalus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

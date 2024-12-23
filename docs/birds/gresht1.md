@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Great Shrike-Tyrant (Agriornis lividus)
+# Great Shrike-Tyrant <span className='sci_name'>Agriornis lividus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

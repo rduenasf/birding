@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Spectacled Tyrant (Hymenops perspicillatus)
+# Spectacled Tyrant <span className='sci_name'>Hymenops perspicillatus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

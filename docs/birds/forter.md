@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Forster's Tern (Sterna forsteri)
+# Forster's Tern <span className='sci_name'>Sterna forsteri</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

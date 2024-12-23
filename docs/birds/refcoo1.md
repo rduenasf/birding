@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Red-fronted Coot (Fulica rufifrons)
+# Red-fronted Coot <span className='sci_name'>Fulica rufifrons</span>
 
 **Order:** [Gruiformes](/tags/gruiformes)
 

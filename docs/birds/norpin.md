@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Northern Pintail (Anas acuta)
+# Northern Pintail <span className='sci_name'>Anas acuta</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

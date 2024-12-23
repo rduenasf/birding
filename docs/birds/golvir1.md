@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Golden Vireo (Vireo hypochryseus)
+# Golden Vireo <span className='sci_name'>Vireo hypochryseus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

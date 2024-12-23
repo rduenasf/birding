@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Harlequin Duck (Histrionicus histrionicus)
+# Harlequin Duck <span className='sci_name'>Histrionicus histrionicus</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

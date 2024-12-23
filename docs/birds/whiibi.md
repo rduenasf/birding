@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# White Ibis (Eudocimus albus)
+# White Ibis <span className='sci_name'>Eudocimus albus</span>
 
 **Order:** [Pelecaniformes](/tags/pelecaniformes)
 

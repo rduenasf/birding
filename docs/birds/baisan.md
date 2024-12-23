@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Baird's Sandpiper (Calidris bairdii)
+# Baird's Sandpiper <span className='sci_name'>Calidris bairdii</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

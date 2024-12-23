@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# European Starling (Sturnus vulgaris)
+# European Starling <span className='sci_name'>Sturnus vulgaris</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

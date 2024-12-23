@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# American Avocet (Recurvirostra americana)
+# American Avocet <span className='sci_name'>Recurvirostra americana</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

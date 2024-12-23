@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Great-tailed Grackle (Quiscalus mexicanus)
+# Great-tailed Grackle <span className='sci_name'>Quiscalus mexicanus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

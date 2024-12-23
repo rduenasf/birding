@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Semipalmated Plover (Charadrius semipalmatus)
+# Semipalmated Plover <span className='sci_name'>Charadrius semipalmatus</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Lesser Goldfinch (Spinus psaltria)
+# Lesser Goldfinch <span className='sci_name'>Spinus psaltria</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

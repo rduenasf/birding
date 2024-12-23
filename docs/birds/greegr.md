@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Great Egret (Ardea alba)
+# Great Egret <span className='sci_name'>Ardea alba</span>
 
 **Order:** [Pelecaniformes](/tags/pelecaniformes)
 

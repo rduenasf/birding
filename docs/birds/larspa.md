@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Lark Sparrow (Chondestes grammacus)
+# Lark Sparrow <span className='sci_name'>Chondestes grammacus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

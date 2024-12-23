@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Northern Rough-winged Swallow (Stelgidopteryx serripennis)
+# Northern Rough-winged Swallow <span className='sci_name'>Stelgidopteryx serripennis</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

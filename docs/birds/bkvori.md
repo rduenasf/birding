@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Black-vented Oriole (Icterus wagleri)
+# Black-vented Oriole <span className='sci_name'>Icterus wagleri</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

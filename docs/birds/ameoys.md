@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# American Oystercatcher (Haematopus palliatus)
+# American Oystercatcher <span className='sci_name'>Haematopus palliatus</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

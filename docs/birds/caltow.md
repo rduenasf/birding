@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# California Towhee (Melozone crissalis)
+# California Towhee <span className='sci_name'>Melozone crissalis</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# California Quail (Callipepla californica)
+# California Quail <span className='sci_name'>Callipepla californica</span>
 
 **Order:** [Galliformes](/tags/galliformes)
 

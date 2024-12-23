@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Cassin's Auklet (Ptychoramphus aleuticus)
+# Cassin's Auklet <span className='sci_name'>Ptychoramphus aleuticus</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Common Myna (Acridotheres tristis)
+# Common Myna <span className='sci_name'>Acridotheres tristis</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

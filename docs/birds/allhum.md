@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Allen's Hummingbird (Selasphorus sasin)
+# Allen's Hummingbird <span className='sci_name'>Selasphorus sasin</span>
 
 **Order:** [Apodiformes](/tags/apodiformes)
 

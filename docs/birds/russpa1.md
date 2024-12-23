@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Rusty Sparrow (Aimophila rufescens)
+# Rusty Sparrow <span className='sci_name'>Aimophila rufescens</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

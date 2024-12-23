@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Merlin (Falco columbarius)
+# Merlin <span className='sci_name'>Falco columbarius</span>
 
 **Order:** [Falconiformes](/tags/falconiformes)
 

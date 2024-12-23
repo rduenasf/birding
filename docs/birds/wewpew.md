@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Western Wood-Pewee (Contopus sordidulus)
+# Western Wood-Pewee <span className='sci_name'>Contopus sordidulus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Northern Harrier (Circus hudsonius)
+# Northern Harrier <span className='sci_name'>Circus hudsonius</span>
 
 **Order:** [Accipitriformes](/tags/accipitriformes)
 

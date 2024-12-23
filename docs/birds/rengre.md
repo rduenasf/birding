@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Red-necked Grebe (Podiceps grisegena)
+# Red-necked Grebe <span className='sci_name'>Podiceps grisegena</span>
 
 **Order:** [Podicipediformes](/tags/podicipediformes)
 

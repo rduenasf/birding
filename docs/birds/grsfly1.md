@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Gray Silky-flycatcher (Ptiliogonys cinereus)
+# Gray Silky-flycatcher <span className='sci_name'>Ptiliogonys cinereus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

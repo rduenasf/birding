@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Transvolcanic Jay (Aphelocoma ultramarina)
+# Transvolcanic Jay <span className='sci_name'>Aphelocoma ultramarina</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

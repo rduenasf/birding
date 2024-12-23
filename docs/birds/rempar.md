@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Red-masked Parakeet (Psittacara erythrogenys)
+# Red-masked Parakeet <span className='sci_name'>Psittacara erythrogenys</span>
 
 **Order:** [Psittaciformes](/tags/psittaciformes)
 

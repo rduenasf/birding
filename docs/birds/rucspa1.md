@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Rufous-collared Sparrow (Zonotrichia capensis)
+# Rufous-collared Sparrow <span className='sci_name'>Zonotrichia capensis</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

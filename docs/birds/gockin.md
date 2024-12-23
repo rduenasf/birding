@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Golden-crowned Kinglet (Regulus satrapa)
+# Golden-crowned Kinglet <span className='sci_name'>Regulus satrapa</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Gray-flanked Cinclodes (Cinclodes oustaleti)
+# Gray-flanked Cinclodes <span className='sci_name'>Cinclodes oustaleti</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

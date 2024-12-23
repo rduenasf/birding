@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Magnificent Frigatebird (Fregata magnificens)
+# Magnificent Frigatebird <span className='sci_name'>Fregata magnificens</span>
 
 **Order:** [Suliformes](/tags/suliformes)
 

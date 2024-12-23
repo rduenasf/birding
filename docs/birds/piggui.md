@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Pigeon Guillemot (Cepphus columba)
+# Pigeon Guillemot <span className='sci_name'>Cepphus columba</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

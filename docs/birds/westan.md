@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Western Tanager (Piranga ludoviciana)
+# Western Tanager <span className='sci_name'>Piranga ludoviciana</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

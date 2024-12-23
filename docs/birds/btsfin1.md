@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Band-tailed Sierra Finch (Rhopospina alaudina)
+# Band-tailed Sierra Finch <span className='sci_name'>Rhopospina alaudina</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

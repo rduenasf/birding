@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Bridled Titmouse (Baeolophus wollweberi)
+# Bridled Titmouse <span className='sci_name'>Baeolophus wollweberi</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

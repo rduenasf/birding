@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Western Bluebird (Sialia mexicana)
+# Western Bluebird <span className='sci_name'>Sialia mexicana</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

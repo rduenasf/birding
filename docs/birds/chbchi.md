@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Chestnut-backed Chickadee (Poecile rufescens)
+# Chestnut-backed Chickadee <span className='sci_name'>Poecile rufescens</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

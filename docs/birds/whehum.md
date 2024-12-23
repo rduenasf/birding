@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# White-eared Hummingbird (Basilinna leucotis)
+# White-eared Hummingbird <span className='sci_name'>Basilinna leucotis</span>
 
 **Order:** [Apodiformes](/tags/apodiformes)
 

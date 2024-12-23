@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Cinnamon Teal (Spatula cyanoptera)
+# Cinnamon Teal <span className='sci_name'>Spatula cyanoptera</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Snowy Egret (Egretta thula)
+# Snowy Egret <span className='sci_name'>Egretta thula</span>
 
 **Order:** [Pelecaniformes](/tags/pelecaniformes)
 

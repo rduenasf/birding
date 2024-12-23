@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Ring-billed Gull (Larus delawarensis)
+# Ring-billed Gull <span className='sci_name'>Larus delawarensis</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

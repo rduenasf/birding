@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Ring-necked Duck (Aythya collaris)
+# Ring-necked Duck <span className='sci_name'>Aythya collaris</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Black-throated Gray Warbler (Setophaga nigrescens)
+# Black-throated Gray Warbler <span className='sci_name'>Setophaga nigrescens</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

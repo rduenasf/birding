@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Painted Redstart (Myioborus pictus)
+# Painted Redstart <span className='sci_name'>Myioborus pictus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Cocoi Heron (Ardea cocoi)
+# Cocoi Heron <span className='sci_name'>Ardea cocoi</span>
 
 **Order:** [Pelecaniformes](/tags/pelecaniformes)
 

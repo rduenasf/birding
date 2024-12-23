@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Red-breasted Nuthatch (Sitta canadensis)
+# Red-breasted Nuthatch <span className='sci_name'>Sitta canadensis</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Gray-hooded Sierra Finch (Phrygilus gayi)
+# Gray-hooded Sierra Finch <span className='sci_name'>Phrygilus gayi</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

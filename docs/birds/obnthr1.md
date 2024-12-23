@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Orange-billed Nightingale-Thrush (Catharus aurantiirostris)
+# Orange-billed Nightingale-Thrush <span className='sci_name'>Catharus aurantiirostris</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

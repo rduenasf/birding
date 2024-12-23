@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Sooty Shearwater (Ardenna grisea)
+# Sooty Shearwater <span className='sci_name'>Ardenna grisea</span>
 
 **Order:** [Procellariiformes](/tags/procellariiformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# American Robin (Turdus migratorius)
+# American Robin <span className='sci_name'>Turdus migratorius</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

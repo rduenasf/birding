@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Neotropic Cormorant (Nannopterum brasilianum)
+# Neotropic Cormorant <span className='sci_name'>Nannopterum brasilianum</span>
 
 **Order:** [Suliformes](/tags/suliformes)
 

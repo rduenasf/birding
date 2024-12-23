@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# White-faced Ibis (Plegadis chihi)
+# White-faced Ibis <span className='sci_name'>Plegadis chihi</span>
 
 **Order:** [Pelecaniformes](/tags/pelecaniformes)
 

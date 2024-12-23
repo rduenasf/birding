@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# West Peruvian Dove (Zenaida meloda)
+# West Peruvian Dove <span className='sci_name'>Zenaida meloda</span>
 
 **Order:** [Columbiformes](/tags/columbiformes)
 

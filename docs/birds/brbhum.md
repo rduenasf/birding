@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Broad-billed Hummingbird (Cynanthus latirostris)
+# Broad-billed Hummingbird <span className='sci_name'>Cynanthus latirostris</span>
 
 **Order:** [Apodiformes](/tags/apodiformes)
 

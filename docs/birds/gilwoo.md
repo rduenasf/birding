@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Gila Woodpecker (Melanerpes uropygialis)
+# Gila Woodpecker <span className='sci_name'>Melanerpes uropygialis</span>
 
 **Order:** [Piciformes](/tags/piciformes)
 

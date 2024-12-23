@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Gadwall (Mareca strepera)
+# Gadwall <span className='sci_name'>Mareca strepera</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

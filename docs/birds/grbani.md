@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Groove-billed Ani (Crotophaga sulcirostris)
+# Groove-billed Ani <span className='sci_name'>Crotophaga sulcirostris</span>
 
 **Order:** [Cuculiformes](/tags/cuculiformes)
 

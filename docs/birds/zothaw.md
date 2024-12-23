@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Zone-tailed Hawk (Buteo albonotatus)
+# Zone-tailed Hawk <span className='sci_name'>Buteo albonotatus</span>
 
 **Order:** [Accipitriformes](/tags/accipitriformes)
 

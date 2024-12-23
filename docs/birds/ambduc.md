@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# American Black Duck (Anas rubripes)
+# American Black Duck <span className='sci_name'>Anas rubripes</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

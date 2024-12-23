@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Osprey (Pandion haliaetus)
+# Osprey <span className='sci_name'>Pandion haliaetus</span>
 
 **Order:** [Accipitriformes](/tags/accipitriformes)
 

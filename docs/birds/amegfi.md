@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# American Goldfinch (Spinus tristis)
+# American Goldfinch <span className='sci_name'>Spinus tristis</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# White-throated Flycatcher (Empidonax albigularis)
+# White-throated Flycatcher <span className='sci_name'>Empidonax albigularis</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

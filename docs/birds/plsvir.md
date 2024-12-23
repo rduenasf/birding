@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Plumbeous Vireo (Vireo plumbeus)
+# Plumbeous Vireo <span className='sci_name'>Vireo plumbeus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

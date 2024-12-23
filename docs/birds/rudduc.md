@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Ruddy Duck (Oxyura jamaicensis)
+# Ruddy Duck <span className='sci_name'>Oxyura jamaicensis</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

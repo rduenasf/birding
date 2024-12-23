@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Mexican Duck (Anas diazi)
+# Mexican Duck <span className='sci_name'>Anas diazi</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

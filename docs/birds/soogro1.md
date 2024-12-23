@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Sooty Grouse (Dendragapus fuliginosus)
+# Sooty Grouse <span className='sci_name'>Dendragapus fuliginosus</span>
 
 **Order:** [Galliformes](/tags/galliformes)
 

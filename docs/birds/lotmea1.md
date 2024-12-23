@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Long-tailed Meadowlark (Leistes loyca)
+# Long-tailed Meadowlark <span className='sci_name'>Leistes loyca</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

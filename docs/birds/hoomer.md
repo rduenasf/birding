@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Hooded Merganser (Lophodytes cucullatus)
+# Hooded Merganser <span className='sci_name'>Lophodytes cucullatus</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

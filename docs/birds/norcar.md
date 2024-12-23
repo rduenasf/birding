@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Northern Cardinal (Cardinalis cardinalis)
+# Northern Cardinal <span className='sci_name'>Cardinalis cardinalis</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Buff-breasted Flycatcher (Empidonax fulvifrons)
+# Buff-breasted Flycatcher <span className='sci_name'>Empidonax fulvifrons</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

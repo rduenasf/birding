@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Gray Gull (Leucophaeus modestus)
+# Gray Gull <span className='sci_name'>Leucophaeus modestus</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

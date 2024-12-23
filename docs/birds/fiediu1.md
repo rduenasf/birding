@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Fire-eyed Diucon (Pyrope pyrope)
+# Fire-eyed Diucon <span className='sci_name'>Pyrope pyrope</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Eastern Towhee (Pipilo erythrophthalmus)
+# Eastern Towhee <span className='sci_name'>Pipilo erythrophthalmus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

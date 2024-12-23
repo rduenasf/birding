@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Lesser Horned Owl (Bubo magellanicus)
+# Lesser Horned Owl <span className='sci_name'>Bubo magellanicus</span>
 
 **Order:** [Strigiformes](/tags/strigiformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Rufous Hummingbird (Selasphorus rufus)
+# Rufous Hummingbird <span className='sci_name'>Selasphorus rufus</span>
 
 **Order:** [Apodiformes](/tags/apodiformes)
 

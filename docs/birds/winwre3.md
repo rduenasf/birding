@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Winter Wren (Troglodytes hiemalis)
+# Winter Wren <span className='sci_name'>Troglodytes hiemalis</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

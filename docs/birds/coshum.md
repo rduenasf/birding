@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Costa's Hummingbird (Calypte costae)
+# Costa's Hummingbird <span className='sci_name'>Calypte costae</span>
 
 **Order:** [Apodiformes](/tags/apodiformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Gambel's Quail (Callipepla gambelii)
+# Gambel's Quail <span className='sci_name'>Callipepla gambelii</span>
 
 **Order:** [Galliformes](/tags/galliformes)
 

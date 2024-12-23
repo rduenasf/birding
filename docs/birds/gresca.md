@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Greater Scaup (Aythya marila)
+# Greater Scaup <span className='sci_name'>Aythya marila</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

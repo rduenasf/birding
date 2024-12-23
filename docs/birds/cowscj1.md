@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# California Scrub-Jay (Aphelocoma californica)
+# California Scrub-Jay <span className='sci_name'>Aphelocoma californica</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Black-necked Stilt (Himantopus mexicanus)
+# Black-necked Stilt <span className='sci_name'>Himantopus mexicanus</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

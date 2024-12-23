@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Phainopepla (Phainopepla nitens)
+# Phainopepla <span className='sci_name'>Phainopepla nitens</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Canyon Wren (Catherpes mexicanus)
+# Canyon Wren <span className='sci_name'>Catherpes mexicanus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

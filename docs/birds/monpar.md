@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Monk Parakeet (Myiopsitta monachus)
+# Monk Parakeet <span className='sci_name'>Myiopsitta monachus</span>
 
 **Order:** [Psittaciformes](/tags/psittaciformes)
 

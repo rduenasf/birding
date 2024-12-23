@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Killdeer (Charadrius vociferus)
+# Killdeer <span className='sci_name'>Charadrius vociferus</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

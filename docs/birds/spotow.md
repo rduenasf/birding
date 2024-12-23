@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Spotted Towhee (Pipilo maculatus)
+# Spotted Towhee <span className='sci_name'>Pipilo maculatus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

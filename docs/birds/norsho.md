@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Northern Shoveler (Spatula clypeata)
+# Northern Shoveler <span className='sci_name'>Spatula clypeata</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

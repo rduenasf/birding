@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Lesser Scaup (Aythya affinis)
+# Lesser Scaup <span className='sci_name'>Aythya affinis</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

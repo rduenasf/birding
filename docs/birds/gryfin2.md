@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Greater Yellow-Finch (Sicalis auriventris)
+# Greater Yellow-Finch <span className='sci_name'>Sicalis auriventris</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

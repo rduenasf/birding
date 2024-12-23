@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Curve-billed Thrasher (Toxostoma curvirostre)
+# Curve-billed Thrasher <span className='sci_name'>Toxostoma curvirostre</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

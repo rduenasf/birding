@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Verdin (Auriparus flaviceps)
+# Verdin <span className='sci_name'>Auriparus flaviceps</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

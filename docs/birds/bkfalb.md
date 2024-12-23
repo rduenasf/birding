@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Black-footed Albatross (Phoebastria nigripes)
+# Black-footed Albatross <span className='sci_name'>Phoebastria nigripes</span>
 
 **Order:** [Procellariiformes](/tags/procellariiformes)
 

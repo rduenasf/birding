@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Dunlin (Calidris alpina)
+# Dunlin <span className='sci_name'>Calidris alpina</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Pygmy Nuthatch (Sitta pygmaea)
+# Pygmy Nuthatch <span className='sci_name'>Sitta pygmaea</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

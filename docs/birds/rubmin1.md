@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Rufous-banded Miner (Geositta rufipennis)
+# Rufous-banded Miner <span className='sci_name'>Geositta rufipennis</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

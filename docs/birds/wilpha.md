@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Wilson's Phalarope (Phalaropus tricolor)
+# Wilson's Phalarope <span className='sci_name'>Phalaropus tricolor</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

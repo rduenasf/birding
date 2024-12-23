@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# White-throated Thrush (Turdus assimilis)
+# White-throated Thrush <span className='sci_name'>Turdus assimilis</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

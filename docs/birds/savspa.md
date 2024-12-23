@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Savannah Sparrow (Passerculus sandwichensis)
+# Savannah Sparrow <span className='sci_name'>Passerculus sandwichensis</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

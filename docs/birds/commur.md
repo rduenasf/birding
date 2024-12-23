@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Common Murre (Uria aalge)
+# Common Murre <span className='sci_name'>Uria aalge</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

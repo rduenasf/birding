@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Heermann's Gull (Larus heermanni)
+# Heermann's Gull <span className='sci_name'>Larus heermanni</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

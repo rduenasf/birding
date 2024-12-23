@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Pyrrhuloxia (Cardinalis sinuatus)
+# Pyrrhuloxia <span className='sci_name'>Cardinalis sinuatus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

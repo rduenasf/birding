@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Arizona Woodpecker (Dryobates arizonae)
+# Arizona Woodpecker <span className='sci_name'>Dryobates arizonae</span>
 
 **Order:** [Piciformes](/tags/piciformes)
 

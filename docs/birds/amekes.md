@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# American Kestrel (Falco sparverius)
+# American Kestrel <span className='sci_name'>Falco sparverius</span>
 
 **Order:** [Falconiformes](/tags/falconiformes)
 

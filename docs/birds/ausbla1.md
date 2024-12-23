@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Austral Blackbird (Curaeus curaeus)
+# Austral Blackbird <span className='sci_name'>Curaeus curaeus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

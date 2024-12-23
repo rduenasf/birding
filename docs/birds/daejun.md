@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Dark-eyed Junco (Junco hyemalis)
+# Dark-eyed Junco <span className='sci_name'>Junco hyemalis</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

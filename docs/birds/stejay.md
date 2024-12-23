@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Steller's Jay (Cyanocitta stelleri)
+# Steller's Jay <span className='sci_name'>Cyanocitta stelleri</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

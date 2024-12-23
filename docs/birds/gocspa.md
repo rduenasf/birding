@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Golden-crowned Sparrow (Zonotrichia atricapilla)
+# Golden-crowned Sparrow <span className='sci_name'>Zonotrichia atricapilla</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

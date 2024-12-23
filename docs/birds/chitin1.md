@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Chilean Tinamou (Nothoprocta perdicaria)
+# Chilean Tinamou <span className='sci_name'>Nothoprocta perdicaria</span>
 
 **Order:** [Tinamiformes](/tags/tinamiformes)
 

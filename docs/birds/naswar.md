@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Nashville Warbler (Leiothlypis ruficapilla)
+# Nashville Warbler <span className='sci_name'>Leiothlypis ruficapilla</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

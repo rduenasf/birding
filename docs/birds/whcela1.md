@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# White-crested Elaenia (Elaenia albiceps)
+# White-crested Elaenia <span className='sci_name'>Elaenia albiceps</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Canyon Towhee (Melozone fusca)
+# Canyon Towhee <span className='sci_name'>Melozone fusca</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Grassland Yellow-Finch (Sicalis luteola)
+# Grassland Yellow-Finch <span className='sci_name'>Sicalis luteola</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

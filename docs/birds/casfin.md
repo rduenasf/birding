@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Cassin's Finch (Haemorhous cassinii)
+# Cassin's Finch <span className='sci_name'>Haemorhous cassinii</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Royal Tern (Thalasseus maximus)
+# Royal Tern <span className='sci_name'>Thalasseus maximus</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

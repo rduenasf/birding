@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Bewick's Wren (Thryomanes bewickii)
+# Bewick's Wren <span className='sci_name'>Thryomanes bewickii</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

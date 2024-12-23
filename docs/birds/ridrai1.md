@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Ridgway's Rail (Rallus obsoletus)
+# Ridgway's Rail <span className='sci_name'>Rallus obsoletus</span>
 
 **Order:** [Gruiformes](/tags/gruiformes)
 

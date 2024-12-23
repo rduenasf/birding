@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Abert's Towhee (Melozone aberti)
+# Abert's Towhee <span className='sci_name'>Melozone aberti</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

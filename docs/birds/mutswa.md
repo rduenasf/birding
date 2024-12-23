@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Mute Swan (Cygnus olor)
+# Mute Swan <span className='sci_name'>Cygnus olor</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

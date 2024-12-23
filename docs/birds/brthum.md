@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Broad-tailed Hummingbird (Selasphorus platycercus)
+# Broad-tailed Hummingbird <span className='sci_name'>Selasphorus platycercus</span>
 
 **Order:** [Apodiformes](/tags/apodiformes)
 

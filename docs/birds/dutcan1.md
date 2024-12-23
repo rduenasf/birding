@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Dusky-tailed Canastero (Pseudasthenes humicola)
+# Dusky-tailed Canastero <span className='sci_name'>Pseudasthenes humicola</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

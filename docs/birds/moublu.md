@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Mountain Bluebird (Sialia currucoides)
+# Mountain Bluebird <span className='sci_name'>Sialia currucoides</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

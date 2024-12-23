@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Bronzed Cowbird (Molothrus aeneus)
+# Bronzed Cowbird <span className='sci_name'>Molothrus aeneus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

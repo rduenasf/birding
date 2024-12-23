@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Blue-and-white Swallow (Pygochelidon cyanoleuca)
+# Blue-and-white Swallow <span className='sci_name'>Pygochelidon cyanoleuca</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

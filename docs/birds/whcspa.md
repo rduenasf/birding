@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# White-crowned Sparrow (Zonotrichia leucophrys)
+# White-crowned Sparrow <span className='sci_name'>Zonotrichia leucophrys</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

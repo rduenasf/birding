@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Cedar Waxwing (Bombycilla cedrorum)
+# Cedar Waxwing <span className='sci_name'>Bombycilla cedrorum</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

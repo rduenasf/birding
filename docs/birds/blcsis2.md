@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Black-chinned Siskin (Spinus barbatus)
+# Black-chinned Siskin <span className='sci_name'>Spinus barbatus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Cooper's Hawk (Astur cooperii)
+# Cooper's Hawk <span className='sci_name'>Astur cooperii</span>
 
 **Order:** [Accipitriformes](/tags/accipitriformes)
 

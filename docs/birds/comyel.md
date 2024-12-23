@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Common Yellowthroat (Geothlypis trichas)
+# Common Yellowthroat <span className='sci_name'>Geothlypis trichas</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

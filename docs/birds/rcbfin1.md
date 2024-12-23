@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Rufous-capped Brushfinch (Atlapetes pileatus)
+# Rufous-capped Brushfinch <span className='sci_name'>Atlapetes pileatus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

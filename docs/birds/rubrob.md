@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Rufous-backed Robin (Turdus rufopalliatus)
+# Rufous-backed Robin <span className='sci_name'>Turdus rufopalliatus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

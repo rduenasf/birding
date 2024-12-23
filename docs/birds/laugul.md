@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Laughing Gull (Leucophaeus atricilla)
+# Laughing Gull <span className='sci_name'>Leucophaeus atricilla</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

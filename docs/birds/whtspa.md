@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# White-throated Sparrow (Zonotrichia albicollis)
+# White-throated Sparrow <span className='sci_name'>Zonotrichia albicollis</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

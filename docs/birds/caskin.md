@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Cassin's Kingbird (Tyrannus vociferans)
+# Cassin's Kingbird <span className='sci_name'>Tyrannus vociferans</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

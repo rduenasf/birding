@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Eared Dove (Zenaida auriculata)
+# Eared Dove <span className='sci_name'>Zenaida auriculata</span>
 
 **Order:** [Columbiformes](/tags/columbiformes)
 

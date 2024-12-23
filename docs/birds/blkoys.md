@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Black Oystercatcher (Haematopus bachmani)
+# Black Oystercatcher <span className='sci_name'>Haematopus bachmani</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

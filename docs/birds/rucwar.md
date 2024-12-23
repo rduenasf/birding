@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Rufous-capped Warbler (Basileuterus rufifrons)
+# Rufous-capped Warbler <span className='sci_name'>Basileuterus rufifrons</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Double-crested Cormorant (Nannopterum auritum)
+# Double-crested Cormorant <span className='sci_name'>Nannopterum auritum</span>
 
 **Order:** [Suliformes](/tags/suliformes)
 

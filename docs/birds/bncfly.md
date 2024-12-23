@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Brown-crested Flycatcher (Myiarchus tyrannulus)
+# Brown-crested Flycatcher <span className='sci_name'>Myiarchus tyrannulus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

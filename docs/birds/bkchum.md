@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Black-chinned Hummingbird (Archilochus alexandri)
+# Black-chinned Hummingbird <span className='sci_name'>Archilochus alexandri</span>
 
 **Order:** [Apodiformes](/tags/apodiformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Black Turnstone (Arenaria melanocephala)
+# Black Turnstone <span className='sci_name'>Arenaria melanocephala</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

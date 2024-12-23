@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Gray-barred Wren (Campylorhynchus megalopterus)
+# Gray-barred Wren <span className='sci_name'>Campylorhynchus megalopterus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

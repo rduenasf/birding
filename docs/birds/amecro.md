@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# American Crow (Corvus brachyrhynchos)
+# American Crow <span className='sci_name'>Corvus brachyrhynchos</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

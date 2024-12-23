@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# White-eyed Vireo (Vireo griseus)
+# White-eyed Vireo <span className='sci_name'>Vireo griseus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

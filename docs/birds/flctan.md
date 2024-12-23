@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Flame-colored Tanager (Piranga bidentata)
+# Flame-colored Tanager <span className='sci_name'>Piranga bidentata</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Gray Hawk (Buteo plagiatus)
+# Gray Hawk <span className='sci_name'>Buteo plagiatus</span>
 
 **Order:** [Accipitriformes](/tags/accipitriformes)
 

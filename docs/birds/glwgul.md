@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Glaucous-winged Gull (Larus glaucescens)
+# Glaucous-winged Gull <span className='sci_name'>Larus glaucescens</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

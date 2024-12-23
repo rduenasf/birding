@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Oak Titmouse (Baeolophus inornatus)
+# Oak Titmouse <span className='sci_name'>Baeolophus inornatus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

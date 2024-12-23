@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Common Grackle (Quiscalus quiscula)
+# Common Grackle <span className='sci_name'>Quiscalus quiscula</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Black-necked Swan (Cygnus melancoryphus)
+# Black-necked Swan <span className='sci_name'>Cygnus melancoryphus</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

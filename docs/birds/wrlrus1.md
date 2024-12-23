@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Wren-like Rushbird (Phleocryptes melanops)
+# Wren-like Rushbird <span className='sci_name'>Phleocryptes melanops</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

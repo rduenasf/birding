@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Chiloe Wigeon (Mareca sibilatrix)
+# Chiloe Wigeon <span className='sci_name'>Mareca sibilatrix</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

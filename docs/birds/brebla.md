@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Brewer's Blackbird (Euphagus cyanocephalus)
+# Brewer's Blackbird <span className='sci_name'>Euphagus cyanocephalus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Pied-billed Grebe (Podilymbus podiceps)
+# Pied-billed Grebe <span className='sci_name'>Podilymbus podiceps</span>
 
 **Order:** [Podicipediformes](/tags/podicipediformes)
 

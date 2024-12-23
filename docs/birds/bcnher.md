@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Black-crowned Night Heron (Nycticorax nycticorax)
+# Black-crowned Night Heron <span className='sci_name'>Nycticorax nycticorax</span>
 
 **Order:** [Pelecaniformes](/tags/pelecaniformes)
 

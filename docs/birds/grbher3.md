@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Great Blue Heron (Ardea herodias)
+# Great Blue Heron <span className='sci_name'>Ardea herodias</span>
 
 **Order:** [Pelecaniformes](/tags/pelecaniformes)
 

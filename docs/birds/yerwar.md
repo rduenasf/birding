@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Yellow-rumped Warbler (Setophaga coronata)
+# Yellow-rumped Warbler <span className='sci_name'>Setophaga coronata</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

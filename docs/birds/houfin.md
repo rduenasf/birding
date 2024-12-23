@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# House Finch (Haemorhous mexicanus)
+# House Finch <span className='sci_name'>Haemorhous mexicanus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

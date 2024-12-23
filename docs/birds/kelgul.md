@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Kelp Gull (Larus dominicanus)
+# Kelp Gull <span className='sci_name'>Larus dominicanus</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

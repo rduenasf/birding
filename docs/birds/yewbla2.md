@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Yellow-winged Blackbird (Agelasticus thilius)
+# Yellow-winged Blackbird <span className='sci_name'>Agelasticus thilius</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

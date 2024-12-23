@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Hooded Yellowthroat (Geothlypis nelsoni)
+# Hooded Yellowthroat <span className='sci_name'>Geothlypis nelsoni</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

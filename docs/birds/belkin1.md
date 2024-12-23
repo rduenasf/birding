@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Belted Kingfisher (Megaceryle alcyon)
+# Belted Kingfisher <span className='sci_name'>Megaceryle alcyon</span>
 
 **Order:** [Coraciiformes](/tags/coraciiformes)
 

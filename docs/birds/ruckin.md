@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Ruby-crowned Kinglet (Corthylio calendula)
+# Ruby-crowned Kinglet <span className='sci_name'>Corthylio calendula</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Mexican Chickadee (Poecile sclateri)
+# Mexican Chickadee <span className='sci_name'>Poecile sclateri</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

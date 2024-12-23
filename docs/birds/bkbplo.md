@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Black-bellied Plover (Pluvialis squatarola)
+# Black-bellied Plover <span className='sci_name'>Pluvialis squatarola</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

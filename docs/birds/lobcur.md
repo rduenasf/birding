@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Long-billed Curlew (Numenius americanus)
+# Long-billed Curlew <span className='sci_name'>Numenius americanus</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

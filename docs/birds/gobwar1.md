@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Golden-browed Warbler (Basileuterus belli)
+# Golden-browed Warbler <span className='sci_name'>Basileuterus belli</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

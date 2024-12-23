@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Wrentit (Chamaea fasciata)
+# Wrentit <span className='sci_name'>Chamaea fasciata</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

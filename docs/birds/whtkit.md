@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# White-tailed Kite (Elanus leucurus)
+# White-tailed Kite <span className='sci_name'>Elanus leucurus</span>
 
 **Order:** [Accipitriformes](/tags/accipitriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Rock Wren (Salpinctes obsoletus)
+# Rock Wren <span className='sci_name'>Salpinctes obsoletus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

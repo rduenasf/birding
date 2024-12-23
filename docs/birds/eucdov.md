@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Eurasian Collared-Dove (Streptopelia decaocto)
+# Eurasian Collared-Dove <span className='sci_name'>Streptopelia decaocto</span>
 
 **Order:** [Columbiformes](/tags/columbiformes)
 

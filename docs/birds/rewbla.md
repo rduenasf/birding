@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Red-winged Blackbird (Agelaius phoeniceus)
+# Red-winged Blackbird <span className='sci_name'>Agelaius phoeniceus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

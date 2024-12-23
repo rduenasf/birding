@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Warbling Vireo (Vireo gilvus)
+# Warbling Vireo <span className='sci_name'>Vireo gilvus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

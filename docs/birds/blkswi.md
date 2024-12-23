@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Black Swift (Cypseloides niger)
+# Black Swift <span className='sci_name'>Cypseloides niger</span>
 
 **Order:** [Apodiformes](/tags/apodiformes)
 

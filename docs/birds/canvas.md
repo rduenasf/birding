@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Canvasback (Aythya valisineria)
+# Canvasback <span className='sci_name'>Aythya valisineria</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

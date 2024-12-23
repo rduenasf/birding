@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Austral Thrush (Turdus falcklandii)
+# Austral Thrush <span className='sci_name'>Turdus falcklandii</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

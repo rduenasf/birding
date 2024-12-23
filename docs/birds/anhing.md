@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Anhinga (Anhinga anhinga)
+# Anhinga <span className='sci_name'>Anhinga anhinga</span>
 
 **Order:** [Suliformes](/tags/suliformes)
 

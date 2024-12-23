@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Western Flycatcher (Empidonax difficilis)
+# Western Flycatcher <span className='sci_name'>Empidonax difficilis</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

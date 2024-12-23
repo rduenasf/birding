@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Willet (Tringa semipalmata)
+# Willet <span className='sci_name'>Tringa semipalmata</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

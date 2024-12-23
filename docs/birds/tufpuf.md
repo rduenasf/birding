@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Tufted Puffin (Fratercula cirrhata)
+# Tufted Puffin <span className='sci_name'>Fratercula cirrhata</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

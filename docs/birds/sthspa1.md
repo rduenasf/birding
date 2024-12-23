@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Stripe-headed Sparrow (Peucaea ruficauda)
+# Stripe-headed Sparrow <span className='sci_name'>Peucaea ruficauda</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Canada Goose (Branta canadensis)
+# Canada Goose <span className='sci_name'>Branta canadensis</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

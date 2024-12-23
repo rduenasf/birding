@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Least Flycatcher (Empidonax minimus)
+# Least Flycatcher <span className='sci_name'>Empidonax minimus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

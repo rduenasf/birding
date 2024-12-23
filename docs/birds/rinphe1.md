@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Ring-necked Pheasant (Phasianus colchicus)
+# Ring-necked Pheasant <span className='sci_name'>Phasianus colchicus</span>
 
 **Order:** [Galliformes](/tags/galliformes)
 

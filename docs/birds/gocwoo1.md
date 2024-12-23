@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Golden-cheeked Woodpecker (Melanerpes chrysogenys)
+# Golden-cheeked Woodpecker <span className='sci_name'>Melanerpes chrysogenys</span>
 
 **Order:** [Piciformes](/tags/piciformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Lincoln's Sparrow (Melospiza lincolnii)
+# Lincoln's Sparrow <span className='sci_name'>Melospiza lincolnii</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

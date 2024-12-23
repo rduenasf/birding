@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Common Tern (Sterna hirundo)
+# Common Tern <span className='sci_name'>Sterna hirundo</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

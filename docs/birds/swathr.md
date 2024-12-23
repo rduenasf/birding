@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Swainson's Thrush (Catharus ustulatus)
+# Swainson's Thrush <span className='sci_name'>Catharus ustulatus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

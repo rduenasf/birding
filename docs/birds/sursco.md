@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Surf Scoter (Melanitta perspicillata)
+# Surf Scoter <span className='sci_name'>Melanitta perspicillata</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

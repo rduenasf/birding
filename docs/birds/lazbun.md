@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Lazuli Bunting (Passerina amoena)
+# Lazuli Bunting <span className='sci_name'>Passerina amoena</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

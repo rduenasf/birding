@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Rivoli's Hummingbird (Eugenes fulgens)
+# Rivoli's Hummingbird <span className='sci_name'>Eugenes fulgens</span>
 
 **Order:** [Apodiformes](/tags/apodiformes)
 

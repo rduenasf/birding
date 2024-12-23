@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Green-winged Teal (Anas crecca)
+# Green-winged Teal <span className='sci_name'>Anas crecca</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

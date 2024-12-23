@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Elegant Euphonia (Chlorophonia elegantissima)
+# Elegant Euphonia <span className='sci_name'>Chlorophonia elegantissima</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

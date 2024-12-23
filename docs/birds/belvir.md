@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Bell's Vireo (Vireo bellii)
+# Bell's Vireo <span className='sci_name'>Vireo bellii</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

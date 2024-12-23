@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# White-winged Coot (Fulica leucoptera)
+# White-winged Coot <span className='sci_name'>Fulica leucoptera</span>
 
 **Order:** [Gruiformes](/tags/gruiformes)
 

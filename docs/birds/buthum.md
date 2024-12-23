@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Blue-throated Mountain-gem (Lampornis clemenciae)
+# Blue-throated Mountain-gem <span className='sci_name'>Lampornis clemenciae</span>
 
 **Order:** [Apodiformes](/tags/apodiformes)
 

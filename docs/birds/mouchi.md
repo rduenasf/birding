@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Mountain Chickadee (Poecile gambeli)
+# Mountain Chickadee <span className='sci_name'>Poecile gambeli</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

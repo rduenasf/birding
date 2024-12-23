@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Glaucous Gull (Larus hyperboreus)
+# Glaucous Gull <span className='sci_name'>Larus hyperboreus</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

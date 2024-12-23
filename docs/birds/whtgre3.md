@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# White-tufted Grebe (Rollandia rolland)
+# White-tufted Grebe <span className='sci_name'>Rollandia rolland</span>
 
 **Order:** [Podicipediformes](/tags/podicipediformes)
 

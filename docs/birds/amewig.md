@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# American Wigeon (Mareca americana)
+# American Wigeon <span className='sci_name'>Mareca americana</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

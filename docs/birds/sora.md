@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Sora (Porzana carolina)
+# Sora <span className='sci_name'>Porzana carolina</span>
 
 **Order:** [Gruiformes](/tags/gruiformes)
 

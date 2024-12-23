@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Chestnut-sided Shrike-Vireo (Vireolanius melitophrys)
+# Chestnut-sided Shrike-Vireo <span className='sci_name'>Vireolanius melitophrys</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

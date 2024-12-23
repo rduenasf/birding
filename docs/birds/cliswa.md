@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Cliff Swallow (Petrochelidon pyrrhonota)
+# Cliff Swallow <span className='sci_name'>Petrochelidon pyrrhonota</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

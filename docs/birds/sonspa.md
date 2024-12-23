@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Song Sparrow (Melospiza melodia)
+# Song Sparrow <span className='sci_name'>Melospiza melodia</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

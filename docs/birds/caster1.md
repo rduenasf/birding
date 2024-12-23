@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Caspian Tern (Hydroprogne caspia)
+# Caspian Tern <span className='sci_name'>Hydroprogne caspia</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

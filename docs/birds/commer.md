@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Common Merganser (Mergus merganser)
+# Common Merganser <span className='sci_name'>Mergus merganser</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

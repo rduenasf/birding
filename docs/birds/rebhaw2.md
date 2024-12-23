@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Variable Hawk (Geranoaetus polyosoma)
+# Variable Hawk <span className='sci_name'>Geranoaetus polyosoma</span>
 
 **Order:** [Accipitriformes](/tags/accipitriformes)
 

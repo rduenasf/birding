@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Virginia's Warbler (Leiothlypis virginiae)
+# Virginia's Warbler <span className='sci_name'>Leiothlypis virginiae</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

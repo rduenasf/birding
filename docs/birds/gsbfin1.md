@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Green-striped Brushfinch (Arremon virenticeps)
+# Green-striped Brushfinch <span className='sci_name'>Arremon virenticeps</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

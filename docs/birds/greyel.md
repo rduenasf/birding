@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Greater Yellowlegs (Tringa melanoleuca)
+# Greater Yellowlegs <span className='sci_name'>Tringa melanoleuca</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

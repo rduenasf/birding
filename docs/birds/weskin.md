@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Western Kingbird (Tyrannus verticalis)
+# Western Kingbird <span className='sci_name'>Tyrannus verticalis</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

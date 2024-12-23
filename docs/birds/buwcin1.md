@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Buff-winged Cinclodes (Cinclodes fuscus)
+# Buff-winged Cinclodes <span className='sci_name'>Cinclodes fuscus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

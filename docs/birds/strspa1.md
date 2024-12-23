@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Striped Sparrow (Oriturus superciliosus)
+# Striped Sparrow <span className='sci_name'>Oriturus superciliosus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

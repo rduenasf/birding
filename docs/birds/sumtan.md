@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Summer Tanager (Piranga rubra)
+# Summer Tanager <span className='sci_name'>Piranga rubra</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

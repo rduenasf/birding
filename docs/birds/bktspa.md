@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Black-throated Sparrow (Amphispiza bilineata)
+# Black-throated Sparrow <span className='sci_name'>Amphispiza bilineata</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

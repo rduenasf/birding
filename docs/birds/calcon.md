@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# California Condor (Gymnogyps californianus)
+# California Condor <span className='sci_name'>Gymnogyps californianus</span>
 
 **Order:** [Cathartiformes](/tags/cathartiformes)
 

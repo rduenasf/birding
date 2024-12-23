@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Ash-throated Flycatcher (Myiarchus cinerascens)
+# Ash-throated Flycatcher <span className='sci_name'>Myiarchus cinerascens</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

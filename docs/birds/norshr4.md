@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Northern Shrike (Lanius borealis)
+# Northern Shrike <span className='sci_name'>Lanius borealis</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Eastern Phoebe (Sayornis phoebe)
+# Eastern Phoebe <span className='sci_name'>Sayornis phoebe</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

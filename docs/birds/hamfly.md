@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Hammond's Flycatcher (Empidonax hammondii)
+# Hammond's Flycatcher <span className='sci_name'>Empidonax hammondii</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

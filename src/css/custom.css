@@ -18,3 +18,15 @@
   content: "🔊📸";
   margin-left: 5px;
 }
+
+.sci_name {
+  font-style: italic;
+  color: lightgray;
+  font-size: smaller;
+}
+
+.sci_name::before {
+  content: "\A"; 
+
+  white-space: pre; 
+}

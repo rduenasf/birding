@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Shiny Cowbird (Molothrus bonariensis)
+# Shiny Cowbird <span className='sci_name'>Molothrus bonariensis</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

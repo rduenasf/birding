@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Black-chested Sparrow (Peucaea humeralis)
+# Black-chested Sparrow <span className='sci_name'>Peucaea humeralis</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Tropical Kingbird (Tyrannus melancholicus)
+# Tropical Kingbird <span className='sci_name'>Tyrannus melancholicus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

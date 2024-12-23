@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Inca Dove (Columbina inca)
+# Inca Dove <span className='sci_name'>Columbina inca</span>
 
 **Order:** [Columbiformes](/tags/columbiformes)
 

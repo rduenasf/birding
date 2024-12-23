@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Blue Mockingbird (Melanotis caerulescens)
+# Blue Mockingbird <span className='sci_name'>Melanotis caerulescens</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

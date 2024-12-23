@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# American Herring Gull (Larus smithsonianus)
+# American Herring Gull <span className='sci_name'>Larus smithsonianus</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

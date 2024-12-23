@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Wilson's Warbler (Cardellina pusilla)
+# Wilson's Warbler <span className='sci_name'>Cardellina pusilla</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

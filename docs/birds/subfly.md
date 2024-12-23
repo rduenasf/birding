@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Sulphur-bellied Flycatcher (Myiodynastes luteiventris)
+# Sulphur-bellied Flycatcher <span className='sci_name'>Myiodynastes luteiventris</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

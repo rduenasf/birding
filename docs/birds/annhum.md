@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Anna's Hummingbird (Calypte anna)
+# Anna's Hummingbird <span className='sci_name'>Calypte anna</span>
 
 **Order:** [Apodiformes](/tags/apodiformes)
 

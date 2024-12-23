@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Bufflehead (Bucephala albeola)
+# Bufflehead <span className='sci_name'>Bucephala albeola</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

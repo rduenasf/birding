@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Dusky Flycatcher (Empidonax oberholseri)
+# Dusky Flycatcher <span className='sci_name'>Empidonax oberholseri</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

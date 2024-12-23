@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Lake Duck (Oxyura vittata)
+# Lake Duck <span className='sci_name'>Oxyura vittata</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

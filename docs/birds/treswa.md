@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Tree Swallow (Tachycineta bicolor)
+# Tree Swallow <span className='sci_name'>Tachycineta bicolor</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

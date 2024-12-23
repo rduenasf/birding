@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Mallard (Anas platyrhynchos)
+# Mallard <span className='sci_name'>Anas platyrhynchos</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

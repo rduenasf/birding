@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Andean Goose (Oressochen melanopterus)
+# Andean Goose <span className='sci_name'>Oressochen melanopterus</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

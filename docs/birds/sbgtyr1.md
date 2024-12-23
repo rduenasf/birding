@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Spot-billed Ground-Tyrant (Muscisaxicola maculirostris)
+# Spot-billed Ground-Tyrant <span className='sci_name'>Muscisaxicola maculirostris</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

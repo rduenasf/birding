@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Mourning Dove (Zenaida macroura)
+# Mourning Dove <span className='sci_name'>Zenaida macroura</span>
 
 **Order:** [Columbiformes](/tags/columbiformes)
 

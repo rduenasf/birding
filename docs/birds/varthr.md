@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Varied Thrush (Ixoreus naevius)
+# Varied Thrush <span className='sci_name'>Ixoreus naevius</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

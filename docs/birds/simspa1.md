@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Sierra Madre Sparrow (Xenospiza baileyi)
+# Sierra Madre Sparrow <span className='sci_name'>Xenospiza baileyi</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

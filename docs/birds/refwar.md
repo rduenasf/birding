@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Red-faced Warbler (Cardellina rubrifrons)
+# Red-faced Warbler <span className='sci_name'>Cardellina rubrifrons</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

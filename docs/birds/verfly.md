@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Vermilion Flycatcher (Pyrocephalus rubinus)
+# Vermilion Flycatcher <span className='sci_name'>Pyrocephalus rubinus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

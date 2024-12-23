@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Plain-mantled Tit-Spinetail (Leptasthenura aegithaloides)
+# Plain-mantled Tit-Spinetail <span className='sci_name'>Leptasthenura aegithaloides</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Guanay Cormorant (Leucocarbo bougainvilliorum)
+# Guanay Cormorant <span className='sci_name'>Leucocarbo bougainvilliorum</span>
 
 **Order:** [Suliformes](/tags/suliformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Gray-crowned Rosy-Finch (Leucosticte tephrocotis)
+# Gray-crowned Rosy-Finch <span className='sci_name'>Leucosticte tephrocotis</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

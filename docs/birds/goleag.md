@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Golden Eagle (Aquila chrysaetos)
+# Golden Eagle <span className='sci_name'>Aquila chrysaetos</span>
 
 **Order:** [Accipitriformes](/tags/accipitriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Brown-headed Cowbird (Molothrus ater)
+# Brown-headed Cowbird <span className='sci_name'>Molothrus ater</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

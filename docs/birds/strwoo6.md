@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Striped Woodpecker (Dryobates lignarius)
+# Striped Woodpecker <span className='sci_name'>Dryobates lignarius</span>
 
 **Order:** [Piciformes](/tags/piciformes)
 

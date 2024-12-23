@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Greater Pewee (Contopus pertinax)
+# Greater Pewee <span className='sci_name'>Contopus pertinax</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

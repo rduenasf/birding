@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# American White Pelican (Pelecanus erythrorhynchos)
+# American White Pelican <span className='sci_name'>Pelecanus erythrorhynchos</span>
 
 **Order:** [Pelecaniformes](/tags/pelecaniformes)
 

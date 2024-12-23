@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Bank Swallow (Riparia riparia)
+# Bank Swallow <span className='sci_name'>Riparia riparia</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

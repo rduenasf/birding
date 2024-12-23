@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Northern Gannet (Morus bassanus)
+# Northern Gannet <span className='sci_name'>Morus bassanus</span>
 
 **Order:** [Suliformes](/tags/suliformes)
 

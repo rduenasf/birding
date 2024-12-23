@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Western Sandpiper (Calidris mauri)
+# Western Sandpiper <span className='sci_name'>Calidris mauri</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

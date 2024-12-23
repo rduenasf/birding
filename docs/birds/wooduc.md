@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Wood Duck (Aix sponsa)
+# Wood Duck <span className='sci_name'>Aix sponsa</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

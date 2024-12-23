@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Loggerhead Shrike (Lanius ludovicianus)
+# Loggerhead Shrike <span className='sci_name'>Lanius ludovicianus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

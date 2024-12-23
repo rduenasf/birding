@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Parasitic Jaeger (Stercorarius parasiticus)
+# Parasitic Jaeger <span className='sci_name'>Stercorarius parasiticus</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

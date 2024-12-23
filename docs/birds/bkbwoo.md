@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Black-backed Woodpecker (Picoides arcticus)
+# Black-backed Woodpecker <span className='sci_name'>Picoides arcticus</span>
 
 **Order:** [Piciformes](/tags/piciformes)
 

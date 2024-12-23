@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Rufous-naped Ground-Tyrant (Muscisaxicola rufivertex)
+# Rufous-naped Ground-Tyrant <span className='sci_name'>Muscisaxicola rufivertex</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Red Junglefowl (Gallus gallus)
+# Red Junglefowl <span className='sci_name'>Gallus gallus</span>
 
 **Order:** [Galliformes](/tags/galliformes)
 

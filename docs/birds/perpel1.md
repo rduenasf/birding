@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Peruvian Pelican (Pelecanus thagus)
+# Peruvian Pelican <span className='sci_name'>Pelecanus thagus</span>
 
 **Order:** [Pelecaniformes](/tags/pelecaniformes)
 

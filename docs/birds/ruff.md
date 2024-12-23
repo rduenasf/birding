@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Ruff (Calidris pugnax)
+# Ruff <span className='sci_name'>Calidris pugnax</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

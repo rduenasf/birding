@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Moustached Turca (Pteroptochos megapodius)
+# Moustached Turca <span className='sci_name'>Pteroptochos megapodius</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

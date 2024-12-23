@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Whimbrel (Numenius phaeopus)
+# Whimbrel <span className='sci_name'>Numenius phaeopus</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

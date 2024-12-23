@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Strickland's Woodpecker (Dryobates stricklandi)
+# Strickland's Woodpecker <span className='sci_name'>Dryobates stricklandi</span>
 
 **Order:** [Piciformes](/tags/piciformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Southern Lapwing (Vanellus chilensis)
+# Southern Lapwing <span className='sci_name'>Vanellus chilensis</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

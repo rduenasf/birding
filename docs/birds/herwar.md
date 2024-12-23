@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Hermit Warbler (Setophaga occidentalis)
+# Hermit Warbler <span className='sci_name'>Setophaga occidentalis</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Picui Ground Dove (Columbina picui)
+# Picui Ground Dove <span className='sci_name'>Columbina picui</span>
 
 **Order:** [Columbiformes](/tags/columbiformes)
 

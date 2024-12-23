@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Spotted Sandpiper (Actitis macularius)
+# Spotted Sandpiper <span className='sci_name'>Actitis macularius</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

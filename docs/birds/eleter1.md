@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Elegant Tern (Thalasseus elegans)
+# Elegant Tern <span className='sci_name'>Thalasseus elegans</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

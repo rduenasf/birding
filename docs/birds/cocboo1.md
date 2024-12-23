@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Cocos Booby (Sula brewsteri)
+# Cocos Booby <span className='sci_name'>Sula brewsteri</span>
 
 **Order:** [Suliformes](/tags/suliformes)
 

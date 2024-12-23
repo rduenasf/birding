@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Common Ground Dove (Columbina passerina)
+# Common Ground Dove <span className='sci_name'>Columbina passerina</span>
 
 **Order:** [Columbiformes](/tags/columbiformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Red-shouldered Hawk (Buteo lineatus)
+# Red-shouldered Hawk <span className='sci_name'>Buteo lineatus</span>
 
 **Order:** [Accipitriformes](/tags/accipitriformes)
 

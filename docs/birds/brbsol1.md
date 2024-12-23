@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Brown-backed Solitaire (Myadestes occidentalis)
+# Brown-backed Solitaire <span className='sci_name'>Myadestes occidentalis</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

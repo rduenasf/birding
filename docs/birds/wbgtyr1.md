@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# White-browed Ground-Tyrant (Muscisaxicola albilora)
+# White-browed Ground-Tyrant <span className='sci_name'>Muscisaxicola albilora</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

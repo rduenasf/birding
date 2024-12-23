@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Black-backed Oriole (Icterus abeillei)
+# Black-backed Oriole <span className='sci_name'>Icterus abeillei</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

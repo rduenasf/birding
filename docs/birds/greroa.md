@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Greater Roadrunner (Geococcyx californianus)
+# Greater Roadrunner <span className='sci_name'>Geococcyx californianus</span>
 
 **Order:** [Cuculiformes](/tags/cuculiformes)
 

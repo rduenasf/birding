@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Peregrine Falcon (Falco peregrinus)
+# Peregrine Falcon <span className='sci_name'>Falco peregrinus</span>
 
 **Order:** [Falconiformes](/tags/falconiformes)
 

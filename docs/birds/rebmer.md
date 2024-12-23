@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Red-breasted Merganser (Mergus serrator)
+# Red-breasted Merganser <span className='sci_name'>Mergus serrator</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

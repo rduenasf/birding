@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Hermit Thrush (Catharus guttatus)
+# Hermit Thrush <span className='sci_name'>Catharus guttatus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

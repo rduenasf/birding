@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Nuttall's Woodpecker (Dryobates nuttallii)
+# Nuttall's Woodpecker <span className='sci_name'>Dryobates nuttallii</span>
 
 **Order:** [Piciformes](/tags/piciformes)
 

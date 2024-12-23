@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Indian Peafowl (Pavo cristatus)
+# Indian Peafowl <span className='sci_name'>Pavo cristatus</span>
 
 **Order:** [Galliformes](/tags/galliformes)
 

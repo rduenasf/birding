@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Great Grebe (Podiceps major)
+# Great Grebe <span className='sci_name'>Podiceps major</span>
 
 **Order:** [Podicipediformes](/tags/podicipediformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Scale-throated Earthcreeper (Upucerthia dumetaria)
+# Scale-throated Earthcreeper <span className='sci_name'>Upucerthia dumetaria</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

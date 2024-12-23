@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Pacific Loon (Gavia pacifica)
+# Pacific Loon <span className='sci_name'>Gavia pacifica</span>
 
 **Order:** [Gaviiformes](/tags/gaviiformes)
 

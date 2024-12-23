@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Rufous-tailed Plantcutter (Phytotoma rara)
+# Rufous-tailed Plantcutter <span className='sci_name'>Phytotoma rara</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

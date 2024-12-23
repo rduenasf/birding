@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# House Sparrow (Passer domesticus)
+# House Sparrow <span className='sci_name'>Passer domesticus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

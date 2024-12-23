@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# White-throated Swift (Aeronautes saxatalis)
+# White-throated Swift <span className='sci_name'>Aeronautes saxatalis</span>
 
 **Order:** [Apodiformes](/tags/apodiformes)
 

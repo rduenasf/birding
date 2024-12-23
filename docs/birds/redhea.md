@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Redhead (Aythya americana)
+# Redhead <span className='sci_name'>Aythya americana</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

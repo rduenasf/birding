@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Carolina Wren (Thryothorus ludovicianus)
+# Carolina Wren <span className='sci_name'>Thryothorus ludovicianus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

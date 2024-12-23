@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Western Meadowlark (Sturnella neglecta)
+# Western Meadowlark <span className='sci_name'>Sturnella neglecta</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Yellow-eyed Junco (Junco phaeonotus)
+# Yellow-eyed Junco <span className='sci_name'>Junco phaeonotus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

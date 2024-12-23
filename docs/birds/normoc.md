@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Northern Mockingbird (Mimus polyglottos)
+# Northern Mockingbird <span className='sci_name'>Mimus polyglottos</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

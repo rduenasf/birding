@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Amethyst-throated Mountain-gem (Lampornis amethystinus)
+# Amethyst-throated Mountain-gem <span className='sci_name'>Lampornis amethystinus</span>
 
 **Order:** [Apodiformes](/tags/apodiformes)
 

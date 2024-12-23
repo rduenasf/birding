@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Turkey Vulture (Cathartes aura)
+# Turkey Vulture <span className='sci_name'>Cathartes aura</span>
 
 **Order:** [Cathartiformes](/tags/cathartiformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Ladder-backed Woodpecker (Dryobates scalaris)
+# Ladder-backed Woodpecker <span className='sci_name'>Dryobates scalaris</span>
 
 **Order:** [Piciformes](/tags/piciformes)
 

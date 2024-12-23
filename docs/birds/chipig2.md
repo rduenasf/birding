@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Chilean Pigeon (Patagioenas araucana)
+# Chilean Pigeon <span className='sci_name'>Patagioenas araucana</span>
 
 **Order:** [Columbiformes](/tags/columbiformes)
 

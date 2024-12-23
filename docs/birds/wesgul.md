@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Western Gull (Larus occidentalis)
+# Western Gull <span className='sci_name'>Larus occidentalis</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

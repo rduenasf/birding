@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Green Heron (Butorides virescens)
+# Green Heron <span className='sci_name'>Butorides virescens</span>
 
 **Order:** [Pelecaniformes](/tags/pelecaniformes)
 

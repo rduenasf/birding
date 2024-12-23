@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Boucard's Wren (Campylorhynchus jocosus)
+# Boucard's Wren <span className='sci_name'>Campylorhynchus jocosus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

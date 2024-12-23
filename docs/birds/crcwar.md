@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Crescent-chested Warbler (Oreothlypis superciliosa)
+# Crescent-chested Warbler <span className='sci_name'>Oreothlypis superciliosa</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

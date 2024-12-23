@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Yellow Warbler (Setophaga petechia)
+# Yellow Warbler <span className='sci_name'>Setophaga petechia</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

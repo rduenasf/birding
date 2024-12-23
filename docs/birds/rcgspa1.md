@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Rusty-crowned Ground-Sparrow (Melozone kieneri)
+# Rusty-crowned Ground-Sparrow <span className='sci_name'>Melozone kieneri</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

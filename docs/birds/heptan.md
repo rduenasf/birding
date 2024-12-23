@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Hepatic Tanager (Piranga flava)
+# Hepatic Tanager <span className='sci_name'>Piranga flava</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

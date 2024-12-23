@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Bald Eagle (Haliaeetus leucocephalus)
+# Bald Eagle <span className='sci_name'>Haliaeetus leucocephalus</span>
 
 **Order:** [Accipitriformes](/tags/accipitriformes)
 

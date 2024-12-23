@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Andean Condor (Vultur gryphus)
+# Andean Condor <span className='sci_name'>Vultur gryphus</span>
 
 **Order:** [Cathartiformes](/tags/cathartiformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Brandt's Cormorant (Urile penicillatus)
+# Brandt's Cormorant <span className='sci_name'>Urile penicillatus</span>
 
 **Order:** [Suliformes](/tags/suliformes)
 

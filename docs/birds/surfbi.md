@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Surfbird (Calidris virgata)
+# Surfbird <span className='sci_name'>Calidris virgata</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

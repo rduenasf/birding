@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Virginia Rail (Rallus limicola)
+# Virginia Rail <span className='sci_name'>Rallus limicola</span>
 
 **Order:** [Gruiformes](/tags/gruiformes)
 

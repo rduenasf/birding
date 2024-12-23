@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Northern House Wren (Troglodytes aedon)
+# Northern House Wren <span className='sci_name'>Troglodytes aedon</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Blue Grosbeak (Passerina caerulea)
+# Blue Grosbeak <span className='sci_name'>Passerina caerulea</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

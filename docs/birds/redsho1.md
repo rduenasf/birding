@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Red Shoveler (Spatula platalea)
+# Red Shoveler <span className='sci_name'>Spatula platalea</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

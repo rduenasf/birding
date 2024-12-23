@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Bullock's Oriole (Icterus bullockii)
+# Bullock's Oriole <span className='sci_name'>Icterus bullockii</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

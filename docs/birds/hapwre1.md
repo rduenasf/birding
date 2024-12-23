@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Happy Wren (Pheugopedius felix)
+# Happy Wren <span className='sci_name'>Pheugopedius felix</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

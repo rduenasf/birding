@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Short-billed Dowitcher (Limnodromus griseus)
+# Short-billed Dowitcher <span className='sci_name'>Limnodromus griseus</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

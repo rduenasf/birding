@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Common Gallinule (Gallinula galeata)
+# Common Gallinule <span className='sci_name'>Gallinula galeata</span>
 
 **Order:** [Gruiformes](/tags/gruiformes)
 

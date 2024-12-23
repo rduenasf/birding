@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Tufted Tit-Tyrant (Anairetes parulus)
+# Tufted Tit-Tyrant <span className='sci_name'>Anairetes parulus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

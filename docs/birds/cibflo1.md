@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Cinnamon-bellied Flowerpiercer (Diglossa baritula)
+# Cinnamon-bellied Flowerpiercer <span className='sci_name'>Diglossa baritula</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Long-billed Dowitcher (Limnodromus scolopaceus)
+# Long-billed Dowitcher <span className='sci_name'>Limnodromus scolopaceus</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

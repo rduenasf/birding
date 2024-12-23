@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# White-naped Swift (Streptoprocne semicollaris)
+# White-naped Swift <span className='sci_name'>Streptoprocne semicollaris</span>
 
 **Order:** [Apodiformes](/tags/apodiformes)
 

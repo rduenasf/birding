@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Chipping Sparrow (Spizella passerina)
+# Chipping Sparrow <span className='sci_name'>Spizella passerina</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

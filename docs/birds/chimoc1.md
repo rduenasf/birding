@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Chilean Mockingbird (Mimus thenca)
+# Chilean Mockingbird <span className='sci_name'>Mimus thenca</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

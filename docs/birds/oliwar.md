@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Olive Warbler (Peucedramus taeniatus)
+# Olive Warbler <span className='sci_name'>Peucedramus taeniatus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

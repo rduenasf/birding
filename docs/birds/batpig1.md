@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Band-tailed Pigeon (Patagioenas fasciata)
+# Band-tailed Pigeon <span className='sci_name'>Patagioenas fasciata</span>
 
 **Order:** [Columbiformes](/tags/columbiformes)
 

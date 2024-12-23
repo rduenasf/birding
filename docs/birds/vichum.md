@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Violet-crowned Hummingbird (Ramosomyia violiceps)
+# Violet-crowned Hummingbird <span className='sci_name'>Ramosomyia violiceps</span>
 
 **Order:** [Apodiformes](/tags/apodiformes)
 

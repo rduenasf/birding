@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Clark's Grebe (Aechmophorus clarkii)
+# Clark's Grebe <span className='sci_name'>Aechmophorus clarkii</span>
 
 **Order:** [Podicipediformes](/tags/podicipediformes)
 

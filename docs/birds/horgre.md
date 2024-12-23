@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Horned Grebe (Podiceps auritus)
+# Horned Grebe <span className='sci_name'>Podiceps auritus</span>
 
 **Order:** [Podicipediformes](/tags/podicipediformes)
 

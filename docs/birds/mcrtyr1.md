@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Many-colored Rush Tyrant (Tachuris rubrigastra)
+# Many-colored Rush Tyrant <span className='sci_name'>Tachuris rubrigastra</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

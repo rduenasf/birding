@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Humboldt Penguin (Spheniscus humboldti)
+# Humboldt Penguin <span className='sci_name'>Spheniscus humboldti</span>
 
 **Order:** [Sphenisciformes](/tags/sphenisciformes)
 

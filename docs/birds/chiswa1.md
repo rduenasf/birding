@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Chilean Swallow (Tachycineta leucopyga)
+# Chilean Swallow <span className='sci_name'>Tachycineta leucopyga</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

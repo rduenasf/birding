@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Mountain Quail (Oreortyx pictus)
+# Mountain Quail <span className='sci_name'>Oreortyx pictus</span>
 
 **Order:** [Galliformes](/tags/galliformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Mountain Trogon (Trogon mexicanus)
+# Mountain Trogon <span className='sci_name'>Trogon mexicanus</span>
 
 **Order:** [Trogoniformes](/tags/trogoniformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Brown Creeper (Certhia americana)
+# Brown Creeper <span className='sci_name'>Certhia americana</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

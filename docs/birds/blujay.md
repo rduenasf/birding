@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Blue Jay (Cyanocitta cristata)
+# Blue Jay <span className='sci_name'>Cyanocitta cristata</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

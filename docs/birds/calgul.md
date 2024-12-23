@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# California Gull (Larus californicus)
+# California Gull <span className='sci_name'>Larus californicus</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Cactus Wren (Campylorhynchus brunneicapillus)
+# Cactus Wren <span className='sci_name'>Campylorhynchus brunneicapillus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

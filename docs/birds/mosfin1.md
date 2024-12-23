@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Mourning Sierra Finch (Rhopospina fruticeti)
+# Mourning Sierra Finch <span className='sci_name'>Rhopospina fruticeti</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

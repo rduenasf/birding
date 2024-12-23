@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Grace's Warbler (Setophaga graciae)
+# Grace's Warbler <span className='sci_name'>Setophaga graciae</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

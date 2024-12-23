@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Hutton's Vireo (Vireo huttoni)
+# Hutton's Vireo <span className='sci_name'>Vireo huttoni</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

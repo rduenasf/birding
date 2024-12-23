@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Black Vulture (Coragyps atratus)
+# Black Vulture <span className='sci_name'>Coragyps atratus</span>
 
 **Order:** [Cathartiformes](/tags/cathartiformes)
 

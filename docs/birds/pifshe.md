@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Pink-footed Shearwater (Ardenna creatopus)
+# Pink-footed Shearwater <span className='sci_name'>Ardenna creatopus</span>
 
 **Order:** [Procellariiformes](/tags/procellariiformes)
 

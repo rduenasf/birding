@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Lesser Yellowlegs (Tringa flavipes)
+# Lesser Yellowlegs <span className='sci_name'>Tringa flavipes</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

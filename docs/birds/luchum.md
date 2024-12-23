@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Lucifer Hummingbird (Calothorax lucifer)
+# Lucifer Hummingbird <span className='sci_name'>Calothorax lucifer</span>
 
 **Order:** [Apodiformes](/tags/apodiformes)
 

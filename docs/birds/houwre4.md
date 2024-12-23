@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Southern House Wren (Troglodytes musculus)
+# Southern House Wren <span className='sci_name'>Troglodytes musculus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

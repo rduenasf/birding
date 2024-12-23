@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Orange-crowned Warbler (Leiothlypis celata)
+# Orange-crowned Warbler <span className='sci_name'>Leiothlypis celata</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

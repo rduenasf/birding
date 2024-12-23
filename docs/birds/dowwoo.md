@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Downy Woodpecker (Dryobates pubescens)
+# Downy Woodpecker <span className='sci_name'>Dryobates pubescens</span>
 
 **Order:** [Piciformes](/tags/piciformes)
 

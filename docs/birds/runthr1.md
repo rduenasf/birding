@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Russet Nightingale-Thrush (Catharus occidentalis)
+# Russet Nightingale-Thrush <span className='sci_name'>Catharus occidentalis</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

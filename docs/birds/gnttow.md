@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Green-tailed Towhee (Pipilo chlorurus)
+# Green-tailed Towhee <span className='sci_name'>Pipilo chlorurus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

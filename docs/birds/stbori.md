@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Streak-backed Oriole (Icterus pustulatus)
+# Streak-backed Oriole <span className='sci_name'>Icterus pustulatus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

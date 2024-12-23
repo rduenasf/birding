@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Hairy Woodpecker (Dryobates villosus)
+# Hairy Woodpecker <span className='sci_name'>Dryobates villosus</span>
 
 **Order:** [Piciformes](/tags/piciformes)
 

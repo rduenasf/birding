@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Red-throated Loon (Gavia stellata)
+# Red-throated Loon <span className='sci_name'>Gavia stellata</span>
 
 **Order:** [Gaviiformes](/tags/gaviiformes)
 

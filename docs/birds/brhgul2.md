@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Brown-hooded Gull (Chroicocephalus maculipennis)
+# Brown-hooded Gull <span className='sci_name'>Chroicocephalus maculipennis</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

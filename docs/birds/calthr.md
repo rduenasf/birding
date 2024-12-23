@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# California Thrasher (Toxostoma redivivum)
+# California Thrasher <span className='sci_name'>Toxostoma redivivum</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

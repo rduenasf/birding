@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# White-winged Dove (Zenaida asiatica)
+# White-winged Dove <span className='sci_name'>Zenaida asiatica</span>
 
 **Order:** [Columbiformes](/tags/columbiformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# White-breasted Nuthatch (Sitta carolinensis)
+# White-breasted Nuthatch <span className='sci_name'>Sitta carolinensis</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

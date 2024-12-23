@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Wild Turkey (Meleagris gallopavo)
+# Wild Turkey <span className='sci_name'>Meleagris gallopavo</span>
 
 **Order:** [Galliformes](/tags/galliformes)
 

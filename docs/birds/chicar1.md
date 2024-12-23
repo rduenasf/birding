@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Chimango Caracara (Daptrius chimango)
+# Chimango Caracara <span className='sci_name'>Daptrius chimango</span>
 
 **Order:** [Falconiformes](/tags/falconiformes)
 

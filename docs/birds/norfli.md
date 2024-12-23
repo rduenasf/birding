@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Northern Flicker (Colaptes auratus)
+# Northern Flicker <span className='sci_name'>Colaptes auratus</span>
 
 **Order:** [Piciformes](/tags/piciformes)
 

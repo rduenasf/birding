@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Coscoroba Swan (Coscoroba coscoroba)
+# Coscoroba Swan <span className='sci_name'>Coscoroba coscoroba</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

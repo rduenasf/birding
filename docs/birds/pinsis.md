@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Pine Siskin (Spinus pinus)
+# Pine Siskin <span className='sci_name'>Spinus pinus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

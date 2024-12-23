@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Yellow-billed Magpie (Pica nuttalli)
+# Yellow-billed Magpie <span className='sci_name'>Pica nuttalli</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Cordilleran Canastero (Asthenes modesta)
+# Cordilleran Canastero <span className='sci_name'>Asthenes modesta</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

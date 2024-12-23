@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Russet-crowned Motmot (Momotus mexicanus)
+# Russet-crowned Motmot <span className='sci_name'>Momotus mexicanus</span>
 
 **Order:** [Coraciiformes](/tags/coraciiformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Mountain Caracara (Daptrius megalopterus)
+# Mountain Caracara <span className='sci_name'>Daptrius megalopterus</span>
 
 **Order:** [Falconiformes](/tags/falconiformes)
 

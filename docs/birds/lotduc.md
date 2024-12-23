@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Long-tailed Duck (Clangula hyemalis)
+# Long-tailed Duck <span className='sci_name'>Clangula hyemalis</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Red-gartered Coot (Fulica armillata)
+# Red-gartered Coot <span className='sci_name'>Fulica armillata</span>
 
 **Order:** [Gruiformes](/tags/gruiformes)
 

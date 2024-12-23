@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Diuca Finch (Diuca diuca)
+# Diuca Finch <span className='sci_name'>Diuca diuca</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

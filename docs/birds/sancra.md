@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Sandhill Crane (Antigone canadensis)
+# Sandhill Crane <span className='sci_name'>Antigone canadensis</span>
 
 **Order:** [Gruiformes](/tags/gruiformes)
 

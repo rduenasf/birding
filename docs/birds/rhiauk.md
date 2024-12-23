@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Rhinoceros Auklet (Cerorhinca monocerata)
+# Rhinoceros Auklet <span className='sci_name'>Cerorhinca monocerata</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

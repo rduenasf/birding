@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Common Goldeneye (Bucephala clangula)
+# Common Goldeneye <span className='sci_name'>Bucephala clangula</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

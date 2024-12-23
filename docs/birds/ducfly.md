@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Dusky-capped Flycatcher (Myiarchus tuberculifer)
+# Dusky-capped Flycatcher <span className='sci_name'>Myiarchus tuberculifer</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

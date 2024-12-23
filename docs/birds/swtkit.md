@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Swallow-tailed Kite (Elanoides forficatus)
+# Swallow-tailed Kite <span className='sci_name'>Elanoides forficatus</span>
 
 **Order:** [Accipitriformes](/tags/accipitriformes)
 

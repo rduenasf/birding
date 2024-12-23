@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Vaux's Swift (Chaetura vauxi)
+# Vaux's Swift <span className='sci_name'>Chaetura vauxi</span>
 
 **Order:** [Apodiformes](/tags/apodiformes)
 

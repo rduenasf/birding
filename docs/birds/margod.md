@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Marbled Godwit (Limosa fedoa)
+# Marbled Godwit <span className='sci_name'>Limosa fedoa</span>
 
 **Order:** [Charadriiformes](/tags/charadriiformes)
 

@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Bushtit (Psaltriparus minimus)
+# Bushtit <span className='sci_name'>Psaltriparus minimus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Slate-throated Redstart (Myioborus miniatus)
+# Slate-throated Redstart <span className='sci_name'>Myioborus miniatus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

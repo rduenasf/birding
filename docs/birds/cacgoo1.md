@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Cackling Goose (Branta hutchinsii)
+# Cackling Goose <span className='sci_name'>Branta hutchinsii</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

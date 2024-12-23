@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Black-headed Siskin (Spinus notatus)
+# Black-headed Siskin <span className='sci_name'>Spinus notatus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Black Phoebe (Sayornis nigricans)
+# Black Phoebe <span className='sci_name'>Sayornis nigricans</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

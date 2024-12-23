@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Brown Pelican (Pelecanus occidentalis)
+# Brown Pelican <span className='sci_name'>Pelecanus occidentalis</span>
 
 **Order:** [Pelecaniformes](/tags/pelecaniformes)
 

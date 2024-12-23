@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# Marsh Wren (Cistothorus palustris)
+# Marsh Wren <span className='sci_name'>Cistothorus palustris</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

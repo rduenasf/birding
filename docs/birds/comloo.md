@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Common Loon (Gavia immer)
+# Common Loon <span className='sci_name'>Gavia immer</span>
 
 **Order:** [Gaviiformes](/tags/gaviiformes)
 

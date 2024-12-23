@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Swainson's Hawk (Buteo swainsoni)
+# Swainson's Hawk <span className='sci_name'>Buteo swainsoni</span>
 
 **Order:** [Accipitriformes](/tags/accipitriformes)
 

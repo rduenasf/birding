@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Blue-winged Teal (Spatula discors)
+# Blue-winged Teal <span className='sci_name'>Spatula discors</span>
 
 **Order:** [Anseriformes](/tags/anseriformes)
 

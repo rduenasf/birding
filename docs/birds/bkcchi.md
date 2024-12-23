@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Black-capped Chickadee (Poecile atricapillus)
+# Black-capped Chickadee <span className='sci_name'>Poecile atricapillus</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

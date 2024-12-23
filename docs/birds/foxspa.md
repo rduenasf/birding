@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Fox Sparrow (Passerella iliaca)
+# Fox Sparrow <span className='sci_name'>Passerella iliaca</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Pileated Woodpecker (Dryocopus pileatus)
+# Pileated Woodpecker <span className='sci_name'>Dryocopus pileatus</span>
 
 **Order:** [Piciformes](/tags/piciformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Austral Negrito (Lessonia rufa)
+# Austral Negrito <span className='sci_name'>Lessonia rufa</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

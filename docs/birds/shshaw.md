@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Sharp-shinned Hawk (Accipiter striatus)
+# Sharp-shinned Hawk <span className='sci_name'>Accipiter striatus</span>
 
 **Order:** [Accipitriformes](/tags/accipitriformes)
 

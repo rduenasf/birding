@@ -15,7 +15,7 @@ tags:
   - Has Audio
 ---
 
-# American Pipit (Anthus rubescens)
+# American Pipit <span className='sci_name'>Anthus rubescens</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Violet-green Swallow (Tachycineta thalassina)
+# Violet-green Swallow <span className='sci_name'>Tachycineta thalassina</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

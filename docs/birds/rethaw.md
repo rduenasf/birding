@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Red-tailed Hawk (Buteo jamaicensis)
+# Red-tailed Hawk <span className='sci_name'>Buteo jamaicensis</span>
 
 **Order:** [Accipitriformes](/tags/accipitriformes)
 

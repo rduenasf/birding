@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Pelagic Cormorant (Urile pelagicus)
+# Pelagic Cormorant <span className='sci_name'>Urile pelagicus</span>
 
 **Order:** [Suliformes](/tags/suliformes)
 

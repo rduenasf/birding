@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Rufous-crowned Sparrow (Aimophila ruficeps)
+# Rufous-crowned Sparrow <span className='sci_name'>Aimophila ruficeps</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

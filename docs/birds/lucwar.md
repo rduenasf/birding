@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Lucy's Warbler (Leiothlypis luciae)
+# Lucy's Warbler <span className='sci_name'>Leiothlypis luciae</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

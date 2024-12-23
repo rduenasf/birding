@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Barn Swallow (Hirundo rustica)
+# Barn Swallow <span className='sci_name'>Hirundo rustica</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 

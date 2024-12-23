@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Chilean Flamingo (Phoenicopterus chilensis)
+# Chilean Flamingo <span className='sci_name'>Phoenicopterus chilensis</span>
 
 **Order:** [Phoenicopteriformes](/tags/phoenicopteriformes)
 

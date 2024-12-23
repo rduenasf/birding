@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Great Horned Owl (Bubo virginianus)
+# Great Horned Owl <span className='sci_name'>Bubo virginianus</span>
 
 **Order:** [Strigiformes](/tags/strigiformes)
 

@@ -15,7 +15,7 @@ tags:
   - Needs Audio
 ---
 
-# Red Crossbill (Loxia curvirostra)
+# Red Crossbill <span className='sci_name'>Loxia curvirostra</span>
 
 **Order:** [Passeriformes](/tags/passeriformes)
 
