@@ -106,9 +106,9 @@ const config: Config = {
         label: 'Map',
       },
       {
-        href: 'https://ebird.org/hotspots?env.minX=-122.402087&env.minY=37.39291&env.maxX=-121.708778&env.maxY=37.484802',
-        label: 'Hotspots',
-        position: 'right',
+        to: 'resources',
+        position: 'left',
+        label: 'Resources',
       }
     ],
     },
