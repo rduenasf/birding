@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
 species_group: "Wrens"
 species_code: "grbwre1"
-sidebar_position: 170
+sidebar_position: 174
 sidebar_class_name: " "
 tags: 
   - Passeriformes

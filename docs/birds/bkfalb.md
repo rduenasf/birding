@@ -5,7 +5,7 @@ order: "Procellariiformes"
 family: "Diomedeidae (Albatrosses)"
 species_group: "Albatrosses"
 species_code: "bkfalb"
-sidebar_position: 49
+sidebar_position: 50
 sidebar_class_name: " "
 tags: 
   - Procellariiformes

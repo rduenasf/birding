@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Turdidae (Thrushes and Allies)"
 species_group: "Thrushes"
 species_code: "varthr"
-sidebar_position: 369
+sidebar_position: 378
 sidebar_class_name: " "
 tags: 
   - Passeriformes

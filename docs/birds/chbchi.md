@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Paridae (Tits, Chickadees, and Titmice)"
 species_group: "Tits, Chickadees, and Titmice"
 species_code: "chbchi"
-sidebar_position: 101
+sidebar_position: 104
 sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes

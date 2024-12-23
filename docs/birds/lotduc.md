@@ -5,7 +5,7 @@ order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "lotduc"
-sidebar_position: 226
+sidebar_position: 232
 sidebar_class_name: "has-photo "
 tags: 
   - Anseriformes

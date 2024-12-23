@@ -5,7 +5,7 @@ order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "mallar3"
-sidebar_position: 231
+sidebar_position: 237
 sidebar_class_name: "has-photo has-audio"
 tags: 
   - Anseriformes

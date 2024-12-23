@@ -5,7 +5,7 @@ order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
 species_group: "Shorebirds"
 species_code: "greyel"
-sidebar_position: 184
+sidebar_position: 188
 sidebar_class_name: " has-audio"
 tags: 
   - Charadriiformes

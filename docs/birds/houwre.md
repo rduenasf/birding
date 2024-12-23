@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
 species_group: "Wrens"
 species_code: "houwre"
-sidebar_position: 254
+sidebar_position: 261
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -33,6 +33,8 @@ tags:
 
 * Arizona, United States
 * California, United States
+* Ciudad de México, Mexico
+* Morelos, Mexico
 
 ## Description
 The northern house wren (Troglodytes aedon) is a very small passerine in the wren family Troglodytidae. It found in southern Canada, the USA and Mexico. It occurs in most suburban areas in its range. It formerly included many subspecies resident in South America and in the Caribbean that are now considered as separate species. The name troglodytes means "hole dweller", and is a reference to the bird's tendency to disappear into crevices when hunting insects or to seek shelter.[^1]

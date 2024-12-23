@@ -5,7 +5,7 @@ order: "Charadriiformes"
 family: "Laridae (Gulls, Terns, and Skimmers)"
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "wesgul"
-sidebar_position: 384
+sidebar_position: 393
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

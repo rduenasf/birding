@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Cardinalidae (Cardinals and Allies)"
 species_group: "Cardinals, Grosbeaks, and Allies"
 species_code: "norcar"
-sidebar_position: 250
+sidebar_position: 257
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes

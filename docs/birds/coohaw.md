@@ -5,7 +5,7 @@ order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
 species_group: "Vultures, Hawks, and Allies"
 species_code: "coohaw"
-sidebar_position: 128
+sidebar_position: 131
 sidebar_class_name: "has-photo "
 tags: 
   - Accipitriformes

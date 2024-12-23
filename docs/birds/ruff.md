@@ -5,7 +5,7 @@ order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
 species_group: "Shorebirds"
 species_code: "ruff"
-sidebar_position: 311
+sidebar_position: 319
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

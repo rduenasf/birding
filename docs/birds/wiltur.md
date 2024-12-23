@@ -5,7 +5,7 @@ order: "Galliformes"
 family: "Phasianidae (Pheasants, Grouse, and Allies)"
 species_group: "Grouse, Quail, and Allies"
 species_code: "wiltur"
-sidebar_position: 408
+sidebar_position: 417
 sidebar_class_name: "has-photo has-audio"
 tags: 
   - Galliformes

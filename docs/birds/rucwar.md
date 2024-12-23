@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
 species_group: "Wood-Warblers"
 species_code: "rucwar"
-sidebar_position: 316
+sidebar_position: 324
 sidebar_class_name: " "
 tags: 
   - Passeriformes

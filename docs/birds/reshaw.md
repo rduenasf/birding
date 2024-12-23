@@ -5,13 +5,13 @@ order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
 species_group: "Vultures, Hawks, and Allies"
 species_code: "reshaw"
-sidebar_position: 295
-sidebar_class_name: " "
+sidebar_position: 303
+sidebar_class_name: "has-photo "
 tags: 
   - Accipitriformes
   - Accipitridae (Hawks, Eagles, and Kites)
   - Vultures, Hawks, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,13 +25,14 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=reshaw) | [Map](/map?species_code=reshaw)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
 ## Places Seen
 
 * California, United States
+* Florida, United States
 
 ## Description
 The red-shouldered hawk (Buteo lineatus) is a medium-sized buteo. Its breeding range spans eastern North America and along the coast of California and northern to northeastern-central Mexico. It is a permanent resident throughout most of its range, though northern birds do migrate, mostly to central Mexico. The main conservation threat to the widespread species is deforestation.[^1]
@@ -40,7 +41,7 @@ The red-shouldered hawk (Buteo lineatus) is a medium-sized buteo. Its breeding r
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/627868402/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

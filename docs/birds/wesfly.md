@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "wesfly"
-sidebar_position: 382
+sidebar_position: 391
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -33,6 +33,7 @@ tags:
 
 * Arizona, United States
 * California, United States
+* Morelos, Mexico
 
 ## Description
 The western flycatcher (Empidonax difficilis) is a small insectivorous bird in the family Tyrannidae.  It is native to western North America, where it breeds in the Rocky Mountains and Pacific Coast forests and mountain ranges from California to Alaska and south to central Mexico; northern populations migrate south to Mexico for the winter.[^1]

@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
 species_group: "Wood-Warblers"
 species_code: "yerwar"
-sidebar_position: 419
+sidebar_position: 430
 sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
@@ -31,7 +31,10 @@ tags:
 
 ## Places Seen
 
+* Arizona, United States
 * California, United States
+* Ciudad de México, Mexico
+* Ontario, Canada
 
 ## Description
 The yellow-rumped warbler (Setophaga coronata) is a regular North American bird species that can be commonly observed all across the continent. Its extensive range connects both the Pacific and Atlantic coasts of the U.S. as well as Canada and Central America, with the population concentrated in the continent's northern reaches during the breeding season and migrating southwards to southern North and Central America in the winter. It generally prefers coniferous forests or mixed coniferous-deciduous forests as its breeding habitat, while during the winter it can be found inhabiting more open areas such as shrublands that offer food resources. The yellow-rumped warbler is primarily insectivorous, though the species does eat fruits such as juniper berries as well, especially in winter.

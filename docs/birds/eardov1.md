@@ -5,7 +5,7 @@ order: "Columbiformes"
 family: "Columbidae (Pigeons and Doves)"
 species_group: "Pigeons and Doves"
 species_code: "eardov1"
-sidebar_position: 142
+sidebar_position: 145
 sidebar_class_name: " "
 tags: 
   - Columbiformes

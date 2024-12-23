@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
 species_group: "Wood-Warblers"
 species_code: "yelwar"
-sidebar_position: 416
+sidebar_position: 425
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -33,6 +33,7 @@ tags:
 
 * Arizona, United States
 * California, United States
+* Ciudad de México, Mexico
 
 ## Description
 The yellow warbler (Setophaga petechia) is a New World warbler species. Yellow warblers are the most widespread species in the diverse genus Setophaga, breeding in almost the whole of North America, the Caribbean, as well as northern South America.[^1]

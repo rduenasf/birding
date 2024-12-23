@@ -5,7 +5,7 @@ order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "sursco"
-sidebar_position: 356
+sidebar_position: 364
 sidebar_class_name: " "
 tags: 
   - Anseriformes

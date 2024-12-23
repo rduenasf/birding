@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Zosteropidae (White-eyes, Yuhinas, and Allies)"
 species_group: "White-eyes, Yuhinas, and Allies"
 species_code: "warwhe1"
-sidebar_position: 378
+sidebar_position: 387
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes

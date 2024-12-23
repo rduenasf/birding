@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Cardinalidae (Cardinals and Allies)"
 species_group: "Cardinals, Grosbeaks, and Allies"
 species_code: "westan"
-sidebar_position: 388
+sidebar_position: 397
 sidebar_class_name: " "
 tags: 
   - Passeriformes

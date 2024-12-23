@@ -5,7 +5,7 @@ order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
 species_group: "Shorebirds"
 species_code: "lesyel"
-sidebar_position: 221
+sidebar_position: 227
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
 species_group: "Wood-Warblers"
 species_code: "crcwar"
-sidebar_position: 132
+sidebar_position: 135
 sidebar_class_name: " "
 tags: 
   - Passeriformes

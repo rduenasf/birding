@@ -12,7 +12,7 @@ const countrySpeciesOutputFile =
   "c:/Users/rduen/my-website/static/country_for_species.json";
 const cacheFile = "c:/Users/rduen/my-website/scripts/wikiCache.json"; // Cache file path
 
-const dataDict = {};
+let dataDict = {};
 const speciesCodeMap = {};
 const countrySpeciesCount = {};
 const speciesCountryCount = {};
@@ -183,6 +183,35 @@ const processEBirdData = async () => {
   });
 };
 
+const rollupSpecies = () => {
+  const speciesData = {};
+  Object.values(dataDict)
+    .filter(({ category }) => category === "species")
+    .forEach((record) => {
+      const { speciesCode } = record;
+      speciesData[speciesCode] = record;
+    });
+  Object.values(dataDict)
+    .filter(({ category }) => category === "issf")
+    .forEach((record) => {
+      const { reportAs } = record;
+      if (speciesData[reportAs] === undefined) {
+        speciesData[reportAs] = dataDict[reportAs];
+      }
+      speciesData[reportAs].observations = speciesData[
+        reportAs
+      ].observations.concat(record.observations);
+    });
+  // Object.values(dataDict)
+  //   .filter(({ category }) => category !== "species" && category !== "issf")
+  //   .forEach((record) => {
+  //     const { speciesCode } = record;
+  //     speciesData[speciesCode] = record;
+  //   });
+
+  dataDict = speciesData;
+};
+
 // Function to remove entries without observations
 const removeEmptyEntries = () => {
   for (const key in dataDict) {
@@ -195,8 +224,10 @@ const removeEmptyEntries = () => {
 const fetchBirdMetadata = async () => {
   // let counter = 0;
   for (const key in dataDict) {
-    if (dataDict[key].category !== "species") continue;
-    // if (counter++ > 10) break;
+    if (dataDict[key].category !== "species") {
+      dataDict[key].metadata = { description: "Not available" };
+      continue;
+    }
     dataDict[key].metadata = await fetchMetadata(dataDict[key]);
   }
 };
@@ -253,6 +284,7 @@ const main = async () => {
   await processMLData();
   await processTaxonomyData();
   await processEBirdData();
+  rollupSpecies();
   removeEmptyEntries();
   await fetchBirdMetadata();
   replaceMlCatalogNumbers();

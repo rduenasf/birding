@@ -5,7 +5,7 @@ order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
 species_group: "Shorebirds"
 species_code: "whimbr"
-sidebar_position: 390
+sidebar_position: 399
 sidebar_class_name: "has-photo "
 tags: 
   - Charadriiformes
@@ -32,6 +32,7 @@ tags:
 ## Places Seen
 
 * California, United States
+* Valparaíso, Chile
 
 ## Description
 The Eurasian or common whimbrel (Numenius phaeopus), also known as the white-rumped whimbrel in North America, is a wader in the large family Scolopacidae. It is one of the most widespread of the curlews, breeding across much of subarctic Asia and Europe as far south as Scotland. This species and the Hudsonian whimbrel have recently been split, although some taxonomic authorities still consider them to be conspecific.[^1]

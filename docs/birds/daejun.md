@@ -5,14 +5,14 @@ order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
 species_group: "New World Sparrows"
 species_code: "daejun"
-sidebar_position: 134
-sidebar_class_name: "has-photo "
+sidebar_position: 137
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
   - Passerellidae (New World Sparrows)
   - New World Sparrows
   - Has Photo
-  - Needs Audio
+  - Has Audio
 ---
 
 # Dark-eyed Junco <span className='sci_name'>Junco hyemalis</span>
@@ -27,7 +27,7 @@ tags:
 
 **Photo**: Yes 
 
-**Audio**: No
+**Audio**: Yes
 
 ## Places Seen
 
@@ -45,7 +45,11 @@ The dark-eyed junco (Junco hyemalis) is a species of junco, a group of small, gr
 <iframe src="https://macaulaylibrary.org/asset/614232433/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
-No audio recordings available.
+<iframe src="https://macaulaylibrary.org/asset/627628678/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/627628679/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/627219221/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/627219360/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/627219397/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/daejun) 

@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Remizidae (Penduline-Tits)"
 species_group: "Penduline-Tits and Verdin"
 species_code: "verdin"
-sidebar_position: 371
+sidebar_position: 380
 sidebar_class_name: " "
 tags: 
   - Passeriformes

@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Bombycillidae (Waxwings)"
 species_group: "Waxwings"
 species_code: "cedwax"
-sidebar_position: 100
+sidebar_position: 103
 sidebar_class_name: " "
 tags: 
   - Passeriformes

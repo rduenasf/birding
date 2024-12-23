@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
 species_group: "Blackbirds"
 species_code: "rewbla"
-sidebar_position: 298
+sidebar_position: 306
 sidebar_class_name: " "
 tags: 
   - Passeriformes

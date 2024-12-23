@@ -24,12 +24,6 @@ function ensureDirectoryExists(dirPath) {
   }
 }
 
-function getSpeciesData(ebirdData) {
-  return Object.values(ebirdData)
-    .filter(({ category }) => category === "species")
-    .sort((a, b) => a.primaryComName.localeCompare(b.primaryComName));
-}
-
 function generatePhotoEmbeds(photos) {
   return photos
     .sort((a, b) => b.averageCommunityRating - a.averageCommunityRating)
@@ -141,8 +135,7 @@ function writeMarkdownFile(filePath, content) {
   fs.writeFileSync(filePath, content, "utf8");
 }
 
-function generateBirdPages(ebirdData, outputDir) {
-  const species = getSpeciesData(ebirdData);
+function generateBirdPages(species, outputDir) {
   species.forEach((bird, index) => {
     const photos = bird.observations
       .flatMap((obs) => obs.mlCatalogNumbers)
@@ -203,12 +196,18 @@ slug: /
   writeMarkdownFile(indexPath, indexContent);
 }
 
+function getSpeciesData(ebirdData) {
+  return Object.values(ebirdData).sort((a, b) =>
+    a.primaryComName.localeCompare(b.primaryComName)
+  );
+}
 function main() {
   const ebirdData = readEbirdData("ebirdData.json");
   const outputDir = path.join(__dirname, "../docs/birds");
   ensureDirectoryExists(outputDir);
-  generateBirdPages(ebirdData, outputDir);
-  generateIndexFile(getSpeciesData(ebirdData), outputDir);
+  const species = getSpeciesData(ebirdData);
+  generateBirdPages(species, outputDir);
+  generateIndexFile(species, outputDir);
   console.log("Markdown files and index generated successfully.");
 }
 

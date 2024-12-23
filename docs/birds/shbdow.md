@@ -5,7 +5,7 @@ order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
 species_group: "Shorebirds"
 species_code: "shbdow"
-sidebar_position: 334
+sidebar_position: 342
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

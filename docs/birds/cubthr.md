@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Mimidae (Mockingbirds and Thrashers)"
 species_group: "Catbirds, Mockingbirds, and Thrashers"
 species_code: "cubthr"
-sidebar_position: 133
+sidebar_position: 136
 sidebar_class_name: " "
 tags: 
   - Passeriformes

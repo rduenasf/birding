@@ -5,13 +5,13 @@ order: "Cathartiformes"
 family: "Cathartidae (New World Vultures)"
 species_group: "Vultures, Hawks, and Allies"
 species_code: "turvul"
-sidebar_position: 367
-sidebar_class_name: " "
+sidebar_position: 376
+sidebar_class_name: "has-photo "
 tags: 
   - Cathartiformes
   - Cathartidae (New World Vultures)
   - Vultures, Hawks, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=turvul) | [Map](/map?species_code=turvul)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
@@ -46,7 +46,8 @@ The turkey vulture is a scavenger and feeds almost exclusively on carrion. It fi
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/626996407/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/626996413/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

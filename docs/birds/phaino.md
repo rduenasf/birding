@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Ptiliogonatidae (Silky-flycatchers)"
 species_group: "Silky-flycatchers"
 species_code: "phaino"
-sidebar_position: 273
+sidebar_position: 280
 sidebar_class_name: " "
 tags: 
   - Passeriformes

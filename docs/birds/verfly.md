@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "verfly"
-sidebar_position: 372
+sidebar_position: 381
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -32,6 +32,7 @@ tags:
 ## Places Seen
 
 * Arizona, United States
+* Ciudad de México, Mexico
 * Morelos, Mexico
 
 ## Description

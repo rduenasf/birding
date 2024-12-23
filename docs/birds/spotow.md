@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
 species_group: "New World Sparrows"
 species_code: "spotow"
-sidebar_position: 347
+sidebar_position: 355
 sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
@@ -33,6 +33,8 @@ tags:
 
 * Arizona, United States
 * California, United States
+* Ciudad de México, Mexico
+* Morelos, Mexico
 
 ## Description
 The spotted towhee (Pipilo maculatus) is a large New World sparrow. The taxonomy of the towhees has been debated in recent decades, and until 1995 this bird and the eastern towhee were considered a single species, the rufous-sided towhee.  Another outdated name for the spotted towhee is the Oregon towhee (Pipilo maculatus oregonus). The call may be harsher and more varied than for the eastern towhee.
@@ -48,6 +50,8 @@ No photographs available.
 <iframe src="https://macaulaylibrary.org/asset/626618120/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 <iframe src="https://macaulaylibrary.org/asset/626618141/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 <iframe src="https://macaulaylibrary.org/asset/626995488/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/627219278/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/627219279/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/spotow) 

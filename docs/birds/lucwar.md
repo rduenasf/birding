@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
 species_group: "Wood-Warblers"
 species_code: "lucwar"
-sidebar_position: 229
+sidebar_position: 235
 sidebar_class_name: " "
 tags: 
   - Passeriformes

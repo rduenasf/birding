@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
 species_group: "New World Sparrows"
 species_code: "sonspa"
-sidebar_position: 338
+sidebar_position: 346
 sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
@@ -33,6 +33,7 @@ tags:
 
 * Arizona, United States
 * California, United States
+* Ciudad de México, Mexico
 * Ontario, Canada
 * Washington, United States
 

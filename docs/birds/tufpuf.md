@@ -5,7 +5,7 @@ order: "Charadriiformes"
 family: "Alcidae (Auks, Murres, and Puffins)"
 species_group: "Alcids"
 species_code: "tufpuf"
-sidebar_position: 365
+sidebar_position: 374
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

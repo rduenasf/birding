@@ -5,7 +5,7 @@ order: "Strigiformes"
 family: "Strigidae (Owls)"
 species_group: "Owls"
 species_code: "grhowl2"
-sidebar_position: 219
+sidebar_position: 225
 sidebar_class_name: "has-photo "
 tags: 
   - Strigiformes

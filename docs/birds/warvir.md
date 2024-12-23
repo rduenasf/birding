@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Vireonidae (Vireos, Shrike-Babblers, and Erpornis)"
 species_group: "Vireos"
 species_code: "warvir"
-sidebar_position: 377
+sidebar_position: 386
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -31,6 +31,7 @@ tags:
 
 ## Places Seen
 
+* Arizona, United States
 * California, United States
 * Ciudad de México, Mexico
 * Morelos, Mexico

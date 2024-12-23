@@ -5,13 +5,13 @@ order: "Accipitriformes"
 family: "Pandionidae (Osprey)"
 species_group: "Vultures, Hawks, and Allies"
 species_code: "osprey"
-sidebar_position: 265
-sidebar_class_name: " "
+sidebar_position: 272
+sidebar_class_name: "has-photo "
 tags: 
   - Accipitriformes
   - Pandionidae (Osprey)
   - Vultures, Hawks, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=osprey) | [Map](/map?species_code=osprey)
 
-**Photo**: No 
+**Photo**: Yes 
 
 **Audio**: No
 
@@ -33,6 +33,7 @@ tags:
 
 * California, United States
 * Ciudad de México, Mexico
+* Florida, United States
 
 ## Description
 The osprey (; Pandion haliaetus), historically known as sea hawk, river hawk, and fish hawk, is a diurnal, fish-eating bird of prey with a cosmopolitan range. It is a large raptor, reaching more than 60 cm (24 in) in length and 180 cm (71 in) across the wings. It is brown on the upperparts and predominantly greyish on the head and underparts.
@@ -43,7 +44,8 @@ As its other common names suggest, the osprey's diet consists almost exclusively
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/625745134/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/625745135/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

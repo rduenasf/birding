@@ -5,7 +5,7 @@ order: "Charadriiformes"
 family: "Laridae (Gulls, Terns, and Skimmers)"
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "grygul"
-sidebar_position: 167
+sidebar_position: 171
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

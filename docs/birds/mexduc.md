@@ -5,7 +5,7 @@ order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "mexduc"
-sidebar_position: 237
+sidebar_position: 243
 sidebar_class_name: " "
 tags: 
   - Anseriformes

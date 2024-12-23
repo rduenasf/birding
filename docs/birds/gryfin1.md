@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Thraupidae (Tanagers and Allies)"
 species_group: "Tanagers and Allies"
 species_code: "gryfin1"
-sidebar_position: 166
+sidebar_position: 170
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -32,6 +32,7 @@ tags:
 ## Places Seen
 
 * Región Metropolitana de Santiago, Chile
+* Valparaíso, Chile
 
 ## Description
 The grassland yellow finch (Sicalis luteola) is a small passerine bird. Despite its name, it is not a  finch, but is a seedeater. These were formerly united with the buntings and American sparrows in the Emberizidae, but are now known to be tanagers.

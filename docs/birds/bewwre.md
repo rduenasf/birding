@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
 species_group: "Wrens"
 species_code: "bewwre"
-sidebar_position: 34
+sidebar_position: 35
 sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes

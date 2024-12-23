@@ -5,7 +5,7 @@ order: "Cathartiformes"
 family: "Cathartidae (New World Vultures)"
 species_group: "Vultures, Hawks, and Allies"
 species_code: "blkvul"
-sidebar_position: 39
+sidebar_position: 40
 sidebar_class_name: " "
 tags: 
   - Cathartiformes

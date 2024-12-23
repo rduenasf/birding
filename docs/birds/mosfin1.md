@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Thraupidae (Tanagers and Allies)"
 species_group: "Tanagers and Allies"
 species_code: "mosfin1"
-sidebar_position: 245
+sidebar_position: 252
 sidebar_class_name: " "
 tags: 
   - Passeriformes

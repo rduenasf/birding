@@ -5,14 +5,14 @@ order: "Passeriformes"
 family: "Sittidae (Nuthatches)"
 species_group: "Nuthatches"
 species_code: "whbnut"
-sidebar_position: 392
-sidebar_class_name: " "
+sidebar_position: 401
+sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
   - Sittidae (Nuthatches)
   - Nuthatches
   - Needs Photo
-  - Needs Audio
+  - Has Audio
 ---
 
 # White-breasted Nuthatch <span className='sci_name'>Sitta carolinensis</span>
@@ -27,7 +27,7 @@ tags:
 
 **Photo**: No 
 
-**Audio**: No
+**Audio**: Yes
 
 ## Places Seen
 
@@ -47,7 +47,7 @@ The white-breasted nuthatch breeds throughout much of North America, except in t
 No photographs available.
 
 ### Audio Recordings
-No audio recordings available.
+<iframe src="https://macaulaylibrary.org/asset/627219259/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/whbnut) 

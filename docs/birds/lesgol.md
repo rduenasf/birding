@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Fringillidae (Finches, Euphonias, and Allies)"
 species_group: "Finches, Euphonias, and Allies"
 species_code: "lesgol"
-sidebar_position: 218
+sidebar_position: 224
 sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes

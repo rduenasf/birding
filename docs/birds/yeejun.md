@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
 species_group: "New World Sparrows"
 species_code: "yeejun"
-sidebar_position: 418
+sidebar_position: 429
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -32,6 +32,7 @@ tags:
 ## Places Seen
 
 * Arizona, United States
+* Ciudad de México, Mexico
 
 ## Description
 The yellow-eyed junco (Junco phaeonotus) is a species of junco, a group of small New World sparrows.

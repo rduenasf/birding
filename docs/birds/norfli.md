@@ -5,7 +5,7 @@ order: "Piciformes"
 family: "Picidae (Woodpeckers)"
 species_group: "Woodpeckers"
 species_code: "norfli"
-sidebar_position: 251
+sidebar_position: 258
 sidebar_class_name: "has-photo has-audio"
 tags: 
   - Piciformes
@@ -33,6 +33,8 @@ tags:
 
 * Arizona, United States
 * California, United States
+* Ciudad de México, Mexico
+* Florida, United States
 * Ontario, Canada
 * Washington, United States
 

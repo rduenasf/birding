@@ -5,7 +5,7 @@ order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "cosswa1"
-sidebar_position: 130
+sidebar_position: 133
 sidebar_class_name: " "
 tags: 
   - Anseriformes

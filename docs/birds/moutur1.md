@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Rhinocryptidae (Tapaculos)"
 species_group: "Tapaculos"
 species_code: "moutur1"
-sidebar_position: 246
+sidebar_position: 253
 sidebar_class_name: " "
 tags: 
   - Passeriformes

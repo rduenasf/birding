@@ -5,7 +5,7 @@ order: "Charadriiformes"
 family: "Charadriidae (Plovers and Lapwings)"
 species_group: "Shorebirds"
 species_code: "killde"
-sidebar_position: 210
+sidebar_position: 216
 sidebar_class_name: "has-photo has-audio"
 tags: 
   - Charadriiformes

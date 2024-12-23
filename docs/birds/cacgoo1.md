@@ -5,7 +5,7 @@ order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "cacgoo1"
-sidebar_position: 83
+sidebar_position: 86
 sidebar_class_name: " "
 tags: 
   - Anseriformes

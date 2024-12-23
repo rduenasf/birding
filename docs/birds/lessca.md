@@ -5,7 +5,7 @@ order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "lessca"
-sidebar_position: 220
+sidebar_position: 226
 sidebar_class_name: " "
 tags: 
   - Anseriformes

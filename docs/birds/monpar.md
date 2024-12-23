@@ -5,7 +5,7 @@ order: "Psittaciformes"
 family: "Psittacidae (New World and African Parrots)"
 species_group: "Parrots, Parakeets, and Allies"
 species_code: "monpar"
-sidebar_position: 238
+sidebar_position: 245
 sidebar_class_name: " "
 tags: 
   - Psittaciformes
@@ -33,6 +33,7 @@ tags:
 
 * Ciudad de México, Mexico
 * Florida, United States
+* Región Metropolitana de Santiago, Chile
 
 ## Description
 The monk parakeet (Myiopsitta monachus), also known as the monk parrot or Quaker parrot, is a species of true parrot in the family Psittacidae. It is a small, bright-green parrot with a greyish breast and greenish-yellow abdomen. Its average lifespan is approximately 15 years. It originates from the temperate to subtropical areas of South America. Self-sustaining feral populations occur in many places, mainly in areas of similar climate in North America and Europe.[^1]

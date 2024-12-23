@@ -5,7 +5,7 @@ order: "Apodiformes"
 family: "Trochilidae (Hummingbirds)"
 species_group: "Hummingbirds"
 species_code: "brthum"
-sidebar_position: 70
+sidebar_position: 72
 sidebar_class_name: " "
 tags: 
   - Apodiformes

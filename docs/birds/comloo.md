@@ -5,7 +5,7 @@ order: "Gaviiformes"
 family: "Gaviidae (Loons)"
 species_group: "Loons"
 species_code: "comloo"
-sidebar_position: 121
+sidebar_position: 124
 sidebar_class_name: " "
 tags: 
   - Gaviiformes

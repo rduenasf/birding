@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Vireonidae (Vireos, Shrike-Babblers, and Erpornis)"
 species_group: "Vireos"
 species_code: "cssvir1"
-sidebar_position: 102
+sidebar_position: 105
 sidebar_class_name: " "
 tags: 
   - Passeriformes

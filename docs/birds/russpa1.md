@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
 species_group: "New World Sparrows"
 species_code: "russpa1"
-sidebar_position: 323
+sidebar_position: 331
 sidebar_class_name: " "
 tags: 
   - Passeriformes

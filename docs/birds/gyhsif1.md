@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Thraupidae (Tanagers and Allies)"
 species_group: "Tanagers and Allies"
 species_code: "gyhsif1"
-sidebar_position: 173
+sidebar_position: 177
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes

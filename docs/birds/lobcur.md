@@ -5,7 +5,7 @@ order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
 species_group: "Shorebirds"
 species_code: "lobcur"
-sidebar_position: 224
+sidebar_position: 230
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

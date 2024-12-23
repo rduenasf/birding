@@ -5,7 +5,7 @@ order: "Psittaciformes"
 family: "Psittacidae (New World and African Parrots)"
 species_group: "Parrots, Parakeets, and Allies"
 species_code: "rempar"
-sidebar_position: 293
+sidebar_position: 301
 sidebar_class_name: " "
 tags: 
   - Psittaciformes
