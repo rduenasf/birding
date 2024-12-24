@@ -1,6 +1,7 @@
 import clsx from "clsx";
 import styles from "./styles.module.css";
 import { useState } from "react";
+import NotFoundImage from "@site/static/img/not-found.png";
 
 export default function BirdCard({
   index,
@@ -17,20 +18,23 @@ export default function BirdCard({
         <div className="col col--5">
           <div className="col-demo">
             <div className="card shadow--tl">
-              {photo && (
+              {photo ? (
                 <img
                   className="card__image"
                   // style={{ height: "400px", objectFit: "cover" }}
                   src={`https://cdn.download.ams.birds.cornell.edu/api/v1/asset/${photo}/640`}
                 />
+              ) : (
+                <img src={NotFoundImage} />
               )}
               {recording && (
                 <img
                   className="card__image padding-top--none"
                   src={
-                    !photo
-                      ? `https://cdn.download.ams.birds.cornell.edu/api/v1/asset/${recording}/poster`
-                      : `https://cdn.download.ams.birds.cornell.edu/api/v2/asset/${recording}/default/preview`
+                    // !photo
+                    //   ? `https://cdn.download.ams.birds.cornell.edu/api/v1/asset/${recording}/poster`
+                    // :
+                    `https://cdn.download.ams.birds.cornell.edu/api/v2/asset/${recording}/default/preview`
                   }
                 />
               )}
