@@ -1,5 +1,4 @@
 import clsx from "clsx";
-import Heading from "@theme/Heading";
 import styles from "./styles.module.css";
 import { useState } from "react";
 
@@ -21,22 +20,35 @@ export default function BirdCard({
               {photo && (
                 <img
                   className="card__image"
+                  // style={{ height: "400px", objectFit: "cover" }}
                   src={`https://cdn.download.ams.birds.cornell.edu/api/v1/asset/${photo}/640`}
                 />
               )}
               {recording && (
                 <img
                   className="card__image padding-top--none"
-                  src={`https://cdn.download.ams.birds.cornell.edu/api/v2/asset/${recording}/default/preview`}
+                  src={
+                    !photo
+                      ? `https://cdn.download.ams.birds.cornell.edu/api/v1/asset/${recording}/poster`
+                      : `https://cdn.download.ams.birds.cornell.edu/api/v2/asset/${recording}/default/preview`
+                  }
                 />
               )}
-              <div className="card__body text--center">
+              <div className="card__body">
                 <h4>
-                  Lifer {index} - <a href={`./birds/${speciesCode}`}>{name}</a>
+                  <a href={`./birds/${speciesCode}`}>{name}</a>
+                  <span className={styles.alignRight}>#{index}</span>
                 </h4>
               </div>
               <div className="card__footer ">
                 <div className="button-group button-group--block">
+                  <a
+                    className="button button--secondary"
+                    href={`https://ebird.org/species/${speciesCode}/`}
+                    target="_blank"
+                  >
+                    eBird
+                  </a>
                   <button
                     disabled={!photo}
                     className="button button--secondary"
@@ -65,7 +77,6 @@ export default function BirdCard({
                 <audio
                   id={`audio-${recording}`}
                   src={`https://cdn.download.ams.birds.cornell.edu/api/v2/asset/${recording}/mp3`}
-                  preload="metadata"
                 ></audio>
               </div>
             </div>

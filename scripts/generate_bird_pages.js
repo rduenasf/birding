@@ -203,33 +203,23 @@ import BirdCard from '@site/src/components/BirdCard';
 `;
   const yearContent = [];
 
+  let birdCount = 0;
+
   for (const year of Object.keys(birdsByYear).sort((a, b) => b - a)) {
     yearContent.push(`# ${year}
 ${birdsByYear[year]
   .map((bird, index, birds) => {
-    const {
-      primaryComName,
-      speciesCode,
-      bestPhoto,
-      photographed,
-      bestRecording,
-      recorded,
-    } = birds[birds.length - 1 - index];
+    const { primaryComName, speciesCode, bestPhoto, bestRecording } =
+      birds[birds.length - 1 - index];
 
-    // if (photographed) {
     return `\n<BirdCard
-        index="${birds.length - index}"
+        index="${species.length - birdCount++}"
         name="${primaryComName}"
         speciesCode="${speciesCode}"
         ${bestPhoto ? `photo="${bestPhoto.MlCatalogNumber}"` : ""} 
         ${
           bestRecording ? `recording="${bestRecording.MlCatalogNumber}"` : ""
         }/>\n`;
-    // } else {
-    //   return `* #${birds.length - index}: [${primaryComName}${
-    //     photographed ? " 📷" : ""
-    //   } ${recorded ? " 🔊" : ""}](./birds/${speciesCode})`;
-    // }
   })
   .join("\n")}`);
   }
