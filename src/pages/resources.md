@@ -9,6 +9,7 @@
 
 - [San Jose Weather](https://forecast7.com/en/37d34n121d89/san-jose/)
 - [Tide Information](https://tidesandcurrents.noaa.gov/waterlevels.html?id=9414523&units=standard&timezone=LST&datum=MLLW&interval=6&action=)
+- [RainCrow](https://raincrow.app/)
 
 # Links
 
