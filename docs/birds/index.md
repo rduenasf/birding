@@ -3,1513 +3,3468 @@ id: Birds
 title: Life List
 slug: /
 ---
+
+import BirdCard from '@site/src/components/BirdCard';
+
 # 2024
-* #332: [Purple Finch  🔊](./birds/purfin)
-* #331: [Burrowing Parakeet ](./birds/burpar)
-* #330: [Yellow-billed Teal ](./birds/yebtea1)
-* #329: [Black-chinned Siskin ](./birds/blcsis2)
-* #328: [Plain-mantled Tit-Spinetail ](./birds/pmtspi1)
-* #327: [Gray-flanked Cinclodes ](./birds/gyfcin1)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/625246862/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 326 - [Lesser Horned Owl](./birds/grhowl2)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #325: [Black-winged Ground Dove ](./birds/bwgdov1)
-* #324: [Mountain Caracara ](./birds/moucar1)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/625246796/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 323 - [Gray-hooded Sierra Finch](./birds/gyhsif1)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #322: [Blue-and-white Swallow ](./birds/bawswa1)
-* #321: [Sharp-billed Canastero ](./birds/shbcan2)
-* #320: [Cordilleran Canastero ](./birds/corcan1)
-* #319: [Greater Yellow-Finch ](./birds/gryfin2)
-* #318: [White-browed Ground-Tyrant ](./birds/wbgtyr1)
-* #317: [Rufous-naped Ground-Tyrant ](./birds/rngtyr1)
-* #316: [Spot-billed Ground-Tyrant ](./birds/sbgtyr1)
-* #315: [Scale-throated Earthcreeper ](./birds/sctear1)
-* #314: [Rufous-banded Miner ](./birds/rubmin1)
-* #313: [Variable Hawk ](./birds/rebhaw2)
-* #312: [Black-faced Ibis ](./birds/bkfibi1)
-* #311: [Moustached Turca ](./birds/moutur1)
-* #310: [Chilean Tinamou ](./birds/chitin1)
-* #309: [Tufted Tit-Tyrant ](./birds/tuttyr1)
-* #308: [Dusky-tailed Canastero ](./birds/dutcan1)
-* #307: [Great Shrike-Tyrant ](./birds/gresht1)
-* #306: [Buff-winged Cinclodes ](./birds/buwcin1)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/625246747/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 305 - [Chilean Pigeon](./birds/chipig2)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #304: [Harris's Hawk ](./birds/hrshaw)
-* #303: [Guanay Cormorant ](./birds/guacor1)
-* #302: [Peruvian Booby ](./birds/perboo1)
-* #301: [Humboldt Penguin ](./birds/humpen1)
-* #300: [Band-tailed Sierra Finch ](./birds/btsfin1)
-* #299: [Austral Blackbird ](./birds/ausbla1)
-* #298: [Chilean Swallow ](./birds/chiswa1)
-* #297: [Fire-eyed Diucon ](./birds/fiediu1)
-* #296: [Spectacled Tyrant ](./birds/spetyr1)
-* #295: [Austral Negrito ](./birds/ausneg1)
-* #294: [White-crested Elaenia ](./birds/whcela1)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/625246687/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 293 - [Rufous-tailed Plantcutter](./birds/rutpla1)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #292: [Gray Gull ](./birds/grygul)
-* #291: [American Oystercatcher ](./birds/ameoys)
-* #290: [Yellow-billed Pintail ](./birds/yebpin1)
-* #289: [Mourning Sierra Finch ](./birds/mosfin1)
-* #288: [Striped Woodpecker ](./birds/strwoo6)
-* #287: [Picui Ground Dove ](./birds/pigdov1)
-* #286: [Grassland Yellow-Finch ](./birds/gryfin1)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/625246625/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 285 - [Yellow-winged Blackbird](./birds/yewbla2)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/625246481/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 284 - [Chilean Mockingbird](./birds/chimoc1)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627867371/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 283 - [Many-colored Rush Tyrant](./birds/mcrtyr1)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627867342/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 282 - [Wren-like Rushbird](./birds/wrlrus1)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #281: [White-tufted Grebe ](./birds/whtgre3)
-* #280: [West Peruvian Dove ](./birds/wepdov1)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627867306/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 279 - [Lake Duck](./birds/lakduc1)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #278: [Black-necked Swan ](./birds/blnswa2)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/625246637/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 277 - [Diuca Finch](./birds/codfin1)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/625246580/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 276 - [Long-tailed Meadowlark](./birds/lotmea1)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #275: [Southern House Wren ](./birds/houwre4)
-* #274: [Cocoi Heron ](./birds/cocher1)
-* #273: [Brown-hooded Gull ](./birds/brhgul2)
-* #272: [White-winged Coot ](./birds/whwcoo1)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627867360/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 271 - [Red-gartered Coot](./birds/regcoo1)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627867363/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 270 - [Red-fronted Coot](./birds/refcoo1)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627867390/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 269 - [Chiloe Wigeon](./birds/chiwig1)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #268: [Red Shoveler ](./birds/redsho1)
-* #267: [Andean Goose ](./birds/andgoo1)
-* #266: [Coscoroba Swan ](./birds/cosswa1)
-* #265: [Kelp Gull ](./birds/kelgul)
-* #264: [Austral Thrush ](./birds/austhr1)
-* #263: [Shiny Cowbird ](./birds/shicow)
-* #262: [Rufous-collared Sparrow ](./birds/rucspa1)
-* #261: [Eared Dove ](./birds/eardov1)
-* #260: [Parasitic Jaeger ](./birds/parjae)
-* #259: [Glaucous-winged Gull ](./birds/glwgul)
-* #258: [Bank Swallow ](./birds/banswa)
-* #257: [Common Tern ](./birds/comter)
-* #256: [Cassin's Finch ](./birds/casfin)
-* #255: [Mountain Bluebird ](./birds/moublu)
-* #254: [Black-backed Woodpecker ](./birds/bkbwoo)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627867943/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 253 - [Gray-crowned Rosy-Finch](./birds/gcrfin)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #252: [Greater Roadrunner ](./birds/greroa)
-* #251: [Baird's Sandpiper ](./birds/baisan)
-* #250: [Ruff ](./birds/ruff)
-* #249: [Lesser Yellowlegs ](./birds/lesyel)
-* #248: [Wilson's Phalarope ](./birds/wilpha)
-* #247: [Indian Peafowl ](./birds/compea)
-* #246: [Red Junglefowl ](./birds/redjun)
-* #245: [Common Myna ](./birds/commyn)
-* #244: [Boat-tailed Grackle ](./birds/botgra)
-* #243: [Anhinga ](./birds/anhing)
-* #242: [Common Ground Dove ](./birds/cogdov)
-* #241: [White-eyed Vireo ](./birds/whevir)
-* #240: [White Ibis ](./birds/whiibi)
-* #239: [Swallow-tailed Kite ](./birds/swtkit)
-* #238: [Laughing Gull ](./birds/laugul)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627868759/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 237 - [Sooty Grouse](./birds/soogro1)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #236: [Cocos Booby ](./birds/cocboo1)
-* #235: [Northern Gannet ](./birds/norgan)
-* #234: [Pink-footed Shearwater ](./birds/pifshe)
-* #233: [Black-footed Albatross ](./birds/bkfalb)
-* #232: [Sooty Shearwater ](./birds/sooshe)
-* #231: [Tufted Puffin ](./birds/tufpuf)
-* #230: [Cassin's Auklet ](./birds/casauk)
-* #229: [Rhinoceros Auklet ](./birds/rhiauk)
-* #228: [Pacific Loon ](./birds/pacloo)
-* #227: [Elegant Tern ](./birds/eleter1)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627868853/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 226 - [Common Murre](./birds/commur)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #225: [Heermann's Gull ](./birds/heegul)
-* #224: [Pigeon Guillemot ](./birds/piggui)
-* #223: [Red-masked Parakeet ](./birds/rempar)
-* #222: [Mountain Quail ](./birds/mouqua)
-* #221: [Black Swift ](./birds/blkswi)
-* #220: [Nashville Warbler ](./birds/naswar)
-* #219: [Band-tailed Pigeon ](./birds/batpig1)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/619242520/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 218 - [Black Oystercatcher](./birds/blkoys)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #217: [Bullock's Oriole ](./birds/bulori)
-* #216: [Swainson's Thrush ](./birds/swathr)
-* #215: [California Quail  🔊](./birds/calqua)
-* #214: [Black-backed Oriole ](./birds/blbori1)
-* #213: [Tropical Kingbird ](./birds/trokin)
-* #212: [Monk Parakeet ](./birds/monpar)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/625745134/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 211 - [Osprey](./birds/osprey)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #210: [White-faced Ibis ](./birds/whfibi)
-* #209: [Berylline Hummingbird ](./birds/berhum)
-* #208: [White-naped Swift ](./birds/whnswi1)
-* #207: [Hooded Yellowthroat ](./birds/hooyel1)
-* #206: [Grass Wren ](./birds/sedwre)
-* #205: [Loggerhead Shrike ](./birds/logshr)
-* #204: [Buff-breasted Flycatcher ](./birds/bubfly)
-* #203: [White-throated Flycatcher ](./birds/whtfly1)
-* #202: [Strickland's Woodpecker ](./birds/strwoo)
-* #201: [Rufous-capped Brushfinch ](./birds/rcbfin1)
-* #200: [Sierra Madre Sparrow ](./birds/simspa1)
-* #199: [Striped Sparrow ](./birds/strspa1)
-* #198: [Mexican Chickadee ](./birds/mexchi)
-* #197: [Transvolcanic Jay ](./birds/mexjay3)
-* #196: [Mountain Trogon ](./birds/moutro1)
-* #195: [Cinnamon-bellied Flowerpiercer ](./birds/cibflo1)
-* #194: [Flame-colored Tanager ](./birds/flctan)
-* #193: [Slate-throated Redstart ](./birds/sltred)
-* #192: [Golden-browed Warbler ](./birds/gobwar1)
-* #191: [Crescent-chested Warbler ](./birds/crcwar)
-* #190: [Green-striped Brushfinch ](./birds/gsbfin1)
-* #189: [Black-headed Siskin ](./birds/blhsis1)
-* #188: [Gray Silky-flycatcher ](./birds/grsfly1)
-* #187: [White-throated Thrush ](./birds/whtrob1)
-* #186: [Russet Nightingale-Thrush ](./birds/runthr1)
-* #185: [Orange-billed Nightingale-Thrush ](./birds/obnthr1)
-* #184: [Brown-backed Solitaire ](./birds/brbsol1)
-* #183: [Gray-barred Wren ](./birds/grbwre1)
-* #182: [Chestnut-sided Shrike-Vireo ](./birds/cssvir1)
-* #181: [Tufted Flycatcher ](./birds/tuffly)
-* #180: [White-eared Hummingbird ](./birds/whehum)
-* #179: [Amethyst-throated Mountain-gem ](./birds/amthum1)
-* #178: [Rufous-capped Warbler ](./birds/rucwar)
-* #177: [Streak-backed Oriole ](./birds/stbori)
-* #176: [Black-vented Oriole ](./birds/bkvori)
-* #175: [Rusty Sparrow ](./birds/russpa1)
-* #174: [Rusty-crowned Ground-Sparrow ](./birds/rcgspa1)
-* #173: [Chipping Sparrow ](./birds/chispa)
-* #172: [Black-chested Sparrow ](./birds/blcspa1)
-* #171: [Stripe-headed Sparrow ](./birds/sthspa1)
-* #170: [Elegant Euphonia ](./birds/eleeup1)
-* #169: [Rufous-backed Robin ](./birds/rubrob)
-* #168: [Blue Mockingbird ](./birds/blumoc)
-* #167: [Happy Wren ](./birds/hapwre1)
-* #166: [Boucard's Wren ](./birds/bouwre1)
-* #165: [Cliff Swallow ](./birds/cliswa)
-* #164: [Golden Vireo ](./birds/golvir1)
-* #163: [Western Kingbird ](./birds/weskin)
-* #162: [Sulphur-bellied Flycatcher ](./birds/subfly)
-* #161: [Least Flycatcher ](./birds/leafly)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/619037692/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 160 - [Western Wood-Pewee](./birds/wewpew)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #159: [Greenish Elaenia ](./birds/greela)
-* #158: [Golden-cheeked Woodpecker ](./birds/gocwoo1)
-* #157: [Russet-crowned Motmot ](./birds/rucmot1)
-* #156: [Groove-billed Ani ](./birds/grbani)
-* #155: [West Mexican Chachalaca ](./birds/wemcha1)
-* #154: [Cactus Wren ](./birds/cacwre)
-* #153: [Blue-throated Mountain-gem ](./birds/buthum)
-* #152: [Red-faced Warbler ](./birds/refwar)
-* #151: [Grace's Warbler ](./birds/grawar)
-* #150: [Red Crossbill ](./birds/redcro)
-* #149: [Olive Warbler ](./birds/oliwar)
-* #148: [Mountain Chickadee ](./birds/mouchi)
-* #147: [Western Flycatcher ](./birds/wesfly)
-* #146: [Hammond's Flycatcher ](./birds/hamfly)
-* #145: [Greater Pewee ](./birds/grepew)
-* #144: [Broad-tailed Hummingbird ](./birds/brthum)
-* #143: [Virginia's Warbler ](./birds/virwar)
-* #142: [Rufous-crowned Sparrow ](./birds/rucspa)
-* #141: [Blue-gray Gnatcatcher ](./birds/buggna)
-* #140: [Pyrrhuloxia ](./birds/pyrrhu)
-* #139: [Black-throated Sparrow ](./birds/bktspa)
-* #138: [Neotropic Cormorant ](./birds/neocor)
-* #137: [Vaux's Swift ](./birds/vauswi)
-* #136: [Mexican Duck ](./birds/mexduc)
-* #135: [Lazuli Bunting ](./birds/lazbun)
-* #134: [Yellow Warbler ](./birds/yelwar)
-* #133: [Green-tailed Towhee ](./birds/gnttow)
-* #132: [Zone-tailed Hawk ](./birds/zothaw)
-* #131: [Violet-crowned Hummingbird ](./birds/vichum)
-* #130: [Lucifer Hummingbird ](./birds/luchum)
-* #129: [Inca Dove ](./birds/incdov)
-* #128: [Gambel's Quail ](./birds/gamqua)
-* #127: [Painted Redstart ](./birds/paired)
-* #126: [Bronzed Cowbird ](./birds/brocow)
-* #125: [Yellow-eyed Junco ](./birds/yeejun)
-* #124: [Mexican Jay ](./birds/mexjay4)
-* #123: [Arizona Woodpecker ](./birds/ariwoo)
-* #122: [Rivoli's Hummingbird ](./birds/maghum1)
-* #121: [Black-headed Grosbeak ](./birds/bkhgro)
-* #120: [Western Tanager ](./birds/westan)
-* #119: [Summer Tanager ](./birds/sumtan)
-* #118: [Hepatic Tanager ](./birds/heptan)
-* #117: [Hermit Warbler ](./birds/herwar)
-* #116: [Black-throated Gray Warbler ](./birds/btywar)
-* #115: [Scott's Oriole ](./birds/scoori)
-* #114: [Canyon Towhee ](./birds/cantow)
-* #113: [Bridled Titmouse ](./birds/britit)
-* #112: [Warbling Vireo ](./birds/warvir)
-* #111: [Brown-crested Flycatcher ](./birds/bncfly)
-* #110: [Ash-throated Flycatcher ](./birds/astfly)
-* #109: [Dusky-capped Flycatcher ](./birds/ducfly)
-* #108: [Dusky Flycatcher ](./birds/dusfly)
-* #107: [Black Vulture ](./birds/blkvul)
-* #106: [Lucy's Warbler ](./birds/lucwar)
-* #105: [Abert's Towhee ](./birds/abetow)
-* #104: [Lark Sparrow ](./birds/larspa)
-* #103: [Phainopepla ](./birds/phaino)
-* #102: [Curve-billed Thrasher ](./birds/cubthr)
-* #101: [Verdin ](./birds/verdin)
-* #100: [Plumbeous Vireo ](./birds/plsvir)
-* #99: [Bell's Vireo ](./birds/belvir)
-* #98: [Cassin's Kingbird ](./birds/caskin)
-* #97: [Vermilion Flycatcher ](./birds/verfly)
-* #96: [Ladder-backed Woodpecker ](./birds/labwoo)
-* #95: [Gila Woodpecker ](./birds/gilwoo)
-* #94: [Swainson's Hawk ](./birds/swahaw)
-* #93: [Gray Hawk ](./birds/gryhaw2)
-* #92: [Broad-billed Hummingbird ](./birds/brbhum)
-* #91: [Costa's Hummingbird ](./birds/coshum)
-* #90: [White-winged Dove ](./birds/whwdov)
-* #89: [Black-chinned Hummingbird ](./birds/bkchum)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/617717294/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 88 - [Brandt's Cormorant](./birds/bracor)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #87: [Royal Tern ](./birds/royter1)
-* #86: [Eastern Towhee ](./birds/eastow)
-* #85: [Winter Wren ](./birds/winwre3)
-* #84: [American Black Duck ](./birds/ambduc)
-* #83: [Horned Grebe ](./birds/horgre)
-* #82: [Harlequin Duck ](./birds/harduc)
-* #81: [Red-necked Grebe ](./birds/rengre)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627869111/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 80 - [Long-tailed Duck](./birds/lotduc)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #79: [Mute Swan ](./birds/mutswa)
-* #78: [Brown Creeper ](./birds/brncre)
-* #77: [Eastern Phoebe ](./birds/easpho)
-* #76: [Pileated Woodpecker ](./birds/pilwoo)
-* #75: [Red-bellied Woodpecker ](./birds/rebwoo)
-* #74: [Common Grackle ](./birds/comgra)
-* #73: [Blue Jay ](./birds/blujay)
-* #72: [Downy Woodpecker ](./birds/dowwoo)
-* #71: [Black-capped Chickadee ](./birds/bkcchi)
-* #70: [Northern Shrike ](./birds/norshr4)
-* #69: [American Herring Gull ](./birds/amhgul1)
-* #68: [Sandhill Crane ](./birds/sancra)
-* #67: [Golden-crowned Kinglet ](./birds/gockin)
-* #66: [Pine Siskin ](./birds/pinsis)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627869081/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 65 - [Northern Cardinal](./birds/norcar)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #64: [Carolina Wren ](./birds/carwre)
-* #63: [Caspian Tern ](./birds/caster1)
-* #62: [Glaucous Gull ](./birds/glagul)
-* #61: [Dunlin ](./birds/dunlin)
-* #60: [Short-billed Dowitcher ](./birds/shbdow)
-* #59: [Semipalmated Plover ](./birds/semplo)
-* #58: [Orange-crowned Warbler ](./birds/orcwar)
-* #57: [Hooded Oriole ](./birds/hooori)
-* #56: [White-throated Sparrow ](./birds/whtspa)
-* #55: [Hermit Thrush  🔊](./birds/herthr)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/616427612/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 54 - [Rock Wren](./birds/rocwre)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #53: [Golden Eagle ](./birds/goleag)
-* #52: [Ring-necked Pheasant ](./birds/rinphe1)
-* #51: [Wilson's Warbler ](./birds/wlswar)
-* #50: [Northern Rough-winged Swallow ](./birds/nrwswa)
-* #49: [Eurasian Collared-Dove ](./birds/eucdov)
-* #48: [Hooded Merganser ](./birds/hoomer)
-* #47: [Common Loon ](./birds/comloo)
-* #46: [Surfbird ](./birds/surfbi)
-* #45: [Black Turnstone ](./birds/blktur)
-* #44: [Black-bellied Plover ](./birds/bkbplo)
-* #43: [Lesser Scaup ](./birds/lessca)
-* #42: [Violet-green Swallow ](./birds/vigswa)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/615266972/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 41 - [Pygmy Nuthatch](./birds/pygnut)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #40: [Cackling Goose ](./birds/cacgoo1)
-* #39: [Brown-headed Cowbird ](./birds/bnhcow)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/626996435/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 38 - [Northern Mockingbird](./birds/normoc)  📷  <span onClick={() => document.getElementById('audio-626583307').play()}>🔊</span> <audio id="audio-626583307" src="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/626583307/mp3" preload="metadata"></audio></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #37: [Red-throated Loon ](./birds/retloo)
-* #36: [Western Grebe ](./birds/wesgre)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/626996488/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 35 - [Common Gallinule](./birds/comgal1)  📷  <span onClick={() => document.getElementById('audio-626843308').play()}>🔊</span> <audio id="audio-626843308" src="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/626843308/mp3" preload="metadata"></audio></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #34: [Red-breasted Merganser ](./birds/rebmer)
-* #33: [Greater Scaup ](./birds/gresca)
-* #32: [Blue-winged Teal ](./birds/buwtea)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627868402/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 31 - [Red-shouldered Hawk](./birds/reshaw)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #30: [Allen's Hummingbird ](./birds/allhum)
-* #29: [Rufous Hummingbird ](./birds/rufhum)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627869238/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 28 - [Common Merganser](./birds/commer)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #27: [Ring-necked Duck ](./birds/rinduc)
-* #26: [Wood Duck ](./birds/wooduc)
-* #25: [European Starling  🔊](./birds/eursta)
-* #24: [Townsend's Warbler ](./birds/towwar)
-* #23: [Fox Sparrow ](./birds/foxspa)
-* #22: [Varied Thrush ](./birds/varthr)
-* #21: [California Thrasher  🔊](./birds/calthr)
-* #20: [Canyon Wren ](./birds/canwre)
-* #19: [Wrentit  🔊](./birds/wrenti)
-* #18: [Yellow-billed Magpie ](./birds/yebmag)
-* #17: [Hutton's Vireo ](./birds/hutvir)
-* #16: [Peregrine Falcon ](./birds/perfal)
-* #15: [Sharp-shinned Hawk ](./birds/shshaw)
-* #14: [California Condor ](./birds/calcon)
-* #13: [White-throated Swift ](./birds/whtswi)
-* #12: [Clark's Grebe ](./birds/clagre)
-* #11: [Cedar Waxwing ](./birds/cedwax)
-* #10: [Lincoln's Sparrow ](./birds/linspa)
-* #9: [American Pipit  🔊](./birds/amepip)
-* #8: [Barn Swallow ](./birds/barswa)
-* #7: [Tree Swallow ](./birds/treswa)
-* #6: [American Kestrel ](./birds/amekes)
-* #5: [Chilean Flamingo ](./birds/chifla1)
-* #4: [Sora ](./birds/sora)
-* #3: [Virginia Rail ](./birds/virrai)
-* #2: [Redhead ](./birds/redhea)
-* #1: [Red-winged Blackbird ](./birds/rewbla)
+
+<BirdCard
+        index="332"
+        name="Purple Finch"
+        speciesCode="purfin"
+         
+        recording="627274839"/>
+
+
+<BirdCard
+        index="331"
+        name="Burrowing Parakeet"
+        speciesCode="burpar"
+         
+        />
+
+
+<BirdCard
+        index="330"
+        name="Yellow-billed Teal"
+        speciesCode="yebtea1"
+         
+        />
+
+
+<BirdCard
+        index="329"
+        name="Black-chinned Siskin"
+        speciesCode="blcsis2"
+         
+        />
+
+
+<BirdCard
+        index="328"
+        name="Plain-mantled Tit-Spinetail"
+        speciesCode="pmtspi1"
+         
+        />
+
+
+<BirdCard
+        index="327"
+        name="Gray-flanked Cinclodes"
+        speciesCode="gyfcin1"
+         
+        />
+
+
+<BirdCard
+        index="326"
+        name="Lesser Horned Owl"
+        speciesCode="grhowl2"
+        photo="625246862" 
+        />
+
+
+<BirdCard
+        index="325"
+        name="Black-winged Ground Dove"
+        speciesCode="bwgdov1"
+         
+        />
+
+
+<BirdCard
+        index="324"
+        name="Mountain Caracara"
+        speciesCode="moucar1"
+         
+        />
+
+
+<BirdCard
+        index="323"
+        name="Gray-hooded Sierra Finch"
+        speciesCode="gyhsif1"
+        photo="625246796" 
+        />
+
+
+<BirdCard
+        index="322"
+        name="Blue-and-white Swallow"
+        speciesCode="bawswa1"
+         
+        />
+
+
+<BirdCard
+        index="321"
+        name="Sharp-billed Canastero"
+        speciesCode="shbcan2"
+         
+        />
+
+
+<BirdCard
+        index="320"
+        name="Cordilleran Canastero"
+        speciesCode="corcan1"
+         
+        />
+
+
+<BirdCard
+        index="319"
+        name="Greater Yellow-Finch"
+        speciesCode="gryfin2"
+         
+        />
+
+
+<BirdCard
+        index="318"
+        name="White-browed Ground-Tyrant"
+        speciesCode="wbgtyr1"
+         
+        />
+
+
+<BirdCard
+        index="317"
+        name="Rufous-naped Ground-Tyrant"
+        speciesCode="rngtyr1"
+         
+        />
+
+
+<BirdCard
+        index="316"
+        name="Spot-billed Ground-Tyrant"
+        speciesCode="sbgtyr1"
+         
+        />
+
+
+<BirdCard
+        index="315"
+        name="Scale-throated Earthcreeper"
+        speciesCode="sctear1"
+         
+        />
+
+
+<BirdCard
+        index="314"
+        name="Rufous-banded Miner"
+        speciesCode="rubmin1"
+         
+        />
+
+
+<BirdCard
+        index="313"
+        name="Variable Hawk"
+        speciesCode="rebhaw2"
+         
+        />
+
+
+<BirdCard
+        index="312"
+        name="Black-faced Ibis"
+        speciesCode="bkfibi1"
+         
+        />
+
+
+<BirdCard
+        index="311"
+        name="Moustached Turca"
+        speciesCode="moutur1"
+         
+        />
+
+
+<BirdCard
+        index="310"
+        name="Chilean Tinamou"
+        speciesCode="chitin1"
+         
+        />
+
+
+<BirdCard
+        index="309"
+        name="Tufted Tit-Tyrant"
+        speciesCode="tuttyr1"
+         
+        />
+
+
+<BirdCard
+        index="308"
+        name="Dusky-tailed Canastero"
+        speciesCode="dutcan1"
+         
+        />
+
+
+<BirdCard
+        index="307"
+        name="Great Shrike-Tyrant"
+        speciesCode="gresht1"
+         
+        />
+
+
+<BirdCard
+        index="306"
+        name="Buff-winged Cinclodes"
+        speciesCode="buwcin1"
+         
+        />
+
+
+<BirdCard
+        index="305"
+        name="Chilean Pigeon"
+        speciesCode="chipig2"
+        photo="625246747" 
+        />
+
+
+<BirdCard
+        index="304"
+        name="Harris's Hawk"
+        speciesCode="hrshaw"
+         
+        />
+
+
+<BirdCard
+        index="303"
+        name="Guanay Cormorant"
+        speciesCode="guacor1"
+         
+        />
+
+
+<BirdCard
+        index="302"
+        name="Peruvian Booby"
+        speciesCode="perboo1"
+         
+        />
+
+
+<BirdCard
+        index="301"
+        name="Humboldt Penguin"
+        speciesCode="humpen1"
+         
+        />
+
+
+<BirdCard
+        index="300"
+        name="Band-tailed Sierra Finch"
+        speciesCode="btsfin1"
+         
+        />
+
+
+<BirdCard
+        index="299"
+        name="Austral Blackbird"
+        speciesCode="ausbla1"
+         
+        />
+
+
+<BirdCard
+        index="298"
+        name="Chilean Swallow"
+        speciesCode="chiswa1"
+         
+        />
+
+
+<BirdCard
+        index="297"
+        name="Fire-eyed Diucon"
+        speciesCode="fiediu1"
+         
+        />
+
+
+<BirdCard
+        index="296"
+        name="Spectacled Tyrant"
+        speciesCode="spetyr1"
+         
+        />
+
+
+<BirdCard
+        index="295"
+        name="Austral Negrito"
+        speciesCode="ausneg1"
+         
+        />
+
+
+<BirdCard
+        index="294"
+        name="White-crested Elaenia"
+        speciesCode="whcela1"
+         
+        />
+
+
+<BirdCard
+        index="293"
+        name="Rufous-tailed Plantcutter"
+        speciesCode="rutpla1"
+        photo="625246687" 
+        />
+
+
+<BirdCard
+        index="292"
+        name="Gray Gull"
+        speciesCode="grygul"
+         
+        />
+
+
+<BirdCard
+        index="291"
+        name="American Oystercatcher"
+        speciesCode="ameoys"
+         
+        />
+
+
+<BirdCard
+        index="290"
+        name="Yellow-billed Pintail"
+        speciesCode="yebpin1"
+         
+        />
+
+
+<BirdCard
+        index="289"
+        name="Mourning Sierra Finch"
+        speciesCode="mosfin1"
+         
+        />
+
+
+<BirdCard
+        index="288"
+        name="Striped Woodpecker"
+        speciesCode="strwoo6"
+         
+        />
+
+
+<BirdCard
+        index="287"
+        name="Picui Ground Dove"
+        speciesCode="pigdov1"
+         
+        />
+
+
+<BirdCard
+        index="286"
+        name="Grassland Yellow-Finch"
+        speciesCode="gryfin1"
+         
+        />
+
+
+<BirdCard
+        index="285"
+        name="Yellow-winged Blackbird"
+        speciesCode="yewbla2"
+        photo="625246625" 
+        />
+
+
+<BirdCard
+        index="284"
+        name="Chilean Mockingbird"
+        speciesCode="chimoc1"
+        photo="625246481" 
+        />
+
+
+<BirdCard
+        index="283"
+        name="Many-colored Rush Tyrant"
+        speciesCode="mcrtyr1"
+        photo="627867371" 
+        />
+
+
+<BirdCard
+        index="282"
+        name="Wren-like Rushbird"
+        speciesCode="wrlrus1"
+        photo="627867342" 
+        />
+
+
+<BirdCard
+        index="281"
+        name="White-tufted Grebe"
+        speciesCode="whtgre3"
+         
+        />
+
+
+<BirdCard
+        index="280"
+        name="West Peruvian Dove"
+        speciesCode="wepdov1"
+         
+        />
+
+
+<BirdCard
+        index="279"
+        name="Lake Duck"
+        speciesCode="lakduc1"
+        photo="627867306" 
+        />
+
+
+<BirdCard
+        index="278"
+        name="Black-necked Swan"
+        speciesCode="blnswa2"
+         
+        />
+
+
+<BirdCard
+        index="277"
+        name="Diuca Finch"
+        speciesCode="codfin1"
+        photo="625246637" 
+        />
+
+
+<BirdCard
+        index="276"
+        name="Long-tailed Meadowlark"
+        speciesCode="lotmea1"
+        photo="625246580" 
+        />
+
+
+<BirdCard
+        index="275"
+        name="Southern House Wren"
+        speciesCode="houwre4"
+         
+        />
+
+
+<BirdCard
+        index="274"
+        name="Cocoi Heron"
+        speciesCode="cocher1"
+         
+        />
+
+
+<BirdCard
+        index="273"
+        name="Brown-hooded Gull"
+        speciesCode="brhgul2"
+         
+        />
+
+
+<BirdCard
+        index="272"
+        name="White-winged Coot"
+        speciesCode="whwcoo1"
+         
+        />
+
+
+<BirdCard
+        index="271"
+        name="Red-gartered Coot"
+        speciesCode="regcoo1"
+        photo="627867360" 
+        />
+
+
+<BirdCard
+        index="270"
+        name="Red-fronted Coot"
+        speciesCode="refcoo1"
+        photo="627867363" 
+        />
+
+
+<BirdCard
+        index="269"
+        name="Chiloe Wigeon"
+        speciesCode="chiwig1"
+        photo="627867390" 
+        />
+
+
+<BirdCard
+        index="268"
+        name="Red Shoveler"
+        speciesCode="redsho1"
+         
+        />
+
+
+<BirdCard
+        index="267"
+        name="Andean Goose"
+        speciesCode="andgoo1"
+         
+        />
+
+
+<BirdCard
+        index="266"
+        name="Coscoroba Swan"
+        speciesCode="cosswa1"
+         
+        />
+
+
+<BirdCard
+        index="265"
+        name="Kelp Gull"
+        speciesCode="kelgul"
+         
+        />
+
+
+<BirdCard
+        index="264"
+        name="Austral Thrush"
+        speciesCode="austhr1"
+         
+        />
+
+
+<BirdCard
+        index="263"
+        name="Shiny Cowbird"
+        speciesCode="shicow"
+         
+        />
+
+
+<BirdCard
+        index="262"
+        name="Rufous-collared Sparrow"
+        speciesCode="rucspa1"
+         
+        />
+
+
+<BirdCard
+        index="261"
+        name="Eared Dove"
+        speciesCode="eardov1"
+         
+        />
+
+
+<BirdCard
+        index="260"
+        name="Parasitic Jaeger"
+        speciesCode="parjae"
+         
+        />
+
+
+<BirdCard
+        index="259"
+        name="Glaucous-winged Gull"
+        speciesCode="glwgul"
+         
+        />
+
+
+<BirdCard
+        index="258"
+        name="Bank Swallow"
+        speciesCode="banswa"
+         
+        />
+
+
+<BirdCard
+        index="257"
+        name="Common Tern"
+        speciesCode="comter"
+         
+        />
+
+
+<BirdCard
+        index="256"
+        name="Cassin's Finch"
+        speciesCode="casfin"
+         
+        />
+
+
+<BirdCard
+        index="255"
+        name="Mountain Bluebird"
+        speciesCode="moublu"
+         
+        />
+
+
+<BirdCard
+        index="254"
+        name="Black-backed Woodpecker"
+        speciesCode="bkbwoo"
+         
+        />
+
+
+<BirdCard
+        index="253"
+        name="Gray-crowned Rosy-Finch"
+        speciesCode="gcrfin"
+        photo="627867943" 
+        />
+
+
+<BirdCard
+        index="252"
+        name="Greater Roadrunner"
+        speciesCode="greroa"
+         
+        />
+
+
+<BirdCard
+        index="251"
+        name="Baird's Sandpiper"
+        speciesCode="baisan"
+         
+        />
+
+
+<BirdCard
+        index="250"
+        name="Ruff"
+        speciesCode="ruff"
+         
+        />
+
+
+<BirdCard
+        index="249"
+        name="Lesser Yellowlegs"
+        speciesCode="lesyel"
+         
+        />
+
+
+<BirdCard
+        index="248"
+        name="Wilson's Phalarope"
+        speciesCode="wilpha"
+         
+        />
+
+
+<BirdCard
+        index="247"
+        name="Indian Peafowl"
+        speciesCode="compea"
+         
+        />
+
+
+<BirdCard
+        index="246"
+        name="Red Junglefowl"
+        speciesCode="redjun"
+         
+        />
+
+
+<BirdCard
+        index="245"
+        name="Common Myna"
+        speciesCode="commyn"
+         
+        />
+
+
+<BirdCard
+        index="244"
+        name="Boat-tailed Grackle"
+        speciesCode="botgra"
+         
+        />
+
+
+<BirdCard
+        index="243"
+        name="Anhinga"
+        speciesCode="anhing"
+         
+        />
+
+
+<BirdCard
+        index="242"
+        name="Common Ground Dove"
+        speciesCode="cogdov"
+         
+        />
+
+
+<BirdCard
+        index="241"
+        name="White-eyed Vireo"
+        speciesCode="whevir"
+         
+        />
+
+
+<BirdCard
+        index="240"
+        name="White Ibis"
+        speciesCode="whiibi"
+         
+        />
+
+
+<BirdCard
+        index="239"
+        name="Swallow-tailed Kite"
+        speciesCode="swtkit"
+         
+        />
+
+
+<BirdCard
+        index="238"
+        name="Laughing Gull"
+        speciesCode="laugul"
+         
+        />
+
+
+<BirdCard
+        index="237"
+        name="Sooty Grouse"
+        speciesCode="soogro1"
+        photo="627868759" 
+        />
+
+
+<BirdCard
+        index="236"
+        name="Cocos Booby"
+        speciesCode="cocboo1"
+         
+        />
+
+
+<BirdCard
+        index="235"
+        name="Northern Gannet"
+        speciesCode="norgan"
+         
+        />
+
+
+<BirdCard
+        index="234"
+        name="Pink-footed Shearwater"
+        speciesCode="pifshe"
+         
+        />
+
+
+<BirdCard
+        index="233"
+        name="Black-footed Albatross"
+        speciesCode="bkfalb"
+         
+        />
+
+
+<BirdCard
+        index="232"
+        name="Sooty Shearwater"
+        speciesCode="sooshe"
+         
+        />
+
+
+<BirdCard
+        index="231"
+        name="Tufted Puffin"
+        speciesCode="tufpuf"
+         
+        />
+
+
+<BirdCard
+        index="230"
+        name="Cassin's Auklet"
+        speciesCode="casauk"
+         
+        />
+
+
+<BirdCard
+        index="229"
+        name="Rhinoceros Auklet"
+        speciesCode="rhiauk"
+         
+        />
+
+
+<BirdCard
+        index="228"
+        name="Pacific Loon"
+        speciesCode="pacloo"
+         
+        />
+
+
+<BirdCard
+        index="227"
+        name="Elegant Tern"
+        speciesCode="eleter1"
+         
+        />
+
+
+<BirdCard
+        index="226"
+        name="Common Murre"
+        speciesCode="commur"
+        photo="627868853" 
+        />
+
+
+<BirdCard
+        index="225"
+        name="Heermann's Gull"
+        speciesCode="heegul"
+         
+        />
+
+
+<BirdCard
+        index="224"
+        name="Pigeon Guillemot"
+        speciesCode="piggui"
+         
+        />
+
+
+<BirdCard
+        index="223"
+        name="Red-masked Parakeet"
+        speciesCode="rempar"
+         
+        />
+
+
+<BirdCard
+        index="222"
+        name="Mountain Quail"
+        speciesCode="mouqua"
+         
+        />
+
+
+<BirdCard
+        index="221"
+        name="Black Swift"
+        speciesCode="blkswi"
+         
+        />
+
+
+<BirdCard
+        index="220"
+        name="Nashville Warbler"
+        speciesCode="naswar"
+         
+        />
+
+
+<BirdCard
+        index="219"
+        name="Band-tailed Pigeon"
+        speciesCode="batpig1"
+         
+        />
+
+
+<BirdCard
+        index="218"
+        name="Black Oystercatcher"
+        speciesCode="blkoys"
+        photo="619242520" 
+        />
+
+
+<BirdCard
+        index="217"
+        name="Bullock's Oriole"
+        speciesCode="bulori"
+         
+        />
+
+
+<BirdCard
+        index="216"
+        name="Swainson's Thrush"
+        speciesCode="swathr"
+         
+        />
+
+
+<BirdCard
+        index="215"
+        name="California Quail"
+        speciesCode="calqua"
+         
+        recording="626995524"/>
+
+
+<BirdCard
+        index="214"
+        name="Black-backed Oriole"
+        speciesCode="blbori1"
+         
+        />
+
+
+<BirdCard
+        index="213"
+        name="Tropical Kingbird"
+        speciesCode="trokin"
+         
+        />
+
+
+<BirdCard
+        index="212"
+        name="Monk Parakeet"
+        speciesCode="monpar"
+         
+        />
+
+
+<BirdCard
+        index="211"
+        name="Osprey"
+        speciesCode="osprey"
+        photo="625745134" 
+        />
+
+
+<BirdCard
+        index="210"
+        name="White-faced Ibis"
+        speciesCode="whfibi"
+         
+        />
+
+
+<BirdCard
+        index="209"
+        name="Berylline Hummingbird"
+        speciesCode="berhum"
+         
+        />
+
+
+<BirdCard
+        index="208"
+        name="White-naped Swift"
+        speciesCode="whnswi1"
+         
+        />
+
+
+<BirdCard
+        index="207"
+        name="Hooded Yellowthroat"
+        speciesCode="hooyel1"
+         
+        />
+
+
+<BirdCard
+        index="206"
+        name="Grass Wren"
+        speciesCode="sedwre"
+         
+        />
+
+
+<BirdCard
+        index="205"
+        name="Loggerhead Shrike"
+        speciesCode="logshr"
+         
+        />
+
+
+<BirdCard
+        index="204"
+        name="Buff-breasted Flycatcher"
+        speciesCode="bubfly"
+         
+        />
+
+
+<BirdCard
+        index="203"
+        name="White-throated Flycatcher"
+        speciesCode="whtfly1"
+         
+        />
+
+
+<BirdCard
+        index="202"
+        name="Strickland's Woodpecker"
+        speciesCode="strwoo"
+         
+        />
+
+
+<BirdCard
+        index="201"
+        name="Rufous-capped Brushfinch"
+        speciesCode="rcbfin1"
+         
+        />
+
+
+<BirdCard
+        index="200"
+        name="Sierra Madre Sparrow"
+        speciesCode="simspa1"
+         
+        />
+
+
+<BirdCard
+        index="199"
+        name="Striped Sparrow"
+        speciesCode="strspa1"
+         
+        />
+
+
+<BirdCard
+        index="198"
+        name="Mexican Chickadee"
+        speciesCode="mexchi"
+         
+        />
+
+
+<BirdCard
+        index="197"
+        name="Transvolcanic Jay"
+        speciesCode="mexjay3"
+         
+        />
+
+
+<BirdCard
+        index="196"
+        name="Mountain Trogon"
+        speciesCode="moutro1"
+         
+        />
+
+
+<BirdCard
+        index="195"
+        name="Cinnamon-bellied Flowerpiercer"
+        speciesCode="cibflo1"
+         
+        />
+
+
+<BirdCard
+        index="194"
+        name="Flame-colored Tanager"
+        speciesCode="flctan"
+         
+        />
+
+
+<BirdCard
+        index="193"
+        name="Slate-throated Redstart"
+        speciesCode="sltred"
+         
+        />
+
+
+<BirdCard
+        index="192"
+        name="Golden-browed Warbler"
+        speciesCode="gobwar1"
+         
+        />
+
+
+<BirdCard
+        index="191"
+        name="Crescent-chested Warbler"
+        speciesCode="crcwar"
+         
+        />
+
+
+<BirdCard
+        index="190"
+        name="Green-striped Brushfinch"
+        speciesCode="gsbfin1"
+         
+        />
+
+
+<BirdCard
+        index="189"
+        name="Black-headed Siskin"
+        speciesCode="blhsis1"
+         
+        />
+
+
+<BirdCard
+        index="188"
+        name="Gray Silky-flycatcher"
+        speciesCode="grsfly1"
+         
+        />
+
+
+<BirdCard
+        index="187"
+        name="White-throated Thrush"
+        speciesCode="whtrob1"
+         
+        />
+
+
+<BirdCard
+        index="186"
+        name="Russet Nightingale-Thrush"
+        speciesCode="runthr1"
+         
+        />
+
+
+<BirdCard
+        index="185"
+        name="Orange-billed Nightingale-Thrush"
+        speciesCode="obnthr1"
+         
+        />
+
+
+<BirdCard
+        index="184"
+        name="Brown-backed Solitaire"
+        speciesCode="brbsol1"
+         
+        />
+
+
+<BirdCard
+        index="183"
+        name="Gray-barred Wren"
+        speciesCode="grbwre1"
+         
+        />
+
+
+<BirdCard
+        index="182"
+        name="Chestnut-sided Shrike-Vireo"
+        speciesCode="cssvir1"
+         
+        />
+
+
+<BirdCard
+        index="181"
+        name="Tufted Flycatcher"
+        speciesCode="tuffly"
+         
+        />
+
+
+<BirdCard
+        index="180"
+        name="White-eared Hummingbird"
+        speciesCode="whehum"
+         
+        />
+
+
+<BirdCard
+        index="179"
+        name="Amethyst-throated Mountain-gem"
+        speciesCode="amthum1"
+         
+        />
+
+
+<BirdCard
+        index="178"
+        name="Rufous-capped Warbler"
+        speciesCode="rucwar"
+         
+        />
+
+
+<BirdCard
+        index="177"
+        name="Streak-backed Oriole"
+        speciesCode="stbori"
+         
+        />
+
+
+<BirdCard
+        index="176"
+        name="Black-vented Oriole"
+        speciesCode="bkvori"
+         
+        />
+
+
+<BirdCard
+        index="175"
+        name="Rusty Sparrow"
+        speciesCode="russpa1"
+         
+        />
+
+
+<BirdCard
+        index="174"
+        name="Rusty-crowned Ground-Sparrow"
+        speciesCode="rcgspa1"
+         
+        />
+
+
+<BirdCard
+        index="173"
+        name="Chipping Sparrow"
+        speciesCode="chispa"
+         
+        />
+
+
+<BirdCard
+        index="172"
+        name="Black-chested Sparrow"
+        speciesCode="blcspa1"
+         
+        />
+
+
+<BirdCard
+        index="171"
+        name="Stripe-headed Sparrow"
+        speciesCode="sthspa1"
+         
+        />
+
+
+<BirdCard
+        index="170"
+        name="Elegant Euphonia"
+        speciesCode="eleeup1"
+         
+        />
+
+
+<BirdCard
+        index="169"
+        name="Rufous-backed Robin"
+        speciesCode="rubrob"
+         
+        />
+
+
+<BirdCard
+        index="168"
+        name="Blue Mockingbird"
+        speciesCode="blumoc"
+         
+        />
+
+
+<BirdCard
+        index="167"
+        name="Happy Wren"
+        speciesCode="hapwre1"
+         
+        />
+
+
+<BirdCard
+        index="166"
+        name="Boucard's Wren"
+        speciesCode="bouwre1"
+         
+        />
+
+
+<BirdCard
+        index="165"
+        name="Cliff Swallow"
+        speciesCode="cliswa"
+         
+        />
+
+
+<BirdCard
+        index="164"
+        name="Golden Vireo"
+        speciesCode="golvir1"
+         
+        />
+
+
+<BirdCard
+        index="163"
+        name="Western Kingbird"
+        speciesCode="weskin"
+         
+        />
+
+
+<BirdCard
+        index="162"
+        name="Sulphur-bellied Flycatcher"
+        speciesCode="subfly"
+         
+        />
+
+
+<BirdCard
+        index="161"
+        name="Least Flycatcher"
+        speciesCode="leafly"
+         
+        />
+
+
+<BirdCard
+        index="160"
+        name="Western Wood-Pewee"
+        speciesCode="wewpew"
+        photo="619037692" 
+        />
+
+
+<BirdCard
+        index="159"
+        name="Greenish Elaenia"
+        speciesCode="greela"
+         
+        />
+
+
+<BirdCard
+        index="158"
+        name="Golden-cheeked Woodpecker"
+        speciesCode="gocwoo1"
+         
+        />
+
+
+<BirdCard
+        index="157"
+        name="Russet-crowned Motmot"
+        speciesCode="rucmot1"
+         
+        />
+
+
+<BirdCard
+        index="156"
+        name="Groove-billed Ani"
+        speciesCode="grbani"
+         
+        />
+
+
+<BirdCard
+        index="155"
+        name="West Mexican Chachalaca"
+        speciesCode="wemcha1"
+         
+        />
+
+
+<BirdCard
+        index="154"
+        name="Cactus Wren"
+        speciesCode="cacwre"
+         
+        />
+
+
+<BirdCard
+        index="153"
+        name="Blue-throated Mountain-gem"
+        speciesCode="buthum"
+         
+        />
+
+
+<BirdCard
+        index="152"
+        name="Red-faced Warbler"
+        speciesCode="refwar"
+         
+        />
+
+
+<BirdCard
+        index="151"
+        name="Grace's Warbler"
+        speciesCode="grawar"
+         
+        />
+
+
+<BirdCard
+        index="150"
+        name="Red Crossbill"
+        speciesCode="redcro"
+         
+        />
+
+
+<BirdCard
+        index="149"
+        name="Olive Warbler"
+        speciesCode="oliwar"
+         
+        />
+
+
+<BirdCard
+        index="148"
+        name="Mountain Chickadee"
+        speciesCode="mouchi"
+         
+        />
+
+
+<BirdCard
+        index="147"
+        name="Western Flycatcher"
+        speciesCode="wesfly"
+         
+        />
+
+
+<BirdCard
+        index="146"
+        name="Hammond's Flycatcher"
+        speciesCode="hamfly"
+         
+        />
+
+
+<BirdCard
+        index="145"
+        name="Greater Pewee"
+        speciesCode="grepew"
+         
+        />
+
+
+<BirdCard
+        index="144"
+        name="Broad-tailed Hummingbird"
+        speciesCode="brthum"
+         
+        />
+
+
+<BirdCard
+        index="143"
+        name="Virginia's Warbler"
+        speciesCode="virwar"
+         
+        />
+
+
+<BirdCard
+        index="142"
+        name="Rufous-crowned Sparrow"
+        speciesCode="rucspa"
+         
+        />
+
+
+<BirdCard
+        index="141"
+        name="Blue-gray Gnatcatcher"
+        speciesCode="buggna"
+         
+        />
+
+
+<BirdCard
+        index="140"
+        name="Pyrrhuloxia"
+        speciesCode="pyrrhu"
+         
+        />
+
+
+<BirdCard
+        index="139"
+        name="Black-throated Sparrow"
+        speciesCode="bktspa"
+         
+        />
+
+
+<BirdCard
+        index="138"
+        name="Neotropic Cormorant"
+        speciesCode="neocor"
+         
+        />
+
+
+<BirdCard
+        index="137"
+        name="Vaux's Swift"
+        speciesCode="vauswi"
+         
+        />
+
+
+<BirdCard
+        index="136"
+        name="Mexican Duck"
+        speciesCode="mexduc"
+         
+        />
+
+
+<BirdCard
+        index="135"
+        name="Lazuli Bunting"
+        speciesCode="lazbun"
+         
+        />
+
+
+<BirdCard
+        index="134"
+        name="Yellow Warbler"
+        speciesCode="yelwar"
+         
+        />
+
+
+<BirdCard
+        index="133"
+        name="Green-tailed Towhee"
+        speciesCode="gnttow"
+         
+        />
+
+
+<BirdCard
+        index="132"
+        name="Zone-tailed Hawk"
+        speciesCode="zothaw"
+         
+        />
+
+
+<BirdCard
+        index="131"
+        name="Violet-crowned Hummingbird"
+        speciesCode="vichum"
+         
+        />
+
+
+<BirdCard
+        index="130"
+        name="Lucifer Hummingbird"
+        speciesCode="luchum"
+         
+        />
+
+
+<BirdCard
+        index="129"
+        name="Inca Dove"
+        speciesCode="incdov"
+         
+        />
+
+
+<BirdCard
+        index="128"
+        name="Gambel's Quail"
+        speciesCode="gamqua"
+         
+        />
+
+
+<BirdCard
+        index="127"
+        name="Painted Redstart"
+        speciesCode="paired"
+         
+        />
+
+
+<BirdCard
+        index="126"
+        name="Bronzed Cowbird"
+        speciesCode="brocow"
+         
+        />
+
+
+<BirdCard
+        index="125"
+        name="Yellow-eyed Junco"
+        speciesCode="yeejun"
+         
+        />
+
+
+<BirdCard
+        index="124"
+        name="Mexican Jay"
+        speciesCode="mexjay4"
+         
+        />
+
+
+<BirdCard
+        index="123"
+        name="Arizona Woodpecker"
+        speciesCode="ariwoo"
+         
+        />
+
+
+<BirdCard
+        index="122"
+        name="Rivoli's Hummingbird"
+        speciesCode="maghum1"
+         
+        />
+
+
+<BirdCard
+        index="121"
+        name="Black-headed Grosbeak"
+        speciesCode="bkhgro"
+         
+        />
+
+
+<BirdCard
+        index="120"
+        name="Western Tanager"
+        speciesCode="westan"
+         
+        />
+
+
+<BirdCard
+        index="119"
+        name="Summer Tanager"
+        speciesCode="sumtan"
+         
+        />
+
+
+<BirdCard
+        index="118"
+        name="Hepatic Tanager"
+        speciesCode="heptan"
+         
+        />
+
+
+<BirdCard
+        index="117"
+        name="Hermit Warbler"
+        speciesCode="herwar"
+         
+        />
+
+
+<BirdCard
+        index="116"
+        name="Black-throated Gray Warbler"
+        speciesCode="btywar"
+         
+        />
+
+
+<BirdCard
+        index="115"
+        name="Scott's Oriole"
+        speciesCode="scoori"
+         
+        />
+
+
+<BirdCard
+        index="114"
+        name="Canyon Towhee"
+        speciesCode="cantow"
+         
+        />
+
+
+<BirdCard
+        index="113"
+        name="Bridled Titmouse"
+        speciesCode="britit"
+         
+        />
+
+
+<BirdCard
+        index="112"
+        name="Warbling Vireo"
+        speciesCode="warvir"
+         
+        />
+
+
+<BirdCard
+        index="111"
+        name="Brown-crested Flycatcher"
+        speciesCode="bncfly"
+         
+        />
+
+
+<BirdCard
+        index="110"
+        name="Ash-throated Flycatcher"
+        speciesCode="astfly"
+         
+        />
+
+
+<BirdCard
+        index="109"
+        name="Dusky-capped Flycatcher"
+        speciesCode="ducfly"
+         
+        />
+
+
+<BirdCard
+        index="108"
+        name="Dusky Flycatcher"
+        speciesCode="dusfly"
+         
+        />
+
+
+<BirdCard
+        index="107"
+        name="Black Vulture"
+        speciesCode="blkvul"
+         
+        />
+
+
+<BirdCard
+        index="106"
+        name="Lucy's Warbler"
+        speciesCode="lucwar"
+         
+        />
+
+
+<BirdCard
+        index="105"
+        name="Abert's Towhee"
+        speciesCode="abetow"
+         
+        />
+
+
+<BirdCard
+        index="104"
+        name="Lark Sparrow"
+        speciesCode="larspa"
+         
+        />
+
+
+<BirdCard
+        index="103"
+        name="Phainopepla"
+        speciesCode="phaino"
+         
+        />
+
+
+<BirdCard
+        index="102"
+        name="Curve-billed Thrasher"
+        speciesCode="cubthr"
+         
+        />
+
+
+<BirdCard
+        index="101"
+        name="Verdin"
+        speciesCode="verdin"
+         
+        />
+
+
+<BirdCard
+        index="100"
+        name="Plumbeous Vireo"
+        speciesCode="plsvir"
+         
+        />
+
+
+<BirdCard
+        index="99"
+        name="Bell's Vireo"
+        speciesCode="belvir"
+         
+        />
+
+
+<BirdCard
+        index="98"
+        name="Cassin's Kingbird"
+        speciesCode="caskin"
+         
+        />
+
+
+<BirdCard
+        index="97"
+        name="Vermilion Flycatcher"
+        speciesCode="verfly"
+         
+        />
+
+
+<BirdCard
+        index="96"
+        name="Ladder-backed Woodpecker"
+        speciesCode="labwoo"
+         
+        />
+
+
+<BirdCard
+        index="95"
+        name="Gila Woodpecker"
+        speciesCode="gilwoo"
+         
+        />
+
+
+<BirdCard
+        index="94"
+        name="Swainson's Hawk"
+        speciesCode="swahaw"
+         
+        />
+
+
+<BirdCard
+        index="93"
+        name="Gray Hawk"
+        speciesCode="gryhaw2"
+         
+        />
+
+
+<BirdCard
+        index="92"
+        name="Broad-billed Hummingbird"
+        speciesCode="brbhum"
+         
+        />
+
+
+<BirdCard
+        index="91"
+        name="Costa's Hummingbird"
+        speciesCode="coshum"
+         
+        />
+
+
+<BirdCard
+        index="90"
+        name="White-winged Dove"
+        speciesCode="whwdov"
+         
+        />
+
+
+<BirdCard
+        index="89"
+        name="Black-chinned Hummingbird"
+        speciesCode="bkchum"
+         
+        />
+
+
+<BirdCard
+        index="88"
+        name="Brandt's Cormorant"
+        speciesCode="bracor"
+        photo="617717294" 
+        />
+
+
+<BirdCard
+        index="87"
+        name="Royal Tern"
+        speciesCode="royter1"
+         
+        />
+
+
+<BirdCard
+        index="86"
+        name="Eastern Towhee"
+        speciesCode="eastow"
+         
+        />
+
+
+<BirdCard
+        index="85"
+        name="Winter Wren"
+        speciesCode="winwre3"
+         
+        />
+
+
+<BirdCard
+        index="84"
+        name="American Black Duck"
+        speciesCode="ambduc"
+         
+        />
+
+
+<BirdCard
+        index="83"
+        name="Horned Grebe"
+        speciesCode="horgre"
+         
+        />
+
+
+<BirdCard
+        index="82"
+        name="Harlequin Duck"
+        speciesCode="harduc"
+         
+        />
+
+
+<BirdCard
+        index="81"
+        name="Red-necked Grebe"
+        speciesCode="rengre"
+         
+        />
+
+
+<BirdCard
+        index="80"
+        name="Long-tailed Duck"
+        speciesCode="lotduc"
+        photo="627869111" 
+        />
+
+
+<BirdCard
+        index="79"
+        name="Mute Swan"
+        speciesCode="mutswa"
+         
+        />
+
+
+<BirdCard
+        index="78"
+        name="Brown Creeper"
+        speciesCode="brncre"
+         
+        />
+
+
+<BirdCard
+        index="77"
+        name="Eastern Phoebe"
+        speciesCode="easpho"
+         
+        />
+
+
+<BirdCard
+        index="76"
+        name="Pileated Woodpecker"
+        speciesCode="pilwoo"
+         
+        />
+
+
+<BirdCard
+        index="75"
+        name="Red-bellied Woodpecker"
+        speciesCode="rebwoo"
+         
+        />
+
+
+<BirdCard
+        index="74"
+        name="Common Grackle"
+        speciesCode="comgra"
+         
+        />
+
+
+<BirdCard
+        index="73"
+        name="Blue Jay"
+        speciesCode="blujay"
+         
+        />
+
+
+<BirdCard
+        index="72"
+        name="Downy Woodpecker"
+        speciesCode="dowwoo"
+         
+        />
+
+
+<BirdCard
+        index="71"
+        name="Black-capped Chickadee"
+        speciesCode="bkcchi"
+         
+        />
+
+
+<BirdCard
+        index="70"
+        name="Northern Shrike"
+        speciesCode="norshr4"
+         
+        />
+
+
+<BirdCard
+        index="69"
+        name="American Herring Gull"
+        speciesCode="amhgul1"
+         
+        />
+
+
+<BirdCard
+        index="68"
+        name="Sandhill Crane"
+        speciesCode="sancra"
+         
+        />
+
+
+<BirdCard
+        index="67"
+        name="Golden-crowned Kinglet"
+        speciesCode="gockin"
+         
+        />
+
+
+<BirdCard
+        index="66"
+        name="Pine Siskin"
+        speciesCode="pinsis"
+         
+        />
+
+
+<BirdCard
+        index="65"
+        name="Northern Cardinal"
+        speciesCode="norcar"
+        photo="627869081" 
+        />
+
+
+<BirdCard
+        index="64"
+        name="Carolina Wren"
+        speciesCode="carwre"
+         
+        />
+
+
+<BirdCard
+        index="63"
+        name="Caspian Tern"
+        speciesCode="caster1"
+         
+        />
+
+
+<BirdCard
+        index="62"
+        name="Glaucous Gull"
+        speciesCode="glagul"
+         
+        />
+
+
+<BirdCard
+        index="61"
+        name="Dunlin"
+        speciesCode="dunlin"
+         
+        />
+
+
+<BirdCard
+        index="60"
+        name="Short-billed Dowitcher"
+        speciesCode="shbdow"
+         
+        />
+
+
+<BirdCard
+        index="59"
+        name="Semipalmated Plover"
+        speciesCode="semplo"
+         
+        />
+
+
+<BirdCard
+        index="58"
+        name="Orange-crowned Warbler"
+        speciesCode="orcwar"
+         
+        />
+
+
+<BirdCard
+        index="57"
+        name="Hooded Oriole"
+        speciesCode="hooori"
+         
+        />
+
+
+<BirdCard
+        index="56"
+        name="White-throated Sparrow"
+        speciesCode="whtspa"
+         
+        />
+
+
+<BirdCard
+        index="55"
+        name="Hermit Thrush"
+        speciesCode="herthr"
+         
+        recording="627219226"/>
+
+
+<BirdCard
+        index="54"
+        name="Rock Wren"
+        speciesCode="rocwre"
+        photo="616427612" 
+        />
+
+
+<BirdCard
+        index="53"
+        name="Golden Eagle"
+        speciesCode="goleag"
+         
+        />
+
+
+<BirdCard
+        index="52"
+        name="Ring-necked Pheasant"
+        speciesCode="rinphe1"
+         
+        />
+
+
+<BirdCard
+        index="51"
+        name="Wilson's Warbler"
+        speciesCode="wlswar"
+         
+        />
+
+
+<BirdCard
+        index="50"
+        name="Northern Rough-winged Swallow"
+        speciesCode="nrwswa"
+         
+        />
+
+
+<BirdCard
+        index="49"
+        name="Eurasian Collared-Dove"
+        speciesCode="eucdov"
+         
+        />
+
+
+<BirdCard
+        index="48"
+        name="Hooded Merganser"
+        speciesCode="hoomer"
+         
+        />
+
+
+<BirdCard
+        index="47"
+        name="Common Loon"
+        speciesCode="comloo"
+         
+        />
+
+
+<BirdCard
+        index="46"
+        name="Surfbird"
+        speciesCode="surfbi"
+         
+        />
+
+
+<BirdCard
+        index="45"
+        name="Black Turnstone"
+        speciesCode="blktur"
+         
+        />
+
+
+<BirdCard
+        index="44"
+        name="Black-bellied Plover"
+        speciesCode="bkbplo"
+         
+        />
+
+
+<BirdCard
+        index="43"
+        name="Lesser Scaup"
+        speciesCode="lessca"
+         
+        />
+
+
+<BirdCard
+        index="42"
+        name="Violet-green Swallow"
+        speciesCode="vigswa"
+         
+        />
+
+
+<BirdCard
+        index="41"
+        name="Pygmy Nuthatch"
+        speciesCode="pygnut"
+        photo="615266972" 
+        />
+
+
+<BirdCard
+        index="40"
+        name="Cackling Goose"
+        speciesCode="cacgoo1"
+         
+        />
+
+
+<BirdCard
+        index="39"
+        name="Brown-headed Cowbird"
+        speciesCode="bnhcow"
+         
+        />
+
+
+<BirdCard
+        index="38"
+        name="Northern Mockingbird"
+        speciesCode="normoc"
+        photo="626996435" 
+        recording="626583307"/>
+
+
+<BirdCard
+        index="37"
+        name="Red-throated Loon"
+        speciesCode="retloo"
+         
+        />
+
+
+<BirdCard
+        index="36"
+        name="Western Grebe"
+        speciesCode="wesgre"
+         
+        />
+
+
+<BirdCard
+        index="35"
+        name="Common Gallinule"
+        speciesCode="comgal1"
+        photo="626996488" 
+        recording="626843308"/>
+
+
+<BirdCard
+        index="34"
+        name="Red-breasted Merganser"
+        speciesCode="rebmer"
+         
+        />
+
+
+<BirdCard
+        index="33"
+        name="Greater Scaup"
+        speciesCode="gresca"
+         
+        />
+
+
+<BirdCard
+        index="32"
+        name="Blue-winged Teal"
+        speciesCode="buwtea"
+         
+        />
+
+
+<BirdCard
+        index="31"
+        name="Red-shouldered Hawk"
+        speciesCode="reshaw"
+        photo="627868402" 
+        />
+
+
+<BirdCard
+        index="30"
+        name="Allen's Hummingbird"
+        speciesCode="allhum"
+         
+        />
+
+
+<BirdCard
+        index="29"
+        name="Rufous Hummingbird"
+        speciesCode="rufhum"
+         
+        />
+
+
+<BirdCard
+        index="28"
+        name="Common Merganser"
+        speciesCode="commer"
+        photo="627869238" 
+        />
+
+
+<BirdCard
+        index="27"
+        name="Ring-necked Duck"
+        speciesCode="rinduc"
+         
+        />
+
+
+<BirdCard
+        index="26"
+        name="Wood Duck"
+        speciesCode="wooduc"
+         
+        />
+
+
+<BirdCard
+        index="25"
+        name="European Starling"
+        speciesCode="eursta"
+         
+        recording="626843430"/>
+
+
+<BirdCard
+        index="24"
+        name="Townsend's Warbler"
+        speciesCode="towwar"
+         
+        />
+
+
+<BirdCard
+        index="23"
+        name="Fox Sparrow"
+        speciesCode="foxspa"
+         
+        />
+
+
+<BirdCard
+        index="22"
+        name="Varied Thrush"
+        speciesCode="varthr"
+         
+        />
+
+
+<BirdCard
+        index="21"
+        name="California Thrasher"
+        speciesCode="calthr"
+         
+        recording="626995461"/>
+
+
+<BirdCard
+        index="20"
+        name="Canyon Wren"
+        speciesCode="canwre"
+         
+        />
+
+
+<BirdCard
+        index="19"
+        name="Wrentit"
+        speciesCode="wrenti"
+         
+        recording="626995507"/>
+
+
+<BirdCard
+        index="18"
+        name="Yellow-billed Magpie"
+        speciesCode="yebmag"
+         
+        />
+
+
+<BirdCard
+        index="17"
+        name="Hutton's Vireo"
+        speciesCode="hutvir"
+         
+        />
+
+
+<BirdCard
+        index="16"
+        name="Peregrine Falcon"
+        speciesCode="perfal"
+         
+        />
+
+
+<BirdCard
+        index="15"
+        name="Sharp-shinned Hawk"
+        speciesCode="shshaw"
+         
+        />
+
+
+<BirdCard
+        index="14"
+        name="California Condor"
+        speciesCode="calcon"
+         
+        />
+
+
+<BirdCard
+        index="13"
+        name="White-throated Swift"
+        speciesCode="whtswi"
+         
+        />
+
+
+<BirdCard
+        index="12"
+        name="Clark's Grebe"
+        speciesCode="clagre"
+         
+        />
+
+
+<BirdCard
+        index="11"
+        name="Cedar Waxwing"
+        speciesCode="cedwax"
+         
+        />
+
+
+<BirdCard
+        index="10"
+        name="Lincoln's Sparrow"
+        speciesCode="linspa"
+         
+        />
+
+
+<BirdCard
+        index="9"
+        name="American Pipit"
+        speciesCode="amepip"
+         
+        recording="626684926"/>
+
+
+<BirdCard
+        index="8"
+        name="Barn Swallow"
+        speciesCode="barswa"
+         
+        />
+
+
+<BirdCard
+        index="7"
+        name="Tree Swallow"
+        speciesCode="treswa"
+         
+        />
+
+
+<BirdCard
+        index="6"
+        name="American Kestrel"
+        speciesCode="amekes"
+         
+        />
+
+
+<BirdCard
+        index="5"
+        name="Chilean Flamingo"
+        speciesCode="chifla1"
+         
+        />
+
+
+<BirdCard
+        index="4"
+        name="Sora"
+        speciesCode="sora"
+         
+        />
+
+
+<BirdCard
+        index="3"
+        name="Virginia Rail"
+        speciesCode="virrai"
+         
+        />
+
+
+<BirdCard
+        index="2"
+        name="Redhead"
+        speciesCode="redhea"
+         
+        />
+
+
+<BirdCard
+        index="1"
+        name="Red-winged Blackbird"
+        speciesCode="rewbla"
+         
+        />
+
 # 2023
-* #91: [Spotted Towhee  🔊](./birds/spotow)
-* #90: [Red-breasted Nuthatch ](./birds/rebnut)
-* #89: [Common Yellowthroat  🔊](./birds/comyel)
-* #88: [Northern Harrier ](./birds/norhar2)
-* #87: [Western Sandpiper ](./birds/wessan)
-* #86: [Greater Yellowlegs  🔊](./birds/greyel)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/619242609/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 85 - [Marbled Godwit](./birds/margod)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #84: [Ridgway's Rail  🔊](./birds/ridrai1)
-* #83: [Canvasback ](./birds/canvas)
-* #82: [Green-winged Teal ](./birds/gnwtea)
-* #81: [Northern Pintail  🔊](./birds/norpin)
-* #80: [American Robin ](./birds/amerob)
-* #79: [Golden-crowned Sparrow  🔊](./birds/gocspa)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/614232433/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 78 - [Dark-eyed Junco](./birds/daejun)  📷  <span onClick={() => document.getElementById('audio-627628679').play()}>🔊</span> <audio id="audio-627628679" src="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/627628679/mp3" preload="metadata"></audio></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/626996238/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 77 - [Northern Flicker](./birds/norfli)  📷  <span onClick={() => document.getElementById('audio-627593169').play()}>🔊</span> <audio id="audio-627593169" src="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/627593169/mp3" preload="metadata"></audio></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #76: [Nuttall's Woodpecker  🔊](./birds/nutwoo)
-* #75: [Pelagic Cormorant ](./birds/pelcor)
-* #74: [Eared Grebe ](./birds/eargre)
-* #73: [Western Gull ](./birds/wesgul)
-* #72: [Willet  🔊](./birds/willet1)
-* #71: [Common Goldeneye ](./birds/comgol)
-* #70: [Bufflehead ](./birds/buffle)
-* #69: [Surf Scoter ](./birds/sursco)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627869005/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 68 - [Acorn Woodpecker](./birds/acowoo)  📷  <span onClick={() => document.getElementById('audio-627219355').play()}>🔊</span> <audio id="audio-627219355" src="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/627219355/mp3" preload="metadata"></audio></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627869315/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 67 - [Great-tailed Grackle](./birds/grtgra)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/614231410/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 66 - [Brewer's Blackbird](./birds/brebla)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627869533/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 65 - [Whimbrel](./birds/whimbr)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #64: [Common Raven  🔊](./birds/comrav)
-* #63: [Long-billed Curlew ](./birds/lobcur)
-* #62: [California Towhee  🔊](./birds/caltow)
-* #61: [American Goldfinch ](./birds/amegfi)
-* #60: [Lesser Goldfinch  🔊](./birds/lesgol)
-* #59: [House Sparrow  🔊](./birds/houspa)
-* #58: [Ruby-crowned Kinglet  🔊](./birds/ruckin)
-* #57: [Bushtit  🔊](./birds/bushti)
-* #56: [Merlin ](./birds/merlin)
-* #55: [Hairy Woodpecker  🔊](./birds/haiwoo)
-* #54: [Bald Eagle ](./birds/baleag)
-* #53: [Ring-billed Gull ](./birds/ribgul)
-* #52: [Spotted Sandpiper ](./birds/sposan)
-* #51: [Gadwall ](./birds/gadwal)
-* #50: [House Finch  🔊](./birds/houfin)
-* #49: [Western Meadowlark ](./birds/wesmea)
-* #48: [Savannah Sparrow  🔊](./birds/savspa)
-* #47: [Bewick's Wren  🔊](./birds/bewwre)
-* #46: [Marsh Wren  🔊](./birds/marwre)
-* #45: [Say's Phoebe  🔊](./birds/saypho)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/626996149/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 44 - [White-tailed Kite](./birds/whtkit)  📷  <span onClick={() => document.getElementById('audio-626618148').play()}>🔊</span> <audio id="audio-626618148" src="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/626618148/mp3" preload="metadata"></audio></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/617717278/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 43 - [Brown Pelican](./birds/brnpel)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #42: [American White Pelican ](./birds/amwpel)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/619242708/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 41 - [Great Egret](./birds/greegr)  📷  <span onClick={() => document.getElementById('audio-626618062').play()}>🔊</span> <audio id="audio-626618062" src="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/626618062/mp3" preload="metadata"></audio></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #40: [Forster's Tern  🔊](./birds/forter)
-* #39: [California Gull ](./birds/calgul)
-* #38: [Least Sandpiper  🔊](./birds/leasan)
-* #37: [Long-billed Dowitcher  🔊](./birds/lobdow)
-* #36: [American Avocet ](./birds/ameavo)
-* #35: [Black-necked Stilt  🔊](./birds/bknsti)
-* #34: [Mourning Dove  🔊](./birds/moudov)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/626996607/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 33 - [Wild Turkey](./birds/wiltur)  📷  <span onClick={() => document.getElementById('audio-626557540').play()}>🔊</span> <audio id="audio-626557540" src="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/626557540/mp3" preload="metadata"></audio></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #32: [Ruddy Duck ](./birds/rudduc)
-* #31: [American Wigeon  🔊](./birds/amewig)
-* #30: [Northern Shoveler  🔊](./birds/norsho)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627867335/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 29 - [Cinnamon Teal](./birds/cintea)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #28: [Chestnut-backed Chickadee  🔊](./birds/chbchi)
-* #27: [Yellow-rumped Warbler  🔊](./birds/yerwar)
-* #26: [Song Sparrow  🔊](./birds/sonspa)
-* #25: [White-crowned Sparrow  🔊](./birds/whcspa)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627114479/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 24 - [Western Bluebird](./birds/wesblu)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #23: [Northern House Wren ](./birds/houwre)
-* #22: [White-breasted Nuthatch  🔊](./birds/whbnut)
-* #21: [Oak Titmouse  🔊](./birds/oaktit)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627868551/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 20 - [American Crow](./birds/amecro)  📷  <span onClick={() => document.getElementById('audio-626557692').play()}>🔊</span> <audio id="audio-626557692" src="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/626557692/mp3" preload="metadata"></audio></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #19: [California Scrub-Jay  🔊](./birds/cowscj1)
-* #18: [Black Phoebe  🔊](./birds/blkpho)
-* #17: [Belted Kingfisher ](./birds/belkin1)
-* #16: [Red-tailed Hawk ](./birds/rethaw)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627868716/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 15 - [Cooper's Hawk](./birds/coohaw)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/626996407/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 14 - [Turkey Vulture](./birds/turvul)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #13: [Green Heron ](./birds/grnher)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627869446/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 12 - [Snowy Egret](./birds/snoegr)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/617717429/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 11 - [Black-crowned Night Heron](./birds/bcnher)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #10: [Double-crested Cormorant ](./birds/doccor)
-* #9: [Pied-billed Grebe  🔊](./birds/pibgre)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627868905/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 8 - [Killdeer](./birds/killde)  📷  <span onClick={() => document.getElementById('audio-626557748').play()}>🔊</span> <audio id="audio-626557748" src="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/626557748/mp3" preload="metadata"></audio></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/614210043/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 7 - [American Coot](./birds/y00475)  📷  <span onClick={() => document.getElementById('audio-626485749').play()}>🔊</span> <audio id="audio-626485749" src="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/626485749/mp3" preload="metadata"></audio></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627869182/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 6 - [Anna's Hummingbird](./birds/annhum)  📷  <span onClick={() => document.getElementById('audio-626843418').play()}>🔊</span> <audio id="audio-626843418" src="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/626843418/mp3" preload="metadata"></audio></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/626996611/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 5 - [Mallard](./birds/mallar3)  📷  <span onClick={() => document.getElementById('audio-626618132').play()}>🔊</span> <audio id="audio-626618132" src="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/626618132/mp3" preload="metadata"></audio></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-* #4: [Canada Goose  🔊](./birds/cangoo)
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/614236123/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 3 - [Southern Lapwing](./birds/soulap1)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627869758/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 2 - [Great Horned Owl](./birds/grhowl)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/626996232/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 1 - [Great Blue Heron](./birds/grbher3)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+
+<BirdCard
+        index="91"
+        name="Spotted Towhee"
+        speciesCode="spotow"
+         
+        recording="626995488"/>
+
+
+<BirdCard
+        index="90"
+        name="Red-breasted Nuthatch"
+        speciesCode="rebnut"
+         
+        />
+
+
+<BirdCard
+        index="89"
+        name="Common Yellowthroat"
+        speciesCode="comyel"
+         
+        recording="626557707"/>
+
+
+<BirdCard
+        index="88"
+        name="Northern Harrier"
+        speciesCode="norhar2"
+         
+        />
+
+
+<BirdCard
+        index="87"
+        name="Western Sandpiper"
+        speciesCode="wessan"
+         
+        />
+
+
+<BirdCard
+        index="86"
+        name="Greater Yellowlegs"
+        speciesCode="greyel"
+         
+        recording="626684975"/>
+
+
+<BirdCard
+        index="85"
+        name="Marbled Godwit"
+        speciesCode="margod"
+        photo="619242609" 
+        />
+
+
+<BirdCard
+        index="84"
+        name="Ridgway's Rail"
+        speciesCode="ridrai1"
+         
+        recording="626917178"/>
+
+
+<BirdCard
+        index="83"
+        name="Canvasback"
+        speciesCode="canvas"
+         
+        />
+
+
+<BirdCard
+        index="82"
+        name="Green-winged Teal"
+        speciesCode="gnwtea"
+         
+        />
+
+
+<BirdCard
+        index="81"
+        name="Northern Pintail"
+        speciesCode="norpin"
+         
+        recording="626557675"/>
+
+
+<BirdCard
+        index="80"
+        name="American Robin"
+        speciesCode="amerob"
+         
+        />
+
+
+<BirdCard
+        index="79"
+        name="Golden-crowned Sparrow"
+        speciesCode="gocspa"
+         
+        recording="626485053"/>
+
+
+<BirdCard
+        index="78"
+        name="Dark-eyed Junco"
+        speciesCode="daejun"
+        photo="614232433" 
+        recording="627628679"/>
+
+
+<BirdCard
+        index="77"
+        name="Northern Flicker"
+        speciesCode="norfli"
+        photo="626996238" 
+        recording="627593169"/>
+
+
+<BirdCard
+        index="76"
+        name="Nuttall's Woodpecker"
+        speciesCode="nutwoo"
+         
+        recording="627219491"/>
+
+
+<BirdCard
+        index="75"
+        name="Pelagic Cormorant"
+        speciesCode="pelcor"
+         
+        />
+
+
+<BirdCard
+        index="74"
+        name="Eared Grebe"
+        speciesCode="eargre"
+         
+        />
+
+
+<BirdCard
+        index="73"
+        name="Western Gull"
+        speciesCode="wesgul"
+         
+        />
+
+
+<BirdCard
+        index="72"
+        name="Willet"
+        speciesCode="willet1"
+         
+        recording="626915526"/>
+
+
+<BirdCard
+        index="71"
+        name="Common Goldeneye"
+        speciesCode="comgol"
+         
+        />
+
+
+<BirdCard
+        index="70"
+        name="Bufflehead"
+        speciesCode="buffle"
+         
+        />
+
+
+<BirdCard
+        index="69"
+        name="Surf Scoter"
+        speciesCode="sursco"
+         
+        />
+
+
+<BirdCard
+        index="68"
+        name="Acorn Woodpecker"
+        speciesCode="acowoo"
+        photo="627869005" 
+        recording="627219355"/>
+
+
+<BirdCard
+        index="67"
+        name="Great-tailed Grackle"
+        speciesCode="grtgra"
+        photo="627869315" 
+        />
+
+
+<BirdCard
+        index="66"
+        name="Brewer's Blackbird"
+        speciesCode="brebla"
+        photo="614231410" 
+        />
+
+
+<BirdCard
+        index="65"
+        name="Whimbrel"
+        speciesCode="whimbr"
+        photo="627869533" 
+        />
+
+
+<BirdCard
+        index="64"
+        name="Common Raven"
+        speciesCode="comrav"
+         
+        recording="626447257"/>
+
+
+<BirdCard
+        index="63"
+        name="Long-billed Curlew"
+        speciesCode="lobcur"
+         
+        />
+
+
+<BirdCard
+        index="62"
+        name="California Towhee"
+        speciesCode="caltow"
+         
+        recording="627219214"/>
+
+
+<BirdCard
+        index="61"
+        name="American Goldfinch"
+        speciesCode="amegfi"
+         
+        />
+
+
+<BirdCard
+        index="60"
+        name="Lesser Goldfinch"
+        speciesCode="lesgol"
+         
+        recording="626684938"/>
+
+
+<BirdCard
+        index="59"
+        name="House Sparrow"
+        speciesCode="houspa"
+         
+        recording="626559381"/>
+
+
+<BirdCard
+        index="58"
+        name="Ruby-crowned Kinglet"
+        speciesCode="ruckin"
+         
+        recording="626995435"/>
+
+
+<BirdCard
+        index="57"
+        name="Bushtit"
+        speciesCode="bushti"
+         
+        recording="626557575"/>
+
+
+<BirdCard
+        index="56"
+        name="Merlin"
+        speciesCode="merlin"
+         
+        />
+
+
+<BirdCard
+        index="55"
+        name="Hairy Woodpecker"
+        speciesCode="haiwoo"
+         
+        recording="627219348"/>
+
+
+<BirdCard
+        index="54"
+        name="Bald Eagle"
+        speciesCode="baleag"
+         
+        />
+
+
+<BirdCard
+        index="53"
+        name="Ring-billed Gull"
+        speciesCode="ribgul"
+         
+        />
+
+
+<BirdCard
+        index="52"
+        name="Spotted Sandpiper"
+        speciesCode="sposan"
+         
+        />
+
+
+<BirdCard
+        index="51"
+        name="Gadwall"
+        speciesCode="gadwal"
+         
+        />
+
+
+<BirdCard
+        index="50"
+        name="House Finch"
+        speciesCode="houfin"
+         
+        recording="626447649"/>
+
+
+<BirdCard
+        index="49"
+        name="Western Meadowlark"
+        speciesCode="wesmea"
+         
+        />
+
+
+<BirdCard
+        index="48"
+        name="Savannah Sparrow"
+        speciesCode="savspa"
+         
+        recording="626915529"/>
+
+
+<BirdCard
+        index="47"
+        name="Bewick's Wren"
+        speciesCode="bewwre"
+         
+        recording="626843422"/>
+
+
+<BirdCard
+        index="46"
+        name="Marsh Wren"
+        speciesCode="marwre"
+         
+        recording="626447527"/>
+
+
+<BirdCard
+        index="45"
+        name="Say's Phoebe"
+        speciesCode="saypho"
+         
+        recording="626447722"/>
+
+
+<BirdCard
+        index="44"
+        name="White-tailed Kite"
+        speciesCode="whtkit"
+        photo="626996149" 
+        recording="626618148"/>
+
+
+<BirdCard
+        index="43"
+        name="Brown Pelican"
+        speciesCode="brnpel"
+        photo="617717278" 
+        />
+
+
+<BirdCard
+        index="42"
+        name="American White Pelican"
+        speciesCode="amwpel"
+         
+        />
+
+
+<BirdCard
+        index="41"
+        name="Great Egret"
+        speciesCode="greegr"
+        photo="619242708" 
+        recording="626618062"/>
+
+
+<BirdCard
+        index="40"
+        name="Forster's Tern"
+        speciesCode="forter"
+         
+        recording="626684646"/>
+
+
+<BirdCard
+        index="39"
+        name="California Gull"
+        speciesCode="calgul"
+         
+        />
+
+
+<BirdCard
+        index="38"
+        name="Least Sandpiper"
+        speciesCode="leasan"
+         
+        recording="626618108"/>
+
+
+<BirdCard
+        index="37"
+        name="Long-billed Dowitcher"
+        speciesCode="lobdow"
+         
+        recording="626684588"/>
+
+
+<BirdCard
+        index="36"
+        name="American Avocet"
+        speciesCode="ameavo"
+         
+        />
+
+
+<BirdCard
+        index="35"
+        name="Black-necked Stilt"
+        speciesCode="bknsti"
+         
+        recording="626684567"/>
+
+
+<BirdCard
+        index="34"
+        name="Mourning Dove"
+        speciesCode="moudov"
+         
+        recording="627219292"/>
+
+
+<BirdCard
+        index="33"
+        name="Wild Turkey"
+        speciesCode="wiltur"
+        photo="626996607" 
+        recording="626557540"/>
+
+
+<BirdCard
+        index="32"
+        name="Ruddy Duck"
+        speciesCode="rudduc"
+         
+        />
+
+
+<BirdCard
+        index="31"
+        name="American Wigeon"
+        speciesCode="amewig"
+         
+        recording="626915523"/>
+
+
+<BirdCard
+        index="30"
+        name="Northern Shoveler"
+        speciesCode="norsho"
+         
+        recording="626915520"/>
+
+
+<BirdCard
+        index="29"
+        name="Cinnamon Teal"
+        speciesCode="cintea"
+        photo="627867335" 
+        />
+
+
+<BirdCard
+        index="28"
+        name="Chestnut-backed Chickadee"
+        speciesCode="chbchi"
+         
+        recording="627274874"/>
+
+
+<BirdCard
+        index="27"
+        name="Yellow-rumped Warbler"
+        speciesCode="yerwar"
+         
+        recording="626557552"/>
+
+
+<BirdCard
+        index="26"
+        name="Song Sparrow"
+        speciesCode="sonspa"
+         
+        recording="626684724"/>
+
+
+<BirdCard
+        index="25"
+        name="White-crowned Sparrow"
+        speciesCode="whcspa"
+         
+        recording="626557628"/>
+
+
+<BirdCard
+        index="24"
+        name="Western Bluebird"
+        speciesCode="wesblu"
+        photo="627114479" 
+        />
+
+
+<BirdCard
+        index="23"
+        name="Northern House Wren"
+        speciesCode="houwre"
+         
+        />
+
+
+<BirdCard
+        index="22"
+        name="White-breasted Nuthatch"
+        speciesCode="whbnut"
+         
+        recording="627219259"/>
+
+
+<BirdCard
+        index="21"
+        name="Oak Titmouse"
+        speciesCode="oaktit"
+         
+        recording="626995519"/>
+
+
+<BirdCard
+        index="20"
+        name="American Crow"
+        speciesCode="amecro"
+        photo="627868551" 
+        recording="626557692"/>
+
+
+<BirdCard
+        index="19"
+        name="California Scrub-Jay"
+        speciesCode="cowscj1"
+         
+        recording="626447081"/>
+
+
+<BirdCard
+        index="18"
+        name="Black Phoebe"
+        speciesCode="blkpho"
+         
+        recording="626618112"/>
+
+
+<BirdCard
+        index="17"
+        name="Belted Kingfisher"
+        speciesCode="belkin1"
+         
+        />
+
+
+<BirdCard
+        index="16"
+        name="Red-tailed Hawk"
+        speciesCode="rethaw"
+         
+        />
+
+
+<BirdCard
+        index="15"
+        name="Cooper's Hawk"
+        speciesCode="coohaw"
+        photo="627868716" 
+        />
+
+
+<BirdCard
+        index="14"
+        name="Turkey Vulture"
+        speciesCode="turvul"
+        photo="626996407" 
+        />
+
+
+<BirdCard
+        index="13"
+        name="Green Heron"
+        speciesCode="grnher"
+         
+        />
+
+
+<BirdCard
+        index="12"
+        name="Snowy Egret"
+        speciesCode="snoegr"
+        photo="627869446" 
+        />
+
+
+<BirdCard
+        index="11"
+        name="Black-crowned Night Heron"
+        speciesCode="bcnher"
+        photo="617717429" 
+        />
+
+
+<BirdCard
+        index="10"
+        name="Double-crested Cormorant"
+        speciesCode="doccor"
+         
+        />
+
+
+<BirdCard
+        index="9"
+        name="Pied-billed Grebe"
+        speciesCode="pibgre"
+         
+        recording="626995454"/>
+
+
+<BirdCard
+        index="8"
+        name="Killdeer"
+        speciesCode="killde"
+        photo="627868905" 
+        recording="626557748"/>
+
+
+<BirdCard
+        index="7"
+        name="American Coot"
+        speciesCode="y00475"
+        photo="614210043" 
+        recording="626485749"/>
+
+
+<BirdCard
+        index="6"
+        name="Anna's Hummingbird"
+        speciesCode="annhum"
+        photo="627869182" 
+        recording="626843418"/>
+
+
+<BirdCard
+        index="5"
+        name="Mallard"
+        speciesCode="mallar3"
+        photo="626996611" 
+        recording="626618132"/>
+
+
+<BirdCard
+        index="4"
+        name="Canada Goose"
+        speciesCode="cangoo"
+         
+        recording="626915514"/>
+
+
+<BirdCard
+        index="3"
+        name="Southern Lapwing"
+        speciesCode="soulap1"
+        photo="614236123" 
+        />
+
+
+<BirdCard
+        index="2"
+        name="Great Horned Owl"
+        speciesCode="grhowl"
+        photo="627869758" 
+        />
+
+
+<BirdCard
+        index="1"
+        name="Great Blue Heron"
+        speciesCode="grbher3"
+        photo="626996232" 
+        />
+
 # 2019
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627874239/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 1 - [Steller's Jay](./birds/stejay)  📷  <span onClick={() => document.getElementById('audio-626995552').play()}>🔊</span> <audio id="audio-626995552" src="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/626995552/mp3" preload="metadata"></audio></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+
+<BirdCard
+        index="1"
+        name="Steller's Jay"
+        speciesCode="stejay"
+        photo="627874239" 
+        recording="626995552"/>
+
 # 2015
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627874839/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 3 - [Magnificent Frigatebird](./birds/magfri)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627875333/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 2 - [Blue Grosbeak](./birds/blugrb1)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627875514/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 1 - [Ruddy Turnstone](./birds/rudtur)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+
+<BirdCard
+        index="3"
+        name="Magnificent Frigatebird"
+        speciesCode="magfri"
+        photo="627874839" 
+        />
+
+
+<BirdCard
+        index="2"
+        name="Blue Grosbeak"
+        speciesCode="blugrb1"
+        photo="627875333" 
+        />
+
+
+<BirdCard
+        index="1"
+        name="Ruddy Turnstone"
+        speciesCode="rudtur"
+        photo="627875514" 
+        />
+
 # 2014
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627874151/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 2 - [Chimango Caracara](./birds/chicar1)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627875079/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 1 - [Andean Condor](./birds/andcon1)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+
+<BirdCard
+        index="2"
+        name="Chimango Caracara"
+        speciesCode="chicar1"
+        photo="627874151" 
+        />
+
+
+<BirdCard
+        index="1"
+        name="Andean Condor"
+        speciesCode="andcon1"
+        photo="627875079" 
+        />
+
 # 2012
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627873524/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 2 - [Peruvian Pelican](./birds/perpel1)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627873396/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 1 - [Warbling White-eye](./birds/warwhe1)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+
+<BirdCard
+        index="2"
+        name="Peruvian Pelican"
+        speciesCode="perpel1"
+        photo="627873524" 
+        />
+
+
+<BirdCard
+        index="1"
+        name="Warbling White-eye"
+        speciesCode="warwhe1"
+        photo="627873396" 
+        />
+
 # 2011
-<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/627874550/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer 1 - [Great Grebe](./birds/gregre1)  📷 </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+
+<BirdCard
+        index="1"
+        name="Great Grebe"
+        speciesCode="gregre1"
+        photo="627874550" 
+        />

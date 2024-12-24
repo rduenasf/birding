@@ -197,6 +197,9 @@ id: Birds
 title: Life List
 slug: /
 ---
+
+import BirdCard from '@site/src/components/BirdCard';
+
 `;
   const yearContent = [];
 
@@ -213,40 +216,20 @@ ${birdsByYear[year]
       recorded,
     } = birds[birds.length - 1 - index];
 
-    if (photographed) {
-      return `<div className='container'>
-  <div className='row padding-bottom--xl'>
-    <div className='col col--5'>
-      <div className='col-demo'>
-        <div className="card shadow--tl">
-          <img
-              className='card__image'
-              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/${
-                bestPhoto.MlCatalogNumber
-              }/640"/>
-          <div className='avatar__intro'>
-            <div className="card__footer text--center">
-              <div className="avatar__name">Lifer ${
-                birds.length - index
-              } - [${primaryComName}](./birds/${speciesCode}) ${
-        photographed ? " 📷" : ""
-      } ${
-        recorded
-          ? ` <span onClick={() => document.getElementById('audio-${bestRecording.MlCatalogNumber}').play()}>🔊</span> <audio id="audio-${bestRecording.MlCatalogNumber}" src="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/${bestRecording.MlCatalogNumber}/mp3" preload="metadata"></audio>`
-          : ""
-      }</div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>`;
-    } else {
-      return `* #${birds.length - index}: [${primaryComName}${
-        photographed ? " 📷" : ""
-      } ${recorded ? " 🔊" : ""}](./birds/${speciesCode})`;
-    }
+    // if (photographed) {
+    return `\n<BirdCard
+        index="${birds.length - index}"
+        name="${primaryComName}"
+        speciesCode="${speciesCode}"
+        ${bestPhoto ? `photo="${bestPhoto.MlCatalogNumber}"` : ""} 
+        ${
+          bestRecording ? `recording="${bestRecording.MlCatalogNumber}"` : ""
+        }/>\n`;
+    // } else {
+    //   return `* #${birds.length - index}: [${primaryComName}${
+    //     photographed ? " 📷" : ""
+    //   } ${recorded ? " 🔊" : ""}](./birds/${speciesCode})`;
+    // }
   })
   .join("\n")}`);
   }
