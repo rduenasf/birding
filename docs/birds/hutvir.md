@@ -17,17 +17,13 @@ tags:
 
 # Hutton's Vireo <span className='sci_name'>Vireo huttoni</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Vireonidae (Vireos, Shrike-Babblers, and Erpornis)](/tags/vireonidae-vireos-shrike-babblers-and-erpornis) > [Vireos](/tags/vireos)
 
-**Family:** [Vireonidae (Vireos, Shrike-Babblers, and Erpornis)](/tags/vireonidae-vireos-shrike-babblers-and-erpornis)
-
-**Species Group:** [Vireos](/tags/vireos)
+**Subspecies Seen**: Hutton's Vireo (Interior), Hutton's Vireo (Pacific)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=hutvir) | [Map](/map?species_code=hutvir)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

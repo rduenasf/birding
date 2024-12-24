@@ -17,17 +17,11 @@ tags:
 
 # Golden-crowned Kinglet <span className='sci_name'>Regulus satrapa</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Regulidae (Kinglets)](/tags/regulidae-kinglets)
-
-**Species Group:** [Kinglets](/tags/kinglets)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Regulidae (Kinglets)](/tags/regulidae-kinglets) > [Kinglets](/tags/kinglets)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gockin) | [Map](/map?species_code=gockin)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

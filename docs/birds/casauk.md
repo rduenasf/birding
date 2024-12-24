@@ -17,17 +17,11 @@ tags:
 
 # Cassin's Auklet <span className='sci_name'>Ptychoramphus aleuticus</span>
 
-**Order:** [Charadriiformes](/tags/charadriiformes)
-
-**Family:** [Alcidae (Auks, Murres, and Puffins)](/tags/alcidae-auks-murres-and-puffins)
-
-**Species Group:** [Alcids](/tags/alcids)
+**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Alcidae (Auks, Murres, and Puffins)](/tags/alcidae-auks-murres-and-puffins) > [Alcids](/tags/alcids)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=casauk) | [Map](/map?species_code=casauk)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

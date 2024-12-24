@@ -17,17 +17,13 @@ tags:
 
 # Monk Parakeet <span className='sci_name'>Myiopsitta monachus</span>
 
-**Order:** [Psittaciformes](/tags/psittaciformes)
+**Taxonomy:** [Psittaciformes](/tags/psittaciformes) > [Psittacidae (New World and African Parrots)](/tags/psittacidae-new-world-and-african-parrots) > [Parrots, Parakeets, and Allies](/tags/parrots-parakeets-and-allies)
 
-**Family:** [Psittacidae (New World and African Parrots)](/tags/psittacidae-new-world-and-african-parrots)
-
-**Species Group:** [Parrots, Parakeets, and Allies](/tags/parrots-parakeets-and-allies)
+**Subspecies Seen**: Monk Parakeet (Monk)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=monpar) | [Map](/map?species_code=monpar)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

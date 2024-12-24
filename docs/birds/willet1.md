@@ -17,17 +17,11 @@ tags:
 
 # Willet <span className='sci_name'>Tringa semipalmata</span>
 
-**Order:** [Charadriiformes](/tags/charadriiformes)
-
-**Family:** [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies)
-
-**Species Group:** [Shorebirds](/tags/shorebirds)
+**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=willet1) | [Map](/map?species_code=willet1)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=willet1&mediaType=audio&view=grid)
 
 ## Places Seen
 

@@ -17,17 +17,11 @@ tags:
 
 # White-winged Dove <span className='sci_name'>Zenaida asiatica</span>
 
-**Order:** [Columbiformes](/tags/columbiformes)
-
-**Family:** [Columbidae (Pigeons and Doves)](/tags/columbidae-pigeons-and-doves)
-
-**Species Group:** [Pigeons and Doves](/tags/pigeons-and-doves)
+**Taxonomy:** [Columbiformes](/tags/columbiformes) > [Columbidae (Pigeons and Doves)](/tags/columbidae-pigeons-and-doves) > [Pigeons and Doves](/tags/pigeons-and-doves)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whwdov) | [Map](/map?species_code=whwdov)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

@@ -17,17 +17,11 @@ tags:
 
 # Pigeon Guillemot <span className='sci_name'>Cepphus columba</span>
 
-**Order:** [Charadriiformes](/tags/charadriiformes)
-
-**Family:** [Alcidae (Auks, Murres, and Puffins)](/tags/alcidae-auks-murres-and-puffins)
-
-**Species Group:** [Alcids](/tags/alcids)
+**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Alcidae (Auks, Murres, and Puffins)](/tags/alcidae-auks-murres-and-puffins) > [Alcids](/tags/alcids)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=piggui) | [Map](/map?species_code=piggui)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

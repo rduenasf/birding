@@ -17,17 +17,11 @@ tags:
 
 # Peruvian Pelican <span className='sci_name'>Pelecanus thagus</span>
 
-**Order:** [Pelecaniformes](/tags/pelecaniformes)
-
-**Family:** [Pelecanidae (Pelicans)](/tags/pelecanidae-pelicans)
-
-**Species Group:** [Pelicans](/tags/pelicans)
+**Taxonomy:** [Pelecaniformes](/tags/pelecaniformes) > [Pelecanidae (Pelicans)](/tags/pelecanidae-pelicans) > [Pelicans](/tags/pelicans)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=perpel1) | [Map](/map?species_code=perpel1)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=perpel1&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

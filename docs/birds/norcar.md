@@ -17,17 +17,11 @@ tags:
 
 # Northern Cardinal <span className='sci_name'>Cardinalis cardinalis</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Cardinalidae (Cardinals and Allies)](/tags/cardinalidae-cardinals-and-allies)
-
-**Species Group:** [Cardinals, Grosbeaks, and Allies](/tags/cardinals-grosbeaks-and-allies)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Cardinalidae (Cardinals and Allies)](/tags/cardinalidae-cardinals-and-allies) > [Cardinals, Grosbeaks, and Allies](/tags/cardinals-grosbeaks-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=norcar) | [Map](/map?species_code=norcar)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=norcar&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

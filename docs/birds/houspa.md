@@ -17,17 +17,11 @@ tags:
 
 # House Sparrow <span className='sci_name'>Passer domesticus</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Passeridae (Old World Sparrows)](/tags/passeridae-old-world-sparrows)
-
-**Species Group:** [Old World Sparrows](/tags/old-world-sparrows)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Passeridae (Old World Sparrows)](/tags/passeridae-old-world-sparrows) > [Old World Sparrows](/tags/old-world-sparrows)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=houspa) | [Map](/map?species_code=houspa)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=houspa&mediaType=audio&view=grid)
 
 ## Places Seen
 

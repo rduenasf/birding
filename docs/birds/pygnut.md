@@ -17,17 +17,11 @@ tags:
 
 # Pygmy Nuthatch <span className='sci_name'>Sitta pygmaea</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Sittidae (Nuthatches)](/tags/sittidae-nuthatches)
-
-**Species Group:** [Nuthatches](/tags/nuthatches)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Sittidae (Nuthatches)](/tags/sittidae-nuthatches) > [Nuthatches](/tags/nuthatches)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pygnut) | [Map](/map?species_code=pygnut)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=pygnut&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

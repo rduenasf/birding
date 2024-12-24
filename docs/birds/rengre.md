@@ -17,17 +17,11 @@ tags:
 
 # Red-necked Grebe <span className='sci_name'>Podiceps grisegena</span>
 
-**Order:** [Podicipediformes](/tags/podicipediformes)
-
-**Family:** [Podicipedidae (Grebes)](/tags/podicipedidae-grebes)
-
-**Species Group:** [Grebes](/tags/grebes)
+**Taxonomy:** [Podicipediformes](/tags/podicipediformes) > [Podicipedidae (Grebes)](/tags/podicipedidae-grebes) > [Grebes](/tags/grebes)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rengre) | [Map](/map?species_code=rengre)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

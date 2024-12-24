@@ -17,17 +17,11 @@ tags:
 
 # Scott's Oriole <span className='sci_name'>Icterus parisorum</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies)
-
-**Species Group:** [Blackbirds](/tags/blackbirds)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=scoori) | [Map](/map?species_code=scoori)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

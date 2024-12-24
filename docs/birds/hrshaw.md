@@ -17,17 +17,13 @@ tags:
 
 # Harris's Hawk <span className='sci_name'>Parabuteo unicinctus</span>
 
-**Order:** [Accipitriformes](/tags/accipitriformes)
+**Taxonomy:** [Accipitriformes](/tags/accipitriformes) > [Accipitridae (Hawks, Eagles, and Kites)](/tags/accipitridae-hawks-eagles-and-kites) > [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
 
-**Family:** [Accipitridae (Hawks, Eagles, and Kites)](/tags/accipitridae-hawks-eagles-and-kites)
-
-**Species Group:** [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
+**Subspecies Seen**: Harris's Hawk (Bay-winged)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=hrshaw) | [Map](/map?species_code=hrshaw)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

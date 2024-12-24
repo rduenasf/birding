@@ -17,17 +17,11 @@ tags:
 
 # Caspian Tern <span className='sci_name'>Hydroprogne caspia</span>
 
-**Order:** [Charadriiformes](/tags/charadriiformes)
-
-**Family:** [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers)
-
-**Species Group:** [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
+**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers) > [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=caster1) | [Map](/map?species_code=caster1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

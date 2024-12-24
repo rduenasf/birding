@@ -17,17 +17,11 @@ tags:
 
 # Ridgway's Rail <span className='sci_name'>Rallus obsoletus</span>
 
-**Order:** [Gruiformes](/tags/gruiformes)
-
-**Family:** [Rallidae (Rails, Gallinules, and Coots)](/tags/rallidae-rails-gallinules-and-coots)
-
-**Species Group:** [Rails, Gallinules, and Allies](/tags/rails-gallinules-and-allies)
+**Taxonomy:** [Gruiformes](/tags/gruiformes) > [Rallidae (Rails, Gallinules, and Coots)](/tags/rallidae-rails-gallinules-and-coots) > [Rails, Gallinules, and Allies](/tags/rails-gallinules-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ridrai1) | [Map](/map?species_code=ridrai1)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=ridrai1&mediaType=audio&view=grid)
 
 ## Places Seen
 

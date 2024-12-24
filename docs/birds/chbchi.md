@@ -17,17 +17,11 @@ tags:
 
 # Chestnut-backed Chickadee <span className='sci_name'>Poecile rufescens</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Paridae (Tits, Chickadees, and Titmice)](/tags/paridae-tits-chickadees-and-titmice)
-
-**Species Group:** [Tits, Chickadees, and Titmice](/tags/tits-chickadees-and-titmice)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Paridae (Tits, Chickadees, and Titmice)](/tags/paridae-tits-chickadees-and-titmice) > [Tits, Chickadees, and Titmice](/tags/tits-chickadees-and-titmice)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chbchi) | [Map](/map?species_code=chbchi)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=chbchi&mediaType=audio&view=grid)
 
 ## Places Seen
 

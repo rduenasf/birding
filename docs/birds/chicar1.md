@@ -17,17 +17,11 @@ tags:
 
 # Chimango Caracara <span className='sci_name'>Daptrius chimango</span>
 
-**Order:** [Falconiformes](/tags/falconiformes)
-
-**Family:** [Falconidae (Falcons and Caracaras)](/tags/falconidae-falcons-and-caracaras)
-
-**Species Group:** [Falcons and Caracaras](/tags/falcons-and-caracaras)
+**Taxonomy:** [Falconiformes](/tags/falconiformes) > [Falconidae (Falcons and Caracaras)](/tags/falconidae-falcons-and-caracaras) > [Falcons and Caracaras](/tags/falcons-and-caracaras)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chicar1) | [Map](/map?species_code=chicar1)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=chicar1&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

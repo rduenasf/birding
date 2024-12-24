@@ -17,17 +17,11 @@ tags:
 
 # Mexican Duck <span className='sci_name'>Anas diazi</span>
 
-**Order:** [Anseriformes](/tags/anseriformes)
-
-**Family:** [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl)
-
-**Species Group:** [Waterfowl](/tags/waterfowl)
+**Taxonomy:** [Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mexduc) | [Map](/map?species_code=mexduc)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

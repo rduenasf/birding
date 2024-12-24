@@ -17,17 +17,11 @@ tags:
 
 # Cordilleran Canastero <span className='sci_name'>Asthenes modesta</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers)
-
-**Species Group:** [Ovenbirds](/tags/ovenbirds)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers) > [Ovenbirds](/tags/ovenbirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=corcan1) | [Map](/map?species_code=corcan1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

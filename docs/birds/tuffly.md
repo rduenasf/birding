@@ -17,17 +17,13 @@ tags:
 
 # Tufted Flycatcher <span className='sci_name'>Mitrephanes phaeocercus</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
 
-**Family:** [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers)
-
-**Species Group:** [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+**Subspecies Seen**: Tufted Flycatcher (Mexican)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=tuffly) | [Map](/map?species_code=tuffly)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

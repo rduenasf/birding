@@ -17,17 +17,11 @@ tags:
 
 # Andean Condor <span className='sci_name'>Vultur gryphus</span>
 
-**Order:** [Cathartiformes](/tags/cathartiformes)
-
-**Family:** [Cathartidae (New World Vultures)](/tags/cathartidae-new-world-vultures)
-
-**Species Group:** [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
+**Taxonomy:** [Cathartiformes](/tags/cathartiformes) > [Cathartidae (New World Vultures)](/tags/cathartidae-new-world-vultures) > [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=andcon1) | [Map](/map?species_code=andcon1)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=andcon1&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

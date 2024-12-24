@@ -17,17 +17,11 @@ tags:
 
 # Ruby-crowned Kinglet <span className='sci_name'>Corthylio calendula</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Regulidae (Kinglets)](/tags/regulidae-kinglets)
-
-**Species Group:** [Kinglets](/tags/kinglets)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Regulidae (Kinglets)](/tags/regulidae-kinglets) > [Kinglets](/tags/kinglets)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ruckin) | [Map](/map?species_code=ruckin)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=ruckin&mediaType=audio&view=grid)
 
 ## Places Seen
 

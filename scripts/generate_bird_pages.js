@@ -24,6 +24,21 @@ function ensureDirectoryExists(dirPath) {
   }
 }
 
+function generateSubspeciesSeen(observations) {
+  const subspeciesDict = {};
+  observations.forEach(({ speciesCode, commonName, speciesCategory }) => {
+    if (speciesCategory === "issf") subspeciesDict[speciesCode] = commonName;
+  });
+
+  const subspecies = Object.values(subspeciesDict);
+
+  if (subspecies.length === 0) return "";
+
+  return `\n**Subspecies Seen**: ${subspecies
+    .sort((a, b) => a.localeCompare(b))
+    .join(", ")}\n`;
+}
+
 function generatePhotoEmbeds(photos) {
   return photos
     .sort((a, b) => b.averageCommunityRating - a.averageCommunityRating)
@@ -86,17 +101,23 @@ tags:
 
 # ${primaryComName} <span className='sci_name'>${sciName}</span>
 
-**Order:** [${order}](/tags/${generateSlug(order)})
-
-**Family:** [${family}](/tags/${generateSlug(family)})
-
-**Species Group:** [${speciesGroup}](/tags/${generateSlug(speciesGroup)})
-
+**Taxonomy:** [${order}](/tags/${generateSlug(
+    order
+  )}) > [${family}](/tags/${generateSlug(
+    family
+  )}) > [${speciesGroup}](/tags/${generateSlug(speciesGroup)})
+${generateSubspeciesSeen(bird.observations)}
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=${speciesCode}) | [Map](/map?species_code=${speciesCode})
 
-**Photo**: ${photoEmbeds.length > 0 ? "Yes" : "No"} 
-
-**Audio**: ${audioEmbeds.length > 0 ? "Yes" : "No"}
+**Media**: ${
+    photoEmbeds.length > 0
+      ? `[Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=${speciesCode}&mediaType=photo&view=grid)`
+      : "No Photo"
+  } | ${
+    audioEmbeds.length > 0
+      ? `[Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=${speciesCode}&mediaType=audio&view=grid)`
+      : "No Recording"
+  }
 
 ## Places Seen
 
@@ -168,28 +189,14 @@ function generateIndexFile(species, outputDir) {
 id: Birds
 slug: /
 ---
-
-  ${species
-    .map((bird) => {
-      const { primaryComName, speciesCode, observations } = bird;
-
-      const photographed =
-        observations
-          .flatMap((obs) => obs.mlCatalogNumbers)
-          .filter((obj) => obj !== undefined && obj.format === "Photo").length >
-        0;
-
-      const recorded =
-        observations
-          .flatMap((obs) => obs.mlCatalogNumbers)
-          .filter((obj) => obj !== undefined && obj.format === "Audio").length >
-        0;
-
-      return `1. [${primaryComName}${photographed ? " 📷" : ""} ${
-        recorded ? " 🔊" : ""
-      }](./birds/${speciesCode})`;
-    })
-    .join("\n")}
+${species
+  .map((bird) => {
+    const { primaryComName, speciesCode, photographed, recorded } = bird;
+    return `1. [${primaryComName}${photographed ? " 📷" : ""} ${
+      recorded ? " 🔊" : ""
+    }](./birds/${speciesCode})`;
+  })
+  .join("\n")}
 `;
 
   const indexPath = path.join(outputDir, "index.md");

@@ -17,17 +17,11 @@ tags:
 
 # Long-billed Dowitcher <span className='sci_name'>Limnodromus scolopaceus</span>
 
-**Order:** [Charadriiformes](/tags/charadriiformes)
-
-**Family:** [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies)
-
-**Species Group:** [Shorebirds](/tags/shorebirds)
+**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=lobdow) | [Map](/map?species_code=lobdow)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=lobdow&mediaType=audio&view=grid)
 
 ## Places Seen
 

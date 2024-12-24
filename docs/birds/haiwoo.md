@@ -17,17 +17,13 @@ tags:
 
 # Hairy Woodpecker <span className='sci_name'>Dryobates villosus</span>
 
-**Order:** [Piciformes](/tags/piciformes)
+**Taxonomy:** [Piciformes](/tags/piciformes) > [Picidae (Woodpeckers)](/tags/picidae-woodpeckers) > [Woodpeckers](/tags/woodpeckers)
 
-**Family:** [Picidae (Woodpeckers)](/tags/picidae-woodpeckers)
-
-**Species Group:** [Woodpeckers](/tags/woodpeckers)
+**Subspecies Seen**: Hairy Woodpecker (South Mexican)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=haiwoo) | [Map](/map?species_code=haiwoo)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=haiwoo&mediaType=audio&view=grid)
 
 ## Places Seen
 

@@ -17,17 +17,13 @@ tags:
 
 # Northern Rough-winged Swallow <span className='sci_name'>Stelgidopteryx serripennis</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Hirundinidae (Swallows)](/tags/hirundinidae-swallows) > [Martins and Swallows](/tags/martins-and-swallows)
 
-**Family:** [Hirundinidae (Swallows)](/tags/hirundinidae-swallows)
-
-**Species Group:** [Martins and Swallows](/tags/martins-and-swallows)
+**Subspecies Seen**: Northern Rough-winged Swallow (Northern)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=nrwswa) | [Map](/map?species_code=nrwswa)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

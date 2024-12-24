@@ -17,17 +17,13 @@ tags:
 
 # Northern Flicker <span className='sci_name'>Colaptes auratus</span>
 
-**Order:** [Piciformes](/tags/piciformes)
+**Taxonomy:** [Piciformes](/tags/piciformes) > [Picidae (Woodpeckers)](/tags/picidae-woodpeckers) > [Woodpeckers](/tags/woodpeckers)
 
-**Family:** [Picidae (Woodpeckers)](/tags/picidae-woodpeckers)
-
-**Species Group:** [Woodpeckers](/tags/woodpeckers)
+**Subspecies Seen**: Northern Flicker (Red-shafted), Northern Flicker (Yellow-shafted)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=norfli) | [Map](/map?species_code=norfli)
 
-**Photo**: Yes 
-
-**Audio**: Yes
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=norfli&mediaType=photo&view=grid) | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=norfli&mediaType=audio&view=grid)
 
 ## Places Seen
 

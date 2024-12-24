@@ -17,17 +17,11 @@ tags:
 
 # Nuttall's Woodpecker <span className='sci_name'>Dryobates nuttallii</span>
 
-**Order:** [Piciformes](/tags/piciformes)
-
-**Family:** [Picidae (Woodpeckers)](/tags/picidae-woodpeckers)
-
-**Species Group:** [Woodpeckers](/tags/woodpeckers)
+**Taxonomy:** [Piciformes](/tags/piciformes) > [Picidae (Woodpeckers)](/tags/picidae-woodpeckers) > [Woodpeckers](/tags/woodpeckers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=nutwoo) | [Map](/map?species_code=nutwoo)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=nutwoo&mediaType=audio&view=grid)
 
 ## Places Seen
 

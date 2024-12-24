@@ -17,17 +17,11 @@ tags:
 
 # Mountain Trogon <span className='sci_name'>Trogon mexicanus</span>
 
-**Order:** [Trogoniformes](/tags/trogoniformes)
-
-**Family:** [Trogonidae (Trogons)](/tags/trogonidae-trogons)
-
-**Species Group:** [Trogons and Quetzals](/tags/trogons-and-quetzals)
+**Taxonomy:** [Trogoniformes](/tags/trogoniformes) > [Trogonidae (Trogons)](/tags/trogonidae-trogons) > [Trogons and Quetzals](/tags/trogons-and-quetzals)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=moutro1) | [Map](/map?species_code=moutro1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

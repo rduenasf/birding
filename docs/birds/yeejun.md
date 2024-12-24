@@ -17,17 +17,13 @@ tags:
 
 # Yellow-eyed Junco <span className='sci_name'>Junco phaeonotus</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
 
-**Family:** [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows)
-
-**Species Group:** [New World Sparrows](/tags/new-world-sparrows)
+**Subspecies Seen**: Yellow-eyed Junco (Mexican)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=yeejun) | [Map](/map?species_code=yeejun)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

@@ -17,17 +17,11 @@ tags:
 
 # Blue Jay <span className='sci_name'>Cyanocitta cristata</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Corvidae (Crows, Jays, and Magpies)](/tags/corvidae-crows-jays-and-magpies)
-
-**Species Group:** [Jays, Magpies, Crows, and Ravens](/tags/jays-magpies-crows-and-ravens)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Corvidae (Crows, Jays, and Magpies)](/tags/corvidae-crows-jays-and-magpies) > [Jays, Magpies, Crows, and Ravens](/tags/jays-magpies-crows-and-ravens)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blujay) | [Map](/map?species_code=blujay)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

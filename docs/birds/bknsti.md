@@ -17,17 +17,13 @@ tags:
 
 # Black-necked Stilt <span className='sci_name'>Himantopus mexicanus</span>
 
-**Order:** [Charadriiformes](/tags/charadriiformes)
+**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Recurvirostridae (Stilts and Avocets)](/tags/recurvirostridae-stilts-and-avocets) > [Shorebirds](/tags/shorebirds)
 
-**Family:** [Recurvirostridae (Stilts and Avocets)](/tags/recurvirostridae-stilts-and-avocets)
-
-**Species Group:** [Shorebirds](/tags/shorebirds)
+**Subspecies Seen**: Black-necked Stilt (Black-necked), Black-necked Stilt (White-backed)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bknsti) | [Map](/map?species_code=bknsti)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=bknsti&mediaType=audio&view=grid)
 
 ## Places Seen
 

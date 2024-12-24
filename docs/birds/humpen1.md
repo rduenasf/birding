@@ -17,17 +17,11 @@ tags:
 
 # Humboldt Penguin <span className='sci_name'>Spheniscus humboldti</span>
 
-**Order:** [Sphenisciformes](/tags/sphenisciformes)
-
-**Family:** [Spheniscidae (Penguins)](/tags/spheniscidae-penguins)
-
-**Species Group:** [Penguins](/tags/penguins)
+**Taxonomy:** [Sphenisciformes](/tags/sphenisciformes) > [Spheniscidae (Penguins)](/tags/spheniscidae-penguins) > [Penguins](/tags/penguins)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=humpen1) | [Map](/map?species_code=humpen1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

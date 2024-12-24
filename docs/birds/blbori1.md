@@ -17,17 +17,11 @@ tags:
 
 # Black-backed Oriole <span className='sci_name'>Icterus abeillei</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies)
-
-**Species Group:** [Blackbirds](/tags/blackbirds)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blbori1) | [Map](/map?species_code=blbori1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

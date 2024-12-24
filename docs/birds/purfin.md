@@ -17,17 +17,13 @@ tags:
 
 # Purple Finch <span className='sci_name'>Haemorhous purpureus</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Fringillidae (Finches, Euphonias, and Allies)](/tags/fringillidae-finches-euphonias-and-allies) > [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
 
-**Family:** [Fringillidae (Finches, Euphonias, and Allies)](/tags/fringillidae-finches-euphonias-and-allies)
-
-**Species Group:** [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
+**Subspecies Seen**: Purple Finch (Western)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=purfin) | [Map](/map?species_code=purfin)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=purfin&mediaType=audio&view=grid)
 
 ## Places Seen
 

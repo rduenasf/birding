@@ -17,17 +17,11 @@ tags:
 
 # Say's Phoebe <span className='sci_name'>Sayornis saya</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers)
-
-**Species Group:** [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=saypho) | [Map](/map?species_code=saypho)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=saypho&mediaType=audio&view=grid)
 
 ## Places Seen
 

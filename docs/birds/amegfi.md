@@ -17,17 +17,11 @@ tags:
 
 # American Goldfinch <span className='sci_name'>Spinus tristis</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Fringillidae (Finches, Euphonias, and Allies)](/tags/fringillidae-finches-euphonias-and-allies)
-
-**Species Group:** [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Fringillidae (Finches, Euphonias, and Allies)](/tags/fringillidae-finches-euphonias-and-allies) > [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=amegfi) | [Map](/map?species_code=amegfi)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

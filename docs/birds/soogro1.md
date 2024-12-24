@@ -17,17 +17,11 @@ tags:
 
 # Sooty Grouse <span className='sci_name'>Dendragapus fuliginosus</span>
 
-**Order:** [Galliformes](/tags/galliformes)
-
-**Family:** [Phasianidae (Pheasants, Grouse, and Allies)](/tags/phasianidae-pheasants-grouse-and-allies)
-
-**Species Group:** [Grouse, Quail, and Allies](/tags/grouse-quail-and-allies)
+**Taxonomy:** [Galliformes](/tags/galliformes) > [Phasianidae (Pheasants, Grouse, and Allies)](/tags/phasianidae-pheasants-grouse-and-allies) > [Grouse, Quail, and Allies](/tags/grouse-quail-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=soogro1) | [Map](/map?species_code=soogro1)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=soogro1&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

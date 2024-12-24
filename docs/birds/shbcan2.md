@@ -17,17 +17,11 @@ tags:
 
 # Sharp-billed Canastero <span className='sci_name'>Asthenes pyrrholeuca</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers)
-
-**Species Group:** [Ovenbirds](/tags/ovenbirds)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers) > [Ovenbirds](/tags/ovenbirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=shbcan2) | [Map](/map?species_code=shbcan2)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

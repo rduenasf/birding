@@ -17,17 +17,11 @@ tags:
 
 # California Thrasher <span className='sci_name'>Toxostoma redivivum</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Mimidae (Mockingbirds and Thrashers)](/tags/mimidae-mockingbirds-and-thrashers)
-
-**Species Group:** [Catbirds, Mockingbirds, and Thrashers](/tags/catbirds-mockingbirds-and-thrashers)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Mimidae (Mockingbirds and Thrashers)](/tags/mimidae-mockingbirds-and-thrashers) > [Catbirds, Mockingbirds, and Thrashers](/tags/catbirds-mockingbirds-and-thrashers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=calthr) | [Map](/map?species_code=calthr)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=calthr&mediaType=audio&view=grid)
 
 ## Places Seen
 

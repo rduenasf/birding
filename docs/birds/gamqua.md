@@ -17,17 +17,11 @@ tags:
 
 # Gambel's Quail <span className='sci_name'>Callipepla gambelii</span>
 
-**Order:** [Galliformes](/tags/galliformes)
-
-**Family:** [Odontophoridae (New World Quail)](/tags/odontophoridae-new-world-quail)
-
-**Species Group:** [Grouse, Quail, and Allies](/tags/grouse-quail-and-allies)
+**Taxonomy:** [Galliformes](/tags/galliformes) > [Odontophoridae (New World Quail)](/tags/odontophoridae-new-world-quail) > [Grouse, Quail, and Allies](/tags/grouse-quail-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gamqua) | [Map](/map?species_code=gamqua)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

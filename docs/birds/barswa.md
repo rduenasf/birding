@@ -17,17 +17,13 @@ tags:
 
 # Barn Swallow <span className='sci_name'>Hirundo rustica</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Hirundinidae (Swallows)](/tags/hirundinidae-swallows) > [Martins and Swallows](/tags/martins-and-swallows)
 
-**Family:** [Hirundinidae (Swallows)](/tags/hirundinidae-swallows)
-
-**Species Group:** [Martins and Swallows](/tags/martins-and-swallows)
+**Subspecies Seen**: Barn Swallow (American)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=barswa) | [Map](/map?species_code=barswa)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

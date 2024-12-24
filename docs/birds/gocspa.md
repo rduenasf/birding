@@ -17,17 +17,11 @@ tags:
 
 # Golden-crowned Sparrow <span className='sci_name'>Zonotrichia atricapilla</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows)
-
-**Species Group:** [New World Sparrows](/tags/new-world-sparrows)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gocspa) | [Map](/map?species_code=gocspa)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=gocspa&mediaType=audio&view=grid)
 
 ## Places Seen
 

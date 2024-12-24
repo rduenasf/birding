@@ -17,17 +17,13 @@ tags:
 
 # Common Merganser <span className='sci_name'>Mergus merganser</span>
 
-**Order:** [Anseriformes](/tags/anseriformes)
+**Taxonomy:** [Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
 
-**Family:** [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl)
-
-**Species Group:** [Waterfowl](/tags/waterfowl)
+**Subspecies Seen**: Common Merganser (North American)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=commer) | [Map](/map?species_code=commer)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=commer&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

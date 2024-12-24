@@ -17,17 +17,11 @@ tags:
 
 # Cinnamon-bellied Flowerpiercer <span className='sci_name'>Diglossa baritula</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Thraupidae (Tanagers and Allies)](/tags/thraupidae-tanagers-and-allies)
-
-**Species Group:** [Tanagers and Allies](/tags/tanagers-and-allies)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Thraupidae (Tanagers and Allies)](/tags/thraupidae-tanagers-and-allies) > [Tanagers and Allies](/tags/tanagers-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cibflo1) | [Map](/map?species_code=cibflo1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

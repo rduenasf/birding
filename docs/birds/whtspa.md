@@ -17,17 +17,11 @@ tags:
 
 # White-throated Sparrow <span className='sci_name'>Zonotrichia albicollis</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows)
-
-**Species Group:** [New World Sparrows](/tags/new-world-sparrows)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whtspa) | [Map](/map?species_code=whtspa)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

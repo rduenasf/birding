@@ -17,17 +17,11 @@ tags:
 
 # Cooper's Hawk <span className='sci_name'>Astur cooperii</span>
 
-**Order:** [Accipitriformes](/tags/accipitriformes)
-
-**Family:** [Accipitridae (Hawks, Eagles, and Kites)](/tags/accipitridae-hawks-eagles-and-kites)
-
-**Species Group:** [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
+**Taxonomy:** [Accipitriformes](/tags/accipitriformes) > [Accipitridae (Hawks, Eagles, and Kites)](/tags/accipitridae-hawks-eagles-and-kites) > [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=coohaw) | [Map](/map?species_code=coohaw)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=coohaw&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

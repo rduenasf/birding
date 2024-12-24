@@ -17,17 +17,13 @@ tags:
 
 # Bewick's Wren <span className='sci_name'>Thryomanes bewickii</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Troglodytidae (Wrens)](/tags/troglodytidae-wrens) > [Wrens](/tags/wrens)
 
-**Family:** [Troglodytidae (Wrens)](/tags/troglodytidae-wrens)
-
-**Species Group:** [Wrens](/tags/wrens)
+**Subspecies Seen**: Bewick's Wren (mexicanus Group), Bewick's Wren (spilurus Group)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bewwre) | [Map](/map?species_code=bewwre)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=bewwre&mediaType=audio&view=grid)
 
 ## Places Seen
 

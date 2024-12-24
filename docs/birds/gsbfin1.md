@@ -17,17 +17,11 @@ tags:
 
 # Green-striped Brushfinch <span className='sci_name'>Arremon virenticeps</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows)
-
-**Species Group:** [New World Sparrows](/tags/new-world-sparrows)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gsbfin1) | [Map](/map?species_code=gsbfin1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

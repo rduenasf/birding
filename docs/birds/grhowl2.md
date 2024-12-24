@@ -17,17 +17,11 @@ tags:
 
 # Lesser Horned Owl <span className='sci_name'>Bubo magellanicus</span>
 
-**Order:** [Strigiformes](/tags/strigiformes)
-
-**Family:** [Strigidae (Owls)](/tags/strigidae-owls)
-
-**Species Group:** [Owls](/tags/owls)
+**Taxonomy:** [Strigiformes](/tags/strigiformes) > [Strigidae (Owls)](/tags/strigidae-owls) > [Owls](/tags/owls)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grhowl2) | [Map](/map?species_code=grhowl2)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=grhowl2&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

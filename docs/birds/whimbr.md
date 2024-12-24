@@ -17,17 +17,13 @@ tags:
 
 # Whimbrel <span className='sci_name'>Numenius phaeopus</span>
 
-**Order:** [Charadriiformes](/tags/charadriiformes)
+**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
 
-**Family:** [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies)
-
-**Species Group:** [Shorebirds](/tags/shorebirds)
+**Subspecies Seen**: Whimbrel (Hudsonian)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whimbr) | [Map](/map?species_code=whimbr)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=whimbr&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

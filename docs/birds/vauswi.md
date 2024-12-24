@@ -17,17 +17,11 @@ tags:
 
 # Vaux's Swift <span className='sci_name'>Chaetura vauxi</span>
 
-**Order:** [Apodiformes](/tags/apodiformes)
-
-**Family:** [Apodidae (Swifts)](/tags/apodidae-swifts)
-
-**Species Group:** [Swifts](/tags/swifts)
+**Taxonomy:** [Apodiformes](/tags/apodiformes) > [Apodidae (Swifts)](/tags/apodidae-swifts) > [Swifts](/tags/swifts)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=vauswi) | [Map](/map?species_code=vauswi)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

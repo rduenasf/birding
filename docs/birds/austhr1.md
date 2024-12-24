@@ -17,17 +17,13 @@ tags:
 
 # Austral Thrush <span className='sci_name'>Turdus falcklandii</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies) > [Thrushes](/tags/thrushes)
 
-**Family:** [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies)
-
-**Species Group:** [Thrushes](/tags/thrushes)
+**Subspecies Seen**: Austral Thrush (Magellan)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=austhr1) | [Map](/map?species_code=austhr1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

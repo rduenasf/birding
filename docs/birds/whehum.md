@@ -17,17 +17,11 @@ tags:
 
 # White-eared Hummingbird <span className='sci_name'>Basilinna leucotis</span>
 
-**Order:** [Apodiformes](/tags/apodiformes)
-
-**Family:** [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds)
-
-**Species Group:** [Hummingbirds](/tags/hummingbirds)
+**Taxonomy:** [Apodiformes](/tags/apodiformes) > [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds) > [Hummingbirds](/tags/hummingbirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whehum) | [Map](/map?species_code=whehum)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

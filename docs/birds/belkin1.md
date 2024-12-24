@@ -17,17 +17,11 @@ tags:
 
 # Belted Kingfisher <span className='sci_name'>Megaceryle alcyon</span>
 
-**Order:** [Coraciiformes](/tags/coraciiformes)
-
-**Family:** [Alcedinidae (Kingfishers)](/tags/alcedinidae-kingfishers)
-
-**Species Group:** [Kingfishers](/tags/kingfishers)
+**Taxonomy:** [Coraciiformes](/tags/coraciiformes) > [Alcedinidae (Kingfishers)](/tags/alcedinidae-kingfishers) > [Kingfishers](/tags/kingfishers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=belkin1) | [Map](/map?species_code=belkin1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

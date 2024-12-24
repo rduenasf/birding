@@ -17,17 +17,11 @@ tags:
 
 # Brandt's Cormorant <span className='sci_name'>Urile penicillatus</span>
 
-**Order:** [Suliformes](/tags/suliformes)
-
-**Family:** [Phalacrocoracidae (Cormorants and Shags)](/tags/phalacrocoracidae-cormorants-and-shags)
-
-**Species Group:** [Cormorants and Anhingas](/tags/cormorants-and-anhingas)
+**Taxonomy:** [Suliformes](/tags/suliformes) > [Phalacrocoracidae (Cormorants and Shags)](/tags/phalacrocoracidae-cormorants-and-shags) > [Cormorants and Anhingas](/tags/cormorants-and-anhingas)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bracor) | [Map](/map?species_code=bracor)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=bracor&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

@@ -17,17 +17,11 @@ tags:
 
 # White Ibis <span className='sci_name'>Eudocimus albus</span>
 
-**Order:** [Pelecaniformes](/tags/pelecaniformes)
-
-**Family:** [Threskiornithidae (Ibises and Spoonbills)](/tags/threskiornithidae-ibises-and-spoonbills)
-
-**Species Group:** [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
+**Taxonomy:** [Pelecaniformes](/tags/pelecaniformes) > [Threskiornithidae (Ibises and Spoonbills)](/tags/threskiornithidae-ibises-and-spoonbills) > [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whiibi) | [Map](/map?species_code=whiibi)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

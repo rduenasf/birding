@@ -17,17 +17,11 @@ tags:
 
 # Greater Yellow-Finch <span className='sci_name'>Sicalis auriventris</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Thraupidae (Tanagers and Allies)](/tags/thraupidae-tanagers-and-allies)
-
-**Species Group:** [Tanagers and Allies](/tags/tanagers-and-allies)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Thraupidae (Tanagers and Allies)](/tags/thraupidae-tanagers-and-allies) > [Tanagers and Allies](/tags/tanagers-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gryfin2) | [Map](/map?species_code=gryfin2)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

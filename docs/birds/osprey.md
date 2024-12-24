@@ -17,17 +17,13 @@ tags:
 
 # Osprey <span className='sci_name'>Pandion haliaetus</span>
 
-**Order:** [Accipitriformes](/tags/accipitriformes)
+**Taxonomy:** [Accipitriformes](/tags/accipitriformes) > [Pandionidae (Osprey)](/tags/pandionidae-osprey) > [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
 
-**Family:** [Pandionidae (Osprey)](/tags/pandionidae-osprey)
-
-**Species Group:** [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
+**Subspecies Seen**: Osprey (American)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=osprey) | [Map](/map?species_code=osprey)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=osprey&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

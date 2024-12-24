@@ -17,17 +17,13 @@ tags:
 
 # Western Flycatcher <span className='sci_name'>Empidonax difficilis</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
 
-**Family:** [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers)
-
-**Species Group:** [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+**Subspecies Seen**: Western Flycatcher (Cordilleran), Western Flycatcher (Pacific-slope)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wesfly) | [Map](/map?species_code=wesfly)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

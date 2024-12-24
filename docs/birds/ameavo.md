@@ -17,17 +17,11 @@ tags:
 
 # American Avocet <span className='sci_name'>Recurvirostra americana</span>
 
-**Order:** [Charadriiformes](/tags/charadriiformes)
-
-**Family:** [Recurvirostridae (Stilts and Avocets)](/tags/recurvirostridae-stilts-and-avocets)
-
-**Species Group:** [Shorebirds](/tags/shorebirds)
+**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Recurvirostridae (Stilts and Avocets)](/tags/recurvirostridae-stilts-and-avocets) > [Shorebirds](/tags/shorebirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ameavo) | [Map](/map?species_code=ameavo)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

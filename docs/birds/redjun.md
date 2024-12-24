@@ -17,17 +17,11 @@ tags:
 
 # Red Junglefowl <span className='sci_name'>Gallus gallus</span>
 
-**Order:** [Galliformes](/tags/galliformes)
-
-**Family:** [Phasianidae (Pheasants, Grouse, and Allies)](/tags/phasianidae-pheasants-grouse-and-allies)
-
-**Species Group:** [Grouse, Quail, and Allies](/tags/grouse-quail-and-allies)
+**Taxonomy:** [Galliformes](/tags/galliformes) > [Phasianidae (Pheasants, Grouse, and Allies)](/tags/phasianidae-pheasants-grouse-and-allies) > [Grouse, Quail, and Allies](/tags/grouse-quail-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=redjun) | [Map](/map?species_code=redjun)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

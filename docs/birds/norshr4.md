@@ -17,17 +17,11 @@ tags:
 
 # Northern Shrike <span className='sci_name'>Lanius borealis</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Laniidae (Shrikes)](/tags/laniidae-shrikes)
-
-**Species Group:** [Shrikes](/tags/shrikes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Laniidae (Shrikes)](/tags/laniidae-shrikes) > [Shrikes](/tags/shrikes)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=norshr4) | [Map](/map?species_code=norshr4)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

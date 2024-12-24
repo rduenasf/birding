@@ -17,17 +17,11 @@ tags:
 
 # Pink-footed Shearwater <span className='sci_name'>Ardenna creatopus</span>
 
-**Order:** [Procellariiformes](/tags/procellariiformes)
-
-**Family:** [Procellariidae (Shearwaters and Petrels)](/tags/procellariidae-shearwaters-and-petrels)
-
-**Species Group:** [Petrels, Shearwaters, and Diving-Petrels](/tags/petrels-shearwaters-and-diving-petrels)
+**Taxonomy:** [Procellariiformes](/tags/procellariiformes) > [Procellariidae (Shearwaters and Petrels)](/tags/procellariidae-shearwaters-and-petrels) > [Petrels, Shearwaters, and Diving-Petrels](/tags/petrels-shearwaters-and-diving-petrels)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pifshe) | [Map](/map?species_code=pifshe)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

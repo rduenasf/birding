@@ -17,17 +17,11 @@ tags:
 
 # American Kestrel <span className='sci_name'>Falco sparverius</span>
 
-**Order:** [Falconiformes](/tags/falconiformes)
-
-**Family:** [Falconidae (Falcons and Caracaras)](/tags/falconidae-falcons-and-caracaras)
-
-**Species Group:** [Falcons and Caracaras](/tags/falcons-and-caracaras)
+**Taxonomy:** [Falconiformes](/tags/falconiformes) > [Falconidae (Falcons and Caracaras)](/tags/falconidae-falcons-and-caracaras) > [Falcons and Caracaras](/tags/falcons-and-caracaras)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=amekes) | [Map](/map?species_code=amekes)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

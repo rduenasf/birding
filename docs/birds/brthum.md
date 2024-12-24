@@ -17,17 +17,11 @@ tags:
 
 # Broad-tailed Hummingbird <span className='sci_name'>Selasphorus platycercus</span>
 
-**Order:** [Apodiformes](/tags/apodiformes)
-
-**Family:** [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds)
-
-**Species Group:** [Hummingbirds](/tags/hummingbirds)
+**Taxonomy:** [Apodiformes](/tags/apodiformes) > [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds) > [Hummingbirds](/tags/hummingbirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=brthum) | [Map](/map?species_code=brthum)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

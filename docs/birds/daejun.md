@@ -17,17 +17,13 @@ tags:
 
 # Dark-eyed Junco <span className='sci_name'>Junco hyemalis</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
 
-**Family:** [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows)
-
-**Species Group:** [New World Sparrows](/tags/new-world-sparrows)
+**Subspecies Seen**: Dark-eyed Junco (Oregon), Dark-eyed Junco (Slate-colored)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=daejun) | [Map](/map?species_code=daejun)
 
-**Photo**: Yes 
-
-**Audio**: Yes
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=daejun&mediaType=photo&view=grid) | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=daejun&mediaType=audio&view=grid)
 
 ## Places Seen
 

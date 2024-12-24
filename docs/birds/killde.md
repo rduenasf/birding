@@ -17,17 +17,11 @@ tags:
 
 # Killdeer <span className='sci_name'>Charadrius vociferus</span>
 
-**Order:** [Charadriiformes](/tags/charadriiformes)
-
-**Family:** [Charadriidae (Plovers and Lapwings)](/tags/charadriidae-plovers-and-lapwings)
-
-**Species Group:** [Shorebirds](/tags/shorebirds)
+**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Charadriidae (Plovers and Lapwings)](/tags/charadriidae-plovers-and-lapwings) > [Shorebirds](/tags/shorebirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=killde) | [Map](/map?species_code=killde)
 
-**Photo**: Yes 
-
-**Audio**: Yes
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=killde&mediaType=photo&view=grid) | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=killde&mediaType=audio&view=grid)
 
 ## Places Seen
 

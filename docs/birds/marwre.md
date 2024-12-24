@@ -17,17 +17,11 @@ tags:
 
 # Marsh Wren <span className='sci_name'>Cistothorus palustris</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Troglodytidae (Wrens)](/tags/troglodytidae-wrens)
-
-**Species Group:** [Wrens](/tags/wrens)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Troglodytidae (Wrens)](/tags/troglodytidae-wrens) > [Wrens](/tags/wrens)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=marwre) | [Map](/map?species_code=marwre)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=marwre&mediaType=audio&view=grid)
 
 ## Places Seen
 

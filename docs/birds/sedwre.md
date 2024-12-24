@@ -17,17 +17,13 @@ tags:
 
 # Grass Wren <span className='sci_name'>Cistothorus platensis</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Troglodytidae (Wrens)](/tags/troglodytidae-wrens) > [Wrens](/tags/wrens)
 
-**Family:** [Troglodytidae (Wrens)](/tags/troglodytidae-wrens)
-
-**Species Group:** [Wrens](/tags/wrens)
+**Subspecies Seen**: Grass Wren (Northern)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sedwre) | [Map](/map?species_code=sedwre)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

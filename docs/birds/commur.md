@@ -17,17 +17,11 @@ tags:
 
 # Common Murre <span className='sci_name'>Uria aalge</span>
 
-**Order:** [Charadriiformes](/tags/charadriiformes)
-
-**Family:** [Alcidae (Auks, Murres, and Puffins)](/tags/alcidae-auks-murres-and-puffins)
-
-**Species Group:** [Alcids](/tags/alcids)
+**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Alcidae (Auks, Murres, and Puffins)](/tags/alcidae-auks-murres-and-puffins) > [Alcids](/tags/alcids)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=commur) | [Map](/map?species_code=commur)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=commur&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

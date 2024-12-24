@@ -17,17 +17,11 @@ tags:
 
 # Brown Creeper <span className='sci_name'>Certhia americana</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Certhiidae (Treecreepers)](/tags/certhiidae-treecreepers)
-
-**Species Group:** [Treecreepers](/tags/treecreepers)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Certhiidae (Treecreepers)](/tags/certhiidae-treecreepers) > [Treecreepers](/tags/treecreepers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=brncre) | [Map](/map?species_code=brncre)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

@@ -17,17 +17,11 @@ tags:
 
 # Western Bluebird <span className='sci_name'>Sialia mexicana</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies)
-
-**Species Group:** [Thrushes](/tags/thrushes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies) > [Thrushes](/tags/thrushes)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wesblu) | [Map](/map?species_code=wesblu)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=wesblu&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

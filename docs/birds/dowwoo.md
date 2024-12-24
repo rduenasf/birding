@@ -17,17 +17,13 @@ tags:
 
 # Downy Woodpecker <span className='sci_name'>Dryobates pubescens</span>
 
-**Order:** [Piciformes](/tags/piciformes)
+**Taxonomy:** [Piciformes](/tags/piciformes) > [Picidae (Woodpeckers)](/tags/picidae-woodpeckers) > [Woodpeckers](/tags/woodpeckers)
 
-**Family:** [Picidae (Woodpeckers)](/tags/picidae-woodpeckers)
-
-**Species Group:** [Woodpeckers](/tags/woodpeckers)
+**Subspecies Seen**: Downy Woodpecker (Eastern)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=dowwoo) | [Map](/map?species_code=dowwoo)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

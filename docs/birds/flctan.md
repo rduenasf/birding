@@ -17,17 +17,11 @@ tags:
 
 # Flame-colored Tanager <span className='sci_name'>Piranga bidentata</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Cardinalidae (Cardinals and Allies)](/tags/cardinalidae-cardinals-and-allies)
-
-**Species Group:** [Cardinals, Grosbeaks, and Allies](/tags/cardinals-grosbeaks-and-allies)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Cardinalidae (Cardinals and Allies)](/tags/cardinalidae-cardinals-and-allies) > [Cardinals, Grosbeaks, and Allies](/tags/cardinals-grosbeaks-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=flctan) | [Map](/map?species_code=flctan)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

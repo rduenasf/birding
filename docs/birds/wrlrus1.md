@@ -17,17 +17,11 @@ tags:
 
 # Wren-like Rushbird <span className='sci_name'>Phleocryptes melanops</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers)
-
-**Species Group:** [Ovenbirds](/tags/ovenbirds)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers) > [Ovenbirds](/tags/ovenbirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wrlrus1) | [Map](/map?species_code=wrlrus1)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=wrlrus1&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

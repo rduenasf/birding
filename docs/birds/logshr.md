@@ -17,17 +17,11 @@ tags:
 
 # Loggerhead Shrike <span className='sci_name'>Lanius ludovicianus</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Laniidae (Shrikes)](/tags/laniidae-shrikes)
-
-**Species Group:** [Shrikes](/tags/shrikes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Laniidae (Shrikes)](/tags/laniidae-shrikes) > [Shrikes](/tags/shrikes)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=logshr) | [Map](/map?species_code=logshr)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

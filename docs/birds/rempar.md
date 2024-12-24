@@ -17,17 +17,11 @@ tags:
 
 # Red-masked Parakeet <span className='sci_name'>Psittacara erythrogenys</span>
 
-**Order:** [Psittaciformes](/tags/psittaciformes)
-
-**Family:** [Psittacidae (New World and African Parrots)](/tags/psittacidae-new-world-and-african-parrots)
-
-**Species Group:** [Parrots, Parakeets, and Allies](/tags/parrots-parakeets-and-allies)
+**Taxonomy:** [Psittaciformes](/tags/psittaciformes) > [Psittacidae (New World and African Parrots)](/tags/psittacidae-new-world-and-african-parrots) > [Parrots, Parakeets, and Allies](/tags/parrots-parakeets-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rempar) | [Map](/map?species_code=rempar)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

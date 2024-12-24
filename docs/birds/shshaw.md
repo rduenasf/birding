@@ -17,17 +17,11 @@ tags:
 
 # Sharp-shinned Hawk <span className='sci_name'>Accipiter striatus</span>
 
-**Order:** [Accipitriformes](/tags/accipitriformes)
-
-**Family:** [Accipitridae (Hawks, Eagles, and Kites)](/tags/accipitridae-hawks-eagles-and-kites)
-
-**Species Group:** [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
+**Taxonomy:** [Accipitriformes](/tags/accipitriformes) > [Accipitridae (Hawks, Eagles, and Kites)](/tags/accipitridae-hawks-eagles-and-kites) > [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=shshaw) | [Map](/map?species_code=shshaw)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

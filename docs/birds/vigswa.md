@@ -17,17 +17,11 @@ tags:
 
 # Violet-green Swallow <span className='sci_name'>Tachycineta thalassina</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Hirundinidae (Swallows)](/tags/hirundinidae-swallows)
-
-**Species Group:** [Martins and Swallows](/tags/martins-and-swallows)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Hirundinidae (Swallows)](/tags/hirundinidae-swallows) > [Martins and Swallows](/tags/martins-and-swallows)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=vigswa) | [Map](/map?species_code=vigswa)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

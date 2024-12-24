@@ -17,17 +17,11 @@ tags:
 
 # Great-tailed Grackle <span className='sci_name'>Quiscalus mexicanus</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies)
-
-**Species Group:** [Blackbirds](/tags/blackbirds)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grtgra) | [Map](/map?species_code=grtgra)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=grtgra&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

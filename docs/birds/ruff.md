@@ -17,17 +17,11 @@ tags:
 
 # Ruff <span className='sci_name'>Calidris pugnax</span>
 
-**Order:** [Charadriiformes](/tags/charadriiformes)
-
-**Family:** [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies)
-
-**Species Group:** [Shorebirds](/tags/shorebirds)
+**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ruff) | [Map](/map?species_code=ruff)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

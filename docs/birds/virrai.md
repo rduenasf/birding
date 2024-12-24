@@ -17,17 +17,11 @@ tags:
 
 # Virginia Rail <span className='sci_name'>Rallus limicola</span>
 
-**Order:** [Gruiformes](/tags/gruiformes)
-
-**Family:** [Rallidae (Rails, Gallinules, and Coots)](/tags/rallidae-rails-gallinules-and-coots)
-
-**Species Group:** [Rails, Gallinules, and Allies](/tags/rails-gallinules-and-allies)
+**Taxonomy:** [Gruiformes](/tags/gruiformes) > [Rallidae (Rails, Gallinules, and Coots)](/tags/rallidae-rails-gallinules-and-coots) > [Rails, Gallinules, and Allies](/tags/rails-gallinules-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=virrai) | [Map](/map?species_code=virrai)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

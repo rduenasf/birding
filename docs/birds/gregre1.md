@@ -17,17 +17,11 @@ tags:
 
 # Great Grebe <span className='sci_name'>Podiceps major</span>
 
-**Order:** [Podicipediformes](/tags/podicipediformes)
-
-**Family:** [Podicipedidae (Grebes)](/tags/podicipedidae-grebes)
-
-**Species Group:** [Grebes](/tags/grebes)
+**Taxonomy:** [Podicipediformes](/tags/podicipediformes) > [Podicipedidae (Grebes)](/tags/podicipedidae-grebes) > [Grebes](/tags/grebes)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gregre1) | [Map](/map?species_code=gregre1)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=gregre1&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

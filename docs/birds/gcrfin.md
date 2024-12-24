@@ -17,17 +17,11 @@ tags:
 
 # Gray-crowned Rosy-Finch <span className='sci_name'>Leucosticte tephrocotis</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Fringillidae (Finches, Euphonias, and Allies)](/tags/fringillidae-finches-euphonias-and-allies)
-
-**Species Group:** [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Fringillidae (Finches, Euphonias, and Allies)](/tags/fringillidae-finches-euphonias-and-allies) > [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gcrfin) | [Map](/map?species_code=gcrfin)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=gcrfin&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

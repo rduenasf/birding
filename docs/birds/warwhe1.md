@@ -17,17 +17,11 @@ tags:
 
 # Warbling White-eye <span className='sci_name'>Zosterops japonicus</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Zosteropidae (White-eyes, Yuhinas, and Allies)](/tags/zosteropidae-white-eyes-yuhinas-and-allies)
-
-**Species Group:** [White-eyes, Yuhinas, and Allies](/tags/white-eyes-yuhinas-and-allies)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Zosteropidae (White-eyes, Yuhinas, and Allies)](/tags/zosteropidae-white-eyes-yuhinas-and-allies) > [White-eyes, Yuhinas, and Allies](/tags/white-eyes-yuhinas-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=warwhe1) | [Map](/map?species_code=warwhe1)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=warwhe1&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

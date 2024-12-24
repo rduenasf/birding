@@ -17,17 +17,13 @@ tags:
 
 # White-crowned Sparrow <span className='sci_name'>Zonotrichia leucophrys</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
 
-**Family:** [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows)
-
-**Species Group:** [New World Sparrows](/tags/new-world-sparrows)
+**Subspecies Seen**: White-crowned Sparrow (nuttalli)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whcspa) | [Map](/map?species_code=whcspa)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=whcspa&mediaType=audio&view=grid)
 
 ## Places Seen
 

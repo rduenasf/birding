@@ -17,17 +17,11 @@ tags:
 
 # Sandhill Crane <span className='sci_name'>Antigone canadensis</span>
 
-**Order:** [Gruiformes](/tags/gruiformes)
-
-**Family:** [Gruidae (Cranes)](/tags/gruidae-cranes)
-
-**Species Group:** [Cranes](/tags/cranes)
+**Taxonomy:** [Gruiformes](/tags/gruiformes) > [Gruidae (Cranes)](/tags/gruidae-cranes) > [Cranes](/tags/cranes)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sancra) | [Map](/map?species_code=sancra)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

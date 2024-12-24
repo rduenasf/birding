@@ -17,17 +17,11 @@ tags:
 
 # Ring-necked Pheasant <span className='sci_name'>Phasianus colchicus</span>
 
-**Order:** [Galliformes](/tags/galliformes)
-
-**Family:** [Phasianidae (Pheasants, Grouse, and Allies)](/tags/phasianidae-pheasants-grouse-and-allies)
-
-**Species Group:** [Grouse, Quail, and Allies](/tags/grouse-quail-and-allies)
+**Taxonomy:** [Galliformes](/tags/galliformes) > [Phasianidae (Pheasants, Grouse, and Allies)](/tags/phasianidae-pheasants-grouse-and-allies) > [Grouse, Quail, and Allies](/tags/grouse-quail-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rinphe1) | [Map](/map?species_code=rinphe1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

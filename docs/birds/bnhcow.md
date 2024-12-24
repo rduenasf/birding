@@ -17,17 +17,11 @@ tags:
 
 # Brown-headed Cowbird <span className='sci_name'>Molothrus ater</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies)
-
-**Species Group:** [Blackbirds](/tags/blackbirds)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bnhcow) | [Map](/map?species_code=bnhcow)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

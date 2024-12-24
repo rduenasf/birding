@@ -17,17 +17,11 @@ tags:
 
 # Chestnut-sided Shrike-Vireo <span className='sci_name'>Vireolanius melitophrys</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Vireonidae (Vireos, Shrike-Babblers, and Erpornis)](/tags/vireonidae-vireos-shrike-babblers-and-erpornis)
-
-**Species Group:** [Vireos](/tags/vireos)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Vireonidae (Vireos, Shrike-Babblers, and Erpornis)](/tags/vireonidae-vireos-shrike-babblers-and-erpornis) > [Vireos](/tags/vireos)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cssvir1) | [Map](/map?species_code=cssvir1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

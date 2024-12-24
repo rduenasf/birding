@@ -17,17 +17,13 @@ tags:
 
 # Yellow Warbler <span className='sci_name'>Setophaga petechia</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
 
-**Family:** [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers)
-
-**Species Group:** [Wood-Warblers](/tags/wood-warblers)
+**Subspecies Seen**: Yellow Warbler (Northern)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=yelwar) | [Map](/map?species_code=yelwar)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

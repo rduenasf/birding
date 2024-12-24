@@ -17,17 +17,11 @@ tags:
 
 # Moustached Turca <span className='sci_name'>Pteroptochos megapodius</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Rhinocryptidae (Tapaculos)](/tags/rhinocryptidae-tapaculos)
-
-**Species Group:** [Tapaculos](/tags/tapaculos)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Rhinocryptidae (Tapaculos)](/tags/rhinocryptidae-tapaculos) > [Tapaculos](/tags/tapaculos)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=moutur1) | [Map](/map?species_code=moutur1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

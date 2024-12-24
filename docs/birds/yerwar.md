@@ -17,17 +17,13 @@ tags:
 
 # Yellow-rumped Warbler <span className='sci_name'>Setophaga coronata</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
 
-**Family:** [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers)
-
-**Species Group:** [Wood-Warblers](/tags/wood-warblers)
+**Subspecies Seen**: Yellow-rumped Warbler (Audubon's), Yellow-rumped Warbler (Myrtle)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=yerwar) | [Map](/map?species_code=yerwar)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=yerwar&mediaType=audio&view=grid)
 
 ## Places Seen
 

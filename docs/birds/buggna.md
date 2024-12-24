@@ -17,17 +17,13 @@ tags:
 
 # Blue-gray Gnatcatcher <span className='sci_name'>Polioptila caerulea</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Polioptilidae (Gnatcatchers)](/tags/polioptilidae-gnatcatchers) > [Gnatcatchers](/tags/gnatcatchers)
 
-**Family:** [Polioptilidae (Gnatcatchers)](/tags/polioptilidae-gnatcatchers)
-
-**Species Group:** [Gnatcatchers](/tags/gnatcatchers)
+**Subspecies Seen**: Blue-gray Gnatcatcher (Western)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=buggna) | [Map](/map?species_code=buggna)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

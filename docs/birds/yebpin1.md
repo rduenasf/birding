@@ -17,17 +17,13 @@ tags:
 
 # Yellow-billed Pintail <span className='sci_name'>Anas georgica</span>
 
-**Order:** [Anseriformes](/tags/anseriformes)
+**Taxonomy:** [Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
 
-**Family:** [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl)
-
-**Species Group:** [Waterfowl](/tags/waterfowl)
+**Subspecies Seen**: Yellow-billed Pintail (South American)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=yebpin1) | [Map](/map?species_code=yebpin1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

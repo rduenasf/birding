@@ -17,17 +17,13 @@ tags:
 
 # Bushtit <span className='sci_name'>Psaltriparus minimus</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Aegithalidae (Long-tailed Tits)](/tags/aegithalidae-long-tailed-tits) > [Long-tailed Tits and Bushtit](/tags/long-tailed-tits-and-bushtit)
 
-**Family:** [Aegithalidae (Long-tailed Tits)](/tags/aegithalidae-long-tailed-tits)
-
-**Species Group:** [Long-tailed Tits and Bushtit](/tags/long-tailed-tits-and-bushtit)
+**Subspecies Seen**: Bushtit (melanotis Group), Bushtit (Pacific)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bushti) | [Map](/map?species_code=bushti)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=bushti&mediaType=audio&view=grid)
 
 ## Places Seen
 

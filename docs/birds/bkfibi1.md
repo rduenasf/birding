@@ -17,17 +17,11 @@ tags:
 
 # Black-faced Ibis <span className='sci_name'>Theristicus melanopis</span>
 
-**Order:** [Pelecaniformes](/tags/pelecaniformes)
-
-**Family:** [Threskiornithidae (Ibises and Spoonbills)](/tags/threskiornithidae-ibises-and-spoonbills)
-
-**Species Group:** [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
+**Taxonomy:** [Pelecaniformes](/tags/pelecaniformes) > [Threskiornithidae (Ibises and Spoonbills)](/tags/threskiornithidae-ibises-and-spoonbills) > [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkfibi1) | [Map](/map?species_code=bkfibi1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

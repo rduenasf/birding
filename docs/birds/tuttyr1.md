@@ -17,17 +17,11 @@ tags:
 
 # Tufted Tit-Tyrant <span className='sci_name'>Anairetes parulus</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers)
-
-**Species Group:** [Tyrant Flycatchers: Elaenias, Tyrannulets, and Allies](/tags/tyrant-flycatchers-elaenias-tyrannulets-and-allies)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Elaenias, Tyrannulets, and Allies](/tags/tyrant-flycatchers-elaenias-tyrannulets-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=tuttyr1) | [Map](/map?species_code=tuttyr1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

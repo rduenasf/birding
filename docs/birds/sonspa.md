@@ -17,17 +17,13 @@ tags:
 
 # Song Sparrow <span className='sci_name'>Melospiza melodia</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
 
-**Family:** [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows)
-
-**Species Group:** [New World Sparrows](/tags/new-world-sparrows)
+**Subspecies Seen**: Song Sparrow (melodia/atlantica), Song Sparrow (mexicana Group)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sonspa) | [Map](/map?species_code=sonspa)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=sonspa&mediaType=audio&view=grid)
 
 ## Places Seen
 

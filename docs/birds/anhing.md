@@ -17,17 +17,11 @@ tags:
 
 # Anhinga <span className='sci_name'>Anhinga anhinga</span>
 
-**Order:** [Suliformes](/tags/suliformes)
-
-**Family:** [Anhingidae (Anhingas)](/tags/anhingidae-anhingas)
-
-**Species Group:** [Cormorants and Anhingas](/tags/cormorants-and-anhingas)
+**Taxonomy:** [Suliformes](/tags/suliformes) > [Anhingidae (Anhingas)](/tags/anhingidae-anhingas) > [Cormorants and Anhingas](/tags/cormorants-and-anhingas)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=anhing) | [Map](/map?species_code=anhing)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

@@ -17,17 +17,13 @@ tags:
 
 # Rufous-collared Sparrow <span className='sci_name'>Zonotrichia capensis</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
 
-**Family:** [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows)
-
-**Species Group:** [New World Sparrows](/tags/new-world-sparrows)
+**Subspecies Seen**: Rufous-collared Sparrow (Rufous-collared)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rucspa1) | [Map](/map?species_code=rucspa1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

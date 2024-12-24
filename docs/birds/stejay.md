@@ -17,17 +17,13 @@ tags:
 
 # Steller's Jay <span className='sci_name'>Cyanocitta stelleri</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Corvidae (Crows, Jays, and Magpies)](/tags/corvidae-crows-jays-and-magpies) > [Jays, Magpies, Crows, and Ravens](/tags/jays-magpies-crows-and-ravens)
 
-**Family:** [Corvidae (Crows, Jays, and Magpies)](/tags/corvidae-crows-jays-and-magpies)
-
-**Species Group:** [Jays, Magpies, Crows, and Ravens](/tags/jays-magpies-crows-and-ravens)
+**Subspecies Seen**: Steller's Jay (Coastal), Steller's Jay (Southwest Interior)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=stejay) | [Map](/map?species_code=stejay)
 
-**Photo**: Yes 
-
-**Audio**: Yes
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=stejay&mediaType=photo&view=grid) | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=stejay&mediaType=audio&view=grid)
 
 ## Places Seen
 

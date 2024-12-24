@@ -17,17 +17,13 @@ tags:
 
 # Turkey Vulture <span className='sci_name'>Cathartes aura</span>
 
-**Order:** [Cathartiformes](/tags/cathartiformes)
+**Taxonomy:** [Cathartiformes](/tags/cathartiformes) > [Cathartidae (New World Vultures)](/tags/cathartidae-new-world-vultures) > [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
 
-**Family:** [Cathartidae (New World Vultures)](/tags/cathartidae-new-world-vultures)
-
-**Species Group:** [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
+**Subspecies Seen**: Turkey Vulture (Northern), Turkey Vulture (South Temperate)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=turvul) | [Map](/map?species_code=turvul)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=turvul&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

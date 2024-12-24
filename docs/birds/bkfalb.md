@@ -17,17 +17,11 @@ tags:
 
 # Black-footed Albatross <span className='sci_name'>Phoebastria nigripes</span>
 
-**Order:** [Procellariiformes](/tags/procellariiformes)
-
-**Family:** [Diomedeidae (Albatrosses)](/tags/diomedeidae-albatrosses)
-
-**Species Group:** [Albatrosses](/tags/albatrosses)
+**Taxonomy:** [Procellariiformes](/tags/procellariiformes) > [Diomedeidae (Albatrosses)](/tags/diomedeidae-albatrosses) > [Albatrosses](/tags/albatrosses)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkfalb) | [Map](/map?species_code=bkfalb)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

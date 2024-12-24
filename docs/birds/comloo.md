@@ -17,17 +17,11 @@ tags:
 
 # Common Loon <span className='sci_name'>Gavia immer</span>
 
-**Order:** [Gaviiformes](/tags/gaviiformes)
-
-**Family:** [Gaviidae (Loons)](/tags/gaviidae-loons)
-
-**Species Group:** [Loons](/tags/loons)
+**Taxonomy:** [Gaviiformes](/tags/gaviiformes) > [Gaviidae (Loons)](/tags/gaviidae-loons) > [Loons](/tags/loons)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=comloo) | [Map](/map?species_code=comloo)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

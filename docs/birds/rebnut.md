@@ -17,17 +17,11 @@ tags:
 
 # Red-breasted Nuthatch <span className='sci_name'>Sitta canadensis</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Sittidae (Nuthatches)](/tags/sittidae-nuthatches)
-
-**Species Group:** [Nuthatches](/tags/nuthatches)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Sittidae (Nuthatches)](/tags/sittidae-nuthatches) > [Nuthatches](/tags/nuthatches)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rebnut) | [Map](/map?species_code=rebnut)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

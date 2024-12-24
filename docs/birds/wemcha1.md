@@ -17,17 +17,11 @@ tags:
 
 # West Mexican Chachalaca <span className='sci_name'>Ortalis poliocephala</span>
 
-**Order:** [Galliformes](/tags/galliformes)
-
-**Family:** [Cracidae (Guans, Chachalacas, and Curassows)](/tags/cracidae-guans-chachalacas-and-curassows)
-
-**Species Group:** [Chachalacas, Guans, and Curassows](/tags/chachalacas-guans-and-curassows)
+**Taxonomy:** [Galliformes](/tags/galliformes) > [Cracidae (Guans, Chachalacas, and Curassows)](/tags/cracidae-guans-chachalacas-and-curassows) > [Chachalacas, Guans, and Curassows](/tags/chachalacas-guans-and-curassows)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wemcha1) | [Map](/map?species_code=wemcha1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

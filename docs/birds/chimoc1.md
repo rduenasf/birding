@@ -17,17 +17,11 @@ tags:
 
 # Chilean Mockingbird <span className='sci_name'>Mimus thenca</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Mimidae (Mockingbirds and Thrashers)](/tags/mimidae-mockingbirds-and-thrashers)
-
-**Species Group:** [Catbirds, Mockingbirds, and Thrashers](/tags/catbirds-mockingbirds-and-thrashers)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Mimidae (Mockingbirds and Thrashers)](/tags/mimidae-mockingbirds-and-thrashers) > [Catbirds, Mockingbirds, and Thrashers](/tags/catbirds-mockingbirds-and-thrashers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chimoc1) | [Map](/map?species_code=chimoc1)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=chimoc1&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

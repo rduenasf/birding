@@ -17,17 +17,11 @@ tags:
 
 # Tree Swallow <span className='sci_name'>Tachycineta bicolor</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Hirundinidae (Swallows)](/tags/hirundinidae-swallows)
-
-**Species Group:** [Martins and Swallows](/tags/martins-and-swallows)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Hirundinidae (Swallows)](/tags/hirundinidae-swallows) > [Martins and Swallows](/tags/martins-and-swallows)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=treswa) | [Map](/map?species_code=treswa)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

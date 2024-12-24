@@ -17,17 +17,13 @@ tags:
 
 # Red-winged Blackbird <span className='sci_name'>Agelaius phoeniceus</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
 
-**Family:** [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies)
-
-**Species Group:** [Blackbirds](/tags/blackbirds)
+**Subspecies Seen**: Red-winged Blackbird (California Bicolored), Red-winged Blackbird (Red-winged)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rewbla) | [Map](/map?species_code=rewbla)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

@@ -17,17 +17,11 @@ tags:
 
 # Chilean Flamingo <span className='sci_name'>Phoenicopterus chilensis</span>
 
-**Order:** [Phoenicopteriformes](/tags/phoenicopteriformes)
-
-**Family:** [Phoenicopteridae (Flamingos)](/tags/phoenicopteridae-flamingos)
-
-**Species Group:** [Flamingos](/tags/flamingos)
+**Taxonomy:** [Phoenicopteriformes](/tags/phoenicopteriformes) > [Phoenicopteridae (Flamingos)](/tags/phoenicopteridae-flamingos) > [Flamingos](/tags/flamingos)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chifla1) | [Map](/map?species_code=chifla1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

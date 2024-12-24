@@ -17,17 +17,11 @@ tags:
 
 # Chilean Pigeon <span className='sci_name'>Patagioenas araucana</span>
 
-**Order:** [Columbiformes](/tags/columbiformes)
-
-**Family:** [Columbidae (Pigeons and Doves)](/tags/columbidae-pigeons-and-doves)
-
-**Species Group:** [Pigeons and Doves](/tags/pigeons-and-doves)
+**Taxonomy:** [Columbiformes](/tags/columbiformes) > [Columbidae (Pigeons and Doves)](/tags/columbidae-pigeons-and-doves) > [Pigeons and Doves](/tags/pigeons-and-doves)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chipig2) | [Map](/map?species_code=chipig2)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=chipig2&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

@@ -17,17 +17,11 @@ tags:
 
 # Golden-browed Warbler <span className='sci_name'>Basileuterus belli</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers)
-
-**Species Group:** [Wood-Warblers](/tags/wood-warblers)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gobwar1) | [Map](/map?species_code=gobwar1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

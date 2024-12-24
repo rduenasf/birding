@@ -17,17 +17,11 @@ tags:
 
 # Yellow-winged Blackbird <span className='sci_name'>Agelasticus thilius</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies)
-
-**Species Group:** [Blackbirds](/tags/blackbirds)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=yewbla2) | [Map](/map?species_code=yewbla2)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=yewbla2&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

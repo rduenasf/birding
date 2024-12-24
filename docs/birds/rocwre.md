@@ -17,17 +17,11 @@ tags:
 
 # Rock Wren <span className='sci_name'>Salpinctes obsoletus</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Troglodytidae (Wrens)](/tags/troglodytidae-wrens)
-
-**Species Group:** [Wrens](/tags/wrens)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Troglodytidae (Wrens)](/tags/troglodytidae-wrens) > [Wrens](/tags/wrens)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rocwre) | [Map](/map?species_code=rocwre)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=rocwre&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

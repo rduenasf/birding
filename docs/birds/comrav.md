@@ -17,17 +17,11 @@ tags:
 
 # Common Raven <span className='sci_name'>Corvus corax</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Corvidae (Crows, Jays, and Magpies)](/tags/corvidae-crows-jays-and-magpies)
-
-**Species Group:** [Jays, Magpies, Crows, and Ravens](/tags/jays-magpies-crows-and-ravens)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Corvidae (Crows, Jays, and Magpies)](/tags/corvidae-crows-jays-and-magpies) > [Jays, Magpies, Crows, and Ravens](/tags/jays-magpies-crows-and-ravens)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=comrav) | [Map](/map?species_code=comrav)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=comrav&mediaType=audio&view=grid)
 
 ## Places Seen
 

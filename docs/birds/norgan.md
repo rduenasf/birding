@@ -17,17 +17,11 @@ tags:
 
 # Northern Gannet <span className='sci_name'>Morus bassanus</span>
 
-**Order:** [Suliformes](/tags/suliformes)
-
-**Family:** [Sulidae (Boobies and Gannets)](/tags/sulidae-boobies-and-gannets)
-
-**Species Group:** [Frigatebirds, Boobies, and Gannets](/tags/frigatebirds-boobies-and-gannets)
+**Taxonomy:** [Suliformes](/tags/suliformes) > [Sulidae (Boobies and Gannets)](/tags/sulidae-boobies-and-gannets) > [Frigatebirds, Boobies, and Gannets](/tags/frigatebirds-boobies-and-gannets)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=norgan) | [Map](/map?species_code=norgan)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

@@ -17,17 +17,11 @@ tags:
 
 # Verdin <span className='sci_name'>Auriparus flaviceps</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Remizidae (Penduline-Tits)](/tags/remizidae-penduline-tits)
-
-**Species Group:** [Penduline-Tits and Verdin](/tags/penduline-tits-and-verdin)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Remizidae (Penduline-Tits)](/tags/remizidae-penduline-tits) > [Penduline-Tits and Verdin](/tags/penduline-tits-and-verdin)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=verdin) | [Map](/map?species_code=verdin)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

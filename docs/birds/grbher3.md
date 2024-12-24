@@ -17,17 +17,13 @@ tags:
 
 # Great Blue Heron <span className='sci_name'>Ardea herodias</span>
 
-**Order:** [Pelecaniformes](/tags/pelecaniformes)
+**Taxonomy:** [Pelecaniformes](/tags/pelecaniformes) > [Ardeidae (Herons, Egrets, and Bitterns)](/tags/ardeidae-herons-egrets-and-bitterns) > [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
 
-**Family:** [Ardeidae (Herons, Egrets, and Bitterns)](/tags/ardeidae-herons-egrets-and-bitterns)
-
-**Species Group:** [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
+**Subspecies Seen**: Great Blue Heron (Great Blue)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grbher3) | [Map](/map?species_code=grbher3)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=grbher3&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

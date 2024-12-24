@@ -17,17 +17,11 @@ tags:
 
 # Neotropic Cormorant <span className='sci_name'>Nannopterum brasilianum</span>
 
-**Order:** [Suliformes](/tags/suliformes)
-
-**Family:** [Phalacrocoracidae (Cormorants and Shags)](/tags/phalacrocoracidae-cormorants-and-shags)
-
-**Species Group:** [Cormorants and Anhingas](/tags/cormorants-and-anhingas)
+**Taxonomy:** [Suliformes](/tags/suliformes) > [Phalacrocoracidae (Cormorants and Shags)](/tags/phalacrocoracidae-cormorants-and-shags) > [Cormorants and Anhingas](/tags/cormorants-and-anhingas)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=neocor) | [Map](/map?species_code=neocor)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

@@ -17,17 +17,11 @@ tags:
 
 # European Starling <span className='sci_name'>Sturnus vulgaris</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Sturnidae (Starlings)](/tags/sturnidae-starlings)
-
-**Species Group:** [Starlings and Mynas](/tags/starlings-and-mynas)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Sturnidae (Starlings)](/tags/sturnidae-starlings) > [Starlings and Mynas](/tags/starlings-and-mynas)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=eursta) | [Map](/map?species_code=eursta)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=eursta&mediaType=audio&view=grid)
 
 ## Places Seen
 

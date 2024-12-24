@@ -17,17 +17,13 @@ tags:
 
 # Greenish Elaenia <span className='sci_name'>Myiopagis viridicata</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Elaenias, Tyrannulets, and Allies](/tags/tyrant-flycatchers-elaenias-tyrannulets-and-allies)
 
-**Family:** [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers)
-
-**Species Group:** [Tyrant Flycatchers: Elaenias, Tyrannulets, and Allies](/tags/tyrant-flycatchers-elaenias-tyrannulets-and-allies)
+**Subspecies Seen**: Greenish Elaenia (West Mexico)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=greela) | [Map](/map?species_code=greela)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

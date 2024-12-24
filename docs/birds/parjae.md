@@ -17,17 +17,11 @@ tags:
 
 # Parasitic Jaeger <span className='sci_name'>Stercorarius parasiticus</span>
 
-**Order:** [Charadriiformes](/tags/charadriiformes)
-
-**Family:** [Stercorariidae (Skuas and Jaegers)](/tags/stercorariidae-skuas-and-jaegers)
-
-**Species Group:** [Skuas and Jaegers](/tags/skuas-and-jaegers)
+**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Stercorariidae (Skuas and Jaegers)](/tags/stercorariidae-skuas-and-jaegers) > [Skuas and Jaegers](/tags/skuas-and-jaegers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=parjae) | [Map](/map?species_code=parjae)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

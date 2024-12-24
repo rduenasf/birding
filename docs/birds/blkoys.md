@@ -17,17 +17,11 @@ tags:
 
 # Black Oystercatcher <span className='sci_name'>Haematopus bachmani</span>
 
-**Order:** [Charadriiformes](/tags/charadriiformes)
-
-**Family:** [Haematopodidae (Oystercatchers)](/tags/haematopodidae-oystercatchers)
-
-**Species Group:** [Shorebirds](/tags/shorebirds)
+**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Haematopodidae (Oystercatchers)](/tags/haematopodidae-oystercatchers) > [Shorebirds](/tags/shorebirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blkoys) | [Map](/map?species_code=blkoys)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=blkoys&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

@@ -17,17 +17,11 @@ tags:
 
 # Wilson's Phalarope <span className='sci_name'>Phalaropus tricolor</span>
 
-**Order:** [Charadriiformes](/tags/charadriiformes)
-
-**Family:** [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies)
-
-**Species Group:** [Shorebirds](/tags/shorebirds)
+**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wilpha) | [Map](/map?species_code=wilpha)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

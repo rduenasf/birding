@@ -17,17 +17,13 @@ tags:
 
 # Mountain Chickadee <span className='sci_name'>Poecile gambeli</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Paridae (Tits, Chickadees, and Titmice)](/tags/paridae-tits-chickadees-and-titmice) > [Tits, Chickadees, and Titmice](/tags/tits-chickadees-and-titmice)
 
-**Family:** [Paridae (Tits, Chickadees, and Titmice)](/tags/paridae-tits-chickadees-and-titmice)
-
-**Species Group:** [Tits, Chickadees, and Titmice](/tags/tits-chickadees-and-titmice)
+**Subspecies Seen**: Mountain Chickadee (Pacific)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mouchi) | [Map](/map?species_code=mouchi)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

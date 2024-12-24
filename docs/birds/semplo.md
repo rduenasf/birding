@@ -17,17 +17,11 @@ tags:
 
 # Semipalmated Plover <span className='sci_name'>Charadrius semipalmatus</span>
 
-**Order:** [Charadriiformes](/tags/charadriiformes)
-
-**Family:** [Charadriidae (Plovers and Lapwings)](/tags/charadriidae-plovers-and-lapwings)
-
-**Species Group:** [Shorebirds](/tags/shorebirds)
+**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Charadriidae (Plovers and Lapwings)](/tags/charadriidae-plovers-and-lapwings) > [Shorebirds](/tags/shorebirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=semplo) | [Map](/map?species_code=semplo)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

@@ -17,17 +17,11 @@ tags:
 
 # Double-crested Cormorant <span className='sci_name'>Nannopterum auritum</span>
 
-**Order:** [Suliformes](/tags/suliformes)
-
-**Family:** [Phalacrocoracidae (Cormorants and Shags)](/tags/phalacrocoracidae-cormorants-and-shags)
-
-**Species Group:** [Cormorants and Anhingas](/tags/cormorants-and-anhingas)
+**Taxonomy:** [Suliformes](/tags/suliformes) > [Phalacrocoracidae (Cormorants and Shags)](/tags/phalacrocoracidae-cormorants-and-shags) > [Cormorants and Anhingas](/tags/cormorants-and-anhingas)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=doccor) | [Map](/map?species_code=doccor)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

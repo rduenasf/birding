@@ -17,17 +17,11 @@ tags:
 
 # Cocoi Heron <span className='sci_name'>Ardea cocoi</span>
 
-**Order:** [Pelecaniformes](/tags/pelecaniformes)
-
-**Family:** [Ardeidae (Herons, Egrets, and Bitterns)](/tags/ardeidae-herons-egrets-and-bitterns)
-
-**Species Group:** [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
+**Taxonomy:** [Pelecaniformes](/tags/pelecaniformes) > [Ardeidae (Herons, Egrets, and Bitterns)](/tags/ardeidae-herons-egrets-and-bitterns) > [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cocher1) | [Map](/map?species_code=cocher1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

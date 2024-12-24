@@ -1,5 +1,6 @@
 const fs = require("fs");
 const csv = require("csv-parser");
+const { format } = require("path");
 
 const ebirdInputFile = "c:/Users/rduen/my-website/scripts/MyEBirdData.csv";
 const taxonomyFile =
@@ -163,6 +164,9 @@ const processEBirdData = async () => {
       camelCaseRow[toCamelCase(key)] = row[key];
     }
 
+    camelCaseRow["speciesCode"] = speciesCode;
+    camelCaseRow["speciesCategory"] = dataDict[speciesCode].category;
+
     dataDict[speciesCode].observations.push(camelCaseRow);
 
     // Update state species count
@@ -202,12 +206,6 @@ const rollupSpecies = () => {
         reportAs
       ].observations.concat(record.observations);
     });
-  // Object.values(dataDict)
-  //   .filter(({ category }) => category !== "species" && category !== "issf")
-  //   .forEach((record) => {
-  //     const { speciesCode } = record;
-  //     speciesData[speciesCode] = record;
-  //   });
 
   dataDict = speciesData;
 };
@@ -234,11 +232,22 @@ const fetchBirdMetadata = async () => {
 // Function to replace mlCatalogNumbers with metadata objects
 const replaceMlCatalogNumbers = () => {
   for (const key in dataDict) {
+    dataDict[key].photographed = false;
+    dataDict[key].recorded = false;
     dataDict[key].observations.forEach((observation) => {
       if (observation.mlCatalogNumbers) {
         observation.mlCatalogNumbers = observation.mlCatalogNumbers
           .split(" ")
           .map((id) => mlDataMap[id] || id);
+        dataDict[key].photographed ||=
+          observation.mlCatalogNumbers.filter(
+            ({ format }) => format === "Photo"
+          ).length > 0;
+
+        dataDict[key].recorded ||=
+          observation.mlCatalogNumbers.filter(
+            ({ format }) => format === "Audio"
+          ).length > 0;
       }
     });
   }
@@ -289,7 +298,7 @@ const main = async () => {
   await fetchBirdMetadata();
   replaceMlCatalogNumbers();
   sortObservations();
-  writeJSONToFile(ebirdOutputFile, dataDict);
+  writeJSONToFile(ebirdOutputFile, Object.values(dataDict));
   createSummaryData();
 };
 

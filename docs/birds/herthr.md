@@ -17,17 +17,11 @@ tags:
 
 # Hermit Thrush <span className='sci_name'>Catharus guttatus</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies)
-
-**Species Group:** [Thrushes](/tags/thrushes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies) > [Thrushes](/tags/thrushes)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=herthr) | [Map](/map?species_code=herthr)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=herthr&mediaType=audio&view=grid)
 
 ## Places Seen
 

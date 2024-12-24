@@ -17,17 +17,13 @@ tags:
 
 # Grassland Yellow-Finch <span className='sci_name'>Sicalis luteola</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Thraupidae (Tanagers and Allies)](/tags/thraupidae-tanagers-and-allies) > [Tanagers and Allies](/tags/tanagers-and-allies)
 
-**Family:** [Thraupidae (Tanagers and Allies)](/tags/thraupidae-tanagers-and-allies)
-
-**Species Group:** [Tanagers and Allies](/tags/tanagers-and-allies)
+**Subspecies Seen**: Grassland Yellow-Finch (Grassland)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gryfin1) | [Map](/map?species_code=gryfin1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

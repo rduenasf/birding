@@ -17,17 +17,11 @@ tags:
 
 # Wild Turkey <span className='sci_name'>Meleagris gallopavo</span>
 
-**Order:** [Galliformes](/tags/galliformes)
-
-**Family:** [Phasianidae (Pheasants, Grouse, and Allies)](/tags/phasianidae-pheasants-grouse-and-allies)
-
-**Species Group:** [Grouse, Quail, and Allies](/tags/grouse-quail-and-allies)
+**Taxonomy:** [Galliformes](/tags/galliformes) > [Phasianidae (Pheasants, Grouse, and Allies)](/tags/phasianidae-pheasants-grouse-and-allies) > [Grouse, Quail, and Allies](/tags/grouse-quail-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wiltur) | [Map](/map?species_code=wiltur)
 
-**Photo**: Yes 
-
-**Audio**: Yes
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=wiltur&mediaType=photo&view=grid) | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=wiltur&mediaType=audio&view=grid)
 
 ## Places Seen
 

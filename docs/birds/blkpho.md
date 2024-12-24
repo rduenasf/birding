@@ -17,17 +17,13 @@ tags:
 
 # Black Phoebe <span className='sci_name'>Sayornis nigricans</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
 
-**Family:** [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers)
-
-**Species Group:** [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+**Subspecies Seen**: Black Phoebe (Northern)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blkpho) | [Map](/map?species_code=blkpho)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=blkpho&mediaType=audio&view=grid)
 
 ## Places Seen
 

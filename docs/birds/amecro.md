@@ -17,17 +17,11 @@ tags:
 
 # American Crow <span className='sci_name'>Corvus brachyrhynchos</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Corvidae (Crows, Jays, and Magpies)](/tags/corvidae-crows-jays-and-magpies)
-
-**Species Group:** [Jays, Magpies, Crows, and Ravens](/tags/jays-magpies-crows-and-ravens)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Corvidae (Crows, Jays, and Magpies)](/tags/corvidae-crows-jays-and-magpies) > [Jays, Magpies, Crows, and Ravens](/tags/jays-magpies-crows-and-ravens)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=amecro) | [Map](/map?species_code=amecro)
 
-**Photo**: Yes 
-
-**Audio**: Yes
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=amecro&mediaType=photo&view=grid) | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=amecro&mediaType=audio&view=grid)
 
 ## Places Seen
 

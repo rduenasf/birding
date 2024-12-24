@@ -17,17 +17,11 @@ tags:
 
 # American White Pelican <span className='sci_name'>Pelecanus erythrorhynchos</span>
 
-**Order:** [Pelecaniformes](/tags/pelecaniformes)
-
-**Family:** [Pelecanidae (Pelicans)](/tags/pelecanidae-pelicans)
-
-**Species Group:** [Pelicans](/tags/pelicans)
+**Taxonomy:** [Pelecaniformes](/tags/pelecaniformes) > [Pelecanidae (Pelicans)](/tags/pelecanidae-pelicans) > [Pelicans](/tags/pelicans)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=amwpel) | [Map](/map?species_code=amwpel)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

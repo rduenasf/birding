@@ -17,17 +17,13 @@ tags:
 
 # Band-tailed Pigeon <span className='sci_name'>Patagioenas fasciata</span>
 
-**Order:** [Columbiformes](/tags/columbiformes)
+**Taxonomy:** [Columbiformes](/tags/columbiformes) > [Columbidae (Pigeons and Doves)](/tags/columbidae-pigeons-and-doves) > [Pigeons and Doves](/tags/pigeons-and-doves)
 
-**Family:** [Columbidae (Pigeons and Doves)](/tags/columbidae-pigeons-and-doves)
-
-**Species Group:** [Pigeons and Doves](/tags/pigeons-and-doves)
+**Subspecies Seen**: Band-tailed Pigeon (Northern)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=batpig1) | [Map](/map?species_code=batpig1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

@@ -17,17 +17,13 @@ tags:
 
 # Berylline Hummingbird <span className='sci_name'>Saucerottia beryllina</span>
 
-**Order:** [Apodiformes](/tags/apodiformes)
+**Taxonomy:** [Apodiformes](/tags/apodiformes) > [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds) > [Hummingbirds](/tags/hummingbirds)
 
-**Family:** [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds)
-
-**Species Group:** [Hummingbirds](/tags/hummingbirds)
+**Subspecies Seen**: Berylline Hummingbird (Northern)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=berhum) | [Map](/map?species_code=berhum)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

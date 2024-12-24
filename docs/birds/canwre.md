@@ -17,17 +17,11 @@ tags:
 
 # Canyon Wren <span className='sci_name'>Catherpes mexicanus</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Troglodytidae (Wrens)](/tags/troglodytidae-wrens)
-
-**Species Group:** [Wrens](/tags/wrens)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Troglodytidae (Wrens)](/tags/troglodytidae-wrens) > [Wrens](/tags/wrens)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=canwre) | [Map](/map?species_code=canwre)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

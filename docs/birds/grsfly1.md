@@ -17,17 +17,11 @@ tags:
 
 # Gray Silky-flycatcher <span className='sci_name'>Ptiliogonys cinereus</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Ptiliogonatidae (Silky-flycatchers)](/tags/ptiliogonatidae-silky-flycatchers)
-
-**Species Group:** [Silky-flycatchers](/tags/silky-flycatchers)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Ptiliogonatidae (Silky-flycatchers)](/tags/ptiliogonatidae-silky-flycatchers) > [Silky-flycatchers](/tags/silky-flycatchers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grsfly1) | [Map](/map?species_code=grsfly1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

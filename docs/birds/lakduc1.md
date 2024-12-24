@@ -17,17 +17,11 @@ tags:
 
 # Lake Duck <span className='sci_name'>Oxyura vittata</span>
 
-**Order:** [Anseriformes](/tags/anseriformes)
-
-**Family:** [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl)
-
-**Species Group:** [Waterfowl](/tags/waterfowl)
+**Taxonomy:** [Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=lakduc1) | [Map](/map?species_code=lakduc1)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=lakduc1&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

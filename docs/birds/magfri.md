@@ -17,17 +17,11 @@ tags:
 
 # Magnificent Frigatebird <span className='sci_name'>Fregata magnificens</span>
 
-**Order:** [Suliformes](/tags/suliformes)
-
-**Family:** [Fregatidae (Frigatebirds)](/tags/fregatidae-frigatebirds)
-
-**Species Group:** [Frigatebirds, Boobies, and Gannets](/tags/frigatebirds-boobies-and-gannets)
+**Taxonomy:** [Suliformes](/tags/suliformes) > [Fregatidae (Frigatebirds)](/tags/fregatidae-frigatebirds) > [Frigatebirds, Boobies, and Gannets](/tags/frigatebirds-boobies-and-gannets)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=magfri) | [Map](/map?species_code=magfri)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=magfri&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

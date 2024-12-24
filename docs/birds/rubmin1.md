@@ -17,17 +17,11 @@ tags:
 
 # Rufous-banded Miner <span className='sci_name'>Geositta rufipennis</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers)
-
-**Species Group:** [Leaftossers and Miners](/tags/leaftossers-and-miners)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers) > [Leaftossers and Miners](/tags/leaftossers-and-miners)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rubmin1) | [Map](/map?species_code=rubmin1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

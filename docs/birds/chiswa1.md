@@ -17,17 +17,11 @@ tags:
 
 # Chilean Swallow <span className='sci_name'>Tachycineta leucopyga</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Hirundinidae (Swallows)](/tags/hirundinidae-swallows)
-
-**Species Group:** [Martins and Swallows](/tags/martins-and-swallows)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Hirundinidae (Swallows)](/tags/hirundinidae-swallows) > [Martins and Swallows](/tags/martins-and-swallows)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chiswa1) | [Map](/map?species_code=chiswa1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

@@ -17,17 +17,11 @@ tags:
 
 # White-winged Coot <span className='sci_name'>Fulica leucoptera</span>
 
-**Order:** [Gruiformes](/tags/gruiformes)
-
-**Family:** [Rallidae (Rails, Gallinules, and Coots)](/tags/rallidae-rails-gallinules-and-coots)
-
-**Species Group:** [Rails, Gallinules, and Allies](/tags/rails-gallinules-and-allies)
+**Taxonomy:** [Gruiformes](/tags/gruiformes) > [Rallidae (Rails, Gallinules, and Coots)](/tags/rallidae-rails-gallinules-and-coots) > [Rails, Gallinules, and Allies](/tags/rails-gallinules-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whwcoo1) | [Map](/map?species_code=whwcoo1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

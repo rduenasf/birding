@@ -17,17 +17,11 @@ tags:
 
 # Rufous-tailed Plantcutter <span className='sci_name'>Phytotoma rara</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Cotingidae (Cotingas)](/tags/cotingidae-cotingas)
-
-**Species Group:** [Cotingas](/tags/cotingas)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Cotingidae (Cotingas)](/tags/cotingidae-cotingas) > [Cotingas](/tags/cotingas)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rutpla1) | [Map](/map?species_code=rutpla1)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=rutpla1&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

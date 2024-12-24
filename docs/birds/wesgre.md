@@ -17,17 +17,11 @@ tags:
 
 # Western Grebe <span className='sci_name'>Aechmophorus occidentalis</span>
 
-**Order:** [Podicipediformes](/tags/podicipediformes)
-
-**Family:** [Podicipedidae (Grebes)](/tags/podicipedidae-grebes)
-
-**Species Group:** [Grebes](/tags/grebes)
+**Taxonomy:** [Podicipediformes](/tags/podicipediformes) > [Podicipedidae (Grebes)](/tags/podicipedidae-grebes) > [Grebes](/tags/grebes)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wesgre) | [Map](/map?species_code=wesgre)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

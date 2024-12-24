@@ -17,17 +17,11 @@ tags:
 
 # Cedar Waxwing <span className='sci_name'>Bombycilla cedrorum</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Bombycillidae (Waxwings)](/tags/bombycillidae-waxwings)
-
-**Species Group:** [Waxwings](/tags/waxwings)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Bombycillidae (Waxwings)](/tags/bombycillidae-waxwings) > [Waxwings](/tags/waxwings)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cedwax) | [Map](/map?species_code=cedwax)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

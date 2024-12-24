@@ -17,17 +17,11 @@ tags:
 
 # Blue Mockingbird <span className='sci_name'>Melanotis caerulescens</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Mimidae (Mockingbirds and Thrashers)](/tags/mimidae-mockingbirds-and-thrashers)
-
-**Species Group:** [Catbirds, Mockingbirds, and Thrashers](/tags/catbirds-mockingbirds-and-thrashers)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Mimidae (Mockingbirds and Thrashers)](/tags/mimidae-mockingbirds-and-thrashers) > [Catbirds, Mockingbirds, and Thrashers](/tags/catbirds-mockingbirds-and-thrashers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blumoc) | [Map](/map?species_code=blumoc)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

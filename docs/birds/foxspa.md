@@ -17,17 +17,13 @@ tags:
 
 # Fox Sparrow <span className='sci_name'>Passerella iliaca</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
 
-**Family:** [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows)
-
-**Species Group:** [New World Sparrows](/tags/new-world-sparrows)
+**Subspecies Seen**: Fox Sparrow (Sooty)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=foxspa) | [Map](/map?species_code=foxspa)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

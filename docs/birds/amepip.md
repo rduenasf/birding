@@ -17,17 +17,11 @@ tags:
 
 # American Pipit <span className='sci_name'>Anthus rubescens</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Motacillidae (Wagtails and Pipits)](/tags/motacillidae-wagtails-and-pipits)
-
-**Species Group:** [Wagtails and Pipits](/tags/wagtails-and-pipits)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Motacillidae (Wagtails and Pipits)](/tags/motacillidae-wagtails-and-pipits) > [Wagtails and Pipits](/tags/wagtails-and-pipits)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=amepip) | [Map](/map?species_code=amepip)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=amepip&mediaType=audio&view=grid)
 
 ## Places Seen
 

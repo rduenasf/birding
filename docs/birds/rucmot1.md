@@ -17,17 +17,11 @@ tags:
 
 # Russet-crowned Motmot <span className='sci_name'>Momotus mexicanus</span>
 
-**Order:** [Coraciiformes](/tags/coraciiformes)
-
-**Family:** [Momotidae (Motmots)](/tags/momotidae-motmots)
-
-**Species Group:** [Motmots](/tags/motmots)
+**Taxonomy:** [Coraciiformes](/tags/coraciiformes) > [Momotidae (Motmots)](/tags/momotidae-motmots) > [Motmots](/tags/motmots)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rucmot1) | [Map](/map?species_code=rucmot1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

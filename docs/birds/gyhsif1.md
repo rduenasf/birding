@@ -17,17 +17,11 @@ tags:
 
 # Gray-hooded Sierra Finch <span className='sci_name'>Phrygilus gayi</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Thraupidae (Tanagers and Allies)](/tags/thraupidae-tanagers-and-allies)
-
-**Species Group:** [Tanagers and Allies](/tags/tanagers-and-allies)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Thraupidae (Tanagers and Allies)](/tags/thraupidae-tanagers-and-allies) > [Tanagers and Allies](/tags/tanagers-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gyhsif1) | [Map](/map?species_code=gyhsif1)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=gyhsif1&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

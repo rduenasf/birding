@@ -17,17 +17,11 @@ tags:
 
 # Chilean Tinamou <span className='sci_name'>Nothoprocta perdicaria</span>
 
-**Order:** [Tinamiformes](/tags/tinamiformes)
-
-**Family:** [Tinamidae (Tinamous)](/tags/tinamidae-tinamous)
-
-**Species Group:** [Tinamous](/tags/tinamous)
+**Taxonomy:** [Tinamiformes](/tags/tinamiformes) > [Tinamidae (Tinamous)](/tags/tinamidae-tinamous) > [Tinamous](/tags/tinamous)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chitin1) | [Map](/map?species_code=chitin1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

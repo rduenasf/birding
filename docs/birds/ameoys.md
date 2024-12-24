@@ -17,17 +17,11 @@ tags:
 
 # American Oystercatcher <span className='sci_name'>Haematopus palliatus</span>
 
-**Order:** [Charadriiformes](/tags/charadriiformes)
-
-**Family:** [Haematopodidae (Oystercatchers)](/tags/haematopodidae-oystercatchers)
-
-**Species Group:** [Shorebirds](/tags/shorebirds)
+**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Haematopodidae (Oystercatchers)](/tags/haematopodidae-oystercatchers) > [Shorebirds](/tags/shorebirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ameoys) | [Map](/map?species_code=ameoys)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

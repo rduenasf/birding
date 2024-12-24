@@ -17,17 +17,13 @@ tags:
 
 # Great Egret <span className='sci_name'>Ardea alba</span>
 
-**Order:** [Pelecaniformes](/tags/pelecaniformes)
+**Taxonomy:** [Pelecaniformes](/tags/pelecaniformes) > [Ardeidae (Herons, Egrets, and Bitterns)](/tags/ardeidae-herons-egrets-and-bitterns) > [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
 
-**Family:** [Ardeidae (Herons, Egrets, and Bitterns)](/tags/ardeidae-herons-egrets-and-bitterns)
-
-**Species Group:** [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
+**Subspecies Seen**: Great Egret (American)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=greegr) | [Map](/map?species_code=greegr)
 
-**Photo**: Yes 
-
-**Audio**: Yes
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=greegr&mediaType=photo&view=grid) | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=greegr&mediaType=audio&view=grid)
 
 ## Places Seen
 

@@ -17,17 +17,13 @@ tags:
 
 # Brown Pelican <span className='sci_name'>Pelecanus occidentalis</span>
 
-**Order:** [Pelecaniformes](/tags/pelecaniformes)
+**Taxonomy:** [Pelecaniformes](/tags/pelecaniformes) > [Pelecanidae (Pelicans)](/tags/pelecanidae-pelicans) > [Pelicans](/tags/pelicans)
 
-**Family:** [Pelecanidae (Pelicans)](/tags/pelecanidae-pelicans)
-
-**Species Group:** [Pelicans](/tags/pelicans)
+**Subspecies Seen**: Brown Pelican (California)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=brnpel) | [Map](/map?species_code=brnpel)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=brnpel&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

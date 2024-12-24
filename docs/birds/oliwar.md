@@ -17,17 +17,11 @@ tags:
 
 # Olive Warbler <span className='sci_name'>Peucedramus taeniatus</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Peucedramidae (Olive Warbler)](/tags/peucedramidae-olive-warbler)
-
-**Species Group:** [Olive Warbler](/tags/olive-warbler)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Peucedramidae (Olive Warbler)](/tags/peucedramidae-olive-warbler) > [Olive Warbler](/tags/olive-warbler)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=oliwar) | [Map](/map?species_code=oliwar)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

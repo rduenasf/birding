@@ -17,17 +17,11 @@ tags:
 
 # Red-fronted Coot <span className='sci_name'>Fulica rufifrons</span>
 
-**Order:** [Gruiformes](/tags/gruiformes)
-
-**Family:** [Rallidae (Rails, Gallinules, and Coots)](/tags/rallidae-rails-gallinules-and-coots)
-
-**Species Group:** [Rails, Gallinules, and Allies](/tags/rails-gallinules-and-allies)
+**Taxonomy:** [Gruiformes](/tags/gruiformes) > [Rallidae (Rails, Gallinules, and Coots)](/tags/rallidae-rails-gallinules-and-coots) > [Rails, Gallinules, and Allies](/tags/rails-gallinules-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=refcoo1) | [Map](/map?species_code=refcoo1)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=refcoo1&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

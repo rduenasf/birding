@@ -17,17 +17,11 @@ tags:
 
 # White-eyed Vireo <span className='sci_name'>Vireo griseus</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Vireonidae (Vireos, Shrike-Babblers, and Erpornis)](/tags/vireonidae-vireos-shrike-babblers-and-erpornis)
-
-**Species Group:** [Vireos](/tags/vireos)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Vireonidae (Vireos, Shrike-Babblers, and Erpornis)](/tags/vireonidae-vireos-shrike-babblers-and-erpornis) > [Vireos](/tags/vireos)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whevir) | [Map](/map?species_code=whevir)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

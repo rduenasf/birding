@@ -17,17 +17,11 @@ tags:
 
 # Wrentit <span className='sci_name'>Chamaea fasciata</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Paradoxornithidae (Parrotbills)](/tags/paradoxornithidae-parrotbills)
-
-**Species Group:** [Parrotbills, Wrentit, and Allies](/tags/parrotbills-wrentit-and-allies)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Paradoxornithidae (Parrotbills)](/tags/paradoxornithidae-parrotbills) > [Parrotbills, Wrentit, and Allies](/tags/parrotbills-wrentit-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wrenti) | [Map](/map?species_code=wrenti)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=wrenti&mediaType=audio&view=grid)
 
 ## Places Seen
 

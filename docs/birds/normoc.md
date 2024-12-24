@@ -17,17 +17,11 @@ tags:
 
 # Northern Mockingbird <span className='sci_name'>Mimus polyglottos</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Mimidae (Mockingbirds and Thrashers)](/tags/mimidae-mockingbirds-and-thrashers)
-
-**Species Group:** [Catbirds, Mockingbirds, and Thrashers](/tags/catbirds-mockingbirds-and-thrashers)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Mimidae (Mockingbirds and Thrashers)](/tags/mimidae-mockingbirds-and-thrashers) > [Catbirds, Mockingbirds, and Thrashers](/tags/catbirds-mockingbirds-and-thrashers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=normoc) | [Map](/map?species_code=normoc)
 
-**Photo**: Yes 
-
-**Audio**: Yes
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=normoc&mediaType=photo&view=grid) | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=normoc&mediaType=audio&view=grid)
 
 ## Places Seen
 

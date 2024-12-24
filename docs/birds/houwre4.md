@@ -17,17 +17,11 @@ tags:
 
 # Southern House Wren <span className='sci_name'>Troglodytes musculus</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Troglodytidae (Wrens)](/tags/troglodytidae-wrens)
-
-**Species Group:** [Wrens](/tags/wrens)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Troglodytidae (Wrens)](/tags/troglodytidae-wrens) > [Wrens](/tags/wrens)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=houwre4) | [Map](/map?species_code=houwre4)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

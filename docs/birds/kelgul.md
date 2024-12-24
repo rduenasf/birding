@@ -17,17 +17,13 @@ tags:
 
 # Kelp Gull <span className='sci_name'>Larus dominicanus</span>
 
-**Order:** [Charadriiformes](/tags/charadriiformes)
+**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers) > [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
 
-**Family:** [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers)
-
-**Species Group:** [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
+**Subspecies Seen**: Kelp Gull (dominicanus)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=kelgul) | [Map](/map?species_code=kelgul)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

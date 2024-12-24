@@ -17,17 +17,13 @@ tags:
 
 # Southern Lapwing <span className='sci_name'>Vanellus chilensis</span>
 
-**Order:** [Charadriiformes](/tags/charadriiformes)
+**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Charadriidae (Plovers and Lapwings)](/tags/charadriidae-plovers-and-lapwings) > [Shorebirds](/tags/shorebirds)
 
-**Family:** [Charadriidae (Plovers and Lapwings)](/tags/charadriidae-plovers-and-lapwings)
-
-**Species Group:** [Shorebirds](/tags/shorebirds)
+**Subspecies Seen**: Southern Lapwing (chilensis/fretensis)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=soulap1) | [Map](/map?species_code=soulap1)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=soulap1&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

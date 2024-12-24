@@ -17,17 +17,11 @@ tags:
 
 # Acorn Woodpecker <span className='sci_name'>Melanerpes formicivorus</span>
 
-**Order:** [Piciformes](/tags/piciformes)
-
-**Family:** [Picidae (Woodpeckers)](/tags/picidae-woodpeckers)
-
-**Species Group:** [Woodpeckers](/tags/woodpeckers)
+**Taxonomy:** [Piciformes](/tags/piciformes) > [Picidae (Woodpeckers)](/tags/picidae-woodpeckers) > [Woodpeckers](/tags/woodpeckers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=acowoo) | [Map](/map?species_code=acowoo)
 
-**Photo**: Yes 
-
-**Audio**: Yes
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=acowoo&mediaType=photo&view=grid) | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=acowoo&mediaType=audio&view=grid)
 
 ## Places Seen
 

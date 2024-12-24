@@ -17,17 +17,11 @@ tags:
 
 # Mountain Bluebird <span className='sci_name'>Sialia currucoides</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies)
-
-**Species Group:** [Thrushes](/tags/thrushes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies) > [Thrushes](/tags/thrushes)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=moublu) | [Map](/map?species_code=moublu)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

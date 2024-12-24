@@ -17,17 +17,11 @@ tags:
 
 # Forster's Tern <span className='sci_name'>Sterna forsteri</span>
 
-**Order:** [Charadriiformes](/tags/charadriiformes)
-
-**Family:** [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers)
-
-**Species Group:** [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
+**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers) > [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=forter) | [Map](/map?species_code=forter)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=forter&mediaType=audio&view=grid)
 
 ## Places Seen
 

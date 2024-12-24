@@ -17,17 +17,13 @@ tags:
 
 # Canada Goose <span className='sci_name'>Branta canadensis</span>
 
-**Order:** [Anseriformes](/tags/anseriformes)
+**Taxonomy:** [Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
 
-**Family:** [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl)
-
-**Species Group:** [Waterfowl](/tags/waterfowl)
+**Subspecies Seen**: Canada Goose (moffitti/maxima)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cangoo) | [Map](/map?species_code=cangoo)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=cangoo&mediaType=audio&view=grid)
 
 ## Places Seen
 

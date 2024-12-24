@@ -17,17 +17,13 @@ tags:
 
 # White-breasted Nuthatch <span className='sci_name'>Sitta carolinensis</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Sittidae (Nuthatches)](/tags/sittidae-nuthatches) > [Nuthatches](/tags/nuthatches)
 
-**Family:** [Sittidae (Nuthatches)](/tags/sittidae-nuthatches)
-
-**Species Group:** [Nuthatches](/tags/nuthatches)
+**Subspecies Seen**: White-breasted Nuthatch (Eastern), White-breasted Nuthatch (Interior West), White-breasted Nuthatch (Pacific)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whbnut) | [Map](/map?species_code=whbnut)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=whbnut&mediaType=audio&view=grid)
 
 ## Places Seen
 

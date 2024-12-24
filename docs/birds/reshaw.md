@@ -17,17 +17,13 @@ tags:
 
 # Red-shouldered Hawk <span className='sci_name'>Buteo lineatus</span>
 
-**Order:** [Accipitriformes](/tags/accipitriformes)
+**Taxonomy:** [Accipitriformes](/tags/accipitriformes) > [Accipitridae (Hawks, Eagles, and Kites)](/tags/accipitridae-hawks-eagles-and-kites) > [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
 
-**Family:** [Accipitridae (Hawks, Eagles, and Kites)](/tags/accipitridae-hawks-eagles-and-kites)
-
-**Species Group:** [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
+**Subspecies Seen**: Red-shouldered Hawk (elegans), Red-shouldered Hawk (extimus)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=reshaw) | [Map](/map?species_code=reshaw)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=reshaw&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

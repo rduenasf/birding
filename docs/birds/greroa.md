@@ -17,17 +17,11 @@ tags:
 
 # Greater Roadrunner <span className='sci_name'>Geococcyx californianus</span>
 
-**Order:** [Cuculiformes](/tags/cuculiformes)
-
-**Family:** [Cuculidae (Cuckoos)](/tags/cuculidae-cuckoos)
-
-**Species Group:** [Cuckoos](/tags/cuckoos)
+**Taxonomy:** [Cuculiformes](/tags/cuculiformes) > [Cuculidae (Cuckoos)](/tags/cuculidae-cuckoos) > [Cuckoos](/tags/cuckoos)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=greroa) | [Map](/map?species_code=greroa)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

@@ -17,17 +17,11 @@ tags:
 
 # Pied-billed Grebe <span className='sci_name'>Podilymbus podiceps</span>
 
-**Order:** [Podicipediformes](/tags/podicipediformes)
-
-**Family:** [Podicipedidae (Grebes)](/tags/podicipedidae-grebes)
-
-**Species Group:** [Grebes](/tags/grebes)
+**Taxonomy:** [Podicipediformes](/tags/podicipediformes) > [Podicipedidae (Grebes)](/tags/podicipedidae-grebes) > [Grebes](/tags/grebes)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pibgre) | [Map](/map?species_code=pibgre)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=pibgre&mediaType=audio&view=grid)
 
 ## Places Seen
 

@@ -17,17 +17,11 @@ tags:
 
 # Ruddy Turnstone <span className='sci_name'>Arenaria interpres</span>
 
-**Order:** [Charadriiformes](/tags/charadriiformes)
-
-**Family:** [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies)
-
-**Species Group:** [Shorebirds](/tags/shorebirds)
+**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rudtur) | [Map](/map?species_code=rudtur)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=rudtur&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

@@ -17,17 +17,11 @@ tags:
 
 # Slate-throated Redstart <span className='sci_name'>Myioborus miniatus</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers)
-
-**Species Group:** [Wood-Warblers](/tags/wood-warblers)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sltred) | [Map](/map?species_code=sltred)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

@@ -17,17 +17,11 @@ tags:
 
 # Common Myna <span className='sci_name'>Acridotheres tristis</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Sturnidae (Starlings)](/tags/sturnidae-starlings)
-
-**Species Group:** [Starlings and Mynas](/tags/starlings-and-mynas)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Sturnidae (Starlings)](/tags/sturnidae-starlings) > [Starlings and Mynas](/tags/starlings-and-mynas)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=commyn) | [Map](/map?species_code=commyn)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

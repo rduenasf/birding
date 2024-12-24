@@ -17,17 +17,11 @@ tags:
 
 # Swainson's Thrush <span className='sci_name'>Catharus ustulatus</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies)
-
-**Species Group:** [Thrushes](/tags/thrushes)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies) > [Thrushes](/tags/thrushes)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=swathr) | [Map](/map?species_code=swathr)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

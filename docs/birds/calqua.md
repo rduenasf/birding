@@ -17,17 +17,11 @@ tags:
 
 # California Quail <span className='sci_name'>Callipepla californica</span>
 
-**Order:** [Galliformes](/tags/galliformes)
-
-**Family:** [Odontophoridae (New World Quail)](/tags/odontophoridae-new-world-quail)
-
-**Species Group:** [Grouse, Quail, and Allies](/tags/grouse-quail-and-allies)
+**Taxonomy:** [Galliformes](/tags/galliformes) > [Odontophoridae (New World Quail)](/tags/odontophoridae-new-world-quail) > [Grouse, Quail, and Allies](/tags/grouse-quail-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=calqua) | [Map](/map?species_code=calqua)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=calqua&mediaType=audio&view=grid)
 
 ## Places Seen
 

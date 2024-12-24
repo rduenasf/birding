@@ -17,17 +17,11 @@ tags:
 
 # White-naped Swift <span className='sci_name'>Streptoprocne semicollaris</span>
 
-**Order:** [Apodiformes](/tags/apodiformes)
-
-**Family:** [Apodidae (Swifts)](/tags/apodidae-swifts)
-
-**Species Group:** [Swifts](/tags/swifts)
+**Taxonomy:** [Apodiformes](/tags/apodiformes) > [Apodidae (Swifts)](/tags/apodidae-swifts) > [Swifts](/tags/swifts)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whnswi1) | [Map](/map?species_code=whnswi1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

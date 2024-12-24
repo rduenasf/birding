@@ -17,17 +17,11 @@ tags:
 
 # Mourning Dove <span className='sci_name'>Zenaida macroura</span>
 
-**Order:** [Columbiformes](/tags/columbiformes)
-
-**Family:** [Columbidae (Pigeons and Doves)](/tags/columbidae-pigeons-and-doves)
-
-**Species Group:** [Pigeons and Doves](/tags/pigeons-and-doves)
+**Taxonomy:** [Columbiformes](/tags/columbiformes) > [Columbidae (Pigeons and Doves)](/tags/columbidae-pigeons-and-doves) > [Pigeons and Doves](/tags/pigeons-and-doves)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=moudov) | [Map](/map?species_code=moudov)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=moudov&mediaType=audio&view=grid)
 
 ## Places Seen
 

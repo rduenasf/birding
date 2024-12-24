@@ -17,17 +17,11 @@ tags:
 
 # California Condor <span className='sci_name'>Gymnogyps californianus</span>
 
-**Order:** [Cathartiformes](/tags/cathartiformes)
-
-**Family:** [Cathartidae (New World Vultures)](/tags/cathartidae-new-world-vultures)
-
-**Species Group:** [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
+**Taxonomy:** [Cathartiformes](/tags/cathartiformes) > [Cathartidae (New World Vultures)](/tags/cathartidae-new-world-vultures) > [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=calcon) | [Map](/map?species_code=calcon)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

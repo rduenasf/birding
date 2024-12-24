@@ -17,17 +17,11 @@ tags:
 
 # White-tufted Grebe <span className='sci_name'>Rollandia rolland</span>
 
-**Order:** [Podicipediformes](/tags/podicipediformes)
-
-**Family:** [Podicipedidae (Grebes)](/tags/podicipedidae-grebes)
-
-**Species Group:** [Grebes](/tags/grebes)
+**Taxonomy:** [Podicipediformes](/tags/podicipediformes) > [Podicipedidae (Grebes)](/tags/podicipedidae-grebes) > [Grebes](/tags/grebes)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whtgre3) | [Map](/map?species_code=whtgre3)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

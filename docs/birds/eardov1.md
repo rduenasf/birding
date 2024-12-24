@@ -17,17 +17,11 @@ tags:
 
 # Eared Dove <span className='sci_name'>Zenaida auriculata</span>
 
-**Order:** [Columbiformes](/tags/columbiformes)
-
-**Family:** [Columbidae (Pigeons and Doves)](/tags/columbidae-pigeons-and-doves)
-
-**Species Group:** [Pigeons and Doves](/tags/pigeons-and-doves)
+**Taxonomy:** [Columbiformes](/tags/columbiformes) > [Columbidae (Pigeons and Doves)](/tags/columbidae-pigeons-and-doves) > [Pigeons and Doves](/tags/pigeons-and-doves)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=eardov1) | [Map](/map?species_code=eardov1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

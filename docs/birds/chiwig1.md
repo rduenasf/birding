@@ -17,17 +17,11 @@ tags:
 
 # Chiloe Wigeon <span className='sci_name'>Mareca sibilatrix</span>
 
-**Order:** [Anseriformes](/tags/anseriformes)
-
-**Family:** [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl)
-
-**Species Group:** [Waterfowl](/tags/waterfowl)
+**Taxonomy:** [Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chiwig1) | [Map](/map?species_code=chiwig1)
 
-**Photo**: Yes 
-
-**Audio**: No
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=chiwig1&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 

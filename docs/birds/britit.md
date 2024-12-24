@@ -17,17 +17,11 @@ tags:
 
 # Bridled Titmouse <span className='sci_name'>Baeolophus wollweberi</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Paridae (Tits, Chickadees, and Titmice)](/tags/paridae-tits-chickadees-and-titmice)
-
-**Species Group:** [Tits, Chickadees, and Titmice](/tags/tits-chickadees-and-titmice)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Paridae (Tits, Chickadees, and Titmice)](/tags/paridae-tits-chickadees-and-titmice) > [Tits, Chickadees, and Titmice](/tags/tits-chickadees-and-titmice)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=britit) | [Map](/map?species_code=britit)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

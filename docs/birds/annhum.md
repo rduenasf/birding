@@ -17,17 +17,11 @@ tags:
 
 # Anna's Hummingbird <span className='sci_name'>Calypte anna</span>
 
-**Order:** [Apodiformes](/tags/apodiformes)
-
-**Family:** [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds)
-
-**Species Group:** [Hummingbirds](/tags/hummingbirds)
+**Taxonomy:** [Apodiformes](/tags/apodiformes) > [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds) > [Hummingbirds](/tags/hummingbirds)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=annhum) | [Map](/map?species_code=annhum)
 
-**Photo**: Yes 
-
-**Audio**: Yes
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=annhum&mediaType=photo&view=grid) | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=annhum&mediaType=audio&view=grid)
 
 ## Places Seen
 

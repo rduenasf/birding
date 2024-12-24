@@ -17,17 +17,11 @@ tags:
 
 # Common Yellowthroat <span className='sci_name'>Geothlypis trichas</span>
 
-**Order:** [Passeriformes](/tags/passeriformes)
-
-**Family:** [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers)
-
-**Species Group:** [Wood-Warblers](/tags/wood-warblers)
+**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=comyel) | [Map](/map?species_code=comyel)
 
-**Photo**: No 
-
-**Audio**: Yes
+**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=comyel&mediaType=audio&view=grid)
 
 ## Places Seen
 

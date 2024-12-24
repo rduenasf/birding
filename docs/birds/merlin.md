@@ -17,17 +17,11 @@ tags:
 
 # Merlin <span className='sci_name'>Falco columbarius</span>
 
-**Order:** [Falconiformes](/tags/falconiformes)
-
-**Family:** [Falconidae (Falcons and Caracaras)](/tags/falconidae-falcons-and-caracaras)
-
-**Species Group:** [Falcons and Caracaras](/tags/falcons-and-caracaras)
+**Taxonomy:** [Falconiformes](/tags/falconiformes) > [Falconidae (Falcons and Caracaras)](/tags/falconidae-falcons-and-caracaras) > [Falcons and Caracaras](/tags/falcons-and-caracaras)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=merlin) | [Map](/map?species_code=merlin)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

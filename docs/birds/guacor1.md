@@ -17,17 +17,11 @@ tags:
 
 # Guanay Cormorant <span className='sci_name'>Leucocarbo bougainvilliorum</span>
 
-**Order:** [Suliformes](/tags/suliformes)
-
-**Family:** [Phalacrocoracidae (Cormorants and Shags)](/tags/phalacrocoracidae-cormorants-and-shags)
-
-**Species Group:** [Cormorants and Anhingas](/tags/cormorants-and-anhingas)
+**Taxonomy:** [Suliformes](/tags/suliformes) > [Phalacrocoracidae (Cormorants and Shags)](/tags/phalacrocoracidae-cormorants-and-shags) > [Cormorants and Anhingas](/tags/cormorants-and-anhingas)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=guacor1) | [Map](/map?species_code=guacor1)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 

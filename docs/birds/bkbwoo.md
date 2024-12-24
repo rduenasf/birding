@@ -17,17 +17,11 @@ tags:
 
 # Black-backed Woodpecker <span className='sci_name'>Picoides arcticus</span>
 
-**Order:** [Piciformes](/tags/piciformes)
-
-**Family:** [Picidae (Woodpeckers)](/tags/picidae-woodpeckers)
-
-**Species Group:** [Woodpeckers](/tags/woodpeckers)
+**Taxonomy:** [Piciformes](/tags/piciformes) > [Picidae (Woodpeckers)](/tags/picidae-woodpeckers) > [Woodpeckers](/tags/woodpeckers)
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkbwoo) | [Map](/map?species_code=bkbwoo)
 
-**Photo**: No 
-
-**Audio**: No
+**Media**: No Photo | No Recording
 
 ## Places Seen
 
