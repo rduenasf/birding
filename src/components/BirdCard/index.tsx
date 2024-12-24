@@ -22,6 +22,7 @@ export default function BirdCard({
                 <img
                   className="card__image"
                   // style={{ height: "400px", objectFit: "cover" }}
+                  loading="lazy"
                   src={`https://cdn.download.ams.birds.cornell.edu/api/v1/asset/${photo}/640`}
                 />
               ) : (
@@ -30,6 +31,7 @@ export default function BirdCard({
               {recording && (
                 <img
                   className="card__image padding-top--none"
+                  loading="lazy"
                   src={
                     // !photo
                     //   ? `https://cdn.download.ams.birds.cornell.edu/api/v1/asset/${recording}/poster`
@@ -81,6 +83,7 @@ export default function BirdCard({
                 <audio
                   id={`audio-${recording}`}
                   src={`https://cdn.download.ams.birds.cornell.edu/api/v2/asset/${recording}/mp3`}
+                  preload="none"
                 ></audio>
               </div>
             </div>
