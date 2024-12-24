@@ -1,3 +1,4 @@
+// @ts-check
 const fs = require("fs");
 const csv = require("csv-parser");
 const { format } = require("path");
@@ -260,8 +261,8 @@ const replaceMlCatalogNumbers = () => {
         .reduce((best, item) => {
           if (
             !best ||
-            parseFloat(item.averageCommunityRating, 10) >
-              parseFloat(best.averageCommunityRating, 10)
+            parseFloat(item.averageCommunityRating) >
+              parseFloat(best.averageCommunityRating)
           ) {
             return item;
           }
@@ -275,8 +276,8 @@ const replaceMlCatalogNumbers = () => {
         .reduce((best, item) => {
           if (
             !best ||
-            parseFloat(item.averageCommunityRating, 10) >
-              parseFloat(best.averageCommunityRating, 10)
+            parseFloat(item.averageCommunityRating) >
+              parseFloat(best.averageCommunityRating)
           ) {
             return item;
           }
@@ -290,7 +291,9 @@ const replaceMlCatalogNumbers = () => {
 const sortObservations = () => {
   for (const key in dataDict) {
     dataDict[key].observations.sort((a, b) => {
-      return new Date(a["dateTime"]) - new Date(b["dateTime"]);
+      return (
+        new Date(a["dateTime"]).getTime() - new Date(b["dateTime"]).getTime()
+      );
     });
   }
 };

@@ -1,3 +1,4 @@
+// @ts-check
 const fs = require("fs");
 const path = require("path");
 
@@ -241,8 +242,8 @@ function main() {
   generateIndexFile(
     Object.values(ebirdData).sort(
       (a, b) =>
-        new Date(a.observations[0].datetime) -
-        new Date(b.observations[0].datetime)
+        new Date(a.observations[0].datetime).getTime() -
+        new Date(b.observations[0].datetime).getTime()
     ),
     outputDir
   );
