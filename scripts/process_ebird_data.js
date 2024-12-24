@@ -194,6 +194,9 @@ const rollupSpecies = () => {
     .forEach((record) => {
       const { speciesCode } = record;
       speciesData[speciesCode] = record;
+      speciesData[speciesCode].observations.sort(
+        (a, b) => a["datetime"] - b["datetime"]
+      );
     });
   Object.values(dataDict)
     .filter(({ category }) => category === "issf")
@@ -202,9 +205,9 @@ const rollupSpecies = () => {
       if (speciesData[reportAs] === undefined) {
         speciesData[reportAs] = dataDict[reportAs];
       }
-      speciesData[reportAs].observations = speciesData[
-        reportAs
-      ].observations.concat(record.observations);
+      speciesData[reportAs].observations = speciesData[reportAs].observations
+        .concat(record.observations)
+        .sort((a, b) => a["datetime"] - b["datetime"]);
     });
 
   dataDict = speciesData;
@@ -250,6 +253,36 @@ const replaceMlCatalogNumbers = () => {
           ).length > 0;
       }
     });
+    if (dataDict[key].photographed) {
+      dataDict[key].bestPhoto = dataDict[key].observations
+        .flatMap((obs) => obs.mlCatalogNumbers)
+        .filter((item) => item && item.format === "Photo")
+        .reduce((best, item) => {
+          if (
+            !best ||
+            parseFloat(item.averageCommunityRating, 10) >
+              parseFloat(best.averageCommunityRating, 10)
+          ) {
+            return item;
+          }
+          return best;
+        }, null);
+    }
+    if (dataDict[key].recorded) {
+      dataDict[key].bestRecording = dataDict[key].observations
+        .flatMap((obs) => obs.mlCatalogNumbers)
+        .filter((item) => item && item.format === "Audio")
+        .reduce((best, item) => {
+          if (
+            !best ||
+            parseFloat(item.averageCommunityRating, 10) >
+              parseFloat(best.averageCommunityRating, 10)
+          ) {
+            return item;
+          }
+          return best;
+        }, null);
+    }
   }
 };
 

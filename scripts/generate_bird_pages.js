@@ -185,36 +185,94 @@ function generateBirdPages(species, outputDir) {
 }
 
 function generateIndexFile(species, outputDir) {
-  const indexContent = `---
+  const birdsByYear = species.reduce((acc, bird) => {
+    const year = new Date(bird.observations[0].datetime).getFullYear();
+    if (!acc[year]) acc[year] = [];
+    acc[year].push(bird);
+    return acc;
+  }, {});
+
+  const indexHeader = `---
 id: Birds
+title: Life List
 slug: /
 ---
-${species
-  .map((bird) => {
-    const { primaryComName, speciesCode, photographed, recorded } = bird;
-    return `1. [${primaryComName}${photographed ? " 📷" : ""} ${
-      recorded ? " 🔊" : ""
-    }](./birds/${speciesCode})`;
-  })
-  .join("\n")}
 `;
+  const yearContent = [];
+
+  for (const year of Object.keys(birdsByYear).sort((a, b) => b - a)) {
+    yearContent.push(`# ${year}
+${birdsByYear[year]
+  .map((bird, index, birds) => {
+    const {
+      primaryComName,
+      speciesCode,
+      bestPhoto,
+      photographed,
+      bestRecording,
+      recorded,
+    } = birds[birds.length - 1 - index];
+
+    if (photographed) {
+      return `<div className='container'>
+  <div className='row padding-bottom--xl'>
+    <div className='col col--5'>
+      <div className='col-demo'>
+        <div className="card shadow--tl">
+          <img
+              className='card__image'
+              src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/${
+                bestPhoto.MlCatalogNumber
+              }/640"/>
+          <div className='avatar__intro'>
+            <div className="card__footer text--center">
+              <div className="avatar__name">Lifer ${
+                birds.length - index
+              } - [${primaryComName}](./birds/${speciesCode}) ${
+        photographed ? " 📷" : ""
+      } ${
+        recorded
+          ? ` <span onClick={() => document.getElementById('audio-${bestRecording.MlCatalogNumber}').play()}>🔊</span> <audio id="audio-${bestRecording.MlCatalogNumber}" src="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/${bestRecording.MlCatalogNumber}/mp3" preload="metadata"></audio>`
+          : ""
+      }</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>`;
+    } else {
+      return `* #${birds.length - index}: [${primaryComName}${
+        photographed ? " 📷" : ""
+      } ${recorded ? " 🔊" : ""}](./birds/${speciesCode})`;
+    }
+  })
+  .join("\n")}`);
+  }
 
   const indexPath = path.join(outputDir, "index.md");
-  writeMarkdownFile(indexPath, indexContent);
+  writeMarkdownFile(indexPath, indexHeader + yearContent.join("\n"));
 }
 
-function getSpeciesData(ebirdData) {
-  return Object.values(ebirdData).sort((a, b) =>
-    a.primaryComName.localeCompare(b.primaryComName)
-  );
-}
 function main() {
   const ebirdData = readEbirdData("ebirdData.json");
   const outputDir = path.join(__dirname, "../docs/birds");
   ensureDirectoryExists(outputDir);
-  const species = getSpeciesData(ebirdData);
-  generateBirdPages(species, outputDir);
-  generateIndexFile(species, outputDir);
+  generateBirdPages(
+    Object.values(ebirdData).sort((a, b) =>
+      a.primaryComName.localeCompare(b.primaryComName)
+    ),
+    outputDir
+  );
+  generateIndexFile(
+    Object.values(ebirdData).sort(
+      (a, b) =>
+        new Date(a.observations[0].datetime) -
+        new Date(b.observations[0].datetime)
+    ),
+    outputDir
+  );
   console.log("Markdown files and index generated successfully.");
 }
 

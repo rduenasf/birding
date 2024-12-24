@@ -40,8 +40,8 @@ The white-tailed kite (Elanus leucurus) is a small raptor found in western North
 
 ### Audio Recordings
 <iframe src="https://macaulaylibrary.org/asset/626618148/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/627593370/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 <iframe src="https://macaulaylibrary.org/asset/626995496/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/627593370/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/whtkit) 
