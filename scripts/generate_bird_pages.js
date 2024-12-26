@@ -201,28 +201,43 @@ slug: /
 
 import BirdCard from '@site/src/components/BirdCard';
 
+# Life List
+
 `;
+
   const yearContent = [];
 
   let birdCount = 0;
 
-  for (const year of Object.keys(birdsByYear).sort((a, b) => b - a)) {
-    yearContent.push(`# ${year}
+  for (const year of Object.keys(birdsByYear).sort(
+    (a, b) => parseInt(b) - parseInt(a)
+  )) {
+    yearContent.push(`## ${year}
+    <div className="container">
+      <div className="row">
+
 ${birdsByYear[year]
   .map((bird, index, birds) => {
     const { primaryComName, speciesCode, bestPhoto, bestRecording } =
       birds[birds.length - 1 - index];
 
-    return `\n<BirdCard
+    return `\n
+      <BirdCard
         index="${species.length - birdCount++}"
         name="${primaryComName}"
         speciesCode="${speciesCode}"
         ${bestPhoto ? `photo="${bestPhoto.MlCatalogNumber}"` : ""} 
         ${
           bestRecording ? `recording="${bestRecording.MlCatalogNumber}"` : ""
-        }/>\n`;
+        }/>\n${
+      index % 3 === 2
+        ? `</div></div><div className="container">
+      <div className="row">`
+        : ""
+    }`;
   })
-  .join("\n")}`);
+  .join("\n")}
+  </div></div>`);
   }
 
   const indexPath = path.join(outputDir, "index.md");

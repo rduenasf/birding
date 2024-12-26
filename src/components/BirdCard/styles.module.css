@@ -2,3 +2,24 @@
   float: right;
   color:dimgray;
 }
+
+.cardImage {
+  position: relative
+}
+
+.photo {
+  aspect-ratio: 1;
+  object-fit: cover;
+  display: block;
+}
+
+.spectrogram {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  border-top: 1px groove lightgray;
+}
+
+.audio  {
+  display: none;
+}
