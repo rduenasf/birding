@@ -6,12 +6,12 @@ family: "Phasianidae (Pheasants, Grouse, and Allies)"
 species_group: "Grouse, Quail, and Allies"
 species_code: "redjun"
 sidebar_position: 293
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Galliformes
   - Phasianidae (Pheasants, Grouse, and Allies)
   - Grouse, Quail, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -21,7 +21,7 @@ tags:
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=redjun) | [Map](/map?species_code=redjun)
 
-**Media**: No Photo | No Recording
+**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=redjun&mediaType=photo&view=grid) | No Recording
 
 ## Places Seen
 
@@ -35,7 +35,7 @@ Molecular evidence, derived from whole-genome sequencing, has revealed that the 
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe src="https://macaulaylibrary.org/asset/627868357/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

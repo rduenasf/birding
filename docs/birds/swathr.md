@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Turdidae (Thrushes and Allies)"
 species_group: "Thrushes"
 species_code: "swathr"
-sidebar_position: 367
+sidebar_position: 368
 sidebar_class_name: " "
 tags: 
   - Passeriformes

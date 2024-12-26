@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Turdidae (Thrushes and Allies)"
 species_group: "Thrushes"
 species_code: "wesblu"
-sidebar_position: 390
+sidebar_position: 391
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes

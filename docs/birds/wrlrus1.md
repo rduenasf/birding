@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Furnariidae (Ovenbirds and Woodcreepers)"
 species_group: "Ovenbirds"
 species_code: "wrlrus1"
-sidebar_position: 423
+sidebar_position: 424
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes

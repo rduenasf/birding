@@ -200,7 +200,12 @@ const rollupSpecies = () => {
       );
     });
   Object.values(dataDict)
-    .filter(({ category }) => category === "issf")
+    .filter(
+      ({ category, observations, reportAs }) =>
+        (category === "issf" || category === "domestic") &&
+        observations.length > 0 &&
+        reportAs !== ""
+    )
     .forEach((record) => {
       const { reportAs } = record;
       if (speciesData[reportAs] === undefined) {

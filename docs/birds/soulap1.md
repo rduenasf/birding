@@ -5,7 +5,7 @@ order: "Charadriiformes"
 family: "Charadriidae (Plovers and Lapwings)"
 species_group: "Shorebirds"
 species_code: "soulap1"
-sidebar_position: 351
+sidebar_position: 352
 sidebar_class_name: "has-photo "
 tags: 
   - Charadriiformes

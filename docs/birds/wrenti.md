@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Paradoxornithidae (Parrotbills)"
 species_group: "Parrotbills, Wrentit, and Allies"
 species_code: "wrenti"
-sidebar_position: 424
+sidebar_position: 425
 sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes

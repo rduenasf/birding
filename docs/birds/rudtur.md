@@ -5,7 +5,7 @@ order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
 species_group: "Shorebirds"
 species_code: "rudtur"
-sidebar_position: 318
+sidebar_position: 319
 sidebar_class_name: "has-photo "
 tags: 
   - Charadriiformes

@@ -5,7 +5,7 @@ order: "Gruiformes"
 family: "Rallidae (Rails, Gallinules, and Coots)"
 species_group: "Rails, Gallinules, and Allies"
 species_code: "sora"
-sidebar_position: 349
+sidebar_position: 350
 sidebar_class_name: " "
 tags: 
   - Gruiformes
