@@ -1,7 +1,7 @@
 import clsx from "clsx";
 import styles from "./styles.module.css";
 import { useState, useRef } from "react";
-// tslint:disable-next-line
+import { useAudio } from "../../AudioContext";
 import NotFoundImage from "@site/static/img/not-found.png";
 
 export default function BirdCard({
@@ -12,6 +12,7 @@ export default function BirdCard({
   recording,
 }): JSX.Element {
   const [play, setPlay] = useState(false);
+  const { currentAudio, setCurrentAudio } = useAudio();
 
   const audioRef = useRef(null);
 
@@ -23,6 +24,9 @@ export default function BirdCard({
           ref={audioRef}
           src={`https://cdn.download.ams.birds.cornell.edu/api/v2/asset/${recording}/mp3`}
           preload="none"
+          onEnded={() => {
+            setCurrentAudio(undefined);
+          }}
         ></audio>
       )}
       <div className={`card shadow--tl`}>
@@ -45,16 +49,23 @@ export default function BirdCard({
               />
               <a
                 onClick={() => {
-                  if (!play) {
-                    audioRef.current.play();
-                    setPlay(true);
+                  if (currentAudio) {
+                    currentAudio.pause();
+                    if (currentAudio !== audioRef.current) {
+                      audioRef.current.play();
+                      setCurrentAudio(audioRef.current);
+                    } else {
+                      setCurrentAudio(undefined);
+                    }
                   } else {
-                    audioRef.current.pause();
-                    setPlay(false);
+                    audioRef.current.play();
+                    setCurrentAudio(audioRef.current);
                   }
                 }}
               >
-                {play ? "⏸️" : "▶️"}
+                {currentAudio && currentAudio === audioRef.current
+                  ? "⏸️"
+                  : "▶️"}
               </a>
             </div>
           )}
