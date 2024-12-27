@@ -15,7 +15,7 @@ export default function BirdCard({
   const audioRef = useRef(null);
 
   return (
-    <div className="col col--4">
+    <div className="col col--4 margin-bottom--lg">
       {recording && (
         <audio
           className={clsx(styles.audio)}

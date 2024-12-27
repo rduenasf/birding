@@ -217,7 +217,7 @@ import BirdCard from '@site/src/components/BirdCard';
     let cardCount = 0;
     yearContent.push(`## ${year}
     <div className="container">
-      <div className="row margin-bottom--lg">
+      <div className="row">
 
 ${birdsByYear[year]
   .map((bird, index, birds) => {
@@ -238,7 +238,6 @@ ${birdsByYear[year]
       (currentTripReport && currentTripReport.id) !==
       (observations[0].tripReport && observations[0].tripReport.id)
     ) {
-      console.log("Trip report changed");
       cardCount = 0;
       currentTripReport = obsTripReport;
       if (currentTripReport)
@@ -257,12 +256,12 @@ See details at [eBird](${currentTripReport.url})
 
 :::
 
-      <div className="row margin-bottom--lg">`;
+      <div className="row">`;
       else
         html = `\n
         </div></div>
         <div className="container ">
-        <div className="row margin-bottom--lg">`;
+        <div className="row">`;
     }
 
     return `${html}\n
@@ -276,7 +275,7 @@ See details at [eBird](${currentTripReport.url})
       }/>\n${
       cardCount++ % 3 === 2
         ? `</div>
-    <div className="row margin-bottom--lg">`
+    <div className="row">`
         : ""
     }`;
   })

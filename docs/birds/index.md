@@ -10,7 +10,7 @@ import BirdCard from '@site/src/components/BirdCard';
 
 ## 2024
     <div className="container">
-      <div className="row margin-bottom--lg">
+      <div className="row">
 
 
 
@@ -35,7 +35,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
 
 :::
 
-      <div className="row margin-bottom--lg">
+      <div className="row">
 
     <BirdCard
       index="432"
@@ -62,7 +62,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -90,7 +90,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
       photo="625246862" 
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -118,7 +118,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
       photo="625246796" 
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -146,7 +146,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -174,7 +174,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -202,7 +202,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -230,7 +230,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -258,7 +258,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -286,7 +286,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
       photo="625246747" 
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -314,7 +314,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -342,7 +342,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -370,7 +370,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -398,7 +398,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
       photo="625246687" 
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -426,7 +426,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -454,7 +454,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -482,7 +482,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
       photo="625246481" 
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -510,7 +510,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -538,7 +538,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -566,7 +566,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -594,7 +594,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -622,7 +622,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
       photo="627867390" 
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -650,7 +650,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -678,7 +678,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -701,7 +701,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
 
         </div></div>
         <div className="container ">
-        <div className="row margin-bottom--lg">
+        <div className="row">
 
     <BirdCard
       index="361"
@@ -728,7 +728,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -756,7 +756,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -784,7 +784,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -812,7 +812,7 @@ See details at [eBird](https://ebird.org/tripreport/284688/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -836,7 +836,7 @@ See details at [eBird](https://ebird.org/tripreport/284690)
 
 :::
 
-      <div className="row margin-bottom--lg">
+      <div className="row">
 
     <BirdCard
       index="348"
@@ -863,7 +863,7 @@ See details at [eBird](https://ebird.org/tripreport/284690)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -891,7 +891,7 @@ See details at [eBird](https://ebird.org/tripreport/284690)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -919,7 +919,7 @@ See details at [eBird](https://ebird.org/tripreport/284690)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -933,7 +933,7 @@ See details at [eBird](https://ebird.org/tripreport/284690)
 
         </div></div>
         <div className="container ">
-        <div className="row margin-bottom--lg">
+        <div className="row">
 
     <BirdCard
       index="338"
@@ -960,7 +960,7 @@ See details at [eBird](https://ebird.org/tripreport/284690)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -988,7 +988,7 @@ See details at [eBird](https://ebird.org/tripreport/284690)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1016,7 +1016,7 @@ See details at [eBird](https://ebird.org/tripreport/284690)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1044,7 +1044,7 @@ See details at [eBird](https://ebird.org/tripreport/284690)
       photo="627868853" 
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1072,7 +1072,7 @@ See details at [eBird](https://ebird.org/tripreport/284690)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1100,7 +1100,7 @@ See details at [eBird](https://ebird.org/tripreport/284690)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1128,7 +1128,7 @@ See details at [eBird](https://ebird.org/tripreport/284690)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1161,7 +1161,7 @@ See details at [eBird](https://ebird.org/tripreport/230939/320416)
 
 :::
 
-      <div className="row margin-bottom--lg">
+      <div className="row">
 
     <BirdCard
       index="315"
@@ -1188,7 +1188,7 @@ See details at [eBird](https://ebird.org/tripreport/230939/320416)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1216,7 +1216,7 @@ See details at [eBird](https://ebird.org/tripreport/230939/320416)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1244,7 +1244,7 @@ See details at [eBird](https://ebird.org/tripreport/230939/320416)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1272,7 +1272,7 @@ See details at [eBird](https://ebird.org/tripreport/230939/320416)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1300,7 +1300,7 @@ See details at [eBird](https://ebird.org/tripreport/230939/320416)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1328,7 +1328,7 @@ See details at [eBird](https://ebird.org/tripreport/230939/320416)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1356,7 +1356,7 @@ See details at [eBird](https://ebird.org/tripreport/230939/320416)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1384,7 +1384,7 @@ See details at [eBird](https://ebird.org/tripreport/230939/320416)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1412,7 +1412,7 @@ See details at [eBird](https://ebird.org/tripreport/230939/320416)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1440,7 +1440,7 @@ See details at [eBird](https://ebird.org/tripreport/230939/320416)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1468,7 +1468,7 @@ See details at [eBird](https://ebird.org/tripreport/230939/320416)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1496,7 +1496,7 @@ See details at [eBird](https://ebird.org/tripreport/230939/320416)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1524,7 +1524,7 @@ See details at [eBird](https://ebird.org/tripreport/230939/320416)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1552,7 +1552,7 @@ See details at [eBird](https://ebird.org/tripreport/230939/320416)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1580,7 +1580,7 @@ See details at [eBird](https://ebird.org/tripreport/230939/320416)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1608,7 +1608,7 @@ See details at [eBird](https://ebird.org/tripreport/230939/320416)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1636,7 +1636,7 @@ See details at [eBird](https://ebird.org/tripreport/230939/320416)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1664,7 +1664,7 @@ See details at [eBird](https://ebird.org/tripreport/230939/320416)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1692,7 +1692,7 @@ See details at [eBird](https://ebird.org/tripreport/230939/320416)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1720,7 +1720,7 @@ See details at [eBird](https://ebird.org/tripreport/230939/320416)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
       </div></div>
@@ -1735,7 +1735,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
 
 :::
 
-      <div className="row margin-bottom--lg">
+      <div className="row">
 
     <BirdCard
       index="255"
@@ -1762,7 +1762,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1790,7 +1790,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1818,7 +1818,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1846,7 +1846,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1874,7 +1874,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1902,7 +1902,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1930,7 +1930,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1958,7 +1958,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -1986,7 +1986,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2014,7 +2014,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2042,7 +2042,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2070,7 +2070,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2098,7 +2098,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2126,7 +2126,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2154,7 +2154,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2182,7 +2182,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2210,7 +2210,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2238,7 +2238,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2266,7 +2266,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2294,7 +2294,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2322,7 +2322,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2345,7 +2345,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
 
         </div></div>
         <div className="container ">
-        <div className="row margin-bottom--lg">
+        <div className="row">
 
     <BirdCard
       index="190"
@@ -2372,7 +2372,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2400,7 +2400,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2428,7 +2428,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2456,7 +2456,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2484,7 +2484,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2512,7 +2512,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2540,7 +2540,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2568,7 +2568,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2596,7 +2596,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2624,7 +2624,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2652,7 +2652,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2680,7 +2680,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       photo="616427612" 
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2708,7 +2708,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2736,7 +2736,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2764,7 +2764,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2792,7 +2792,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2820,7 +2820,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2848,7 +2848,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2876,7 +2876,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2904,7 +2904,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2932,7 +2932,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2960,7 +2960,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -2988,7 +2988,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       recording="626995461"/>
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3016,7 +3016,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3044,7 +3044,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3072,7 +3072,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3100,7 +3100,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       recording="626684926"/>
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3128,7 +3128,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3156,7 +3156,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3178,7 +3178,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
   </div></div>
 ## 2023
     <div className="container">
-      <div className="row margin-bottom--lg">
+      <div className="row">
 
 
 
@@ -3207,7 +3207,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       recording="626557707"/>
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3235,7 +3235,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       recording="626684975"/>
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3263,7 +3263,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3291,7 +3291,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3319,7 +3319,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       photo="626996238" 
       recording="627593169"/>
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3347,7 +3347,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3375,7 +3375,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3403,7 +3403,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       photo="627869005" 
       recording="627219355"/>
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3431,7 +3431,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       photo="627869533" 
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3459,7 +3459,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       recording="627219214"/>
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3487,7 +3487,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       recording="626559381"/>
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3515,7 +3515,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3543,7 +3543,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3571,7 +3571,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       recording="626447649"/>
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3599,7 +3599,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       recording="626843422"/>
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3627,7 +3627,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       photo="626996149" 
       recording="626618148"/>
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3655,7 +3655,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       photo="619242708" 
       recording="626618062"/>
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3683,7 +3683,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       recording="626618108"/>
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3711,7 +3711,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       recording="626684567"/>
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3739,7 +3739,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3767,7 +3767,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       photo="627867335" 
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3795,7 +3795,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       recording="626684724"/>
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3823,7 +3823,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3851,7 +3851,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       photo="627868551" 
       recording="626557692"/>
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3879,7 +3879,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
        
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3907,7 +3907,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       photo="626996407" 
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3935,7 +3935,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       photo="617717429" 
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3963,7 +3963,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       photo="627868905" 
       recording="626557748"/>
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -3991,7 +3991,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       photo="626996611" 
       recording="626618132"/>
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -4019,7 +4019,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       photo="627869758" 
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
 
 
     <BirdCard
@@ -4032,7 +4032,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
   </div></div>
 ## 2019
     <div className="container">
-      <div className="row margin-bottom--lg">
+      <div className="row">
 
 
 
@@ -4046,7 +4046,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
   </div></div>
 ## 2015
     <div className="container">
-      <div className="row margin-bottom--lg">
+      <div className="row">
 
 
 
@@ -4075,11 +4075,11 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       photo="627875514" 
       />
 </div>
-    <div className="row margin-bottom--lg">
+    <div className="row">
   </div></div>
 ## 2014
     <div className="container">
-      <div className="row margin-bottom--lg">
+      <div className="row">
 
 
 
@@ -4102,7 +4102,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
   </div></div>
 ## 2013
     <div className="container">
-      <div className="row margin-bottom--lg">
+      <div className="row">
 
 
 
@@ -4116,7 +4116,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
   </div></div>
 ## 2012
     <div className="container">
-      <div className="row margin-bottom--lg">
+      <div className="row">
 
 
 
@@ -4139,7 +4139,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
   </div></div>
 ## 2011
     <div className="container">
-      <div className="row margin-bottom--lg">
+      <div className="row">
 
 
 
