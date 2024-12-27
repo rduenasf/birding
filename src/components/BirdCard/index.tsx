@@ -24,7 +24,7 @@ export default function BirdCard({
           preload="none"
         ></audio>
       )}
-      <div className={`card shadow--tl margin-bottom--lg`}>
+      <div className={`card shadow--tl`}>
         <div className={clsx(styles.cardImage, "card__image")}>
           <img
             className={clsx(styles.photo)}

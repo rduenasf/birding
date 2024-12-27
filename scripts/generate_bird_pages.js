@@ -209,30 +209,74 @@ import BirdCard from '@site/src/components/BirdCard';
 
   let birdCount = 0;
 
+  let currentTripReport;
+
   for (const year of Object.keys(birdsByYear).sort(
     (a, b) => parseInt(b) - parseInt(a)
   )) {
+    let cardCount = 0;
     yearContent.push(`## ${year}
     <div className="container">
-      <div className="row">
+      <div className="row margin-bottom--lg">
 
 ${birdsByYear[year]
   .map((bird, index, birds) => {
-    const { primaryComName, speciesCode, bestPhoto, bestRecording } =
-      birds[birds.length - 1 - index];
+    const {
+      primaryComName,
+      speciesCode,
+      bestPhoto,
+      bestRecording,
+      observations,
+    } = birds[birds.length - 1 - index];
 
-    return `\n
-      <BirdCard
-        index="${species.length - birdCount++}"
-        name="${primaryComName}"
-        speciesCode="${speciesCode}"
-        ${bestPhoto ? `photo="${bestPhoto.MlCatalogNumber}"` : ""} 
-        ${
-          bestRecording ? `recording="${bestRecording.MlCatalogNumber}"` : ""
-        }/>\n${
-      index % 3 === 2
-        ? `</div></div><div className="container">
-      <div className="row">`
+    const obsTripReport =
+      observations[0].tripReport && observations[0].tripReport;
+
+    let html = "";
+
+    if (
+      (currentTripReport && currentTripReport.id) !==
+      (observations[0].tripReport && observations[0].tripReport.id)
+    ) {
+      console.log("Trip report changed");
+      cardCount = 0;
+      currentTripReport = obsTripReport;
+      if (currentTripReport)
+        html = `\n
+      </div></div>
+      ### ${currentTripReport.title}
+      <div className="container tripReport">
+       :::tip[Trip Report Summary]
+
+* Regions Visited: ${currentTripReport.regions
+          .map((region) => `[${region}](https://ebird.org/region/${region})`)
+          .join(", ")}
+* Dates: ${currentTripReport.startDate} - ${currentTripReport.endDate}
+
+See details at [eBird](${currentTripReport.url}) 
+
+:::
+
+      <div className="row margin-bottom--lg">`;
+      else
+        html = `\n
+        </div></div>
+        <div className="container ">
+        <div className="row margin-bottom--lg">`;
+    }
+
+    return `${html}\n
+    <BirdCard
+      index="${species.length - birdCount++}"
+      name="${primaryComName}"
+      speciesCode="${speciesCode}"
+      ${bestPhoto ? `photo="${bestPhoto.MlCatalogNumber}"` : ""} 
+      ${
+        bestRecording ? `recording="${bestRecording.MlCatalogNumber}"` : ""
+      }/>\n${
+      cardCount++ % 3 === 2
+        ? `</div>
+    <div className="row margin-bottom--lg">`
         : ""
     }`;
   })

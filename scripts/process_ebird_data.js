@@ -1,7 +1,6 @@
 // @ts-check
 const fs = require("fs");
 const csv = require("csv-parser");
-const { format } = require("path");
 
 const ebirdInputFile = "c:/Users/rduen/my-website/scripts/MyEBirdData.csv";
 const taxonomyFile =
@@ -13,6 +12,7 @@ const countrySummaryOutputFile =
 const countrySpeciesOutputFile =
   "c:/Users/rduen/my-website/static/country_for_species.json";
 const cacheFile = "c:/Users/rduen/my-website/scripts/wikiCache.json"; // Cache file path
+const tripReportsFile = "c:/Users/rduen/my-website/scripts/tripReports.json"; // Trip reports file path
 
 let dataDict = {};
 const speciesCodeMap = {};
@@ -20,6 +20,7 @@ const countrySpeciesCount = {};
 const speciesCountryCount = {};
 const mlDataMap = {};
 let cache = {};
+let tripReports = {}; // Trip reports data
 
 // Load cache from file
 const loadCache = () => {
@@ -31,6 +32,13 @@ const loadCache = () => {
 // Save cache to file
 const saveCache = () => {
   fs.writeFileSync(cacheFile, JSON.stringify(cache, null, 2), "utf-8");
+};
+
+// Load trip reports from file
+const loadTripReports = () => {
+  if (fs.existsSync(tripReportsFile)) {
+    tripReports = JSON.parse(fs.readFileSync(tripReportsFile, "utf-8"));
+  }
 };
 
 async function fetchWikipediaInformation(title) {
@@ -167,6 +175,15 @@ const processEBirdData = async () => {
 
     camelCaseRow["speciesCode"] = speciesCode;
     camelCaseRow["speciesCategory"] = dataDict[speciesCode].category;
+
+    // Associate observation with trip report using submissionId
+    const submissionId = row["Submission ID"];
+    for (const tripReportId in tripReports) {
+      if (tripReports[tripReportId].checklists.includes(submissionId)) {
+        camelCaseRow["tripReport"] = tripReports[tripReportId];
+        break;
+      }
+    }
 
     dataDict[speciesCode].observations.push(camelCaseRow);
 
@@ -331,6 +348,7 @@ const createSummaryData = () => {
 // Main function to process all data
 const main = async () => {
   loadCache(); // Load cache from file
+  loadTripReports(); // Load trip reports from file
   await processMLData();
   await processTaxonomyData();
   await processEBirdData();

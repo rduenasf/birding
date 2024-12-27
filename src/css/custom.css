@@ -30,3 +30,11 @@
 
   white-space: pre; 
 }
+
+.tripReport {
+  padding-top: 10px;
+  border-left: 5px solid;
+  border-image: linear-gradient(180deg, #3acfd5 0%, #3a4ed5 100%) 1;
+  margin-bottom: 30px;
+
+}
