@@ -53,7 +53,7 @@ export default function BirdCard({
                   }
                 }}
               >
-                {play ? "🔇" : "🔊"}
+                {play ? "⏸️" : "▶️"}
               </a>
             </div>
           )}
