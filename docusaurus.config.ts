@@ -49,6 +49,7 @@ const config: Config = {
   ],
 
   plugins: [
+    require.resolve('docusaurus-lunr-search'),
     [
       '@docusaurus/plugin-pwa',
       {
