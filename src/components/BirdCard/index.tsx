@@ -1,6 +1,7 @@
 import clsx from "clsx";
 import styles from "./styles.module.css";
 import { useState, useRef } from "react";
+// tslint:disable-next-line
 import NotFoundImage from "@site/static/img/not-found.png";
 
 export default function BirdCard({
