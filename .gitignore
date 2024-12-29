@@ -21,6 +21,7 @@ yarn-error.log*
 scripts/*.json
 scripts/*.csv
 !scripts/eBird_taxonomy_v2024.csv
+!scripts/eBird_taxonomy_v2024_es.csv
 !scripts/all-states.json
 scripts/arrayToJson.js
 !scripts/tripReports.json
