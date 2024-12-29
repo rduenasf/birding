@@ -89,36 +89,49 @@ function generateSightings({
       recorded === 1 ? " / Recording" : ""
     })`;
 
+  let firstPhotoObs = !!observations[0].photographed;
+  let firstRecordingObs = !!observations[0].recorded;
+  let bestPhotoObs = false;
+  let bestRecordingObs = false;
+
+  function formatSighting(observation, prefix) {
+    return `${prefix} Sighting${
+      observation.photographed
+        ? photographed === 1
+          ? " / Only Photo"
+          : bestPhoto.ebirdChecklistId === observation.submissionId
+          ? ` / ${prefix} and Best Photo`
+          : prefix === "Last"
+          ? ""
+          : ` / ${prefix} Photo`
+        : ""
+    }${
+      observation.recorded
+        ? recorded === 1
+          ? " / Only Recording"
+          : bestRecording.ebirdChecklistId === observation.submissionId
+          ? ` / ${prefix} and Best Recording`
+          : prefix === "Last"
+          ? ""
+          : `/ ${prefix} Recording`
+        : ""
+    }`;
+  }
+
   const sightings = [
     {
       ...observations[0],
-      type: `First Sighting${
-        observations[0].photographed
-          ? photographed === 1
-            ? " / Only Photo"
-            : " / First Photo"
-          : ""
-      }${
-        observations[0].recorded
-          ? recorded === 1
-            ? " / Only Recording"
-            : " / First Recording"
-          : ""
-      }`,
+      type: formatSighting(observations[0], "First"),
       priority: 0,
     },
     {
       ...observations[observations.length - 1],
-      type: "Last Sighting",
+      type: formatSighting(observations[observations.length - 1], "Last"),
       priority: 5,
     },
   ];
-  let firstPhotoObs = false;
-  let firstRecordingObs = false;
-  let bestPhotoObs = false;
-  let bestRecordingObs = false;
 
-  observations.slice(1).forEach((obs) => {
+  observations.slice(1, observations.length - 1).forEach((obs) => {
     if (
       !firstPhotoObs &&
       obs.mlCatalogNumbers &&

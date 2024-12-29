@@ -35,8 +35,7 @@ The cackling goose (Branta hutchinsii) is a species of goose found in North Amer
 ### Relevant Sightings
 
 * [02-24-2024 - California, United States](https://ebird.org/checklist/S162776023) (First Sighting)
-* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Only Recording)
-* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Last Sighting)
+* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Last Sighting / Only Recording)
 
 ### Places Seen
 

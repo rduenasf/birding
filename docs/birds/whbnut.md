@@ -38,8 +38,7 @@ The white-breasted nuthatch breeds throughout much of North America, except in t
 ### Relevant Sightings
 
 * [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
-* [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (Only Recording)
-* [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (Last Sighting)
+* [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (Last Sighting / Only Recording)
 
 ### Places Seen
 

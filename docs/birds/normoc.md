@@ -38,8 +38,7 @@ The mockingbird is influential in United States culture, being the state bird of
 
 * [02-24-2024 - California, United States](https://ebird.org/checklist/S162799737) (First Sighting)
 * [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (Only Recording)
-* [11-30-2024 - California, United States](https://ebird.org/checklist/S204068913) (Only Photo)
-* [11-30-2024 - California, United States](https://ebird.org/checklist/S204068913) (Last Sighting)
+* [11-30-2024 - California, United States](https://ebird.org/checklist/S204068913) (Last Sighting / Only Photo)
 
 ### Places Seen
 

@@ -36,8 +36,7 @@ Molecular evidence, derived from whole-genome sequencing, has revealed that the 
 ### Relevant Sightings
 
 * [07-06-2024 - Florida, United States](https://ebird.org/checklist/S185700617) (First Sighting)
-* [07-07-2024 - Florida, United States](https://ebird.org/checklist/S206223192) (Only Photo)
-* [07-07-2024 - Florida, United States](https://ebird.org/checklist/S206223192) (Last Sighting)
+* [07-07-2024 - Florida, United States](https://ebird.org/checklist/S206223192) (Last Sighting / Only Photo)
 
 ### Places Seen
 

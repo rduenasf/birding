@@ -35,8 +35,7 @@ The western bluebird (Sialia mexicana) is a small North American thrush.[^1]
 ### Relevant Sightings
 
 * [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
-* [12-04-2024 - California, United States](https://ebird.org/checklist/S204487401) (Only Photo)
-* [12-04-2024 - California, United States](https://ebird.org/checklist/S204487401) (Last Sighting)
+* [12-04-2024 - California, United States](https://ebird.org/checklist/S204487401) (Last Sighting / Only Photo)
 
 ### Places Seen
 

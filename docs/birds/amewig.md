@@ -35,8 +35,7 @@ The American wigeon (Mareca americana), also known as the baldpate, is a species
 ### Relevant Sightings
 
 * [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
-* [11-30-2024 - California, United States](https://ebird.org/checklist/S204068913) (Only Recording)
-* [11-30-2024 - California, United States](https://ebird.org/checklist/S204068913) (Last Sighting)
+* [11-30-2024 - California, United States](https://ebird.org/checklist/S204068913) (Last Sighting / Only Recording)
 
 ### Places Seen
 

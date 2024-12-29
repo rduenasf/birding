@@ -35,8 +35,7 @@ The California thrasher (Toxostoma redivivum) is a large member of family Mimida
 ### Relevant Sightings
 
 * [01-28-2024 - California, United States](https://ebird.org/checklist/S160073236) (First Sighting)
-* [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (Only Recording)
-* [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (Last Sighting)
+* [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (Last Sighting / Only Recording)
 
 ### Places Seen
 

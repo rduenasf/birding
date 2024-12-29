@@ -35,8 +35,7 @@ The magnificent frigatebird is a large, lightly built seabird with brownish-blac
 
 ### Relevant Sightings
 
-* [03-10-2015 - Quintana Roo, Mexico](https://ebird.org/checklist/S206239632) (First Sighting / First Photo)
-* [07-05-2024 - Florida, United States](https://ebird.org/checklist/S185524319) (First Photo)
+* [03-10-2015 - Quintana Roo, Mexico](https://ebird.org/checklist/S206239632) (First Sighting / First and Best Photo)
 * [07-05-2024 - Florida, United States](https://ebird.org/checklist/S185524319) (Last Sighting)
 
 ### Places Seen

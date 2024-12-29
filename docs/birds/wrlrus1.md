@@ -34,8 +34,7 @@ The wren-like rushbird (Phleocryptes melanops) is a species of bird in the Furna
 
 ### Relevant Sightings
 
-* [10-11-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398422) (First Sighting / First Photo)
-* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994043) (First Photo)
+* [10-11-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398422) (First Sighting / First and Best Photo)
 * [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994043) (Last Sighting)
 
 ### Places Seen

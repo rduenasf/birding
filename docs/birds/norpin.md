@@ -38,8 +38,7 @@ The northern pintail is a bird of open wetlands which nests on the ground, often
 
 * [12-23-2023 - California, United States](https://ebird.org/checklist/S157058117) (First Sighting)
 * [01-21-2024 - California, United States](https://ebird.org/checklist/S159471387) (Only Photo)
-* [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (Only Recording)
-* [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (Last Sighting)
+* [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (Last Sighting / Only Recording)
 
 ### Places Seen
 

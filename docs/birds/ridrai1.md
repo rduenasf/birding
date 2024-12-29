@@ -36,8 +36,7 @@ This species is closely related to the clapper rail, and until recently was cons
 ### Relevant Sightings
 
 * [12-23-2023 - California, United States](https://ebird.org/checklist/S157058117) (First Sighting)
-* [11-30-2024 - California, United States](https://ebird.org/checklist/S204074627) (Only Recording)
-* [11-30-2024 - California, United States](https://ebird.org/checklist/S204074627) (Last Sighting)
+* [11-30-2024 - California, United States](https://ebird.org/checklist/S204074627) (Last Sighting / Only Recording)
 
 ### Places Seen
 

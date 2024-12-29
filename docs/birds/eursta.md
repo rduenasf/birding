@@ -38,8 +38,7 @@ The species has declined in numbers in parts of northern and western Europe sinc
 ### Relevant Sightings
 
 * [01-28-2024 - California, United States](https://ebird.org/checklist/S160074927) (First Sighting)
-* [11-28-2024 - California, United States](https://ebird.org/checklist/S203889552) (Only Recording)
-* [11-28-2024 - California, United States](https://ebird.org/checklist/S203889552) (Last Sighting)
+* [11-28-2024 - California, United States](https://ebird.org/checklist/S203889552) (Last Sighting / Only Recording)
 
 ### Places Seen
 

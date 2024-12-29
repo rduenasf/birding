@@ -36,8 +36,7 @@ Nuttall's woodpecker (Dryobates nuttallii) is a species of woodpecker named afte
 
 * [12-02-2023 - California, United States](https://ebird.org/checklist/S155611564) (First Sighting)
 * [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (First Recording)
-* [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (Best Recording)
-* [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (Last Sighting)
+* [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (Last Sighting / Last and Best Recording)
 
 ### Places Seen
 

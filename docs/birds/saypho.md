@@ -36,8 +36,7 @@ Say's phoebe (Sayornis saya) is a passerine bird in the tyrant flycatcher family
 
 * [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
 * [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (First Recording)
-* [11-17-2024 - California, United States](https://ebird.org/checklist/S202811385) (Best Recording)
-* [11-17-2024 - California, United States](https://ebird.org/checklist/S202811385) (Last Sighting)
+* [11-17-2024 - California, United States](https://ebird.org/checklist/S202811385) (Last Sighting / Last and Best Recording)
 
 ### Places Seen
 

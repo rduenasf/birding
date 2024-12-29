@@ -40,8 +40,7 @@ The dark-eyed junco (Junco hyemalis) is a species of junco, a group of small, gr
 * [01-29-2024 - California, United States](https://ebird.org/checklist/S160285558) (First Photo)
 * [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (First Recording)
 * [12-08-2024 - California, United States](https://ebird.org/checklist/S204849205) (Best Recording)
-* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Best Photo)
-* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Last Sighting)
+* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Last Sighting / Last and Best Photo)
 
 ### Places Seen
 

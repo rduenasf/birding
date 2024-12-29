@@ -35,8 +35,7 @@ The western meadowlark (Sturnella neglecta) is a medium-sized icterid bird, abou
 ### Relevant Sightings
 
 * [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
-* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Only Recording)
-* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Last Sighting)
+* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Last Sighting / Only Recording)
 
 ### Places Seen
 

@@ -40,8 +40,7 @@ American crows are common, widespread, and susceptible to the West Nile virus, m
 * [07-05-2024 - Florida, United States](https://ebird.org/checklist/S185439324) (First Photo)
 * [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (First Recording)
 * [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (Best Recording)
-* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Best Photo)
-* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Last Sighting)
+* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Last Sighting / Last and Best Photo)
 
 ### Places Seen
 

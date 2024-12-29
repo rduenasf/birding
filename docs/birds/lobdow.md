@@ -36,8 +36,7 @@ The long-billed dowitcher is nearly identical in appearance to the short-billed 
 ### Relevant Sightings
 
 * [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
-* [11-24-2024 - California, United States](https://ebird.org/checklist/S203486069) (Only Recording)
-* [11-24-2024 - California, United States](https://ebird.org/checklist/S203486069) (Last Sighting)
+* [11-24-2024 - California, United States](https://ebird.org/checklist/S203486069) (Last Sighting / Only Recording)
 
 ### Places Seen
 

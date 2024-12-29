@@ -37,8 +37,7 @@ Because of its numbers, ubiquity, and association with human settlements, the ho
 ### Relevant Sightings
 
 * [11-11-2023 - California, United States](https://ebird.org/checklist/S154259403) (First Sighting)
-* [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (Only Recording)
-* [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (Last Sighting)
+* [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (Last Sighting / Only Recording)
 
 ### Places Seen
 

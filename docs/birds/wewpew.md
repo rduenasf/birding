@@ -35,8 +35,7 @@ The western wood pewee (Contopus sordidulus) is a small tyrant flycatcher. Adult
 ### Relevant Sightings
 
 * [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768235) (First Sighting)
-* [05-11-2024 - California, United States](https://ebird.org/checklist/S174510998) (Only Photo)
-* [05-11-2024 - California, United States](https://ebird.org/checklist/S174510998) (Last Sighting)
+* [05-11-2024 - California, United States](https://ebird.org/checklist/S174510998) (Last Sighting / Only Photo)
 
 ### Places Seen
 

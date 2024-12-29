@@ -36,8 +36,7 @@ The willet (Tringa semipalmata) is a large shorebird in the family Scolopacidae.
 
 * [12-02-2023 - California, United States](https://ebird.org/checklist/S155611564) (First Sighting)
 * [11-24-2024 - California, United States](https://ebird.org/checklist/S203486069) (First Recording)
-* [11-30-2024 - California, United States](https://ebird.org/checklist/S204068913) (Best Recording)
-* [11-30-2024 - California, United States](https://ebird.org/checklist/S204068913) (Last Sighting)
+* [11-30-2024 - California, United States](https://ebird.org/checklist/S204068913) (Last Sighting / Last and Best Recording)
 
 ### Places Seen
 
