@@ -144,7 +144,7 @@ function generateSightings({
       obs.mlCatalogNumbers.filter(({ format }) => format === "Photo").length > 0
     ) {
       firstPhotoObs = true;
-      if (bestPhoto && bestPhoto.ebirdChecklistId === obs.submissionId) {
+      if (bestPhoto?.ebirdChecklistId === obs.submissionId) {
         bestPhotoObs = true;
         sightings.push({
           ...obs,
@@ -161,10 +161,7 @@ function generateSightings({
       obs.mlCatalogNumbers.filter(({ format }) => format === "Audio").length > 0
     ) {
       firstRecordingObs = true;
-      if (
-        bestRecording &&
-        bestRecording.ebirdChecklistId === obs.submissionId
-      ) {
+      if (bestRecording?.ebirdChecklistId === obs.submissionId) {
         bestRecordingObs = true;
         sightings.push({
           ...obs,
@@ -311,12 +308,12 @@ function generateBirdPages(species, outputDir) {
   species.forEach((bird, index) => {
     const photos = bird.observations
       .flatMap((obs) => obs.mlCatalogNumbers)
-      .filter((obj) => obj !== undefined && obj.format === "Photo");
+      .filter((obj) => obj?.format === "Photo");
 
     const audios = bird.observations
       .sort((a, b) => b.averageCommunityRating - a.averageCommunityRating)
       .flatMap((obs) => obs.mlCatalogNumbers)
-      .filter((obj) => obj !== undefined && obj.format === "Audio");
+      .filter((obj) => obj?.format === "Audio");
 
     const photoEmbeds = generatePhotoEmbeds(photos);
     const audioEmbeds = generateAudioEmbeds(audios);
@@ -380,15 +377,11 @@ ${birdsByYear[year]
       observations,
     } = birds[birds.length - 1 - index];
 
-    const obsTripReport =
-      observations[0].tripReport && observations[0].tripReport;
+    const obsTripReport = observations[0].tripReport;
 
     let html = "";
 
-    if (
-      (currentTripReport && currentTripReport.id) !==
-      (observations[0].tripReport && observations[0].tripReport.id)
-    ) {
+    if (currentTripReport?.id !== observations[0].tripReport?.id) {
       cardCount = 0;
       currentTripReport = obsTripReport;
       if (currentTripReport)

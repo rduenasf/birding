@@ -62,7 +62,7 @@ const getQueryParam = (param) => {
 };
 
 const onEachFeature = (feature, layer, data) => {
-  if (feature.properties && feature.properties.NAME) {
+  if (feature.properties?.NAME) {
     const countryName = feature.properties.NAME;
     const speciesCount = data[feature.properties.ISO_A2] || 0;
     layer.bindTooltip(`${countryName}: ${speciesCount}`);

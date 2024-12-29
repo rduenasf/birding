@@ -283,7 +283,7 @@ const replaceMlCatalogNumbers = () => {
     if (dataDict[key].photographed > 0) {
       dataDict[key].bestPhoto = dataDict[key].observations
         .flatMap((obs) => obs.mlCatalogNumbers)
-        .filter((item) => item && item.format === "Photo")
+        .filter((item) => item?.format === "Photo")
         .reduce((best, item) => {
           if (
             !best ||
@@ -298,7 +298,7 @@ const replaceMlCatalogNumbers = () => {
     if (dataDict[key].recorded > 0) {
       dataDict[key].bestRecording = dataDict[key].observations
         .flatMap((obs) => obs.mlCatalogNumbers)
-        .filter((item) => item && item.format === "Audio")
+        .filter((item) => item?.format === "Audio")
         .reduce((best, item) => {
           if (
             !best ||
