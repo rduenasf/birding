@@ -5,6 +5,7 @@ order: "Galliformes"
 family: "Phasianidae (Pheasants, Grouse, and Allies)"
 species_group: "Grouse, Quail, and Allies"
 species_code: "soogro1"
+
 sidebar_position: 349
 sidebar_class_name: "has-photo "
 tags: 

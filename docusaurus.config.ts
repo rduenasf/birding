@@ -98,12 +98,12 @@ const config: Config = {
         type: 'docSidebar',
         position: 'left',
         sidebarId: 'tutorialSidebar',
-        label: 'Birds',
+        label: 'Life List',
       },
       {
         to: 'map',
         position: 'left',
-        label: 'Map',
+        label: 'Sightings Map',
       },
       {
         to: 'resources',

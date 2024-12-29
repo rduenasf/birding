@@ -5,6 +5,7 @@ order: "Columbiformes"
 family: "Columbidae (Pigeons and Doves)"
 species_group: "Pigeons and Doves"
 species_code: "chipig2"
+
 sidebar_position: 108
 sidebar_class_name: "has-photo "
 tags: 

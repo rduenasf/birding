@@ -5,6 +5,7 @@ order: "Gruiformes"
 family: "Rallidae (Rails, Gallinules, and Coots)"
 species_group: "Rails, Gallinules, and Allies"
 species_code: "refcoo1"
+
 sidebar_position: 299
 sidebar_class_name: "has-photo "
 tags: 

@@ -5,6 +5,7 @@ order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
 species_group: "Shorebirds"
 species_code: "whimbr"
+
 sidebar_position: 401
 sidebar_class_name: "has-photo "
 tags: 

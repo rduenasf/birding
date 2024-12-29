@@ -5,6 +5,7 @@ order: "Passeriformes"
 family: "Paridae (Tits, Chickadees, and Titmice)"
 species_group: "Tits, Chickadees, and Titmice"
 species_code: "mexchi"
+
 sidebar_position: 242
 sidebar_class_name: " "
 tags: 

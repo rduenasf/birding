@@ -5,6 +5,7 @@ order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
 species_group: "Wrens"
 species_code: "sedwre"
+
 sidebar_position: 169
 sidebar_class_name: " "
 tags: 

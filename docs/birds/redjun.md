@@ -5,6 +5,7 @@ order: "Galliformes"
 family: "Phasianidae (Pheasants, Grouse, and Allies)"
 species_group: "Grouse, Quail, and Allies"
 species_code: "redjun"
+
 sidebar_position: 293
 sidebar_class_name: "has-photo "
 tags: 

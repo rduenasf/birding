@@ -5,6 +5,7 @@ order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
 species_group: "Wrens"
 species_code: "rocwre"
+
 sidebar_position: 315
 sidebar_class_name: "has-photo "
 tags: 

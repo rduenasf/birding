@@ -5,6 +5,7 @@ order: "Charadriiformes"
 family: "Recurvirostridae (Stilts and Avocets)"
 species_group: "Shorebirds"
 species_code: "ameavo"
+
 sidebar_position: 4
 sidebar_class_name: "has-photo "
 tags: 

@@ -5,6 +5,7 @@ order: "Passeriformes"
 family: "Corvidae (Crows, Jays, and Magpies)"
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "stejay"
+
 sidebar_position: 358
 sidebar_class_name: "has-photo has-audio"
 tags: 

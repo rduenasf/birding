@@ -5,6 +5,7 @@ order: "Suliformes"
 family: "Fregatidae (Frigatebirds)"
 species_group: "Frigatebirds, Boobies, and Gannets"
 species_code: "magfri"
+
 sidebar_position: 236
 sidebar_class_name: "has-photo "
 tags: 

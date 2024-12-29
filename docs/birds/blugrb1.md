@@ -5,6 +5,7 @@ order: "Passeriformes"
 family: "Cardinalidae (Cardinals and Allies)"
 species_group: "Cardinals, Grosbeaks, and Allies"
 species_code: "blugrb1"
+
 sidebar_position: 59
 sidebar_class_name: "has-photo "
 tags: 

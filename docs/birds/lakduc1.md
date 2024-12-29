@@ -5,6 +5,7 @@ order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "lakduc1"
+
 sidebar_position: 218
 sidebar_class_name: "has-photo "
 tags: 

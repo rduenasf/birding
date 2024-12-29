@@ -237,6 +237,7 @@ order: "${order}"
 family: "${family}"
 species_group: "${speciesGroup}"
 species_code: "${speciesCode}"
+${index === 0 ? `pagination_prev: null` : ""}
 sidebar_position: ${index + 1}
 sidebar_class_name: "${photoEmbeds.length > 0 ? "has-photo" : ""} ${
     audioEmbeds.length > 0 ? "has-audio" : ""
@@ -346,6 +347,7 @@ function generateIndexFile(species, outputDir) {
 id: Birds
 title: Life List
 slug: /
+pagination_next: null
 ---
 
 import BirdCard from '@site/src/components/BirdCard';

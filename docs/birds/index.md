@@ -2,6 +2,7 @@
 id: Birds
 title: Life List
 slug: /
+pagination_next: null
 ---
 
 import BirdCard from '@site/src/components/BirdCard';

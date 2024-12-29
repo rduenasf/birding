@@ -5,6 +5,7 @@ order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
 species_group: "New World Sparrows"
 species_code: "whtspa"
+
 sidebar_position: 413
 sidebar_class_name: " "
 tags: 
