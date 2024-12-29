@@ -17,21 +17,34 @@ tags:
 
 # California Towhee <span className='sci_name'>Melozone crissalis</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=caltow) | [Map](/map?species_code=caltow)
-
-**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=caltow&mediaType=audio&view=grid)
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The California towhee (Melozone crissalis) is a bird of the family Passerellidae, native to the coastal regions of western Oregon and California in the United States and Baja California  and Baja California Sur in Mexico.
 The taxonomy of this species has been debated. At the higher level, some authors place the towhees in the family Fringillidae. Within the group, there has been debate about whether the distinction between this species and the similar canyon towhee (Melozone fuscus) should be at the specific or subspecific level. The two species used to be grouped together as the brown towhee, yet today they are identified separately, especially because of their differing feather coloration, and the canyon towhee's dark central breast spot. The two populations are quite isolated from each other, and molecular genetics seems to have settled the matter in favour of two distinct species for the present. On the other hand, there seems to be little distinction between the northern and Baja Californian populations within M. crissalis.  Nowadays, scientists consider the Abert's towhee as the California towhee's closest relative due to closely aligned DNA and patterns.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/California_towhee
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=caltow) | [Map](/map?species_code=caltow)
+
+### Relevant Sightings
+
+* [11-11-2023 - California, United States](https://ebird.org/checklist/S154259403) (First Sighting)
+* [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (First Recording)
+* [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (Best Recording)
+* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

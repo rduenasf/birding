@@ -17,23 +17,34 @@ tags:
 
 # Gadwall <span className='sci_name'>Mareca strepera</span>
 
-**Taxonomy:** [Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+## Overview
+
+### Description
+The gadwall (Mareca strepera) is a common and widespread dabbling duck in the family Anatidae.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Gadwall
+
+### Taxonomy
+[Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
 
 **Subspecies Seen**: Gadwall (Common)
 
+
+## Sightings
+
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gadwal) | [Map](/map?species_code=gadwal)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [11-11-2023 - California, United States](https://ebird.org/checklist/S154259403) (First Sighting)
+* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+
+### Places Seen
 
 * California, United States
 * Ontario, Canada
 
-## Description
-The gadwall (Mareca strepera) is a common and widespread dabbling duck in the family Anatidae.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Gadwall
 
 ## Media
 ### Photographs

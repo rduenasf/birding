@@ -17,21 +17,33 @@ tags:
 
 # Common Yellowthroat <span className='sci_name'>Geothlypis trichas</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
+## Overview
+
+### Description
+The common yellowthroat (Geothlypis trichas), also known as the yellow bandit or Maryland yellow-throat, is a New World warbler. It is an abundant breeder in North America, ranging from southern Canada to central Mexico. The genus name Geothlypis is from Ancient Greek geo, "ground", and thlupis, an unidentified small bird; thlypis is often used in the scientific names of New World warblers. The specific  trichas is also from Greek; trikhas is a kind of thrush, the word being derived from trikhos, "hair".[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Common_yellowthroat
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=comyel) | [Map](/map?species_code=comyel)
 
-**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=comyel&mediaType=audio&view=grid)
+### Relevant Sightings
 
-## Places Seen
+* [12-23-2023 - California, United States](https://ebird.org/checklist/S157058117) (First Sighting)
+* [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (First/Best Recording)
+* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+
+### Places Seen
 
 * California, United States
 * Ciudad de México, Mexico
 
-## Description
-The common yellowthroat (Geothlypis trichas), also known as the yellow bandit or Maryland yellow-throat, is a New World warbler. It is an abundant breeder in North America, ranging from southern Canada to central Mexico. The genus name Geothlypis is from Ancient Greek geo, "ground", and thlupis, an unidentified small bird; thlypis is often used in the scientific names of New World warblers. The specific  trichas is also from Greek; trikhas is a kind of thrush, the word being derived from trikhos, "hair".[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Common_yellowthroat
 
 ## Media
 ### Photographs

@@ -17,22 +17,32 @@ tags:
 
 # Blue-gray Gnatcatcher <span className='sci_name'>Polioptila caerulea</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Polioptilidae (Gnatcatchers)](/tags/polioptilidae-gnatcatchers) > [Gnatcatchers](/tags/gnatcatchers)
+## Overview
 
-**Subspecies Seen**: Blue-gray Gnatcatcher (Western)
-
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=buggna) | [Map](/map?species_code=buggna)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Arizona, United States
-
-## Description
+### Description
 The blue-gray gnatcatcher (Polioptila caerulea) is a very small gnatcatcher native to North America.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Blue-gray_gnatcatcher
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Polioptilidae (Gnatcatchers)](/tags/polioptilidae-gnatcatchers) > [Gnatcatchers](/tags/gnatcatchers)
+
+**Subspecies Seen**: Blue-gray Gnatcatcher (Western)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=buggna) | [Map](/map?species_code=buggna)
+
+### Relevant Sightings
+
+* [2024-04-28T14:45:00.000Z - Arizona, United States](https://ebird.org/checklist/S170824758) (Only Sighting)
+
+### Places Seen
+
+* Arizona, United States
+
+
 
 ## Media
 ### Photographs

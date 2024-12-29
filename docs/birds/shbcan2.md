@@ -17,20 +17,31 @@ tags:
 
 # Sharp-billed Canastero <span className='sci_name'>Asthenes pyrrholeuca</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers) > [Ovenbirds](/tags/ovenbirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=shbcan2) | [Map](/map?species_code=shbcan2)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Región Metropolitana de Santiago, Chile
-
-## Description
+### Description
 The sharp-billed canastero or lesser canastero (Asthenes pyrrholeuca) is a species of bird in the Furnariinae subfamily of the ovenbird family Furnariidae. It is found in Argentina, Bolivia, Chile, Paraguay, and Uruguay, and has also occurred as a vagrant in Brazil.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Sharp-billed_canastero
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers) > [Ovenbirds](/tags/ovenbirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=shbcan2) | [Map](/map?species_code=shbcan2)
+
+### Relevant Sightings
+
+* [10-19-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524262) (First Sighting)
+* [10-19-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524278) (Last Sighting)
+
+### Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
+
 
 ## Media
 ### Photographs

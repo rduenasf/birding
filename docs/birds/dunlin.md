@@ -17,21 +17,31 @@ tags:
 
 # Dunlin <span className='sci_name'>Calidris alpina</span>
 
-**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=dunlin) | [Map](/map?species_code=dunlin)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The dunlin (Calidris alpina) is a small wader in the genus Calidris. The English name is a dialect form of "dunling", first recorded in 1531–1532. It derives from dun, "dull brown", with the suffix -ling, meaning a person or thing with the given quality.
 It is a circumpolar breeder in Arctic or subarctic regions. Birds that breed in western Europe are short-distance migrants largely staying on western and southern European and northwest African coasts; those breeding in far northern Europe and Asia are long-distance migrants, wintering south to Africa, southeast Asia and the Middle East. Birds that breed in Alaska and the Canadian Arctic migrate short distances to the Pacific and Atlantic coasts of North America, although those nesting in northern Alaska overwinter in Asia.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Dunlin
+
+### Taxonomy
+[Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=dunlin) | [Map](/map?species_code=dunlin)
+
+### Relevant Sightings
+
+* [2024-03-31T15:25:00.000Z - California, United States](https://ebird.org/checklist/S166695330) (Only Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

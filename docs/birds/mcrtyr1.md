@@ -17,21 +17,32 @@ tags:
 
 # Many-colored Rush Tyrant <span className='sci_name'>Tachuris rubrigastra</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Elaenias, Tyrannulets, and Allies](/tags/tyrant-flycatchers-elaenias-tyrannulets-and-allies)
+## Overview
+
+### Description
+The many-colored rush tyrant or many-coloured rush tyrant (Tachuris rubrigastra) is a small passerine bird of South America belonging to the tyrant flycatcher family, Tyrannidae. It is the only member of the genus Tachuris and is sometimes placed in a separate monotypic family. It inhabits marshland and reedbeds around lakes and rivers. It is particularly associated with stands of Scirpus. The nest is built among plant stems.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Many-colored_rush_tyrant
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Elaenias, Tyrannulets, and Allies](/tags/tyrant-flycatchers-elaenias-tyrannulets-and-allies)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mcrtyr1) | [Map](/map?species_code=mcrtyr1)
 
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=mcrtyr1&mediaType=photo&view=grid) | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [10-11-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398422) (First Sighting / Only Photo)
+* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994043) (Last Sighting)
+
+### Places Seen
 
 * Región Metropolitana de Santiago, Chile
 * Valparaíso, Chile
 
-## Description
-The many-colored rush tyrant or many-coloured rush tyrant (Tachuris rubrigastra) is a small passerine bird of South America belonging to the tyrant flycatcher family, Tyrannidae. It is the only member of the genus Tachuris and is sometimes placed in a separate monotypic family. It inhabits marshland and reedbeds around lakes and rivers. It is particularly associated with stands of Scirpus. The nest is built among plant stems.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Many-colored_rush_tyrant
 
 ## Media
 ### Photographs

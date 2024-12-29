@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Turdidae (Thrushes and Allies)"
 species_group: "Thrushes"
 species_code: "wesblu"
-sidebar_position: 391
+sidebar_position: 392
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
@@ -17,22 +17,34 @@ tags:
 
 # Western Bluebird <span className='sci_name'>Sialia mexicana</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies) > [Thrushes](/tags/thrushes)
+## Overview
+
+### Description
+The western bluebird (Sialia mexicana) is a small North American thrush.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Western_bluebird
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies) > [Thrushes](/tags/thrushes)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wesblu) | [Map](/map?species_code=wesblu)
 
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=wesblu&mediaType=photo&view=grid) | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
+* [12-04-2024 - California, United States](https://ebird.org/checklist/S204487401) (Only Photo)
+* [12-04-2024 - California, United States](https://ebird.org/checklist/S204487401) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * California, United States
 * Ciudad de México, Mexico
 
-## Description
-The western bluebird (Sialia mexicana) is a small North American thrush.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Western_bluebird
 
 ## Media
 ### Photographs

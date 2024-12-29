@@ -17,20 +17,30 @@ tags:
 
 # Chestnut-sided Shrike-Vireo <span className='sci_name'>Vireolanius melitophrys</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Vireonidae (Vireos, Shrike-Babblers, and Erpornis)](/tags/vireonidae-vireos-shrike-babblers-and-erpornis) > [Vireos](/tags/vireos)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cssvir1) | [Map](/map?species_code=cssvir1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Morelos, Mexico
-
-## Description
+### Description
 The chestnut-sided shrike-vireo (Vireolanius melitophrys), sometimes called the honey-browed shrike-vireo, is a species of bird in the family Vireonidae, and probably the largest member of the entire family. A widespread species of subtropical and tropical moist montane forests, this species is found from Jalisco and San Luis Potosí, Mexico in the north to southern Guatemala.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Chestnut-sided_shrike-vireo
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Vireonidae (Vireos, Shrike-Babblers, and Erpornis)](/tags/vireonidae-vireos-shrike-babblers-and-erpornis) > [Vireos](/tags/vireos)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cssvir1) | [Map](/map?species_code=cssvir1)
+
+### Relevant Sightings
+
+* [2024-05-03T16:54:00.000Z - Morelos, Mexico](https://ebird.org/checklist/S171768259) (Only Sighting)
+
+### Places Seen
+
+* Morelos, Mexico
+
+
 
 ## Media
 ### Photographs

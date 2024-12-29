@@ -17,21 +17,32 @@ tags:
 
 # Northern Harrier <span className='sci_name'>Circus hudsonius</span>
 
-**Taxonomy:** [Accipitriformes](/tags/accipitriformes) > [Accipitridae (Hawks, Eagles, and Kites)](/tags/accipitridae-hawks-eagles-and-kites) > [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=norhar2) | [Map](/map?species_code=norhar2)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The northern harrier (Circus hudsonius), also known as the marsh hawk or ring-tailed hawk, is a bird of prey. It breeds throughout the northern parts of the northern hemisphere in Canada and the northernmost USA.
 The northern harrier migrates south in winter, with breeding birds in Canada and northern Great Plains of the U.S. moving to the American south, Mexico, and Central America. In the midwestern, mountain west, and north Atlantic states of the U.S., they may be present all year. This bird inhabits prairies, open areas, and marshes.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Northern_harrier
+
+### Taxonomy
+[Accipitriformes](/tags/accipitriformes) > [Accipitridae (Hawks, Eagles, and Kites)](/tags/accipitridae-hawks-eagles-and-kites) > [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=norhar2) | [Map](/map?species_code=norhar2)
+
+### Relevant Sightings
+
+* [12-23-2023 - California, United States](https://ebird.org/checklist/S157058117) (First Sighting)
+* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

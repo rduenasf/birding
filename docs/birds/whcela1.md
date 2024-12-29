@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
 species_group: "Tyrant Flycatchers: Elaenias, Tyrannulets, and Allies"
 species_code: "whcela1"
-sidebar_position: 404
+sidebar_position: 405
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -17,24 +17,35 @@ tags:
 
 # White-crested Elaenia <span className='sci_name'>Elaenia albiceps</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Elaenias, Tyrannulets, and Allies](/tags/tyrant-flycatchers-elaenias-tyrannulets-and-allies)
+## Overview
+
+### Description
+The white-crested elaenia (Elaenia albiceps) is a species of bird in subfamily Elaeniinae of family Tyrannidae, the tyrant flycatchers. It is found in Bolivia, Chile, Colombia, Ecuador, and Peru.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/White-crested_elaenia
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Elaenias, Tyrannulets, and Allies](/tags/tyrant-flycatchers-elaenias-tyrannulets-and-allies)
 
 **Subspecies Seen**: White-crested Elaenia (Chilean)
 
+
+## Sightings
+
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whcela1) | [Map](/map?species_code=whcela1)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994043) (First Sighting)
+* [10-23-2024 - Libertador General Bernardo O'Higgins, Chile](https://ebird.org/checklist/S199973075) (Last Sighting)
+
+### Places Seen
 
 * Libertador General Bernardo O'Higgins, Chile
 * Región Metropolitana de Santiago, Chile
 * Valparaíso, Chile
 
-## Description
-The white-crested elaenia (Elaenia albiceps) is a species of bird in subfamily Elaeniinae of family Tyrannidae, the tyrant flycatchers. It is found in Bolivia, Chile, Colombia, Ecuador, and Peru.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/White-crested_elaenia
 
 ## Media
 ### Photographs

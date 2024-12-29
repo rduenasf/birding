@@ -17,17 +17,9 @@ tags:
 
 # Guanay Cormorant <span className='sci_name'>Leucocarbo bougainvilliorum</span>
 
-**Taxonomy:** [Suliformes](/tags/suliformes) > [Phalacrocoracidae (Cormorants and Shags)](/tags/phalacrocoracidae-cormorants-and-shags) > [Cormorants and Anhingas](/tags/cormorants-and-anhingas)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=guacor1) | [Map](/map?species_code=guacor1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Valparaíso, Chile
-
-## Description
+### Description
 The guanay cormorant or guanay shag (Leucocarbo bougainvilliorum) is a member of the cormorant family found on the Pacific coast of Peru and northern Chile.  (The Argentinian population on the Patagonian Atlantic coast appears to be extirpated.) After breeding it spreads south to southern parts of Chile and north to Ecuador, and has also been recorded as far north as Panama and Colombia – probably a result of mass dispersal due to food shortage in El Niño years. Its major habitats include shallow seawater and rocky shores.
 
 The guanay cormorant is similar in coloration to the rock shag, Leucocarbo magellanicus, but larger, measuring 78 cm from the tip of the bill to the end of the tail. Its bill is grayish with some red at the base. The face is red with a green eye-ring. It has roseate feet. The head, neck and back are black as are the outer parts of the thighs. The throat patch, breast and belly are white. In breeding plumage it has a few white feathers on the sides of the head and neck.
@@ -38,6 +30,24 @@ Some taxonomic authorities, including the International Ornithologists' Union, p
 The scientific name commemorates the French explorer Louis Antoine de Bougainville. The bird's droppings were such an important source of fertilizer to the peoples of the Andes that it was protected by Inca rulers, who supposedly made disturbing the cormorants in any way punishable by death. The common name is an adaptation of the South American Spanish guanae, a plural of the English equivalent guano.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Guanay_cormorant
+
+### Taxonomy
+[Suliformes](/tags/suliformes) > [Phalacrocoracidae (Cormorants and Shags)](/tags/phalacrocoracidae-cormorants-and-shags) > [Cormorants and Anhingas](/tags/cormorants-and-anhingas)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=guacor1) | [Map](/map?species_code=guacor1)
+
+### Relevant Sightings
+
+* [2024-10-12T20:47:00.000Z - Valparaíso, Chile](https://ebird.org/checklist/S198994214) (Only Sighting)
+
+### Places Seen
+
+* Valparaíso, Chile
+
+
 
 ## Media
 ### Photographs

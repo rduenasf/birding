@@ -17,21 +17,32 @@ tags:
 
 # Hepatic Tanager <span className='sci_name'>Piranga flava</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Cardinalidae (Cardinals and Allies)](/tags/cardinalidae-cardinals-and-allies) > [Cardinals, Grosbeaks, and Allies](/tags/cardinals-grosbeaks-and-allies)
+## Overview
+
+### Description
+The red tanager (Piranga flava) is a medium-sized American songbird in the family Cardinalidae.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Red_tanager
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Cardinalidae (Cardinals and Allies)](/tags/cardinalidae-cardinals-and-allies) > [Cardinals, Grosbeaks, and Allies](/tags/cardinals-grosbeaks-and-allies)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=heptan) | [Map](/map?species_code=heptan)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170587140) (First Sighting)
+* [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768281) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * Morelos, Mexico
 
-## Description
-The red tanager (Piranga flava) is a medium-sized American songbird in the family Cardinalidae.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Red_tanager
 
 ## Media
 ### Photographs

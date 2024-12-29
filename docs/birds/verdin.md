@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Remizidae (Penduline-Tits)"
 species_group: "Penduline-Tits and Verdin"
 species_code: "verdin"
-sidebar_position: 381
+sidebar_position: 382
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -17,20 +17,31 @@ tags:
 
 # Verdin <span className='sci_name'>Auriparus flaviceps</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Remizidae (Penduline-Tits)](/tags/remizidae-penduline-tits) > [Penduline-Tits and Verdin](/tags/penduline-tits-and-verdin)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=verdin) | [Map](/map?species_code=verdin)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Arizona, United States
-
-## Description
+### Description
 The verdin (Auriparus flaviceps) is a species of penduline tit. It is the only species in the genus Auriparus and the only representative of the old world family Remizidae to be found in North America.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Verdin
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Remizidae (Penduline-Tits)](/tags/remizidae-penduline-tits) > [Penduline-Tits and Verdin](/tags/penduline-tits-and-verdin)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=verdin) | [Map](/map?species_code=verdin)
+
+### Relevant Sightings
+
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170587133) (First Sighting)
+* [04-28-2024 - Arizona, United States](https://ebird.org/checklist/S170857525) (Last Sighting)
+
+### Places Seen
+
+* Arizona, United States
+
+
 
 ## Media
 ### Photographs

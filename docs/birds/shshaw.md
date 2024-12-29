@@ -17,20 +17,30 @@ tags:
 
 # Sharp-shinned Hawk <span className='sci_name'>Accipiter striatus</span>
 
-**Taxonomy:** [Accipitriformes](/tags/accipitriformes) > [Accipitridae (Hawks, Eagles, and Kites)](/tags/accipitridae-hawks-eagles-and-kites) > [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=shshaw) | [Map](/map?species_code=shshaw)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The sharp-shinned hawk (Accipiter striatus) or northern sharp-shinned hawk, commonly known as a sharpie, is a small hawk, with males being the smallest hawks in the United States and Canada, but with the species averaging larger than some Neotropical species, such as the tiny hawk. The taxonomy is far from resolved, with some authorities considering the southern taxa to represent three separate species: white-breasted hawk (A. chionogaster), plain-breasted hawk (A. ventralis), and rufous-thighed hawk (A. erythronemius). The American Ornithological Society and some other checklists keep all four species conspecific.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Sharp-shinned_hawk
+
+### Taxonomy
+[Accipitriformes](/tags/accipitriformes) > [Accipitridae (Hawks, Eagles, and Kites)](/tags/accipitridae-hawks-eagles-and-kites) > [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=shshaw) | [Map](/map?species_code=shshaw)
+
+### Relevant Sightings
+
+* [2024-01-28T16:21:00.000Z - California, United States](https://ebird.org/checklist/S160073236) (Only Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

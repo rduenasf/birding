@@ -17,25 +17,36 @@ tags:
 
 # Pine Siskin <span className='sci_name'>Spinus pinus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Fringillidae (Finches, Euphonias, and Allies)](/tags/fringillidae-finches-euphonias-and-allies) > [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
+## Overview
+
+### Description
+The pine siskin (Spinus pinus) is a North American bird in the finch family. It is a migratory bird with an extremely sporadic winter range.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Pine_siskin
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Fringillidae (Finches, Euphonias, and Allies)](/tags/fringillidae-finches-euphonias-and-allies) > [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
 
 **Subspecies Seen**: Pine Siskin (Northern)
 
+
+## Sightings
+
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pinsis) | [Map](/map?species_code=pinsis)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [04-06-2024 - Ontario, Canada](https://ebird.org/checklist/S167447623) (First Sighting)
+* [05-11-2024 - California, United States](https://ebird.org/checklist/S173585635) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * California, United States
 * Ciudad de México, Mexico
 * Ontario, Canada
 
-## Description
-The pine siskin (Spinus pinus) is a North American bird in the finch family. It is a migratory bird with an extremely sporadic winter range.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Pine_siskin
 
 ## Media
 ### Photographs

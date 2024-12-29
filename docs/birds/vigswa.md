@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Hirundinidae (Swallows)"
 species_group: "Martins and Swallows"
 species_code: "vigswa"
-sidebar_position: 384
+sidebar_position: 385
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -17,22 +17,33 @@ tags:
 
 # Violet-green Swallow <span className='sci_name'>Tachycineta thalassina</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Hirundinidae (Swallows)](/tags/hirundinidae-swallows) > [Martins and Swallows](/tags/martins-and-swallows)
+## Overview
+
+### Description
+The violet-green swallow (Tachycineta thalassina) is a small North American passerine bird in the swallow family. These aerial insectivores are distributed along the west coast from Alaska to Mexico, extending as far east as Montana and Texas. With an appearance very similar to the tree swallow, these individuals can be identified by the white rump side-patches that appear to separate their green back and purple tail. Violet-green swallows are secondary cavity nesters, found in a number of habitats including deciduous and coniferous forest. In addition to nesting in tree holes within these habitats, they are also widely observed nesting in the cracks of large cliffs.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Violet-green_swallow
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Hirundinidae (Swallows)](/tags/hirundinidae-swallows) > [Martins and Swallows](/tags/martins-and-swallows)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=vigswa) | [Map](/map?species_code=vigswa)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [03-03-2024 - California, United States](https://ebird.org/checklist/S163599858) (First Sighting)
+* [09-08-2024 - California, United States](https://ebird.org/checklist/S194467710) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * California, United States
 * Ciudad de México, Mexico
 
-## Description
-The violet-green swallow (Tachycineta thalassina) is a small North American passerine bird in the swallow family. These aerial insectivores are distributed along the west coast from Alaska to Mexico, extending as far east as Montana and Texas. With an appearance very similar to the tree swallow, these individuals can be identified by the white rump side-patches that appear to separate their green back and purple tail. Violet-green swallows are secondary cavity nesters, found in a number of habitats including deciduous and coniferous forest. In addition to nesting in tree holes within these habitats, they are also widely observed nesting in the cracks of large cliffs.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Violet-green_swallow
 
 ## Media
 ### Photographs

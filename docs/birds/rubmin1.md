@@ -17,20 +17,31 @@ tags:
 
 # Rufous-banded Miner <span className='sci_name'>Geositta rufipennis</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers) > [Leaftossers and Miners](/tags/leaftossers-and-miners)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rubmin1) | [Map](/map?species_code=rubmin1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Región Metropolitana de Santiago, Chile
-
-## Description
+### Description
 The rufous-banded miner (Geositta rufipennis) is a species of bird in the subfamily Sclerurinae, the leaftossers and miners, of the ovenbird family Furnariidae. It is found in Argentina, Bolivia, and Chile.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Rufous-banded_miner
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers) > [Leaftossers and Miners](/tags/leaftossers-and-miners)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rubmin1) | [Map](/map?species_code=rubmin1)
+
+### Relevant Sightings
+
+* [10-19-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524251) (First Sighting)
+* [10-19-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524278) (Last Sighting)
+
+### Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
+
 
 ## Media
 ### Photographs

@@ -17,21 +17,32 @@ tags:
 
 # Hooded Oriole <span className='sci_name'>Icterus cucullatus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
+## Overview
+
+### Description
+The hooded oriole (Icterus cucullatus) is a medium-sized New World oriole. The male of this species ranges in color from a bright orange to a paler yellow, with a black back, face, tail and bib, with the wing containing two white bars. The female is more of an olive color with some yellow accents.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Hooded_oriole
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=hooori) | [Map](/map?species_code=hooori)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [03-28-2024 - California, United States](https://ebird.org/checklist/S166268948) (First Sighting)
+* [05-10-2024 - California, United States](https://ebird.org/checklist/S173241890) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * California, United States
 
-## Description
-The hooded oriole (Icterus cucullatus) is a medium-sized New World oriole. The male of this species ranges in color from a bright orange to a paler yellow, with a black back, face, tail and bib, with the wing containing two white bars. The female is more of an olive color with some yellow accents.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Hooded_oriole
 
 ## Media
 ### Photographs

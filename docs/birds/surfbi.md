@@ -5,7 +5,7 @@ order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
 species_group: "Shorebirds"
 species_code: "surfbi"
-sidebar_position: 366
+sidebar_position: 367
 sidebar_class_name: " "
 tags: 
   - Charadriiformes
@@ -17,17 +17,9 @@ tags:
 
 # Surfbird <span className='sci_name'>Calidris virgata</span>
 
-**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=surfbi) | [Map](/map?species_code=surfbi)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The surfbird (Calidris virgata) is a small stocky wader in the family Scolopacidae. It was once considered to be allied to the turnstones, and placed in the monotypic genus Aphriza, but is now placed in the genus Calidris.
 This bird has a short dark bill, yellow legs and a black band at the end of the white rump. In breeding plumage, it has dark streaks on the brownish head and breast with dark spots on its white underparts; the upperparts are dark with rust colouring on the wings. Birds in winter plumage and immature birds are mainly grey on the upperparts and breast and white on the underparts with streaking.
 Their breeding habitat is rocky tundra areas in Alaska and the Yukon. The female lays 4 eggs in a depression on the ground lined with vegetation. Both parents look after the young birds, who feed themselves.
@@ -36,6 +28,24 @@ On the nesting grounds, these birds mainly eat insects and some seeds. At other 
 The song is a whistled tee tee tee.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Surfbird
+
+### Taxonomy
+[Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=surfbi) | [Map](/map?species_code=surfbi)
+
+### Relevant Sightings
+
+* [2024-03-10T15:45:00.000Z - California, United States](https://ebird.org/checklist/S164344784) (Only Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

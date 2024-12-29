@@ -17,20 +17,30 @@ tags:
 
 # Lucifer Hummingbird <span className='sci_name'>Calothorax lucifer</span>
 
-**Taxonomy:** [Apodiformes](/tags/apodiformes) > [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds) > [Hummingbirds](/tags/hummingbirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=luchum) | [Map](/map?species_code=luchum)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Arizona, United States
-
-## Description
+### Description
 The lucifer sheartail or lucifer hummingbird (Calothorax lucifer) is a medium-sized, 10 cm long, green hummingbird with a slightly curved bill and distinctive outward flare of its gorget feathers. Its habitat is in high-altitude areas of northern Mexico and southwestern United States. It winters in central Mexico.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Lucifer_sheartail
+
+### Taxonomy
+[Apodiformes](/tags/apodiformes) > [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds) > [Hummingbirds](/tags/hummingbirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=luchum) | [Map](/map?species_code=luchum)
+
+### Relevant Sightings
+
+* [2024-04-27T22:24:00.000Z - Arizona, United States](https://ebird.org/checklist/S170629025) (Only Sighting)
+
+### Places Seen
+
+* Arizona, United States
+
+
 
 ## Media
 ### Photographs

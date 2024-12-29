@@ -17,20 +17,31 @@ tags:
 
 # Flame-colored Tanager <span className='sci_name'>Piranga bidentata</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Cardinalidae (Cardinals and Allies)](/tags/cardinalidae-cardinals-and-allies) > [Cardinals, Grosbeaks, and Allies](/tags/cardinals-grosbeaks-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=flctan) | [Map](/map?species_code=flctan)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Morelos, Mexico
-
-## Description
+### Description
 The flame-colored tanager  (Piranga bidentata), formerly known as the stripe-backed tanager, is a medium-sized American songbird in the family Cardinalidae, the cardinals or cardinal grosbeaks. It is found from Mexico throughout Central America to northern Panama and occasionally in the United States; four subspecies are recognized. The flame-colored tanager is 18 to 19 cm (7.1 to 7.5 in) long, the male having predominantly red-orange while the female is more yellowish orange.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Flame-colored_tanager
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Cardinalidae (Cardinals and Allies)](/tags/cardinalidae-cardinals-and-allies) > [Cardinals, Grosbeaks, and Allies](/tags/cardinals-grosbeaks-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=flctan) | [Map](/map?species_code=flctan)
+
+### Relevant Sightings
+
+* [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768259) (First Sighting)
+* [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768281) (Last Sighting)
+
+### Places Seen
+
+* Morelos, Mexico
+
+
 
 ## Media
 ### Photographs

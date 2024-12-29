@@ -17,20 +17,32 @@ tags:
 
 # Long-tailed Duck <span className='sci_name'>Clangula hyemalis</span>
 
-**Taxonomy:** [Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=lotduc) | [Map](/map?species_code=lotduc)
-
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=lotduc&mediaType=photo&view=grid) | No Recording
-
-## Places Seen
-
-* Ontario, Canada
-
-## Description
+### Description
 The long-tailed duck (Clangula hyemalis) or coween, formerly known as the oldsquaw, is a medium-sized sea duck that breeds in the tundra and taiga regions of the arctic and winters along the northern coastlines of the Atlantic and Pacific Oceans. It is the only member of the genus Clangula.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Long-tailed_duck
+
+### Taxonomy
+[Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=lotduc) | [Map](/map?species_code=lotduc)
+
+### Relevant Sightings
+
+* [04-10-2024 - Ontario, Canada](https://ebird.org/checklist/S167992532) (First Sighting)
+* [04-10-2024 - Ontario, Canada](https://ebird.org/checklist/S168071122) (Only Photo)
+* [04-13-2024 - Ontario, Canada](https://ebird.org/checklist/S168448531) (Last Sighting)
+
+### Places Seen
+
+* Ontario, Canada
+
+
 
 ## Media
 ### Photographs

@@ -17,20 +17,31 @@ tags:
 
 # Eastern Phoebe <span className='sci_name'>Sayornis phoebe</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=easpho) | [Map](/map?species_code=easpho)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Ontario, Canada
-
-## Description
+### Description
 The eastern phoebe (Sayornis phoebe) is a small passerine bird. The genus name Sayornis is constructed from the specific part of Charles Lucien Bonaparte's name for Say's phoebe, Muscicapa saya, and Ancient Greek ornis, "bird". Phoebe is an alternative name for the Roman moon-goddess Diana, but it may also have been chosen to imitate the bird's call.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Eastern_phoebe
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=easpho) | [Map](/map?species_code=easpho)
+
+### Relevant Sightings
+
+* [04-09-2024 - Ontario, Canada](https://ebird.org/checklist/S167923446) (First Sighting)
+* [04-13-2024 - Ontario, Canada](https://ebird.org/checklist/S168448531) (Last Sighting)
+
+### Places Seen
+
+* Ontario, Canada
+
+
 
 ## Media
 ### Photographs

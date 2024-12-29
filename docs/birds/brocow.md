@@ -17,18 +17,9 @@ tags:
 
 # Bronzed Cowbird <span className='sci_name'>Molothrus aeneus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=brocow) | [Map](/map?species_code=brocow)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Arizona, United States
-* Ciudad de México, Mexico
-
-## Description
+### Description
 The bronzed cowbird (Molothrus aeneus), once known as the red-eyed cowbird, is a small icterid.
 They breed from the U.S. states of California, Arizona, New Mexico, Texas, and Louisiana south through Central America to Panama. They tend to be found in farmland, brush, and feedlots. Outside the breeding season, they are found in very open habitats, and roost in thick woods. These birds forage in open areas, often near cattle in pastures. Their diet mostly consists of seeds and insects, along with snails during breeding season for a calcium source.
 There are three subspecies:
@@ -41,6 +32,26 @@ The male bronzed cowbird is 20 cm (7.9 in) long and weighs 68 g (2.4 oz), with g
 Like all cowbirds, this bird is an obligate brood parasite; it lays its eggs in the nests of other birds. The young cowbird is fed by the host parents at the expense of their own young. Hosts include Prevost's ground-sparrows and white-naped brush finches. They develop rapidly, leaving the nest after 10–12 days.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Bronzed_cowbird
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=brocow) | [Map](/map?species_code=brocow)
+
+### Relevant Sightings
+
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170587152) (First Sighting)
+* [05-03-2024 - Ciudad de México, Mexico](https://ebird.org/checklist/S171944260) (Last Sighting)
+
+### Places Seen
+
+* Arizona, United States
+* Ciudad de México, Mexico
+
+
 
 ## Media
 ### Photographs

@@ -17,20 +17,31 @@ tags:
 
 # Brown-crested Flycatcher <span className='sci_name'>Myiarchus tyrannulus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bncfly) | [Map](/map?species_code=bncfly)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Arizona, United States
-
-## Description
+### Description
 The brown-crested flycatcher (Myiarchus tyrannulus) is a passerine bird in the tyrant flycatcher family.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Brown-crested_flycatcher
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bncfly) | [Map](/map?species_code=bncfly)
+
+### Relevant Sightings
+
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170587140) (First Sighting)
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170629025) (Last Sighting)
+
+### Places Seen
+
+* Arizona, United States
+
+
 
 ## Media
 ### Photographs

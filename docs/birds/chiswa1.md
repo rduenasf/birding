@@ -17,21 +17,32 @@ tags:
 
 # Chilean Swallow <span className='sci_name'>Tachycineta leucopyga</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Hirundinidae (Swallows)](/tags/hirundinidae-swallows) > [Martins and Swallows](/tags/martins-and-swallows)
+## Overview
+
+### Description
+The Chilean swallow (Tachycineta leucopyga) is a species of bird in the family Hirundinidae. It breeds in Chile and Patagonia, migrating north as far as Bolivia, Paraguay, and Rio Grande do Sul.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Chilean_swallow
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Hirundinidae (Swallows)](/tags/hirundinidae-swallows) > [Martins and Swallows](/tags/martins-and-swallows)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chiswa1) | [Map](/map?species_code=chiswa1)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994043) (First Sighting)
+* [10-19-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524251) (Last Sighting)
+
+### Places Seen
 
 * Región Metropolitana de Santiago, Chile
 * Valparaíso, Chile
 
-## Description
-The Chilean swallow (Tachycineta leucopyga) is a species of bird in the family Hirundinidae. It breeds in Chile and Patagonia, migrating north as far as Bolivia, Paraguay, and Rio Grande do Sul.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Chilean_swallow
 
 ## Media
 ### Photographs

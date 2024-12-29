@@ -17,20 +17,32 @@ tags:
 
 # Brewer's Blackbird <span className='sci_name'>Euphagus cyanocephalus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=brebla) | [Map](/map?species_code=brebla)
-
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=brebla&mediaType=photo&view=grid) | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 Brewer's blackbird (Euphagus cyanocephalus) is a medium-sized New World blackbird. It is named after the ornithologist Thomas Mayo Brewer.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Brewer%27s_blackbird
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=brebla) | [Map](/map?species_code=brebla)
+
+### Relevant Sightings
+
+* [11-26-2023 - California, United States](https://ebird.org/checklist/S155251280) (First Sighting / First Photo)
+* [01-07-2024 - California, United States](https://ebird.org/checklist/S158367947) (First/Best Photo)
+* [09-07-2024 - California, United States](https://ebird.org/checklist/S195013430) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

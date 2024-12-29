@@ -17,23 +17,33 @@ tags:
 
 # Burrowing Parakeet <span className='sci_name'>Cyanoliseus patagonus</span>
 
-**Taxonomy:** [Psittaciformes](/tags/psittaciformes) > [Psittacidae (New World and African Parrots)](/tags/psittacidae-new-world-and-african-parrots) > [Parrots, Parakeets, and Allies](/tags/parrots-parakeets-and-allies)
+## Overview
 
-**Subspecies Seen**: Burrowing Parakeet (Chilean)
-
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=burpar) | [Map](/map?species_code=burpar)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Libertador General Bernardo O'Higgins, Chile
-
-## Description
+### Description
 The burrowing parrot (Cyanoliseus patagonus), also known as the burrowing parakeet or the Patagonian conure, is a species of parrot native to Argentina and Chile.  It belongs to the monotypic genus Cyanoliseus, with four subspecies that are currently recognized.
 The burrowing parrot is unmistakable with a distinctive white eye ring, white breast marking, olive green body colour, and brightly coloured underparts. Named for their nesting habits, burrowing parrots excavate elaborate burrows in cliff faces and ravines in order to rear their chicks. They inhabit dry, open country up to 2000 m in elevation. Once abundant across Argentina and Chile, burrowing parrot populations have been in decline due to exploitation and persecution.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Burrowing_parrot
+
+### Taxonomy
+[Psittaciformes](/tags/psittaciformes) > [Psittacidae (New World and African Parrots)](/tags/psittacidae-new-world-and-african-parrots) > [Parrots, Parakeets, and Allies](/tags/parrots-parakeets-and-allies)
+
+**Subspecies Seen**: Burrowing Parakeet (Chilean)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=burpar) | [Map](/map?species_code=burpar)
+
+### Relevant Sightings
+
+* [2024-10-22T03:04:00.000Z - Libertador General Bernardo O'Higgins, Chile](https://ebird.org/checklist/S199827532) (Only Sighting)
+
+### Places Seen
+
+* Libertador General Bernardo O'Higgins, Chile
+
+
 
 ## Media
 ### Photographs

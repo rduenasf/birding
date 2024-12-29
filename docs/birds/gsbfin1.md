@@ -17,22 +17,33 @@ tags:
 
 # Green-striped Brushfinch <span className='sci_name'>Arremon virenticeps</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gsbfin1) | [Map](/map?species_code=gsbfin1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Ciudad de México, Mexico
-* Morelos, Mexico
-
-## Description
+### Description
 The green-striped brushfinch (Arremon virenticeps) is a species of bird in the family Passerellidae. Until recently, it was placed in the genus Buarremon.
 It is endemic to Mexico where its natural habitat is subtropical or tropical moist montane forest.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Green-striped_brushfinch
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gsbfin1) | [Map](/map?species_code=gsbfin1)
+
+### Relevant Sightings
+
+* [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768259) (First Sighting)
+* [05-03-2024 - Ciudad de México, Mexico](https://ebird.org/checklist/S171944247) (Last Sighting)
+
+### Places Seen
+
+* Ciudad de México, Mexico
+* Morelos, Mexico
+
+
 
 ## Media
 ### Photographs

@@ -5,7 +5,7 @@ order: "Cathartiformes"
 family: "Cathartidae (New World Vultures)"
 species_group: "Vultures, Hawks, and Allies"
 species_code: "turvul"
-sidebar_position: 377
+sidebar_position: 378
 sidebar_class_name: "has-photo "
 tags: 
   - Cathartiformes
@@ -17,15 +17,32 @@ tags:
 
 # Turkey Vulture <span className='sci_name'>Cathartes aura</span>
 
-**Taxonomy:** [Cathartiformes](/tags/cathartiformes) > [Cathartidae (New World Vultures)](/tags/cathartidae-new-world-vultures) > [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
+## Overview
+
+### Description
+The turkey vulture (Cathartes aura) is the most widespread of the New World vultures. One of three species in the genus Cathartes of the family Cathartidae, the turkey vulture ranges from southern Canada to the southernmost tip of South America. It inhabits a variety of open and semi-open areas, including subtropical forests, shrublands, pastures, and deserts.
+Like all New World vultures, it is not closely related to the Old World vultures of Europe, Africa, and Asia. However, the two groups strongly resemble each other due to convergent evolution.
+The turkey vulture is a scavenger and feeds almost exclusively on carrion. It finds its food using its keen eyes and sense of smell, flying low enough to detect the gasses produced by the early stages of decay in dead animals. In flight, it uses thermals to move through the air, flapping its wings infrequently. It roosts in large community groups. Lacking a syrinx—the vocal organ of birds—its only vocalizations are grunts or low hisses. It nests in caves, hollow trees, or thickets. Each year it generally raises two chicks, which it feeds by regurgitation. It has very few natural predators. In the United States, the vulture receives legal protection under the Migratory Bird Treaty Act of 1918.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Turkey_vulture
+
+### Taxonomy
+[Cathartiformes](/tags/cathartiformes) > [Cathartidae (New World Vultures)](/tags/cathartidae-new-world-vultures) > [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
 
 **Subspecies Seen**: Turkey Vulture (Northern), Turkey Vulture (South Temperate)
 
+
+## Sightings
+
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=turvul) | [Map](/map?species_code=turvul)
 
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=turvul&mediaType=photo&view=grid) | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
+* [11-30-2024 - California, United States](https://ebird.org/checklist/S204074627) (Only Photo)
+* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * California, United States
@@ -33,12 +50,7 @@ tags:
 * Ontario, Canada
 * Valparaíso, Chile
 
-## Description
-The turkey vulture (Cathartes aura) is the most widespread of the New World vultures. One of three species in the genus Cathartes of the family Cathartidae, the turkey vulture ranges from southern Canada to the southernmost tip of South America. It inhabits a variety of open and semi-open areas, including subtropical forests, shrublands, pastures, and deserts.
-Like all New World vultures, it is not closely related to the Old World vultures of Europe, Africa, and Asia. However, the two groups strongly resemble each other due to convergent evolution.
-The turkey vulture is a scavenger and feeds almost exclusively on carrion. It finds its food using its keen eyes and sense of smell, flying low enough to detect the gasses produced by the early stages of decay in dead animals. In flight, it uses thermals to move through the air, flapping its wings infrequently. It roosts in large community groups. Lacking a syrinx—the vocal organ of birds—its only vocalizations are grunts or low hisses. It nests in caves, hollow trees, or thickets. Each year it generally raises two chicks, which it feeds by regurgitation. It has very few natural predators. In the United States, the vulture receives legal protection under the Migratory Bird Treaty Act of 1918.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Turkey_vulture
 
 ## Media
 ### Photographs

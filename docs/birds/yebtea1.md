@@ -5,7 +5,7 @@ order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "yebtea1"
-sidebar_position: 429
+sidebar_position: 430
 sidebar_class_name: " "
 tags: 
   - Anseriformes
@@ -17,22 +17,32 @@ tags:
 
 # Yellow-billed Teal <span className='sci_name'>Anas flavirostris</span>
 
-**Taxonomy:** [Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+## Overview
 
-**Subspecies Seen**: Yellow-billed Teal (flavirostris)
-
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=yebtea1) | [Map](/map?species_code=yebtea1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Libertador General Bernardo O'Higgins, Chile
-
-## Description
+### Description
 The yellow-billed teal  (Anas flavirostris) is a South American species of duck. Like other teals, it belongs to the diverse genus Anas; more precisely it is one of the "true" teals of subgenus Nettion.  It occurs in Argentina, the Falkland Islands, Chile, Peru, Bolivia, Uruguay, and Brazil. It has also established itself in South Georgia, where it was first recorded breeding in 1971, and has been recorded as far east as Tristan da Cunha. It inhabits freshwater wetlands, preferring palustrine habitat to rivers. Considering its wide range and local abundance, it is not considered threatened by the IUCN.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Yellow-billed_teal
+
+### Taxonomy
+[Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+
+**Subspecies Seen**: Yellow-billed Teal (flavirostris)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=yebtea1) | [Map](/map?species_code=yebtea1)
+
+### Relevant Sightings
+
+* [2024-10-22T03:04:00.000Z - Libertador General Bernardo O'Higgins, Chile](https://ebird.org/checklist/S199827532) (Only Sighting)
+
+### Places Seen
+
+* Libertador General Bernardo O'Higgins, Chile
+
+
 
 ## Media
 ### Photographs

@@ -6,38 +6,50 @@ family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "cacgoo1"
 sidebar_position: 86
-sidebar_class_name: " "
+sidebar_class_name: " has-audio"
 tags: 
   - Anseriformes
   - Anatidae (Ducks, Geese, and Waterfowl)
   - Waterfowl
   - Needs Photo
-  - Needs Audio
+  - Has Audio
 ---
 
 # Cackling Goose <span className='sci_name'>Branta hutchinsii</span>
 
-**Taxonomy:** [Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cacgoo1) | [Map](/map?species_code=cacgoo1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The cackling goose (Branta hutchinsii) is a species of goose found in North America and East Asia.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Cackling_goose
+
+### Taxonomy
+[Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cacgoo1) | [Map](/map?species_code=cacgoo1)
+
+### Relevant Sightings
+
+* [02-24-2024 - California, United States](https://ebird.org/checklist/S162776023) (First Sighting)
+* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Only Recording)
+* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs
 No photographs available.
 
 ### Audio Recordings
-No audio recordings available.
+<iframe src="https://macaulaylibrary.org/asset/627926546/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/cacgoo1) 

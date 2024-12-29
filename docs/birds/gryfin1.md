@@ -17,20 +17,9 @@ tags:
 
 # Grassland Yellow-Finch <span className='sci_name'>Sicalis luteola</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Thraupidae (Tanagers and Allies)](/tags/thraupidae-tanagers-and-allies) > [Tanagers and Allies](/tags/tanagers-and-allies)
+## Overview
 
-**Subspecies Seen**: Grassland Yellow-Finch (Grassland)
-
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gryfin1) | [Map](/map?species_code=gryfin1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Región Metropolitana de Santiago, Chile
-* Valparaíso, Chile
-
-## Description
+### Description
 The grassland yellow finch (Sicalis luteola) is a small passerine bird. Despite its name, it is not a  finch, but is a seedeater. These were formerly united with the buntings and American sparrows in the Emberizidae, but are now known to be tanagers.
 It is a resident in tropical South America, from Colombia south and east to the Guianas and central Ecuador, Peru and Brazil. Birds which breed further south in Argentina and Uruguay migrate to Bolivia and southern Brazil, (the cerrado etc.), in the austral winter. There are also isolated populations in Central America and Mexico. It was discovered on Trinidad in 2004, presumably having colonised from nearby Venezuela. Also known from Barbados, certainly since 1960 if not earlier.
 The grassland yellow finch, as its name implies, is found in fields and other open grassland. The female lays 3 brown-speckled pale blue-green eggs in a grassy cup nest in tall grass, and several pairs may breed close to each other in suitable areas.
@@ -38,6 +27,28 @@ The grassland yellow finch is about 12 cm long and weighs 13 g.  The males have 
 Grassland yellow finches eat seeds and insects, and are usually seen in pairs or small groups.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Grassland_yellow_finch
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Thraupidae (Tanagers and Allies)](/tags/thraupidae-tanagers-and-allies) > [Tanagers and Allies](/tags/tanagers-and-allies)
+
+**Subspecies Seen**: Grassland Yellow-Finch (Grassland)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gryfin1) | [Map](/map?species_code=gryfin1)
+
+### Relevant Sightings
+
+* [10-11-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398422) (First Sighting)
+* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994043) (Last Sighting)
+
+### Places Seen
+
+* Región Metropolitana de Santiago, Chile
+* Valparaíso, Chile
+
+
 
 ## Media
 ### Photographs

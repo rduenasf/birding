@@ -17,20 +17,30 @@ tags:
 
 # Red-masked Parakeet <span className='sci_name'>Psittacara erythrogenys</span>
 
-**Taxonomy:** [Psittaciformes](/tags/psittaciformes) > [Psittacidae (New World and African Parrots)](/tags/psittacidae-new-world-and-african-parrots) > [Parrots, Parakeets, and Allies](/tags/parrots-parakeets-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rempar) | [Map](/map?species_code=rempar)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The red-masked parakeet (Psittacara erythrogenys) is a medium-sized parrot from Ecuador and Peru. It is popular as a pet and are better known in aviculture as the cherry-headed conure or the red-headed conure. They are also considered the best talkers of all the conures.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Red-masked_parakeet
+
+### Taxonomy
+[Psittaciformes](/tags/psittaciformes) > [Psittacidae (New World and African Parrots)](/tags/psittacidae-new-world-and-african-parrots) > [Parrots, Parakeets, and Allies](/tags/parrots-parakeets-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rempar) | [Map](/map?species_code=rempar)
+
+### Relevant Sightings
+
+* [2024-06-06T02:04:00.000Z - California, United States](https://ebird.org/checklist/S179653911) (Only Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

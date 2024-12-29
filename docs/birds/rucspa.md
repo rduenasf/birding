@@ -17,21 +17,31 @@ tags:
 
 # Rufous-crowned Sparrow <span className='sci_name'>Aimophila ruficeps</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rucspa) | [Map](/map?species_code=rucspa)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Arizona, United States
-
-## Description
+### Description
 The rufous-crowned sparrow (Aimophila ruficeps) is a small American sparrow. This passerine is primarily found across the Southwestern United States and much of the interior of Mexico, south to the transverse mountain range, and to the Pacific coast to the southwest of the transverse range. Its distribution is patchy, with populations often being isolated from each other. Twelve subspecies are generally recognized, though up to eighteen have been suggested. This bird has a brown back with darker streaks and gray underparts. The crown is rufous, and the face and supercilium are gray with a brown or rufous streak extending from each eye and a thick black malar streak.
 These sparrows feed primarily on seeds in the winter and insects in the spring and summer. The birds are often territorial, with males guarding their territory through song and displays. Flight is awkward for this species, which prefers to hop along the ground for locomotion. They are monogamous and breed during spring. Two to five eggs are laid in the bird's nest, which is cup-shaped and well hidden. Adult sparrows are preyed upon by house cats and small raptors, while young may be taken by a range of mammals and reptiles. They have been known to live for up to three years, two months. Although the species has been classified as least concern, or unthreatened with extinction, some subspecies are threatened by habitat destruction and one may be extinct.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Rufous-crowned_sparrow
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rucspa) | [Map](/map?species_code=rucspa)
+
+### Relevant Sightings
+
+* [2024-04-28T14:45:00.000Z - Arizona, United States](https://ebird.org/checklist/S170824758) (Only Sighting)
+
+### Places Seen
+
+* Arizona, United States
+
+
 
 ## Media
 ### Photographs

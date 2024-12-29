@@ -17,20 +17,30 @@ tags:
 
 # Chilean Pigeon <span className='sci_name'>Patagioenas araucana</span>
 
-**Taxonomy:** [Columbiformes](/tags/columbiformes) > [Columbidae (Pigeons and Doves)](/tags/columbidae-pigeons-and-doves) > [Pigeons and Doves](/tags/pigeons-and-doves)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chipig2) | [Map](/map?species_code=chipig2)
-
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=chipig2&mediaType=photo&view=grid) | No Recording
-
-## Places Seen
-
-* Valparaíso, Chile
-
-## Description
+### Description
 The Chilean pigeon (Patagioenas araucana) is a species of bird in the family Columbidae. It is found in Chile and Argentina.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Chilean_pigeon
+
+### Taxonomy
+[Columbiformes](/tags/columbiformes) > [Columbidae (Pigeons and Doves)](/tags/columbidae-pigeons-and-doves) > [Pigeons and Doves](/tags/pigeons-and-doves)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chipig2) | [Map](/map?species_code=chipig2)
+
+### Relevant Sightings
+
+* [2024-10-12T22:13:00.000Z - Valparaíso, Chile](https://ebird.org/checklist/S198994241) (Only Sighting / Photo)
+
+### Places Seen
+
+* Valparaíso, Chile
+
+
 
 ## Media
 ### Photographs

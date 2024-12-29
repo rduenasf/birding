@@ -17,21 +17,33 @@ tags:
 
 # Pied-billed Grebe <span className='sci_name'>Podilymbus podiceps</span>
 
-**Taxonomy:** [Podicipediformes](/tags/podicipediformes) > [Podicipedidae (Grebes)](/tags/podicipedidae-grebes) > [Grebes](/tags/grebes)
+## Overview
+
+### Description
+The pied-billed grebe (Podilymbus podiceps) is a species of the grebe family of water birds primarily found in ponds throughout the Americas.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Pied-billed_grebe
+
+### Taxonomy
+[Podicipediformes](/tags/podicipediformes) > [Podicipedidae (Grebes)](/tags/podicipedidae-grebes) > [Grebes](/tags/grebes)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pibgre) | [Map](/map?species_code=pibgre)
 
-**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=pibgre&mediaType=audio&view=grid)
+### Relevant Sightings
 
-## Places Seen
+* [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
+* [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (Only Recording)
+* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+
+### Places Seen
 
 * California, United States
 * Ciudad de México, Mexico
 
-## Description
-The pied-billed grebe (Podilymbus podiceps) is a species of the grebe family of water birds primarily found in ponds throughout the Americas.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Pied-billed_grebe
 
 ## Media
 ### Photographs

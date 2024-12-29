@@ -17,21 +17,34 @@ tags:
 
 # Common Gallinule <span className='sci_name'>Gallinula galeata</span>
 
-**Taxonomy:** [Gruiformes](/tags/gruiformes) > [Rallidae (Rails, Gallinules, and Coots)](/tags/rallidae-rails-gallinules-and-coots) > [Rails, Gallinules, and Allies](/tags/rails-gallinules-and-allies)
+## Overview
+
+### Description
+The common gallinule (Gallinula galeata) is a bird in the family Rallidae. It was split from the common moorhen by the American Ornithologists' Union in July 2011. It lives around well-vegetated marshes, ponds, canals, and other wetlands in the Americas. The common gallinule is one of the most conspicuous rail species in North America, along with the American coot.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Common_gallinule
+
+### Taxonomy
+[Gruiformes](/tags/gruiformes) > [Rallidae (Rails, Gallinules, and Coots)](/tags/rallidae-rails-gallinules-and-coots) > [Rails, Gallinules, and Allies](/tags/rails-gallinules-and-allies)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=comgal1) | [Map](/map?species_code=comgal1)
 
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=comgal1&mediaType=photo&view=grid) | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=comgal1&mediaType=audio&view=grid)
+### Relevant Sightings
 
-## Places Seen
+* [02-24-2024 - California, United States](https://ebird.org/checklist/S162799737) (First Sighting)
+* [11-28-2024 - California, United States](https://ebird.org/checklist/S203889552) (Only Photo)
+* [11-28-2024 - California, United States](https://ebird.org/checklist/S203889552) (Only Recording)
+* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+
+### Places Seen
 
 * California, United States
 * Ciudad de México, Mexico
 
-## Description
-The common gallinule (Gallinula galeata) is a bird in the family Rallidae. It was split from the common moorhen by the American Ornithologists' Union in July 2011. It lives around well-vegetated marshes, ponds, canals, and other wetlands in the Americas. The common gallinule is one of the most conspicuous rail species in North America, along with the American coot.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Common_gallinule
 
 ## Media
 ### Photographs

@@ -17,21 +17,33 @@ tags:
 
 # Northern Shoveler <span className='sci_name'>Spatula clypeata</span>
 
-**Taxonomy:** [Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=norsho) | [Map](/map?species_code=norsho)
-
-**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=norsho&mediaType=audio&view=grid)
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The northern shoveler (; Spatula clypeata), known simply in Britain as the shoveler, is a common and widespread duck. It breeds in northern areas of Europe and across the Palearctic and across most of North America, wintering in southern Europe, the Indian subcontinent, Southeast Asia, Central America, the Caribbean, and northern South America. It is a rare vagrant to Australia. In North America, it breeds along the southern edge of Hudson Bay and west of this body of water, and as far south as the Great Lakes west to Colorado, Nevada, and Oregon.
 The northern shoveler is one of the species to which the Agreement on the Conservation of African-Eurasian Migratory Waterbirds (AEWA) applies. The conservation status of this bird is Least Concern.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Northern_shoveler
+
+### Taxonomy
+[Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=norsho) | [Map](/map?species_code=norsho)
+
+### Relevant Sightings
+
+* [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
+* [11-30-2024 - California, United States](https://ebird.org/checklist/S204068913) (First/Best Recording)
+* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

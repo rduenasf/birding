@@ -17,20 +17,31 @@ tags:
 
 # Black-bellied Plover <span className='sci_name'>Pluvialis squatarola</span>
 
-**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Charadriidae (Plovers and Lapwings)](/tags/charadriidae-plovers-and-lapwings) > [Shorebirds](/tags/shorebirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkbplo) | [Map](/map?species_code=bkbplo)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The grey plover or black-bellied plover (Pluvialis squatarola) is a large plover breeding in Arctic regions. It is a long-distance migrant, with a nearly worldwide coastal distribution when not breeding.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Grey_plover
+
+### Taxonomy
+[Charadriiformes](/tags/charadriiformes) > [Charadriidae (Plovers and Lapwings)](/tags/charadriidae-plovers-and-lapwings) > [Shorebirds](/tags/shorebirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkbplo) | [Map](/map?species_code=bkbplo)
+
+### Relevant Sightings
+
+* [03-10-2024 - California, United States](https://ebird.org/checklist/S164344784) (First Sighting)
+* [03-31-2024 - California, United States](https://ebird.org/checklist/S166695330) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

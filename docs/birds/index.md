@@ -15,6 +15,15 @@ import BirdCard from '@site/src/components/BirdCard';
 
 
     <BirdCard
+      index="434"
+      name="Snow Bunting"
+      speciesCode="snobun"
+       
+      recording="627926552"/>
+
+
+
+    <BirdCard
       index="433"
       name="Purple Finch"
       speciesCode="purfin"
@@ -31,7 +40,7 @@ import BirdCard from '@site/src/components/BirdCard';
 * Regions Visited: [CL-LI](https://ebird.org/region/CL-LI), [CL-RM](https://ebird.org/region/CL-RM), [CL-VS](https://ebird.org/region/CL-VS)
 * Dates: 2024-10-06 - 2024-10-26
 
-See details at [eBird](https://ebird.org/tripreport/284688/316876) 
+See details at [eBird](https://ebird.org/tripreport/284688) 
 
 :::
 
@@ -2809,7 +2818,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       name="Cackling Goose"
       speciesCode="cacgoo1"
        
-      />
+      recording="627926546"/>
 
 
 
@@ -2843,25 +2852,16 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
 
     <BirdCard
       index="137"
-      name="Western Grebe"
-      speciesCode="wesgre"
-       
-      />
+      name="Common Gallinule"
+      speciesCode="comgal1"
+      photo="626996488" 
+      recording="626843308"/>
 </div>
     <div className="row">
 
 
     <BirdCard
       index="136"
-      name="Common Gallinule"
-      speciesCode="comgal1"
-      photo="626996488" 
-      recording="626843308"/>
-
-
-
-    <BirdCard
-      index="135"
       name="Red-breasted Merganser"
       speciesCode="rebmer"
        
@@ -2870,9 +2870,18 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
 
 
     <BirdCard
-      index="134"
+      index="135"
       name="Greater Scaup"
       speciesCode="gresca"
+       
+      />
+
+
+
+    <BirdCard
+      index="134"
+      name="Blue-winged Teal"
+      speciesCode="buwtea"
        
       />
 </div>
@@ -2881,18 +2890,18 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
 
     <BirdCard
       index="133"
-      name="Blue-winged Teal"
-      speciesCode="buwtea"
-       
+      name="Red-shouldered Hawk"
+      speciesCode="reshaw"
+      photo="627868402" 
       />
 
 
 
     <BirdCard
       index="132"
-      name="Red-shouldered Hawk"
-      speciesCode="reshaw"
-      photo="627868402" 
+      name="Clark's Grebe"
+      speciesCode="clagre"
+       
       />
 
 
@@ -3067,8 +3076,8 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
 
     <BirdCard
       index="113"
-      name="Clark's Grebe"
-      speciesCode="clagre"
+      name="Western Grebe"
+      speciesCode="wesgre"
        
       />
 </div>
@@ -3279,7 +3288,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="91"
       name="Northern Pintail"
       speciesCode="norpin"
-       
+      photo="627928092" 
       recording="626557675"/>
 
 
@@ -3307,7 +3316,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="88"
       name="Dark-eyed Junco"
       speciesCode="daejun"
-      photo="614232433" 
+      photo="628169392" 
       recording="627628679"/>
 
 
@@ -3579,7 +3588,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       name="Western Meadowlark"
       speciesCode="wesmea"
        
-      />
+      recording="627926558"/>
 
 
 
@@ -3699,7 +3708,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="46"
       name="American Avocet"
       speciesCode="ameavo"
-       
+      photo="627928139" 
       />
 
 
@@ -3793,7 +3802,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       name="Song Sparrow"
       speciesCode="sonspa"
        
-      recording="626684724"/>
+      recording="626617940"/>
 </div>
     <div className="row">
 
@@ -3848,7 +3857,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="30"
       name="American Crow"
       speciesCode="amecro"
-      photo="627868551" 
+      photo="628169384" 
       recording="626557692"/>
 </div>
     <div className="row">
@@ -3998,7 +4007,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="14"
       name="Canada Goose"
       speciesCode="cangoo"
-       
+      photo="627928244" 
       recording="626915514"/>
 
 

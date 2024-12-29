@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
 species_group: "Wrens"
 species_code: "houwre4"
-sidebar_position: 351
+sidebar_position: 352
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -17,22 +17,33 @@ tags:
 
 # Southern House Wren <span className='sci_name'>Troglodytes musculus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Troglodytidae (Wrens)](/tags/troglodytidae-wrens) > [Wrens](/tags/wrens)
+## Overview
+
+### Description
+The southern house wren (Troglodytes musculus) is a very small passerine bird in the wren family Troglodytidae. It is found from southern Mexico to southern Chile and southern Argentina. The name troglodytes means "hole dweller", and is a reference to the bird's tendency to disappear into crevices when hunting insects or to seek shelter. It was formerly considered to be conspecific with the northern house wren (Troglodytes aedon).[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Southern_house_wren
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Troglodytidae (Wrens)](/tags/troglodytidae-wrens) > [Wrens](/tags/wrens)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=houwre4) | [Map](/map?species_code=houwre4)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [10-11-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398135) (First Sighting)
+* [10-20-2024 - Libertador General Bernardo O'Higgins, Chile](https://ebird.org/checklist/S199680323) (Last Sighting)
+
+### Places Seen
 
 * Libertador General Bernardo O'Higgins, Chile
 * Región Metropolitana de Santiago, Chile
 * Valparaíso, Chile
 
-## Description
-The southern house wren (Troglodytes musculus) is a very small passerine bird in the wren family Troglodytidae. It is found from southern Mexico to southern Chile and southern Argentina. The name troglodytes means "hole dweller", and is a reference to the bird's tendency to disappear into crevices when hunting insects or to seek shelter. It was formerly considered to be conspecific with the northern house wren (Troglodytes aedon).[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Southern_house_wren
 
 ## Media
 ### Photographs

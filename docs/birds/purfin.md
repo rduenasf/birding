@@ -17,22 +17,32 @@ tags:
 
 # Purple Finch <span className='sci_name'>Haemorhous purpureus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Fringillidae (Finches, Euphonias, and Allies)](/tags/fringillidae-finches-euphonias-and-allies) > [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
+## Overview
 
-**Subspecies Seen**: Purple Finch (Western)
-
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=purfin) | [Map](/map?species_code=purfin)
-
-**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=purfin&mediaType=audio&view=grid)
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The purple finch (Haemorhous purpureus) is a bird in the finch family, Fringillidae. It breeds in the northern United States, southern Canada, and the west coast of North America.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Purple_finch
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Fringillidae (Finches, Euphonias, and Allies)](/tags/fringillidae-finches-euphonias-and-allies) > [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
+
+**Subspecies Seen**: Purple Finch (Western)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=purfin) | [Map](/map?species_code=purfin)
+
+### Relevant Sightings
+
+* [2024-12-08T15:14:00.000Z - California, United States](https://ebird.org/checklist/S204849205) (Only Sighting / Recording)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

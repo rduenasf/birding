@@ -17,22 +17,33 @@ tags:
 
 # Brown Creeper <span className='sci_name'>Certhia americana</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Certhiidae (Treecreepers)](/tags/certhiidae-treecreepers) > [Treecreepers](/tags/treecreepers)
+## Overview
+
+### Description
+The brown creeper (Certhia americana), also known as the American treecreeper, is a small songbird, the only North American member of the treecreeper family Certhiidae.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Brown_creeper
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Certhiidae (Treecreepers)](/tags/certhiidae-treecreepers) > [Treecreepers](/tags/treecreepers)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=brncre) | [Map](/map?species_code=brncre)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [04-09-2024 - Ontario, Canada](https://ebird.org/checklist/S167923446) (First Sighting)
+* [09-15-2024 - Washington, United States](https://ebird.org/checklist/S195264549) (Last Sighting)
+
+### Places Seen
 
 * California, United States
 * Ontario, Canada
 * Washington, United States
 
-## Description
-The brown creeper (Certhia americana), also known as the American treecreeper, is a small songbird, the only North American member of the treecreeper family Certhiidae.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Brown_creeper
 
 ## Media
 ### Photographs

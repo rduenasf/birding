@@ -17,21 +17,32 @@ tags:
 
 # Slate-throated Redstart <span className='sci_name'>Myioborus miniatus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
+## Overview
+
+### Description
+The slate-throated whitestart or slate-throated redstart (Myioborus miniatus) is a species of bird in the family Parulidae native to Central and South America.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Slate-throated_whitestart
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sltred) | [Map](/map?species_code=sltred)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768259) (First Sighting)
+* [05-03-2024 - Ciudad de México, Mexico](https://ebird.org/checklist/S171944247) (Last Sighting)
+
+### Places Seen
 
 * Ciudad de México, Mexico
 * Morelos, Mexico
 
-## Description
-The slate-throated whitestart or slate-throated redstart (Myioborus miniatus) is a species of bird in the family Parulidae native to Central and South America.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Slate-throated_whitestart
 
 ## Media
 ### Photographs

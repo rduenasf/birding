@@ -17,20 +17,31 @@ tags:
 
 # Heermann's Gull <span className='sci_name'>Larus heermanni</span>
 
-**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers) > [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=heegul) | [Map](/map?species_code=heegul)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 Heermann's gull (Larus heermanni) is a gull resident in the United States, Mexico and extreme southwestern British Columbia, nearly all nesting on Isla Rasa in the Gulf of California. They are usually found near shores or well out to sea, very rarely inland. The species is named after Adolphus Lewis Heermann, nineteenth-century explorer and naturalist.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Heermann%27s_gull
+
+### Taxonomy
+[Charadriiformes](/tags/charadriiformes) > [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers) > [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=heegul) | [Map](/map?species_code=heegul)
+
+### Relevant Sightings
+
+* [06-22-2024 - California, United States](https://ebird.org/checklist/S183306525) (First Sighting)
+* [11-02-2024 - California, United States](https://ebird.org/checklist/S201158119) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

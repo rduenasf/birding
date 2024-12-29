@@ -5,7 +5,7 @@ order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
 species_group: "Shorebirds"
 species_code: "whimbr"
-sidebar_position: 400
+sidebar_position: 401
 sidebar_class_name: "has-photo "
 tags: 
   - Charadriiformes
@@ -17,23 +17,34 @@ tags:
 
 # Whimbrel <span className='sci_name'>Numenius phaeopus</span>
 
-**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
+## Overview
+
+### Description
+The Eurasian or common whimbrel (Numenius phaeopus), also known as the white-rumped whimbrel in North America, is a wader in the large family Scolopacidae. It is one of the most widespread of the curlews, breeding across much of subarctic Asia and Europe as far south as Scotland. This species and the Hudsonian whimbrel have recently been split, although some taxonomic authorities still consider them to be conspecific.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Eurasian_whimbrel
+
+### Taxonomy
+[Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
 
 **Subspecies Seen**: Whimbrel (Hudsonian)
 
+
+## Sightings
+
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whimbr) | [Map](/map?species_code=whimbr)
 
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=whimbr&mediaType=photo&view=grid) | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [11-26-2023 - California, United States](https://ebird.org/checklist/S155251280) (First Sighting / Only Photo)
+* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994214) (Last Sighting)
+
+### Places Seen
 
 * California, United States
 * Valparaíso, Chile
 
-## Description
-The Eurasian or common whimbrel (Numenius phaeopus), also known as the white-rumped whimbrel in North America, is a wader in the large family Scolopacidae. It is one of the most widespread of the curlews, breeding across much of subarctic Asia and Europe as far south as Scotland. This species and the Hudsonian whimbrel have recently been split, although some taxonomic authorities still consider them to be conspecific.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Eurasian_whimbrel
 
 ## Media
 ### Photographs

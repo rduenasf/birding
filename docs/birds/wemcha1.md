@@ -5,7 +5,7 @@ order: "Galliformes"
 family: "Cracidae (Guans, Chachalacas, and Curassows)"
 species_group: "Chachalacas, Guans, and Curassows"
 species_code: "wemcha1"
-sidebar_position: 389
+sidebar_position: 390
 sidebar_class_name: " "
 tags: 
   - Galliformes
@@ -17,20 +17,30 @@ tags:
 
 # West Mexican Chachalaca <span className='sci_name'>Ortalis poliocephala</span>
 
-**Taxonomy:** [Galliformes](/tags/galliformes) > [Cracidae (Guans, Chachalacas, and Curassows)](/tags/cracidae-guans-chachalacas-and-curassows) > [Chachalacas, Guans, and Curassows](/tags/chachalacas-guans-and-curassows)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wemcha1) | [Map](/map?species_code=wemcha1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Morelos, Mexico
-
-## Description
+### Description
 The West Mexican chachalaca (Ortalis poliocephala) is a species of bird in the family Cracidae, the chachalacas, guans, and curassows.  It is endemic to Mexico.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/West_Mexican_chachalaca
+
+### Taxonomy
+[Galliformes](/tags/galliformes) > [Cracidae (Guans, Chachalacas, and Curassows)](/tags/cracidae-guans-chachalacas-and-curassows) > [Chachalacas, Guans, and Curassows](/tags/chachalacas-guans-and-curassows)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wemcha1) | [Map](/map?species_code=wemcha1)
+
+### Relevant Sightings
+
+* [2024-05-03T14:20:00.000Z - Morelos, Mexico](https://ebird.org/checklist/S171768235) (Only Sighting)
+
+### Places Seen
+
+* Morelos, Mexico
+
+
 
 ## Media
 ### Photographs

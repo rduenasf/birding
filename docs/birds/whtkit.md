@@ -5,7 +5,7 @@ order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
 species_group: "Vultures, Hawks, and Allies"
 species_code: "whtkit"
-sidebar_position: 410
+sidebar_position: 411
 sidebar_class_name: "has-photo has-audio"
 tags: 
   - Accipitriformes
@@ -17,20 +17,33 @@ tags:
 
 # White-tailed Kite <span className='sci_name'>Elanus leucurus</span>
 
-**Taxonomy:** [Accipitriformes](/tags/accipitriformes) > [Accipitridae (Hawks, Eagles, and Kites)](/tags/accipitridae-hawks-eagles-and-kites) > [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whtkit) | [Map](/map?species_code=whtkit)
-
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=whtkit&mediaType=photo&view=grid) | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=whtkit&mediaType=audio&view=grid)
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The white-tailed kite (Elanus leucurus) is a small raptor found in western North America and parts of South America. It replaces the related Old World black-winged kite in its native range.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/White-tailed_kite
+
+### Taxonomy
+[Accipitriformes](/tags/accipitriformes) > [Accipitridae (Hawks, Eagles, and Kites)](/tags/accipitridae-hawks-eagles-and-kites) > [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whtkit) | [Map](/map?species_code=whtkit)
+
+### Relevant Sightings
+
+* [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
+* [11-23-2024 - California, United States](https://ebird.org/checklist/S203364471) (First/Best Recording)
+* [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (Only Photo)
+* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

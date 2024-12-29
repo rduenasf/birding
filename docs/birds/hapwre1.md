@@ -17,20 +17,30 @@ tags:
 
 # Happy Wren <span className='sci_name'>Pheugopedius felix</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Troglodytidae (Wrens)](/tags/troglodytidae-wrens) > [Wrens](/tags/wrens)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=hapwre1) | [Map](/map?species_code=hapwre1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Morelos, Mexico
-
-## Description
+### Description
 The happy wren (Pheugopedius felix) is a species of bird in the family Troglodytidae.  It is endemic to the Pacific slope of western Mexico, from the state of Sonora to the state of Oaxaca, and also on islands west of the Mexican coast.  As with other species of Pheugopedius, older sources (e.g. Howell and Webb) classify it within genus Thryothorus.  Some authorities have treated it as a subspecies of P. rutilus or P. sclateri.  There is significant geographical variation, and six subspecies are recognized: P. f. sonorae is found in southern Sonora and northern Sinaloa; P. f. pallidus is found in central Sinaloa, western Durango and southwards to Jalisco and Michoacán; P. f. lawrencii and P. f. magdalenae are found on different islands of the Islas Marías; P. f. grandis is found in the Balsas River basin, and the nominate subspecies, P. f. felix in southwestern Mexico from Jalisco to Oaxaca.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Happy_wren
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Troglodytidae (Wrens)](/tags/troglodytidae-wrens) > [Wrens](/tags/wrens)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=hapwre1) | [Map](/map?species_code=hapwre1)
+
+### Relevant Sightings
+
+* [2024-05-03T14:20:00.000Z - Morelos, Mexico](https://ebird.org/checklist/S171768235) (Only Sighting)
+
+### Places Seen
+
+* Morelos, Mexico
+
+
 
 ## Media
 ### Photographs

@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "whtfly1"
-sidebar_position: 411
+sidebar_position: 412
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -17,20 +17,30 @@ tags:
 
 # White-throated Flycatcher <span className='sci_name'>Empidonax albigularis</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whtfly1) | [Map](/map?species_code=whtfly1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Ciudad de México, Mexico
-
-## Description
+### Description
 The white-throated flycatcher (Empidonax albigularis) is a species of bird in the family Tyrannidae. It is found in Belize, Costa Rica, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, and Panama. Its natural habitats are subtropical or tropical moist shrubland and heavily degraded former forest.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/White-throated_flycatcher
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whtfly1) | [Map](/map?species_code=whtfly1)
+
+### Relevant Sightings
+
+* [2024-05-03T21:50:00.000Z - Ciudad de México, Mexico](https://ebird.org/checklist/S171944247) (Only Sighting)
+
+### Places Seen
+
+* Ciudad de México, Mexico
+
+
 
 ## Media
 ### Photographs

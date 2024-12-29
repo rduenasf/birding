@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Turdidae (Thrushes and Allies)"
 species_group: "Thrushes"
 species_code: "whtrob1"
-sidebar_position: 414
+sidebar_position: 415
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -17,20 +17,31 @@ tags:
 
 # White-throated Thrush <span className='sci_name'>Turdus assimilis</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies) > [Thrushes](/tags/thrushes)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whtrob1) | [Map](/map?species_code=whtrob1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Morelos, Mexico
-
-## Description
+### Description
 The white-throated thrush (Turdus assimilis) is a species of bird in the family Turdidae. It is found in Mexico and Central America, ranging south to central Panama. This species has been referred to in some literature as "white-throated robin." However, that name is now more usually applied to the Old World species Irania gutturalis.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/White-throated_thrush
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies) > [Thrushes](/tags/thrushes)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whtrob1) | [Map](/map?species_code=whtrob1)
+
+### Relevant Sightings
+
+* [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768259) (First Sighting)
+* [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768281) (Last Sighting)
+
+### Places Seen
+
+* Morelos, Mexico
+
+
 
 ## Media
 ### Photographs

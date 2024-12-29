@@ -17,20 +17,30 @@ tags:
 
 # Pacific Loon <span className='sci_name'>Gavia pacifica</span>
 
-**Taxonomy:** [Gaviiformes](/tags/gaviiformes) > [Gaviidae (Loons)](/tags/gaviidae-loons) > [Loons](/tags/loons)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pacloo) | [Map](/map?species_code=pacloo)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The Pacific loon or Pacific diver (Gavia pacifica), is a medium-sized member of the loon, or diver, family.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Pacific_loon
+
+### Taxonomy
+[Gaviiformes](/tags/gaviiformes) > [Gaviidae (Loons)](/tags/gaviidae-loons) > [Loons](/tags/loons)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pacloo) | [Map](/map?species_code=pacloo)
+
+### Relevant Sightings
+
+* [2024-06-22T15:35:00.000Z - California, United States](https://ebird.org/checklist/S183306526) (Only Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

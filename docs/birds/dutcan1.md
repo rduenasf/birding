@@ -17,20 +17,30 @@ tags:
 
 # Dusky-tailed Canastero <span className='sci_name'>Pseudasthenes humicola</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers) > [Ovenbirds](/tags/ovenbirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=dutcan1) | [Map](/map?species_code=dutcan1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Región Metropolitana de Santiago, Chile
-
-## Description
+### Description
 The dusky-tailed canastero (Pseudasthenes humicola) is a species of bird in the Furnariinae subfamily of the ovenbird family Furnariidae. It is endemic to Chile.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Dusky-tailed_canastero
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers) > [Ovenbirds](/tags/ovenbirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=dutcan1) | [Map](/map?species_code=dutcan1)
+
+### Relevant Sightings
+
+* [2024-10-13T15:48:00.000Z - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198994397) (Only Sighting)
+
+### Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
+
 
 ## Media
 ### Photographs

@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
 species_group: "New World Sparrows"
 species_code: "sonspa"
-sidebar_position: 347
+sidebar_position: 348
 sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
@@ -17,15 +17,31 @@ tags:
 
 # Song Sparrow <span className='sci_name'>Melospiza melodia</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+## Overview
+
+### Description
+The song sparrow (Melospiza melodia) is a medium-sized New World sparrow. Among the native sparrows in North America, it is easily one of the most abundant, variable and adaptable species.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Song_sparrow
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
 
 **Subspecies Seen**: Song Sparrow (melodia/atlantica), Song Sparrow (mexicana Group)
 
+
+## Sightings
+
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sonspa) | [Map](/map?species_code=sonspa)
 
-**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=sonspa&mediaType=audio&view=grid)
+### Relevant Sightings
 
-## Places Seen
+* [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
+* [11-17-2024 - California, United States](https://ebird.org/checklist/S202811385) (First Recording)
+* [11-23-2024 - California, United States](https://ebird.org/checklist/S203368565) (Best Recording)
+* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * California, United States
@@ -33,10 +49,7 @@ tags:
 * Ontario, Canada
 * Washington, United States
 
-## Description
-The song sparrow (Melospiza melodia) is a medium-sized New World sparrow. Among the native sparrows in North America, it is easily one of the most abundant, variable and adaptable species.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Song_sparrow
 
 ## Media
 ### Photographs
@@ -53,6 +66,7 @@ No photographs available.
 <iframe src="https://macaulaylibrary.org/asset/627593362/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 <iframe src="https://macaulaylibrary.org/asset/627593378/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 <iframe src="https://macaulaylibrary.org/asset/627593382/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/627926528/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/sonspa) 

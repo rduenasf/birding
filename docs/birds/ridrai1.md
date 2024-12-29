@@ -17,21 +17,33 @@ tags:
 
 # Ridgway's Rail <span className='sci_name'>Rallus obsoletus</span>
 
-**Taxonomy:** [Gruiformes](/tags/gruiformes) > [Rallidae (Rails, Gallinules, and Coots)](/tags/rallidae-rails-gallinules-and-coots) > [Rails, Gallinules, and Allies](/tags/rails-gallinules-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ridrai1) | [Map](/map?species_code=ridrai1)
-
-**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=ridrai1&mediaType=audio&view=grid)
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 Ridgway's rail (Rallus obsoletus) is a species of bird found principally along the Pacific coast of North America from the San Francisco Bay Area to southern Baja California, as well as in some regions of the Gulf of California. A member of the rail family, Rallidae, it is a chicken-sized bird that lives brackish tidal marshes and rarely flies.  Its name commemorates American ornithologist Robert Ridgway.
 This species is closely related to the clapper rail, and until recently was considered a subspecies. It has a long, downward curving bill and is grayish brown with a pale chestnut breast and conspicuous whitish rump patch. It is most active nocturnally and crepuscularly.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Ridgway%27s_rail
+
+### Taxonomy
+[Gruiformes](/tags/gruiformes) > [Rallidae (Rails, Gallinules, and Coots)](/tags/rallidae-rails-gallinules-and-coots) > [Rails, Gallinules, and Allies](/tags/rails-gallinules-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ridrai1) | [Map](/map?species_code=ridrai1)
+
+### Relevant Sightings
+
+* [12-23-2023 - California, United States](https://ebird.org/checklist/S157058117) (First Sighting)
+* [11-30-2024 - California, United States](https://ebird.org/checklist/S204074627) (Only Recording)
+* [11-30-2024 - California, United States](https://ebird.org/checklist/S204074627) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

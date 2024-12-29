@@ -17,22 +17,33 @@ tags:
 
 # Chiloe Wigeon <span className='sci_name'>Mareca sibilatrix</span>
 
-**Taxonomy:** [Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chiwig1) | [Map](/map?species_code=chiwig1)
-
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=chiwig1&mediaType=photo&view=grid) | No Recording
-
-## Places Seen
-
-* Región Metropolitana de Santiago, Chile
-* Valparaíso, Chile
-
-## Description
+### Description
 The Chiloé wigeon (Mareca sibilatrix), also known as the southern wigeon, is one of three extant species of wigeon in the genus Mareca of the dabbling duck subfamily. This bird is indigenous to the southern part of South America, including the Chiloé Archipelago.
 In its native range, it is called the pato overo ("piebald duck") or pato real ("royal duck"), although the latter name also refers to the Muscovy in the wild. Its specific epithet, sibilatrix, means 'whistler', referring to the bird's. Its name comes from its residence, the Chiloé Archipelago[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Chilo%C3%A9_wigeon
+
+### Taxonomy
+[Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chiwig1) | [Map](/map?species_code=chiwig1)
+
+### Relevant Sightings
+
+* [10-11-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398135) (First Sighting / Only Photo)
+* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994043) (Last Sighting)
+
+### Places Seen
+
+* Región Metropolitana de Santiago, Chile
+* Valparaíso, Chile
+
+
 
 ## Media
 ### Photographs

@@ -17,28 +17,44 @@ tags:
 
 # American Crow <span className='sci_name'>Corvus brachyrhynchos</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Corvidae (Crows, Jays, and Magpies)](/tags/corvidae-crows-jays-and-magpies) > [Jays, Magpies, Crows, and Ravens](/tags/jays-magpies-crows-and-ravens)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=amecro) | [Map](/map?species_code=amecro)
-
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=amecro&mediaType=photo&view=grid) | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=amecro&mediaType=audio&view=grid)
-
-## Places Seen
-
-* California, United States
-* Florida, United States
-* Ontario, Canada
-* Washington, United States
-
-## Description
+### Description
 The American crow (Corvus brachyrhynchos) is a large passerine bird species of the family Corvidae. It is a common bird found throughout much of North America. American crows are the New World counterpart to the carrion crow and the hooded crow of Eurasia; they all occupy the same ecological niche. Although the American crow and the hooded crow are very similar in size, structure and behavior, their calls and visual appearance are different.
 From beak to tail, an American crow measures 40–50 cm (16–20 in), almost half of which is tail. Its wingspan is 85–100 cm (33–39 in). Mass varies from about 300 to 600 g (11 to 21 oz), with males tending to be larger than females. Plumage is all black, with iridescent feathers. It looks much like other all-black corvids.  They are very intelligent, and adaptable to human environments. The most usual call is CaaW!-CaaW!-CaaW! They can be distinguished from the common raven (C. corax) because American crows are smaller and the beak is slightly less pronounced; from the fish crow (C. ossifragus) because American crows do not hunch and fluff their throat feathers when they call; and from the carrion crow (C. corone) by size, as the carrion crow is larger and of a stockier build.
 American crows are common, widespread, and susceptible to the West Nile virus, making them useful as a bioindicator to track the virus's spread. Direct transmission of the virus from crows to humans is impossible.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/American_crow
 
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Corvidae (Crows, Jays, and Magpies)](/tags/corvidae-crows-jays-and-magpies) > [Jays, Magpies, Crows, and Ravens](/tags/jays-magpies-crows-and-ravens)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=amecro) | [Map](/map?species_code=amecro)
+
+### Relevant Sightings
+
+* [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
+* [07-05-2024 - Florida, United States](https://ebird.org/checklist/S185439324) (First Photo)
+* [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (First Recording)
+* [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (Best Recording)
+* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Best Photo)
+* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+* Florida, United States
+* Ontario, Canada
+* Washington, United States
+
+
+
 ## Media
 ### Photographs
+<iframe src="https://macaulaylibrary.org/asset/628169384/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 <iframe src="https://macaulaylibrary.org/asset/627868551/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
 
 ### Audio Recordings

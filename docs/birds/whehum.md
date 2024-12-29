@@ -5,7 +5,7 @@ order: "Apodiformes"
 family: "Trochilidae (Hummingbirds)"
 species_group: "Hummingbirds"
 species_code: "whehum"
-sidebar_position: 406
+sidebar_position: 407
 sidebar_class_name: " "
 tags: 
   - Apodiformes
@@ -17,21 +17,32 @@ tags:
 
 # White-eared Hummingbird <span className='sci_name'>Basilinna leucotis</span>
 
-**Taxonomy:** [Apodiformes](/tags/apodiformes) > [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds) > [Hummingbirds](/tags/hummingbirds)
+## Overview
+
+### Description
+The white-eared hummingbird (Basilinna leucotis) is a species of hummingbird in the "emeralds", tribe Trochilini of subfamily Trochilinae. It is found from the southwestern U.S. to Nicaragua.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/White-eared_hummingbird
+
+### Taxonomy
+[Apodiformes](/tags/apodiformes) > [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds) > [Hummingbirds](/tags/hummingbirds)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whehum) | [Map](/map?species_code=whehum)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768259) (First Sighting)
+* [05-03-2024 - Ciudad de México, Mexico](https://ebird.org/checklist/S171944247) (Last Sighting)
+
+### Places Seen
 
 * Ciudad de México, Mexico
 * Morelos, Mexico
 
-## Description
-The white-eared hummingbird (Basilinna leucotis) is a species of hummingbird in the "emeralds", tribe Trochilini of subfamily Trochilinae. It is found from the southwestern U.S. to Nicaragua.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/White-eared_hummingbird
 
 ## Media
 ### Photographs

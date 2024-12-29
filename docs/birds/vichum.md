@@ -5,7 +5,7 @@ order: "Apodiformes"
 family: "Trochilidae (Hummingbirds)"
 species_group: "Hummingbirds"
 species_code: "vichum"
-sidebar_position: 383
+sidebar_position: 384
 sidebar_class_name: " "
 tags: 
   - Apodiformes
@@ -17,20 +17,30 @@ tags:
 
 # Violet-crowned Hummingbird <span className='sci_name'>Ramosomyia violiceps</span>
 
-**Taxonomy:** [Apodiformes](/tags/apodiformes) > [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds) > [Hummingbirds](/tags/hummingbirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=vichum) | [Map](/map?species_code=vichum)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Arizona, United States
-
-## Description
+### Description
 The violet-crowned hummingbird (Ramosomyia violiceps) is a hummingbird in the "emeralds", tribe Trochilini of subfamily Trochilinae. It is found in Mexico and the southwestern United States.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Violet-crowned_hummingbird
+
+### Taxonomy
+[Apodiformes](/tags/apodiformes) > [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds) > [Hummingbirds](/tags/hummingbirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=vichum) | [Map](/map?species_code=vichum)
+
+### Relevant Sightings
+
+* [2024-04-27T22:24:00.000Z - Arizona, United States](https://ebird.org/checklist/S170629025) (Only Sighting)
+
+### Places Seen
+
+* Arizona, United States
+
+
 
 ## Media
 ### Photographs

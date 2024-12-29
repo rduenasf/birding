@@ -17,23 +17,34 @@ tags:
 
 # Common Grackle <span className='sci_name'>Quiscalus quiscula</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
+## Overview
+
+### Description
+The common grackle (Quiscalus quiscula) is a species of large icterid bird found in large numbers through much of North America. First described in 1758 by Carl Linnaeus, the common grackle has three subspecies. Adult common grackles have a long and dark bill, pale yellow eyes, and a long tail. Adults often have an iridescent appearance on their head, especially males. Common grackles can be found widely across North America east of the Rocky Mountains.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Common_grackle
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
 
 **Subspecies Seen**: Common Grackle (Bronzed)
 
+
+## Sightings
+
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=comgra) | [Map](/map?species_code=comgra)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [04-08-2024 - Ontario, Canada](https://ebird.org/checklist/S167742697) (First Sighting)
+* [07-06-2024 - Florida, United States](https://ebird.org/checklist/S185644070) (Last Sighting)
+
+### Places Seen
 
 * Florida, United States
 * Ontario, Canada
 
-## Description
-The common grackle (Quiscalus quiscula) is a species of large icterid bird found in large numbers through much of North America. First described in 1758 by Carl Linnaeus, the common grackle has three subspecies. Adult common grackles have a long and dark bill, pale yellow eyes, and a long tail. Adults often have an iridescent appearance on their head, especially males. Common grackles can be found widely across North America east of the Rocky Mountains.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Common_grackle
 
 ## Media
 ### Photographs

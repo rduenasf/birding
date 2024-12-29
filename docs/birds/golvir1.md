@@ -17,20 +17,30 @@ tags:
 
 # Golden Vireo <span className='sci_name'>Vireo hypochryseus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Vireonidae (Vireos, Shrike-Babblers, and Erpornis)](/tags/vireonidae-vireos-shrike-babblers-and-erpornis) > [Vireos](/tags/vireos)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=golvir1) | [Map](/map?species_code=golvir1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Morelos, Mexico
-
-## Description
+### Description
 The golden vireo (Vireo hypochryseus) is a species of bird in the family Vireonidae. It is endemic to Mexico. Its natural habitats are subtropical or tropical dry forests and subtropical or tropical moist lowland forests.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Golden_vireo
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Vireonidae (Vireos, Shrike-Babblers, and Erpornis)](/tags/vireonidae-vireos-shrike-babblers-and-erpornis) > [Vireos](/tags/vireos)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=golvir1) | [Map](/map?species_code=golvir1)
+
+### Relevant Sightings
+
+* [2024-05-03T14:20:00.000Z - Morelos, Mexico](https://ebird.org/checklist/S171768235) (Only Sighting)
+
+### Places Seen
+
+* Morelos, Mexico
+
+
 
 ## Media
 ### Photographs

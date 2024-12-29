@@ -17,20 +17,31 @@ tags:
 
 # Plain-mantled Tit-Spinetail <span className='sci_name'>Leptasthenura aegithaloides</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers) > [Ovenbirds](/tags/ovenbirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pmtspi1) | [Map](/map?species_code=pmtspi1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Región Metropolitana de Santiago, Chile
-
-## Description
+### Description
 The plain-mantled tit-spinetail (Leptasthenura aegithaloides) is a small passerine bird of South America in the Furnariinae subfamily of the ovenbird family Furnariidae. It is found in Argentina, Bolivia, Chile, and Peru.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Plain-mantled_tit-spinetail
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers) > [Ovenbirds](/tags/ovenbirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pmtspi1) | [Map](/map?species_code=pmtspi1)
+
+### Relevant Sightings
+
+* [10-19-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524278) (First Sighting)
+* [10-19-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524285) (Last Sighting)
+
+### Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
+
 
 ## Media
 ### Photographs

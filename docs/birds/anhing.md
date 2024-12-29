@@ -17,21 +17,31 @@ tags:
 
 # Anhinga <span className='sci_name'>Anhinga anhinga</span>
 
-**Taxonomy:** [Suliformes](/tags/suliformes) > [Anhingidae (Anhingas)](/tags/anhingidae-anhingas) > [Cormorants and Anhingas](/tags/cormorants-and-anhingas)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=anhing) | [Map](/map?species_code=anhing)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Florida, United States
-
-## Description
+### Description
 The anhinga (; Anhinga anhinga), sometimes called snakebird, darter, American darter, or water turkey, is a water bird of the warmer parts of the Americas. The word anhinga comes from a'ñinga in the Brazilian Tupi language and means "devil bird" or "snake bird". The origin of the name is apparent when swimming: only the neck appears above water, so the bird looks like a snake ready to strike. They do not have external nares (nostrils) and breathe solely through their epiglottis.
 The anhinga is placed in the darter family, Anhingidae, and is closely related to Indian (Anhinga melanogaster), African (Anhinga rufa), and Australian (Anhinga novaehollandiae) darters. Like other darters, the anhinga hunts by spearing fish and other small prey using its sharp, slender beak.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Anhinga
+
+### Taxonomy
+[Suliformes](/tags/suliformes) > [Anhingidae (Anhingas)](/tags/anhingidae-anhingas) > [Cormorants and Anhingas](/tags/cormorants-and-anhingas)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=anhing) | [Map](/map?species_code=anhing)
+
+### Relevant Sightings
+
+* [2024-07-06T02:00:00.000Z - Florida, United States](https://ebird.org/checklist/S185535945) (Only Sighting)
+
+### Places Seen
+
+* Florida, United States
+
+
 
 ## Media
 ### Photographs

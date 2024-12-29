@@ -17,22 +17,35 @@ tags:
 
 # Ruby-crowned Kinglet <span className='sci_name'>Corthylio calendula</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Regulidae (Kinglets)](/tags/regulidae-kinglets) > [Kinglets](/tags/kinglets)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ruckin) | [Map](/map?species_code=ruckin)
-
-**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=ruckin&mediaType=audio&view=grid)
-
-## Places Seen
-
-* Arizona, United States
-* California, United States
-
-## Description
+### Description
 The ruby-crowned kinglet (Corthylio calendula) is a very small passerine bird found throughout North America. It is a member of the kinglet family. The bird has olive-green plumage with two white wing bars and a white eye-ring. Males have a red crown patch, which is often concealed. The sexes are identical apart from the crown, and juveniles are similar in plumage to adult females. It is one of the smallest songbirds in North America. The ruby-crowned kinglet is not closely related to other kinglets and was moved from Regulus to its own genus, Corthylio in 2021. Three subspecies are currently recognized.
 The kinglet is mostly migratory, and its range extends from northwest Canada and Alaska south to Mexico. Its breeding habitat is spruce-fir forests in the northern and mountainous regions of the United States and Canada. The ruby-crowned kinglet builds a cup-shaped nest, which may be pensile or placed on a tree branch and is often hidden. It lays up to 12 eggs, and has the largest clutch of any North American passerine for its size. It is mainly insectivorous, but also eats fruits and seeds.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Ruby-crowned_kinglet
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Regulidae (Kinglets)](/tags/regulidae-kinglets) > [Kinglets](/tags/kinglets)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ruckin) | [Map](/map?species_code=ruckin)
+
+### Relevant Sightings
+
+* [11-11-2023 - California, United States](https://ebird.org/checklist/S154259403) (First Sighting)
+* [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (First Recording)
+* [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (Best Recording)
+* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Last Sighting)
+
+### Places Seen
+
+* Arizona, United States
+* California, United States
+
+
 
 ## Media
 ### Photographs

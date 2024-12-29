@@ -5,7 +5,7 @@ order: "Apodiformes"
 family: "Apodidae (Swifts)"
 species_group: "Swifts"
 species_code: "whtswi"
-sidebar_position: 413
+sidebar_position: 414
 sidebar_class_name: " "
 tags: 
   - Apodiformes
@@ -17,21 +17,32 @@ tags:
 
 # White-throated Swift <span className='sci_name'>Aeronautes saxatalis</span>
 
-**Taxonomy:** [Apodiformes](/tags/apodiformes) > [Apodidae (Swifts)](/tags/apodidae-swifts) > [Swifts](/tags/swifts)
+## Overview
+
+### Description
+The white-throated swift (Aeronautes saxatalis) is a swift of the family Apodidae native to western North America, south to cordilleran western Honduras. Its coastal range extends as far north as Northern California, while inland it has migratory populations found throughout the Great Basin and Rocky Mountain regions, ranging as far north as southern British Columbia. White-throated swifts are found in open areas near cliffs, rock faces, or man-made structures, where they roost. Swifts are social birds, and groups are often seen roosting and foraging for flying insects together.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/White-throated_swift
+
+### Taxonomy
+[Apodiformes](/tags/apodiformes) > [Apodidae (Swifts)](/tags/apodidae-swifts) > [Swifts](/tags/swifts)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whtswi) | [Map](/map?species_code=whtswi)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [01-28-2024 - California, United States](https://ebird.org/checklist/S160073236) (First Sighting)
+* [11-17-2024 - California, United States](https://ebird.org/checklist/S202811385) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * California, United States
 
-## Description
-The white-throated swift (Aeronautes saxatalis) is a swift of the family Apodidae native to western North America, south to cordilleran western Honduras. Its coastal range extends as far north as Northern California, while inland it has migratory populations found throughout the Great Basin and Rocky Mountain regions, ranging as far north as southern British Columbia. White-throated swifts are found in open areas near cliffs, rock faces, or man-made structures, where they roost. Swifts are social birds, and groups are often seen roosting and foraging for flying insects together.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/White-throated_swift
 
 ## Media
 ### Photographs

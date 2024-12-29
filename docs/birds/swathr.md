@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Turdidae (Thrushes and Allies)"
 species_group: "Thrushes"
 species_code: "swathr"
-sidebar_position: 368
+sidebar_position: 369
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -17,20 +17,30 @@ tags:
 
 # Swainson's Thrush <span className='sci_name'>Catharus ustulatus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies) > [Thrushes](/tags/thrushes)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=swathr) | [Map](/map?species_code=swathr)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 Swainson's thrush (Catharus ustulatus), also called olive-backed thrush and russet-backed thrush is a medium-sized thrush. It is a member of genus Catharus and is typical of it in terms of its subdued coloration and beautiful, ascending flute-like voice. Swainson's thrush was named after William Swainson, an English ornithologist.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Swainson%27s_thrush
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies) > [Thrushes](/tags/thrushes)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=swathr) | [Map](/map?species_code=swathr)
+
+### Relevant Sightings
+
+* [2024-05-11T15:09:00.000Z - California, United States](https://ebird.org/checklist/S173585635) (Only Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

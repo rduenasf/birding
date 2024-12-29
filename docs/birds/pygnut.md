@@ -17,22 +17,33 @@ tags:
 
 # Pygmy Nuthatch <span className='sci_name'>Sitta pygmaea</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Sittidae (Nuthatches)](/tags/sittidae-nuthatches) > [Nuthatches](/tags/nuthatches)
+## Overview
+
+### Description
+The pygmy nuthatch (Sitta pygmaea) is a tiny songbird, about 10 cm (4 in) long and about 10 grams in weight.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Pygmy_nuthatch
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Sittidae (Nuthatches)](/tags/sittidae-nuthatches) > [Nuthatches](/tags/nuthatches)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pygnut) | [Map](/map?species_code=pygnut)
 
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=pygnut&mediaType=photo&view=grid) | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [02-24-2024 - California, United States](https://ebird.org/checklist/S162796327) (First Sighting / Only Photo)
+* [09-08-2024 - California, United States](https://ebird.org/checklist/S194427186) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * California, United States
 * Ciudad de México, Mexico
 
-## Description
-The pygmy nuthatch (Sitta pygmaea) is a tiny songbird, about 10 cm (4 in) long and about 10 grams in weight.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Pygmy_nuthatch
 
 ## Media
 ### Photographs

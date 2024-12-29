@@ -17,20 +17,30 @@ tags:
 
 # Black Turnstone <span className='sci_name'>Arenaria melanocephala</span>
 
-**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blktur) | [Map](/map?species_code=blktur)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The black turnstone (Arenaria melanocephala) is a species of small wading bird. It is one of two species of turnstone in the genus Arenaria the ruddy turnstone (A. interpres) being the other. It is now classified in the sandpiper family, Scolopacidae, but was formerly sometimes placed in the plover family, Charadriidae. It is native to the west coast of North America and breeds only in Alaska.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Black_turnstone
+
+### Taxonomy
+[Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blktur) | [Map](/map?species_code=blktur)
+
+### Relevant Sightings
+
+* [2024-03-10T15:45:00.000Z - California, United States](https://ebird.org/checklist/S164344784) (Only Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

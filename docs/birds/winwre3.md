@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
 species_group: "Wrens"
 species_code: "winwre3"
-sidebar_position: 422
+sidebar_position: 423
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -17,22 +17,32 @@ tags:
 
 # Winter Wren <span className='sci_name'>Troglodytes hiemalis</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Troglodytidae (Wrens)](/tags/troglodytidae-wrens) > [Wrens](/tags/wrens)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=winwre3) | [Map](/map?species_code=winwre3)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Ontario, Canada
-
-## Description
+### Description
 The winter wren (Troglodytes hiemalis) is a very small North American bird and a member of the mainly New World wren family Troglodytidae. The species contained the congeneric Pacific wren (Troglodytes pacificus) of western North America and Eurasian wren (Troglodytes troglodytes) of Eurasia until they were split in 2010.
 It breeds in coniferous forests from British Columbia to the Atlantic Ocean. It migrates through and winters across southeastern Canada, the eastern half the United States and (rarely) north-eastern Mexico. Small numbers may be casual in the western United States and Canada.
 The scientific name for its genus is taken from the Greek word troglodytes (from "trogle" a hole, and "dyein" to creep), meaning "cave-dweller", and may refer to their tendency to nest in cavities or their foraging behavior, in which the winter wren almost exclusively ground-gleans in thick underbrush.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Winter_wren
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Troglodytidae (Wrens)](/tags/troglodytidae-wrens) > [Wrens](/tags/wrens)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=winwre3) | [Map](/map?species_code=winwre3)
+
+### Relevant Sightings
+
+* [2024-04-13T16:10:00.000Z - Ontario, Canada](https://ebird.org/checklist/S168448531) (Only Sighting)
+
+### Places Seen
+
+* Ontario, Canada
+
+
 
 ## Media
 ### Photographs

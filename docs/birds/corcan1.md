@@ -17,20 +17,30 @@ tags:
 
 # Cordilleran Canastero <span className='sci_name'>Asthenes modesta</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers) > [Ovenbirds](/tags/ovenbirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=corcan1) | [Map](/map?species_code=corcan1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Región Metropolitana de Santiago, Chile
-
-## Description
+### Description
 The cordilleran canastero (Asthenes modesta) is a species of bird in the Furnariinae subfamily of the ovenbird family Furnariidae. It is found in Argentina, Bolivia, Chile, and Peru.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Cordilleran_canastero
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers) > [Ovenbirds](/tags/ovenbirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=corcan1) | [Map](/map?species_code=corcan1)
+
+### Relevant Sightings
+
+* [2024-10-19T17:56:00.000Z - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524262) (Only Sighting)
+
+### Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
+
 
 ## Media
 ### Photographs

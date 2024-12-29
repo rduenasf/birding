@@ -17,20 +17,30 @@ tags:
 
 # Black-footed Albatross <span className='sci_name'>Phoebastria nigripes</span>
 
-**Taxonomy:** [Procellariiformes](/tags/procellariiformes) > [Diomedeidae (Albatrosses)](/tags/diomedeidae-albatrosses) > [Albatrosses](/tags/albatrosses)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkfalb) | [Map](/map?species_code=bkfalb)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The black-footed albatross (Phoebastria nigripes) is a large seabird of the albatross family Diomedeidae from the North Pacific. All but 2.5% of the population is found among the Northwestern Hawaiian Islands. It is one of three species of albatross that range in the northern hemisphere, nesting on isolated tropical islands. Unlike many albatrosses, it is dark plumaged.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Black-footed_albatross
+
+### Taxonomy
+[Procellariiformes](/tags/procellariiformes) > [Diomedeidae (Albatrosses)](/tags/diomedeidae-albatrosses) > [Albatrosses](/tags/albatrosses)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkfalb) | [Map](/map?species_code=bkfalb)
+
+### Relevant Sightings
+
+* [2024-06-22T18:52:00.000Z - California, United States](https://ebird.org/checklist/S183306531) (Only Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

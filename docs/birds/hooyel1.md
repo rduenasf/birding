@@ -17,20 +17,30 @@ tags:
 
 # Hooded Yellowthroat <span className='sci_name'>Geothlypis nelsoni</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=hooyel1) | [Map](/map?species_code=hooyel1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Ciudad de México, Mexico
-
-## Description
+### Description
 The hooded yellowthroat (Geothlypis nelsoni) is a species of bird in the family Parulidae. It is endemic to the highlands of Mexico north of the Isthmus of Tehuantepec. It is resident in dense semiarid to humid montane shrubland or chaparral.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Hooded_yellowthroat
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=hooyel1) | [Map](/map?species_code=hooyel1)
+
+### Relevant Sightings
+
+* [2024-05-03T21:50:00.000Z - Ciudad de México, Mexico](https://ebird.org/checklist/S171944247) (Only Sighting)
+
+### Places Seen
+
+* Ciudad de México, Mexico
+
+
 
 ## Media
 ### Photographs

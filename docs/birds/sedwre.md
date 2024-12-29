@@ -17,22 +17,32 @@ tags:
 
 # Grass Wren <span className='sci_name'>Cistothorus platensis</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Troglodytidae (Wrens)](/tags/troglodytidae-wrens) > [Wrens](/tags/wrens)
+## Overview
 
-**Subspecies Seen**: Grass Wren (Northern)
-
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sedwre) | [Map](/map?species_code=sedwre)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Ciudad de México, Mexico
-
-## Description
+### Description
 The grass wren (Cistothorus platensis) is a species of passerine bird in the family Troglodytidae. It is widely distributed in central and southern America.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Grass_wren
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Troglodytidae (Wrens)](/tags/troglodytidae-wrens) > [Wrens](/tags/wrens)
+
+**Subspecies Seen**: Grass Wren (Northern)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sedwre) | [Map](/map?species_code=sedwre)
+
+### Relevant Sightings
+
+* [2024-05-03T21:50:00.000Z - Ciudad de México, Mexico](https://ebird.org/checklist/S171944247) (Only Sighting)
+
+### Places Seen
+
+* Ciudad de México, Mexico
+
+
 
 ## Media
 ### Photographs

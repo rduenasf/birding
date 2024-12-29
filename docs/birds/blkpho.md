@@ -17,23 +17,36 @@ tags:
 
 # Black Phoebe <span className='sci_name'>Sayornis nigricans</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+## Overview
 
-**Subspecies Seen**: Black Phoebe (Northern)
-
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blkpho) | [Map](/map?species_code=blkpho)
-
-**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=blkpho&mediaType=audio&view=grid)
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The black phoebe (Sayornis nigricans) is a passerine bird in the tyrant-flycatcher family. It breeds from southwest Oregon and California south through Central and South America. It occurs year-round throughout most of its range and migrates less than the other birds in its genus, though its northern populations are partially migratory. Six subspecies are commonly recognized, although two are occasionally combined as a separate species, the white-winged phoebe.
 The black phoebe has predominantly black plumage, with a white belly and undertail coverts. The sexes are identical in color, and juveniles have brown feather tips and brown wing-bars. Its song is a repeated tee-hee, tee ho. It lives in a variety of habitats but is always near water. It is mainly insectivorous and waits on a perch before sallying out and catching its prey in the air. It makes an open cup nest which is placed under a cliff or a bridge and cemented in its place with mud.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Black_phoebe
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+
+**Subspecies Seen**: Black Phoebe (Northern)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blkpho) | [Map](/map?species_code=blkpho)
+
+### Relevant Sightings
+
+* [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
+* [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (First Recording)
+* [11-23-2024 - California, United States](https://ebird.org/checklist/S203364471) (Best Recording)
+* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

@@ -5,7 +5,7 @@ order: "Charadriiformes"
 family: "Laridae (Gulls, Terns, and Skimmers)"
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "wesgul"
-sidebar_position: 394
+sidebar_position: 395
 sidebar_class_name: " "
 tags: 
   - Charadriiformes
@@ -17,21 +17,32 @@ tags:
 
 # Western Gull <span className='sci_name'>Larus occidentalis</span>
 
-**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers) > [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wesgul) | [Map](/map?species_code=wesgul)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The western gull (Larus occidentalis) is a large white-headed gull that lives on the west coast of North America and the Pacific Ocean. The western gull ranges from British Columbia, Canada, to Baja California, Mexico.
 It was previously considered conspecific with the yellow-footed gull (Larus livens) of the Gulf of California.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Western_gull
+
+### Taxonomy
+[Charadriiformes](/tags/charadriiformes) > [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers) > [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wesgul) | [Map](/map?species_code=wesgul)
+
+### Relevant Sightings
+
+* [12-02-2023 - California, United States](https://ebird.org/checklist/S155611564) (First Sighting)
+* [11-02-2024 - California, United States](https://ebird.org/checklist/S201158119) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

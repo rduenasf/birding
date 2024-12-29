@@ -5,7 +5,7 @@ order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
 species_group: "Shorebirds"
 species_code: "sposan"
-sidebar_position: 355
+sidebar_position: 356
 sidebar_class_name: " "
 tags: 
   - Charadriiformes
@@ -17,20 +17,31 @@ tags:
 
 # Spotted Sandpiper <span className='sci_name'>Actitis macularius</span>
 
-**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sposan) | [Map](/map?species_code=sposan)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The spotted sandpiper (Actitis macularius) is a small shorebird. Together with its sister species the common sandpiper (A. hypoleucos), it makes up the genus Actitis. They replace each other geographically; stray birds may settle down with breeders of the other species and hybridize.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Spotted_sandpiper
+
+### Taxonomy
+[Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sposan) | [Map](/map?species_code=sposan)
+
+### Relevant Sightings
+
+* [11-11-2023 - California, United States](https://ebird.org/checklist/S154259403) (First Sighting)
+* [02-24-2024 - California, United States](https://ebird.org/checklist/S162799737) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

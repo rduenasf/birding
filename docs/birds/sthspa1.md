@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
 species_group: "New World Sparrows"
 species_code: "sthspa1"
-sidebar_position: 360
+sidebar_position: 361
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -17,17 +17,9 @@ tags:
 
 # Stripe-headed Sparrow <span className='sci_name'>Peucaea ruficauda</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sthspa1) | [Map](/map?species_code=sthspa1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Morelos, Mexico
-
-## Description
+### Description
 The stripe-headed sparrow (Peucaea ruficauda) is an American sparrow which breeds from Pacific coastal south-western Mexico, including the transverse ranges, Cordillera Neovolcanica to Pacific coastal northern Costa Rica.
 This common bird is found in lowlands up to 1,800 m (5,900 ft) in altitude in the north of its range, and 800 m (2,600 ft) in Costa Rica. Its habitat is brushy savannah, scrubby second growth and woodland edges, but it avoids the forest interior.
 The nest, built by the female, is a deep cup of plant material lined with fine grass or horsehair. It is constructed less than 1.2 m (3.9 ft) above the ground in an isolated spiny scrub. The female lays two to four unmarked pale blue eggs, which she incubates for 12–14 days. The whole group helps in feeding the chicks, and roost together in a tight group at night.
@@ -38,6 +30,24 @@ The stripe-headed sparrow has a group vocalisation of chattering squeaks. The ma
 The stripe-headed sparrow feeds on the ground mainly on grass seeds, but also takes some small insects and spiders. It is usually in family groups or small flocks of up to seven birds. The flight is low and fluttery, with the tail held low.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Stripe-headed_sparrow
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sthspa1) | [Map](/map?species_code=sthspa1)
+
+### Relevant Sightings
+
+* [2024-05-03T14:20:00.000Z - Morelos, Mexico](https://ebird.org/checklist/S171768235) (Only Sighting)
+
+### Places Seen
+
+* Morelos, Mexico
+
+
 
 ## Media
 ### Photographs

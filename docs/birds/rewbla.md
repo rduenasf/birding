@@ -17,15 +17,29 @@ tags:
 
 # Red-winged Blackbird <span className='sci_name'>Agelaius phoeniceus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
+## Overview
+
+### Description
+The red-winged blackbird (Agelaius phoeniceus) is a passerine bird of the family Icteridae found in most of North America and much of Central America. It breeds from Alaska and Newfoundland south to Florida, the Gulf of Mexico, Mexico, and Guatemala, with isolated populations in western El Salvador, northwestern Honduras, and northwestern Costa Rica. It may winter as far north as Pennsylvania and British Columbia, but northern populations are generally migratory, moving south to Mexico and the Southern United States. Claims have been made that it is the most abundant living land bird in North America, as bird-counting censuses of wintering red-winged blackbirds sometimes show that loose flocks can number in excess of a million birds per flock and the full number of breeding pairs across North and Central America may exceed 250 million in peak years. It also ranks among the best-studied wild bird species in the world. The red-winged blackbird is sexually dimorphic; the male is all black with a red shoulder and yellow wing bar, while the female is a nondescript dark brown. Seeds and insects make up the bulk of the red-winged blackbird's diet.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Red-winged_blackbird
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
 
 **Subspecies Seen**: Red-winged Blackbird (California Bicolored), Red-winged Blackbird (Red-winged)
 
+
+## Sightings
+
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rewbla) | [Map](/map?species_code=rewbla)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [01-07-2024 - California, United States](https://ebird.org/checklist/S158367947) (First Sighting)
+* [11-28-2024 - California, United States](https://ebird.org/checklist/S203889552) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * California, United States
@@ -33,10 +47,7 @@ tags:
 * Florida, United States
 * Ontario, Canada
 
-## Description
-The red-winged blackbird (Agelaius phoeniceus) is a passerine bird of the family Icteridae found in most of North America and much of Central America. It breeds from Alaska and Newfoundland south to Florida, the Gulf of Mexico, Mexico, and Guatemala, with isolated populations in western El Salvador, northwestern Honduras, and northwestern Costa Rica. It may winter as far north as Pennsylvania and British Columbia, but northern populations are generally migratory, moving south to Mexico and the Southern United States. Claims have been made that it is the most abundant living land bird in North America, as bird-counting censuses of wintering red-winged blackbirds sometimes show that loose flocks can number in excess of a million birds per flock and the full number of breeding pairs across North and Central America may exceed 250 million in peak years. It also ranks among the best-studied wild bird species in the world. The red-winged blackbird is sexually dimorphic; the male is all black with a red shoulder and yellow wing bar, while the female is a nondescript dark brown. Seeds and insects make up the bulk of the red-winged blackbird's diet.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Red-winged_blackbird
 
 ## Media
 ### Photographs

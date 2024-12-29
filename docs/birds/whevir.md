@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Vireonidae (Vireos, Shrike-Babblers, and Erpornis)"
 species_group: "Vireos"
 species_code: "whevir"
-sidebar_position: 407
+sidebar_position: 408
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -17,20 +17,30 @@ tags:
 
 # White-eyed Vireo <span className='sci_name'>Vireo griseus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Vireonidae (Vireos, Shrike-Babblers, and Erpornis)](/tags/vireonidae-vireos-shrike-babblers-and-erpornis) > [Vireos](/tags/vireos)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whevir) | [Map](/map?species_code=whevir)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Florida, United States
-
-## Description
+### Description
 The white-eyed vireo (Vireo griseus) is a small songbird of the family Vireonidae.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/White-eyed_vireo
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Vireonidae (Vireos, Shrike-Babblers, and Erpornis)](/tags/vireonidae-vireos-shrike-babblers-and-erpornis) > [Vireos](/tags/vireos)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whevir) | [Map](/map?species_code=whevir)
+
+### Relevant Sightings
+
+* [2024-07-05T16:30:00.000Z - Florida, United States](https://ebird.org/checklist/S185439324) (Only Sighting)
+
+### Places Seen
+
+* Florida, United States
+
+
 
 ## Media
 ### Photographs

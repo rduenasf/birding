@@ -17,20 +17,31 @@ tags:
 
 # Canvasback <span className='sci_name'>Aythya valisineria</span>
 
-**Taxonomy:** [Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=canvas) | [Map](/map?species_code=canvas)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The canvasback (Aythya valisineria) is a species of diving duck, the largest found in North America.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Canvasback
+
+### Taxonomy
+[Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=canvas) | [Map](/map?species_code=canvas)
+
+### Relevant Sightings
+
+* [12-23-2023 - California, United States](https://ebird.org/checklist/S157058117) (First Sighting)
+* [11-30-2024 - California, United States](https://ebird.org/checklist/S204068913) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

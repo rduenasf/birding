@@ -17,20 +17,31 @@ tags:
 
 # Laughing Gull <span className='sci_name'>Leucophaeus atricilla</span>
 
-**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers) > [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=laugul) | [Map](/map?species_code=laugul)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Florida, United States
-
-## Description
+### Description
 The laughing gull (Leucophaeus atricilla) is a medium-sized gull of North and South America. Named for its laugh-like call, it is an opportunistic omnivore and scavenger. It breeds in large colonies mostly along the Atlantic coast of North America, the Caribbean, and northern South America. The two subspecies are L. a. megalopterus — which can be seen from southeast Canada down to Central America — and L. a. atricilla, which appears from the West Indies to the Venezuelan islands. The laughing gull was long placed in the genus Larus until its present placement in Leucophaeus.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Laughing_gull
+
+### Taxonomy
+[Charadriiformes](/tags/charadriiformes) > [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers) > [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=laugul) | [Map](/map?species_code=laugul)
+
+### Relevant Sightings
+
+* [07-04-2024 - Florida, United States](https://ebird.org/checklist/S185355465) (First Sighting)
+* [07-06-2024 - Florida, United States](https://ebird.org/checklist/S185700775) (Last Sighting)
+
+### Places Seen
+
+* Florida, United States
+
+
 
 ## Media
 ### Photographs

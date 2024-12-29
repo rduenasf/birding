@@ -17,20 +17,30 @@ tags:
 
 # Rufous Hummingbird <span className='sci_name'>Selasphorus rufus</span>
 
-**Taxonomy:** [Apodiformes](/tags/apodiformes) > [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds) > [Hummingbirds](/tags/hummingbirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rufhum) | [Map](/map?species_code=rufhum)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The rufous hummingbird (Selasphorus rufus) is a small hummingbird, about 8 cm (3 in) long with a long, straight and slender bill. These birds are known for their extraordinary flight skills, flying 3,200 kilometres (2,000 miles) during their migratory transits. It is one of nine species in the genus Selasphorus.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Rufous_hummingbird
+
+### Taxonomy
+[Apodiformes](/tags/apodiformes) > [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds) > [Hummingbirds](/tags/hummingbirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rufhum) | [Map](/map?species_code=rufhum)
+
+### Relevant Sightings
+
+* [2024-02-11T16:47:00.000Z - California, United States](https://ebird.org/checklist/S161327433) (Only Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

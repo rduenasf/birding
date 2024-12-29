@@ -17,18 +17,9 @@ tags:
 
 # Peregrine Falcon <span className='sci_name'>Falco peregrinus</span>
 
-**Taxonomy:** [Falconiformes](/tags/falconiformes) > [Falconidae (Falcons and Caracaras)](/tags/falconidae-falcons-and-caracaras) > [Falcons and Caracaras](/tags/falcons-and-caracaras)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=perfal) | [Map](/map?species_code=perfal)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-* Región Metropolitana de Santiago, Chile
-
-## Description
+### Description
 The peregrine falcon (Falco peregrinus), also known simply as the peregrine, is a cosmopolitan bird of prey (raptor) in the family Falconidae. A large, crow-sized falcon, it has a blue-grey back, barred white underparts, and a black head. The peregrine is renowned for its speed. It can reach over 320 km/h (200 mph) during its characteristic hunting stoop (high-speed dive), making it the fastest animal on the planet. According to a National Geographic TV program, the highest measured speed of a peregrine falcon is 389 km/h (242 mph). As is typical for bird-eating (avivore) raptors, peregrine falcons are sexually dimorphic, with females being considerably larger than males. Historically, it has also been known as "black-cheeked falcon" in Australia, and "duck hawk" in North America.
 The breeding range includes land regions from the Arctic tundra to the tropics. It can be found nearly everywhere on Earth, except extreme polar regions, very high mountains, and most tropical rainforests; the only major ice-free landmass from which it is entirely absent is New Zealand. This makes it the world's most widespread raptor and one of the most widely found wild bird species. In fact, the only land-based bird species found over a larger geographic area owes its success to human-led introduction; the domestic and feral pigeons are both domesticated forms of the rock dove, a major prey species for Eurasian Peregrine populations. Due to their abundance over most other bird species in cities, feral pigeons support many peregrine populations as a staple food source, especially in urban settings.
 The peregrine is a highly successful example of urban wildlife in much of its range, taking advantage of tall buildings as nest sites and an abundance of prey such as pigeons and ducks. Both the English and scientific names of this species mean "wandering falcon", referring to the migratory habits of many northern populations. A total of 18 or 19 regional subspecies are accepted, which vary in appearance; disagreement existed in the past over whether the distinctive Barbary falcon was represented by two subspecies of Falco peregrinus or was a separate species, F. pelegrinoides, and several of the other subspecies were originally described as species. The genetic differential between them (and also the difference in their appearance) is very small, only about 0.6–0.8% genetically differentiated, showing the divergence is relatively recent, during the time of the Last Ice Age; all the major ornithological authorities now treat the barbary falcon as a subspecies.
@@ -36,6 +27,26 @@ Although its diet consists almost exclusively of medium-sized birds, the peregri
 The peregrine falcon is a well-respected falconry bird due to its strong hunting ability, high trainability, versatility, and availability via captive breeding. It is effective on most game bird species, from small to large. It has also been used as a religious, royal, or national symbol across multiple eras and areas of human civilization.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Peregrine_falcon
+
+### Taxonomy
+[Falconiformes](/tags/falconiformes) > [Falconidae (Falcons and Caracaras)](/tags/falconidae-falcons-and-caracaras) > [Falcons and Caracaras](/tags/falcons-and-caracaras)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=perfal) | [Map](/map?species_code=perfal)
+
+### Relevant Sightings
+
+* [01-28-2024 - California, United States](https://ebird.org/checklist/S160073236) (First Sighting)
+* [10-19-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524251) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+* Región Metropolitana de Santiago, Chile
+
+
 
 ## Media
 ### Photographs

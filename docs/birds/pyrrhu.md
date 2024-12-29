@@ -17,20 +17,31 @@ tags:
 
 # Pyrrhuloxia <span className='sci_name'>Cardinalis sinuatus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Cardinalidae (Cardinals and Allies)](/tags/cardinalidae-cardinals-and-allies) > [Cardinals, Grosbeaks, and Allies](/tags/cardinals-grosbeaks-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pyrrhu) | [Map](/map?species_code=pyrrhu)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Arizona, United States
-
-## Description
+### Description
 The pyrrhuloxia  or desert cardinal (Cardinalis sinuatus) is a medium-sized North American songbird found in the American southwest and northern Mexico. This distinctive species with a short, stout bill and red crest and wings, and closely resembles the northern cardinal and the vermilion cardinal, which are in the same genus.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Pyrrhuloxia
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Cardinalidae (Cardinals and Allies)](/tags/cardinalidae-cardinals-and-allies) > [Cardinals, Grosbeaks, and Allies](/tags/cardinals-grosbeaks-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pyrrhu) | [Map](/map?species_code=pyrrhu)
+
+### Relevant Sightings
+
+* [04-28-2024 - Arizona, United States](https://ebird.org/checklist/S170824754) (First Sighting)
+* [04-28-2024 - Arizona, United States](https://ebird.org/checklist/S170850373) (Last Sighting)
+
+### Places Seen
+
+* Arizona, United States
+
+
 
 ## Media
 ### Photographs

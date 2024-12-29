@@ -17,20 +17,31 @@ tags:
 
 # Grace's Warbler <span className='sci_name'>Setophaga graciae</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grawar) | [Map](/map?species_code=grawar)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Arizona, United States
-
-## Description
+### Description
 Grace's warbler (Setophaga graciae) is a small New World warbler that specializes in pine woods.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Grace%27s_warbler
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grawar) | [Map](/map?species_code=grawar)
+
+### Relevant Sightings
+
+* [04-28-2024 - Arizona, United States](https://ebird.org/checklist/S170824764) (First Sighting)
+* [04-28-2024 - Arizona, United States](https://ebird.org/checklist/S170824770) (Last Sighting)
+
+### Places Seen
+
+* Arizona, United States
+
+
 
 ## Media
 ### Photographs

@@ -17,20 +17,31 @@ tags:
 
 # Long-billed Curlew <span className='sci_name'>Numenius americanus</span>
 
-**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=lobcur) | [Map](/map?species_code=lobcur)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The long-billed curlew (Numenius americanus) is a large North American shorebird of the family Scolopacidae. This species was also called "sicklebird" and the "candlestick bird". The species breeds in central and western North America, migrating southward and coastward for the winter.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Long-billed_curlew
+
+### Taxonomy
+[Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=lobcur) | [Map](/map?species_code=lobcur)
+
+### Relevant Sightings
+
+* [11-23-2023 - California, United States](https://ebird.org/checklist/S155040110) (First Sighting)
+* [11-24-2024 - California, United States](https://ebird.org/checklist/S203486069) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

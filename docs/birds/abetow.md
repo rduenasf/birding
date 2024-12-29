@@ -17,20 +17,31 @@ tags:
 
 # Abert's Towhee <span className='sci_name'>Melozone aberti</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=abetow) | [Map](/map?species_code=abetow)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Arizona, United States
-
-## Description
+### Description
 Abert's towhee (Melozone aberti) is a bird of the family Passerellidae, native to a small range in southwestern North America, generally the lower Colorado River and Gila River watersheds, nearly endemic to Arizona, but also present in small parts of California, Nevada, Utah, New Mexico, and Sonora in Mexico. The name of this bird commemorates the American ornithologist James William Abert (1820–1897).[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Abert%27s_towhee
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=abetow) | [Map](/map?species_code=abetow)
+
+### Relevant Sightings
+
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170587133) (First Sighting)
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170629025) (Last Sighting)
+
+### Places Seen
+
+* Arizona, United States
+
+
 
 ## Media
 ### Photographs

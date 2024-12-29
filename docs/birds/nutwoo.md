@@ -17,20 +17,33 @@ tags:
 
 # Nuttall's Woodpecker <span className='sci_name'>Dryobates nuttallii</span>
 
-**Taxonomy:** [Piciformes](/tags/piciformes) > [Picidae (Woodpeckers)](/tags/picidae-woodpeckers) > [Woodpeckers](/tags/woodpeckers)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=nutwoo) | [Map](/map?species_code=nutwoo)
-
-**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=nutwoo&mediaType=audio&view=grid)
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 Nuttall's woodpecker (Dryobates nuttallii) is a species of woodpecker named after naturalist Thomas Nuttall in 1843. They are found in oak woodlands of California and are similar to the ladder-backed woodpecker in both genetics and appearance.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Nuttall%27s_woodpecker
+
+### Taxonomy
+[Piciformes](/tags/piciformes) > [Picidae (Woodpeckers)](/tags/picidae-woodpeckers) > [Woodpeckers](/tags/woodpeckers)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=nutwoo) | [Map](/map?species_code=nutwoo)
+
+### Relevant Sightings
+
+* [12-02-2023 - California, United States](https://ebird.org/checklist/S155611564) (First Sighting)
+* [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (First Recording)
+* [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (Best Recording)
+* [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

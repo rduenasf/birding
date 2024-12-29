@@ -17,15 +17,31 @@ tags:
 
 # Great Egret <span className='sci_name'>Ardea alba</span>
 
-**Taxonomy:** [Pelecaniformes](/tags/pelecaniformes) > [Ardeidae (Herons, Egrets, and Bitterns)](/tags/ardeidae-herons-egrets-and-bitterns) > [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
+## Overview
+
+### Description
+The great egret (Ardea alba), also known as the common egret, large egret, or (in the Old World) great white egret or great white heron, is a large, widely distributed egret.  The four subspecies are found in Asia, Africa, the Americas, and southern Europe.  Recently, it has also been spreading to more northern areas of Europe. Distributed across most of the tropical and warmer temperate regions of the world, it builds tree nests in colonies close to water.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Great_egret
+
+### Taxonomy
+[Pelecaniformes](/tags/pelecaniformes) > [Ardeidae (Herons, Egrets, and Bitterns)](/tags/ardeidae-herons-egrets-and-bitterns) > [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
 
 **Subspecies Seen**: Great Egret (American)
 
+
+## Sightings
+
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=greegr) | [Map](/map?species_code=greegr)
 
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=greegr&mediaType=photo&view=grid) | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=greegr&mediaType=audio&view=grid)
+### Relevant Sightings
 
-## Places Seen
+* [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
+* [05-18-2024 - California, United States](https://ebird.org/checklist/S175399797) (Only Photo)
+* [11-23-2024 - California, United States](https://ebird.org/checklist/S203364471) (First/Best Recording)
+* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Last Sighting)
+
+### Places Seen
 
 * California, United States
 * Ciudad de México, Mexico
@@ -33,10 +49,7 @@ tags:
 * Ontario, Canada
 * Región Metropolitana de Santiago, Chile
 
-## Description
-The great egret (Ardea alba), also known as the common egret, large egret, or (in the Old World) great white egret or great white heron, is a large, widely distributed egret.  The four subspecies are found in Asia, Africa, the Americas, and southern Europe.  Recently, it has also been spreading to more northern areas of Europe. Distributed across most of the tropical and warmer temperate regions of the world, it builds tree nests in colonies close to water.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Great_egret
 
 ## Media
 ### Photographs

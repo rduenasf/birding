@@ -17,20 +17,33 @@ tags:
 
 # Greater Yellowlegs <span className='sci_name'>Tringa melanoleuca</span>
 
-**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=greyel) | [Map](/map?species_code=greyel)
-
-**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=greyel&mediaType=audio&view=grid)
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The greater yellowlegs (Tringa melanoleuca) is a large shorebird in the family Scolopacidae. It breeds in central Canada and southern Alaska and winters in southern North America, Central America, the West Indies and South America.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Greater_yellowlegs
+
+### Taxonomy
+[Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=greyel) | [Map](/map?species_code=greyel)
+
+### Relevant Sightings
+
+* [12-23-2023 - California, United States](https://ebird.org/checklist/S157058117) (First Sighting)
+* [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (First Recording)
+* [11-24-2024 - California, United States](https://ebird.org/checklist/S203486069) (Best Recording)
+* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

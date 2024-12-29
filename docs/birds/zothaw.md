@@ -5,7 +5,7 @@ order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
 species_group: "Vultures, Hawks, and Allies"
 species_code: "zothaw"
-sidebar_position: 433
+sidebar_position: 434
 sidebar_class_name: " "
 tags: 
   - Accipitriformes
@@ -17,20 +17,30 @@ tags:
 
 # Zone-tailed Hawk <span className='sci_name'>Buteo albonotatus</span>
 
-**Taxonomy:** [Accipitriformes](/tags/accipitriformes) > [Accipitridae (Hawks, Eagles, and Kites)](/tags/accipitridae-hawks-eagles-and-kites) > [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=zothaw) | [Map](/map?species_code=zothaw)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Arizona, United States
-
-## Description
+### Description
 The zone-tailed hawk (Buteo albonotatus) is a medium-sized hawk of warm, dry parts of the Americas. It is somewhat similar in plumage and flight style to a common scavenger, the turkey vulture, and may benefit from being able to blend into groups of vultures. It feeds on small terrestrial tetrapods of all kinds.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Zone-tailed_hawk
+
+### Taxonomy
+[Accipitriformes](/tags/accipitriformes) > [Accipitridae (Hawks, Eagles, and Kites)](/tags/accipitridae-hawks-eagles-and-kites) > [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=zothaw) | [Map](/map?species_code=zothaw)
+
+### Relevant Sightings
+
+* [2024-04-27T22:24:00.000Z - Arizona, United States](https://ebird.org/checklist/S170629025) (Only Sighting)
+
+### Places Seen
+
+* Arizona, United States
+
+
 
 ## Media
 ### Photographs

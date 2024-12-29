@@ -17,15 +17,30 @@ tags:
 
 # Hairy Woodpecker <span className='sci_name'>Dryobates villosus</span>
 
-**Taxonomy:** [Piciformes](/tags/piciformes) > [Picidae (Woodpeckers)](/tags/picidae-woodpeckers) > [Woodpeckers](/tags/woodpeckers)
+## Overview
+
+### Description
+The hairy woodpecker (Leuconotopicus villosus) is a medium-sized woodpecker that is found over a large area of North America. It is approximately 250 mm (9.8 in) in length with a 380 mm (15 in) wingspan. With an estimated population in 2020 of almost nine million individuals, the hairy woodpecker is listed by the IUCN as a species of least concern. Some nomenclature authorities, such as the eBird/Clements checklist, place this species in the genus Dryobates.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Hairy_woodpecker
+
+### Taxonomy
+[Piciformes](/tags/piciformes) > [Picidae (Woodpeckers)](/tags/picidae-woodpeckers) > [Woodpeckers](/tags/woodpeckers)
 
 **Subspecies Seen**: Hairy Woodpecker (South Mexican)
 
+
+## Sightings
+
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=haiwoo) | [Map](/map?species_code=haiwoo)
 
-**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=haiwoo&mediaType=audio&view=grid)
+### Relevant Sightings
 
-## Places Seen
+* [11-11-2023 - California, United States](https://ebird.org/checklist/S154259403) (First Sighting)
+* [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (Only Recording)
+* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * California, United States
@@ -33,10 +48,7 @@ tags:
 * Morelos, Mexico
 * Ontario, Canada
 
-## Description
-The hairy woodpecker (Leuconotopicus villosus) is a medium-sized woodpecker that is found over a large area of North America. It is approximately 250 mm (9.8 in) in length with a 380 mm (15 in) wingspan. With an estimated population in 2020 of almost nine million individuals, the hairy woodpecker is listed by the IUCN as a species of least concern. Some nomenclature authorities, such as the eBird/Clements checklist, place this species in the genus Dryobates.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Hairy_woodpecker
 
 ## Media
 ### Photographs

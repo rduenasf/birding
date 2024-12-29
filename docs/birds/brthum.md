@@ -17,20 +17,31 @@ tags:
 
 # Broad-tailed Hummingbird <span className='sci_name'>Selasphorus platycercus</span>
 
-**Taxonomy:** [Apodiformes](/tags/apodiformes) > [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds) > [Hummingbirds](/tags/hummingbirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=brthum) | [Map](/map?species_code=brthum)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Arizona, United States
-
-## Description
+### Description
 The broad-tailed hummingbird (Selasphorus platycercus) is a medium-sized hummingbird species found in highland regions from western United States and Western Canada to Mexico and Guatemala.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Broad-tailed_hummingbird
+
+### Taxonomy
+[Apodiformes](/tags/apodiformes) > [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds) > [Hummingbirds](/tags/hummingbirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=brthum) | [Map](/map?species_code=brthum)
+
+### Relevant Sightings
+
+* [04-28-2024 - Arizona, United States](https://ebird.org/checklist/S170824764) (First Sighting)
+* [04-28-2024 - Arizona, United States](https://ebird.org/checklist/S170824770) (Last Sighting)
+
+### Places Seen
+
+* Arizona, United States
+
+
 
 ## Media
 ### Photographs

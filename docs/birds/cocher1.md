@@ -17,20 +17,30 @@ tags:
 
 # Cocoi Heron <span className='sci_name'>Ardea cocoi</span>
 
-**Taxonomy:** [Pelecaniformes](/tags/pelecaniformes) > [Ardeidae (Herons, Egrets, and Bitterns)](/tags/ardeidae-herons-egrets-and-bitterns) > [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cocher1) | [Map](/map?species_code=cocher1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Región Metropolitana de Santiago, Chile
-
-## Description
+### Description
 The cocoi heron (Ardea cocoi) is a species of long-legged wading bird in the heron family Ardeidae found across South America. It has predominantly pale grey plumage with a darker grey crest. A carnivore, it hunts fish and crustaceans in shallow water.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Cocoi_heron
+
+### Taxonomy
+[Pelecaniformes](/tags/pelecaniformes) > [Ardeidae (Herons, Egrets, and Bitterns)](/tags/ardeidae-herons-egrets-and-bitterns) > [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cocher1) | [Map](/map?species_code=cocher1)
+
+### Relevant Sightings
+
+* [2024-10-11T15:23:00.000Z - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398135) (Only Sighting)
+
+### Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
+
 
 ## Media
 ### Photographs

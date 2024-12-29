@@ -17,20 +17,30 @@ tags:
 
 # Cocos Booby <span className='sci_name'>Sula brewsteri</span>
 
-**Taxonomy:** [Suliformes](/tags/suliformes) > [Sulidae (Boobies and Gannets)](/tags/sulidae-boobies-and-gannets) > [Frigatebirds, Boobies, and Gannets](/tags/frigatebirds-boobies-and-gannets)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cocboo1) | [Map](/map?species_code=cocboo1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The Cocos booby (Sula brewsteri), formerly known as Brewster's booby, is a species of booby in the family Sulidae. It was formerly considered a subspecies of Brown booby, but it was split by the American Ornithological Society in 2024 due to morphological and behavioural differences. It is native to the east and central Pacific Ocean.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Cocos_booby
+
+### Taxonomy
+[Suliformes](/tags/suliformes) > [Sulidae (Boobies and Gannets)](/tags/sulidae-boobies-and-gannets) > [Frigatebirds, Boobies, and Gannets](/tags/frigatebirds-boobies-and-gannets)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cocboo1) | [Map](/map?species_code=cocboo1)
+
+### Relevant Sightings
+
+* [2024-06-22T19:58:00.000Z - California, United States](https://ebird.org/checklist/S183306516) (Only Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

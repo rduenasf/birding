@@ -17,20 +17,30 @@ tags:
 
 # Blue-winged Teal <span className='sci_name'>Spatula discors</span>
 
-**Taxonomy:** [Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=buwtea) | [Map](/map?species_code=buwtea)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The blue-winged teal (Spatula discors) is a species of bird in the duck, goose, and swan family Anatidae. One of the smaller members of the dabbling duck group, it occurs in North America, where it breeds from southern Alaska to Nova Scotia, and south to northern Texas. It winters along the Pacific and Atlantic coasts and south into the Caribbean islands and Central America.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Blue-winged_teal
+
+### Taxonomy
+[Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=buwtea) | [Map](/map?species_code=buwtea)
+
+### Relevant Sightings
+
+* [2024-02-24T15:54:00.000Z - California, United States](https://ebird.org/checklist/S162799737) (Only Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

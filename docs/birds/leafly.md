@@ -17,20 +17,30 @@ tags:
 
 # Least Flycatcher <span className='sci_name'>Empidonax minimus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=leafly) | [Map](/map?species_code=leafly)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Morelos, Mexico
-
-## Description
+### Description
 The least flycatcher (Empidonax minimus) (also called chebec, or chebecker, after the sound it makes) is a small insect-eating bird. It is the smallest Empidonax flycatcher in eastern North America.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Least_flycatcher
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=leafly) | [Map](/map?species_code=leafly)
+
+### Relevant Sightings
+
+* [2024-05-03T14:20:00.000Z - Morelos, Mexico](https://ebird.org/checklist/S171768235) (Only Sighting)
+
+### Places Seen
+
+* Morelos, Mexico
+
+
 
 ## Media
 ### Photographs

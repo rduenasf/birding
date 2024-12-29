@@ -17,23 +17,34 @@ tags:
 
 # Golden-browed Warbler <span className='sci_name'>Basileuterus belli</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gobwar1) | [Map](/map?species_code=gobwar1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Morelos, Mexico
-
-## Description
+### Description
 The golden-browed warbler (Basileuterus belli) is a species of bird in the family Parulidae, the New World warblers.
 It is found in El Salvador, Guatemala, Honduras, and Mexico.
 Its natural habitat is subtropical or tropical moist montane forests.
 The species was described by Jacob Post Giraud, Jr. in 1841.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Golden-browed_warbler
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gobwar1) | [Map](/map?species_code=gobwar1)
+
+### Relevant Sightings
+
+* [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768259) (First Sighting)
+* [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768281) (Last Sighting)
+
+### Places Seen
+
+* Morelos, Mexico
+
+
 
 ## Media
 ### Photographs

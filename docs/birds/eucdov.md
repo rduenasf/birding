@@ -17,21 +17,32 @@ tags:
 
 # Eurasian Collared-Dove <span className='sci_name'>Streptopelia decaocto</span>
 
-**Taxonomy:** [Columbiformes](/tags/columbiformes) > [Columbidae (Pigeons and Doves)](/tags/columbidae-pigeons-and-doves) > [Pigeons and Doves](/tags/pigeons-and-doves)
+## Overview
+
+### Description
+The Eurasian collared dove (Streptopelia decaocto), often simply just collared dove, is a dove species native to Europe, Asia, and northern Africa. It has also been introduced to Japan, North and Central America, and the islands in the Caribbean.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Eurasian_collared_dove
+
+### Taxonomy
+[Columbiformes](/tags/columbiformes) > [Columbidae (Pigeons and Doves)](/tags/columbidae-pigeons-and-doves) > [Pigeons and Doves](/tags/pigeons-and-doves)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=eucdov) | [Map](/map?species_code=eucdov)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [03-16-2024 - California, United States](https://ebird.org/checklist/S165048752) (First Sighting)
+* [09-22-2024 - California, United States](https://ebird.org/checklist/S196121721) (Last Sighting)
+
+### Places Seen
 
 * California, United States
 * Florida, United States
 
-## Description
-The Eurasian collared dove (Streptopelia decaocto), often simply just collared dove, is a dove species native to Europe, Asia, and northern Africa. It has also been introduced to Japan, North and Central America, and the islands in the Caribbean.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Eurasian_collared_dove
 
 ## Media
 ### Photographs

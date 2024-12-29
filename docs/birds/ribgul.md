@@ -17,21 +17,32 @@ tags:
 
 # Ring-billed Gull <span className='sci_name'>Larus delawarensis</span>
 
-**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers) > [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
+## Overview
+
+### Description
+The ring-billed gull (Larus delawarensis) is a medium-sized gull. The genus name is from Latin Larus which appears to have referred to a gull or other large seabird. The specific delawarensis refers to the Delaware River.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Ring-billed_gull
+
+### Taxonomy
+[Charadriiformes](/tags/charadriiformes) > [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers) > [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ribgul) | [Map](/map?species_code=ribgul)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [11-11-2023 - California, United States](https://ebird.org/checklist/S154259403) (First Sighting)
+* [09-08-2024 - California, United States](https://ebird.org/checklist/S194447788) (Last Sighting)
+
+### Places Seen
 
 * California, United States
 * Ontario, Canada
 
-## Description
-The ring-billed gull (Larus delawarensis) is a medium-sized gull. The genus name is from Latin Larus which appears to have referred to a gull or other large seabird. The specific delawarensis refers to the Delaware River.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Ring-billed_gull
 
 ## Media
 ### Photographs

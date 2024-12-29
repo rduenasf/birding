@@ -17,21 +17,31 @@ tags:
 
 # Russet Nightingale-Thrush <span className='sci_name'>Catharus occidentalis</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies) > [Thrushes](/tags/thrushes)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=runthr1) | [Map](/map?species_code=runthr1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Morelos, Mexico
-
-## Description
+### Description
 The russet nightingale-thrush (Catharus occidentalis) is a species of bird in the family Turdidae. It is endemic to Mexico.
 Its natural habitat is subtropical or tropical moist montane forests.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Russet_nightingale-thrush
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies) > [Thrushes](/tags/thrushes)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=runthr1) | [Map](/map?species_code=runthr1)
+
+### Relevant Sightings
+
+* [2024-05-03T16:54:00.000Z - Morelos, Mexico](https://ebird.org/checklist/S171768259) (Only Sighting)
+
+### Places Seen
+
+* Morelos, Mexico
+
+
 
 ## Media
 ### Photographs

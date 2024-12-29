@@ -17,21 +17,32 @@ tags:
 
 # Blue Grosbeak <span className='sci_name'>Passerina caerulea</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Cardinalidae (Cardinals and Allies)](/tags/cardinalidae-cardinals-and-allies) > [Cardinals, Grosbeaks, and Allies](/tags/cardinals-grosbeaks-and-allies)
+## Overview
+
+### Description
+The blue grosbeak (Passerina caerulea), is a medium-sized North American passerine bird in the cardinal family Cardinalidae. It is mainly migratory, wintering in Central America and breeding in northern Mexico and the southern United States. The male is blue with two brown wing bars. The female is mainly brown with scattered blue feathers on the upperparts and two brown wing bars.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Blue_grosbeak
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Cardinalidae (Cardinals and Allies)](/tags/cardinalidae-cardinals-and-allies) > [Cardinals, Grosbeaks, and Allies](/tags/cardinals-grosbeaks-and-allies)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blugrb1) | [Map](/map?species_code=blugrb1)
 
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=blugrb1&mediaType=photo&view=grid) | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [03-09-2015 - Yucatán, Mexico](https://ebird.org/checklist/S206237860) (First Sighting / Only Photo)
+* [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768235) (Last Sighting)
+
+### Places Seen
 
 * Morelos, Mexico
 * Yucatán, Mexico
 
-## Description
-The blue grosbeak (Passerina caerulea), is a medium-sized North American passerine bird in the cardinal family Cardinalidae. It is mainly migratory, wintering in Central America and breeding in northern Mexico and the southern United States. The male is blue with two brown wing bars. The female is mainly brown with scattered blue feathers on the upperparts and two brown wing bars.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Blue_grosbeak
 
 ## Media
 ### Photographs

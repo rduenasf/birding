@@ -5,7 +5,7 @@ order: "Apodiformes"
 family: "Apodidae (Swifts)"
 species_group: "Swifts"
 species_code: "vauswi"
-sidebar_position: 380
+sidebar_position: 381
 sidebar_class_name: " "
 tags: 
   - Apodiformes
@@ -17,21 +17,32 @@ tags:
 
 # Vaux's Swift <span className='sci_name'>Chaetura vauxi</span>
 
-**Taxonomy:** [Apodiformes](/tags/apodiformes) > [Apodidae (Swifts)](/tags/apodidae-swifts) > [Swifts](/tags/swifts)
+## Overview
+
+### Description
+Vaux's swift (Chaetura vauxi) is a small swift native to North America, Central America, and northern South America. It was named for the American scientist William Sansom Vaux.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Vaux%27s_swift
+
+### Taxonomy
+[Apodiformes](/tags/apodiformes) > [Apodidae (Swifts)](/tags/apodidae-swifts) > [Swifts](/tags/swifts)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=vauswi) | [Map](/map?species_code=vauswi)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170652033) (First Sighting)
+* [05-19-2024 - California, United States](https://ebird.org/checklist/S177365407) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * California, United States
 
-## Description
-Vaux's swift (Chaetura vauxi) is a small swift native to North America, Central America, and northern South America. It was named for the American scientist William Sansom Vaux.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Vaux%27s_swift
 
 ## Media
 ### Photographs

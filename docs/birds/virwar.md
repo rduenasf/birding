@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
 species_group: "Wood-Warblers"
 species_code: "virwar"
-sidebar_position: 386
+sidebar_position: 387
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -17,21 +17,31 @@ tags:
 
 # Virginia's Warbler <span className='sci_name'>Leiothlypis virginiae</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=virwar) | [Map](/map?species_code=virwar)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Arizona, United States
-
-## Description
+### Description
 Virginia's warbler (Leiothlypis virginiae) is a species of New World warbler.
 Despite what its name may suggest, Virginia's warbler is not actually named after the American State of Virginia, which makes sense as the birds' typical range only reaches as far east as the state of Texas. The bird's common eastern range is central and southern mountains of Colorado, central Wyoming, and central and western New Mexico. The bird was named for Virginia Anderson, the wife of an army surgeon who discovered the bird at Fort Burgwin, New Mexico, in 1858. When Spencer Fullerton Baird of the Smithsonian Institution fully described the bird for science in 1860 he honored the wishes of the warbler's discoverer and designated Virginia to be both the bird's common and scientific name.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Virginia%27s_warbler
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=virwar) | [Map](/map?species_code=virwar)
+
+### Relevant Sightings
+
+* [2024-04-28T14:45:00.000Z - Arizona, United States](https://ebird.org/checklist/S170824758) (Only Sighting)
+
+### Places Seen
+
+* Arizona, United States
+
+
 
 ## Media
 ### Photographs

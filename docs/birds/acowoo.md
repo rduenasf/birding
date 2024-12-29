@@ -17,22 +17,36 @@ tags:
 
 # Acorn Woodpecker <span className='sci_name'>Melanerpes formicivorus</span>
 
-**Taxonomy:** [Piciformes](/tags/piciformes) > [Picidae (Woodpeckers)](/tags/picidae-woodpeckers) > [Woodpeckers](/tags/woodpeckers)
+## Overview
+
+### Description
+The acorn woodpecker (Melanerpes formicivorus) is a medium-sized woodpecker with a length of around 20 cm (8 in), and an average weight of 85 g (3.0 oz). It is found across Central America, as well as North into the western United States and South into parts of Colombia.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Acorn_woodpecker
+
+### Taxonomy
+[Piciformes](/tags/piciformes) > [Picidae (Woodpeckers)](/tags/picidae-woodpeckers) > [Woodpeckers](/tags/woodpeckers)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=acowoo) | [Map](/map?species_code=acowoo)
 
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=acowoo&mediaType=photo&view=grid) | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=acowoo&mediaType=audio&view=grid)
+### Relevant Sightings
 
-## Places Seen
+* [11-26-2023 - California, United States](https://ebird.org/checklist/S155262963) (First Sighting)
+* [05-10-2024 - California, United States](https://ebird.org/checklist/S173241890) (Only Photo)
+* [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (First Recording)
+* [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (Best Recording)
+* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * California, United States
 * Morelos, Mexico
 
-## Description
-The acorn woodpecker (Melanerpes formicivorus) is a medium-sized woodpecker with a length of around 20 cm (8 in), and an average weight of 85 g (3.0 oz). It is found across Central America, as well as North into the western United States and South into parts of Colombia.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Acorn_woodpecker
 
 ## Media
 ### Photographs

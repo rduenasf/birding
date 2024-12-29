@@ -17,20 +17,31 @@ tags:
 
 # Rivoli's Hummingbird <span className='sci_name'>Eugenes fulgens</span>
 
-**Taxonomy:** [Apodiformes](/tags/apodiformes) > [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds) > [Hummingbirds](/tags/hummingbirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=maghum1) | [Map](/map?species_code=maghum1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Arizona, United States
-
-## Description
+### Description
 Rivoli's hummingbird (Eugenes fulgens), also known as the magnificent hummingbird, is a species of hummingbird in the "mountain gems", tribe Lampornithini in subfamily Trochilinae. It is found in El Salvador, Guatemala, Honduras, Mexico, Nicaragua, and the United States.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Rivoli%27s_hummingbird
+
+### Taxonomy
+[Apodiformes](/tags/apodiformes) > [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds) > [Hummingbirds](/tags/hummingbirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=maghum1) | [Map](/map?species_code=maghum1)
+
+### Relevant Sightings
+
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170587152) (First Sighting)
+* [04-28-2024 - Arizona, United States](https://ebird.org/checklist/S170824770) (Last Sighting)
+
+### Places Seen
+
+* Arizona, United States
+
+
 
 ## Media
 ### Photographs

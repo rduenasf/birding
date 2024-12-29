@@ -17,21 +17,33 @@ tags:
 
 # Red-fronted Coot <span className='sci_name'>Fulica rufifrons</span>
 
-**Taxonomy:** [Gruiformes](/tags/gruiformes) > [Rallidae (Rails, Gallinules, and Coots)](/tags/rallidae-rails-gallinules-and-coots) > [Rails, Gallinules, and Allies](/tags/rails-gallinules-and-allies)
+## Overview
+
+### Description
+The red-fronted coot (Fulica rufifrons) is a species of bird in subfamily Rallinae of family Rallidae, the rails, gallinules, and coots. It is found in Argentina, Bolivia, Brazil, Chile, Peru, and Uruguay.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Red-fronted_coot
+
+### Taxonomy
+[Gruiformes](/tags/gruiformes) > [Rallidae (Rails, Gallinules, and Coots)](/tags/rallidae-rails-gallinules-and-coots) > [Rails, Gallinules, and Allies](/tags/rails-gallinules-and-allies)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=refcoo1) | [Map](/map?species_code=refcoo1)
 
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=refcoo1&mediaType=photo&view=grid) | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [10-11-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398135) (First Sighting)
+* [10-11-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398422) (Only Photo)
+* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994043) (Last Sighting)
+
+### Places Seen
 
 * Región Metropolitana de Santiago, Chile
 * Valparaíso, Chile
 
-## Description
-The red-fronted coot (Fulica rufifrons) is a species of bird in subfamily Rallinae of family Rallidae, the rails, gallinules, and coots. It is found in Argentina, Bolivia, Brazil, Chile, Peru, and Uruguay.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Red-fronted_coot
 
 ## Media
 ### Photographs

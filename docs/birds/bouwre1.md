@@ -17,20 +17,30 @@ tags:
 
 # Boucard's Wren <span className='sci_name'>Campylorhynchus jocosus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Troglodytidae (Wrens)](/tags/troglodytidae-wrens) > [Wrens](/tags/wrens)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bouwre1) | [Map](/map?species_code=bouwre1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Morelos, Mexico
-
-## Description
+### Description
 Boucard's wren (Campylorhynchus jocosus) is a species of bird in the family Troglodytidae. It is endemic to Mexico.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Boucard%27s_wren
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Troglodytidae (Wrens)](/tags/troglodytidae-wrens) > [Wrens](/tags/wrens)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bouwre1) | [Map](/map?species_code=bouwre1)
+
+### Relevant Sightings
+
+* [2024-05-03T14:20:00.000Z - Morelos, Mexico](https://ebird.org/checklist/S171768235) (Only Sighting)
+
+### Places Seen
+
+* Morelos, Mexico
+
+
 
 ## Media
 ### Photographs

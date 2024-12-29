@@ -17,20 +17,32 @@ tags:
 
 # California Thrasher <span className='sci_name'>Toxostoma redivivum</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Mimidae (Mockingbirds and Thrashers)](/tags/mimidae-mockingbirds-and-thrashers) > [Catbirds, Mockingbirds, and Thrashers](/tags/catbirds-mockingbirds-and-thrashers)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=calthr) | [Map](/map?species_code=calthr)
-
-**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=calthr&mediaType=audio&view=grid)
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The California thrasher (Toxostoma redivivum) is a large member of family Mimidae found primarily in chaparral habitat in California in the United States and Baja California in Mexico. It is the only species of the genus Toxostoma throughout most of its range.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/California_thrasher
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Mimidae (Mockingbirds and Thrashers)](/tags/mimidae-mockingbirds-and-thrashers) > [Catbirds, Mockingbirds, and Thrashers](/tags/catbirds-mockingbirds-and-thrashers)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=calthr) | [Map](/map?species_code=calthr)
+
+### Relevant Sightings
+
+* [01-28-2024 - California, United States](https://ebird.org/checklist/S160073236) (First Sighting)
+* [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (Only Recording)
+* [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

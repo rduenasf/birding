@@ -5,7 +5,7 @@ order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
 species_group: "Vultures, Hawks, and Allies"
 species_code: "swtkit"
-sidebar_position: 369
+sidebar_position: 370
 sidebar_class_name: " "
 tags: 
   - Accipitriformes
@@ -17,20 +17,30 @@ tags:
 
 # Swallow-tailed Kite <span className='sci_name'>Elanoides forficatus</span>
 
-**Taxonomy:** [Accipitriformes](/tags/accipitriformes) > [Accipitridae (Hawks, Eagles, and Kites)](/tags/accipitridae-hawks-eagles-and-kites) > [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=swtkit) | [Map](/map?species_code=swtkit)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Florida, United States
-
-## Description
+### Description
 The swallow-tailed kite (Elanoides forficatus) is a pernine raptor which breeds from the southeastern United States to eastern Peru and northern Argentina. It is the only species in the genus Elanoides. Most North and Central American breeders winter in South America where the species is resident year round.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Swallow-tailed_kite
+
+### Taxonomy
+[Accipitriformes](/tags/accipitriformes) > [Accipitridae (Hawks, Eagles, and Kites)](/tags/accipitridae-hawks-eagles-and-kites) > [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=swtkit) | [Map](/map?species_code=swtkit)
+
+### Relevant Sightings
+
+* [2024-07-05T15:40:00.000Z - Florida, United States](https://ebird.org/checklist/S185429884) (Only Sighting)
+
+### Places Seen
+
+* Florida, United States
+
+
 
 ## Media
 ### Photographs

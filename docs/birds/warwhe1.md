@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Zosteropidae (White-eyes, Yuhinas, and Allies)"
 species_group: "White-eyes, Yuhinas, and Allies"
 species_code: "warwhe1"
-sidebar_position: 388
+sidebar_position: 389
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
@@ -17,20 +17,30 @@ tags:
 
 # Warbling White-eye <span className='sci_name'>Zosterops japonicus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Zosteropidae (White-eyes, Yuhinas, and Allies)](/tags/zosteropidae-white-eyes-yuhinas-and-allies) > [White-eyes, Yuhinas, and Allies](/tags/white-eyes-yuhinas-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=warwhe1) | [Map](/map?species_code=warwhe1)
-
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=warwhe1&mediaType=photo&view=grid) | No Recording
-
-## Places Seen
-
-* Hawaii, United States
-
-## Description
+### Description
 The warbling white-eye (Zosterops japonicus) is a small passerine bird in the white-eye family. The specific epithet is occasionally written japonica, but this is incorrect due to the gender of the genus. Its native range includes much of East Asia, including the Russian Far East, Japan, Indonesia, Korea, and the Philippines. It has been intentionally introduced to other parts of the world as a pet and as pest control, with mixed results.  As one of the native species of the Japanese islands, it has been depicted in Japanese art on numerous occasions, and historically was kept as a cage bird.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Warbling_white-eye
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Zosteropidae (White-eyes, Yuhinas, and Allies)](/tags/zosteropidae-white-eyes-yuhinas-and-allies) > [White-eyes, Yuhinas, and Allies](/tags/white-eyes-yuhinas-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=warwhe1) | [Map](/map?species_code=warwhe1)
+
+### Relevant Sightings
+
+* [2012-03-24T14:33:00.000Z - Hawaii, United States](https://ebird.org/checklist/S206236615) (Only Sighting / Photo)
+
+### Places Seen
+
+* Hawaii, United States
+
+
 
 ## Media
 ### Photographs

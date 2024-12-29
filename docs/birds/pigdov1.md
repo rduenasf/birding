@@ -17,20 +17,30 @@ tags:
 
 # Picui Ground Dove <span className='sci_name'>Columbina picui</span>
 
-**Taxonomy:** [Columbiformes](/tags/columbiformes) > [Columbidae (Pigeons and Doves)](/tags/columbidae-pigeons-and-doves) > [Pigeons and Doves](/tags/pigeons-and-doves)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pigdov1) | [Map](/map?species_code=pigdov1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Región Metropolitana de Santiago, Chile
-
-## Description
+### Description
 The Picui ground dove or Picui dove (Columbina picui) is a species of bird in the family Columbidae. It is found in Argentina, Bolivia, Brazil, Chile, Colombia, Paraguay, Peru, and Uruguay.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Picui_ground_dove
+
+### Taxonomy
+[Columbiformes](/tags/columbiformes) > [Columbidae (Pigeons and Doves)](/tags/columbidae-pigeons-and-doves) > [Pigeons and Doves](/tags/pigeons-and-doves)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pigdov1) | [Map](/map?species_code=pigdov1)
+
+### Relevant Sightings
+
+* [2024-10-11T21:46:00.000Z - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398308) (Only Sighting)
+
+### Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
+
 
 ## Media
 ### Photographs

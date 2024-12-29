@@ -17,20 +17,30 @@ tags:
 
 # Hermit Warbler <span className='sci_name'>Setophaga occidentalis</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=herwar) | [Map](/map?species_code=herwar)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Arizona, United States
-
-## Description
+### Description
 The hermit warbler (Setophaga occidentalis) is a small perching bird. It is a species of New World warbler or wood-warbler. They are a migratory bird, the breeding range spanning the majority of the west coast of the United States. Their winter range includes parts of Mexico and Central America as well as parts of the southern California coast.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Hermit_warbler
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=herwar) | [Map](/map?species_code=herwar)
+
+### Relevant Sightings
+
+* [2024-04-27T15:53:00.000Z - Arizona, United States](https://ebird.org/checklist/S170587140) (Only Sighting)
+
+### Places Seen
+
+* Arizona, United States
+
+
 
 ## Media
 ### Photographs

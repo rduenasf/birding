@@ -17,21 +17,32 @@ tags:
 
 # Rufous-backed Robin <span className='sci_name'>Turdus rufopalliatus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies) > [Thrushes](/tags/thrushes)
+## Overview
+
+### Description
+The rufous-backed robin (Turdus rufopalliatus) is a songbird of the thrush family. It is endemic to the Pacific slope of Mexico. It is also known as the rufous-backed thrush.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Rufous-backed_thrush
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies) > [Thrushes](/tags/thrushes)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rubrob) | [Map](/map?species_code=rubrob)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768235) (First Sighting)
+* [05-04-2024 - Ciudad de México, Mexico](https://ebird.org/checklist/S171945643) (Last Sighting)
+
+### Places Seen
 
 * Ciudad de México, Mexico
 * Morelos, Mexico
 
-## Description
-The rufous-backed robin (Turdus rufopalliatus) is a songbird of the thrush family. It is endemic to the Pacific slope of Mexico. It is also known as the rufous-backed thrush.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Rufous-backed_thrush
 
 ## Media
 ### Photographs

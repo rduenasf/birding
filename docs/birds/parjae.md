@@ -17,20 +17,30 @@ tags:
 
 # Parasitic Jaeger <span className='sci_name'>Stercorarius parasiticus</span>
 
-**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Stercorariidae (Skuas and Jaegers)](/tags/stercorariidae-skuas-and-jaegers) > [Skuas and Jaegers](/tags/skuas-and-jaegers)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=parjae) | [Map](/map?species_code=parjae)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Washington, United States
-
-## Description
+### Description
 The parasitic jaeger (North America) or Arctic skua (Europe) (Stercorarius parasiticus), is a seabird in the skua family Stercorariidae. It is a migratory species that breeds in Northern Scandinavia, Scotland, Iceland, Greenland, Northern Canada, Alaska, and Siberia and winters across the southern hemisphere. Kleptoparasitism is a major source of food for this species during migration and winter, and is where the name is derived from.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Parasitic_jaeger
+
+### Taxonomy
+[Charadriiformes](/tags/charadriiformes) > [Stercorariidae (Skuas and Jaegers)](/tags/stercorariidae-skuas-and-jaegers) > [Skuas and Jaegers](/tags/skuas-and-jaegers)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=parjae) | [Map](/map?species_code=parjae)
+
+### Relevant Sightings
+
+* [2024-09-15T16:16:00.000Z - Washington, United States](https://ebird.org/checklist/S195264549) (Only Sighting)
+
+### Places Seen
+
+* Washington, United States
+
+
 
 ## Media
 ### Photographs

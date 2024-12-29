@@ -17,24 +17,37 @@ tags:
 
 # Savannah Sparrow <span className='sci_name'>Passerculus sandwichensis</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=savspa) | [Map](/map?species_code=savspa)
-
-**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=savspa&mediaType=audio&view=grid)
-
-## Places Seen
-
-* Arizona, United States
-* California, United States
-* Ontario, Canada
-
-## Description
+### Description
 The Savannah sparrow (Passerculus sandwichensis) is a small New World sparrow that is the only member of the genus Passerculus. It is a widespread and abundant species that occupies open grassland habitats in North America.
 Over most of its range it is migratory, breeding in Canada and the northern United States while wintering in Mexico and the southern United States. It is a sexually monomorphic species that is quite variable in appearance. Around 17 subspecies are currently recognised. These are divided into several groups, some of which have sometimes been considered as separate species.
 The species name sandwichensis is Latin from Sandwich Sound (now Prince William Sound) in southern Alaska from where the first specimen was collected. The common name refers to Savannah, Georgia, where Alexander Wilson observed the species in 1811.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Savannah_sparrow
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=savspa) | [Map](/map?species_code=savspa)
+
+### Relevant Sightings
+
+* [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
+* [11-24-2024 - California, United States](https://ebird.org/checklist/S203486069) (First Recording)
+* [11-30-2024 - California, United States](https://ebird.org/checklist/S204068913) (Best Recording)
+* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Last Sighting)
+
+### Places Seen
+
+* Arizona, United States
+* California, United States
+* Ontario, Canada
+
+
 
 ## Media
 ### Photographs
@@ -43,6 +56,7 @@ No photographs available.
 ### Audio Recordings
 <iframe src="https://macaulaylibrary.org/asset/626684620/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 <iframe src="https://macaulaylibrary.org/asset/626915529/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://macaulaylibrary.org/asset/627926530/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/savspa) 

@@ -17,20 +17,30 @@ tags:
 
 # Rusty Sparrow <span className='sci_name'>Aimophila rufescens</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=russpa1) | [Map](/map?species_code=russpa1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Morelos, Mexico
-
-## Description
+### Description
 The rusty sparrow (Aimophila rufescens) is a species of bird in the family Passerellidae that is found in Belize, Costa Rica, El Salvador, Guatemala, Honduras, Mexico and Nicaragua. Its natural habitats are subtropical or tropical dry forest, subtropical or tropical moist montane forest, and subtropical or tropical high-altitude shrubland.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Rusty_sparrow
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=russpa1) | [Map](/map?species_code=russpa1)
+
+### Relevant Sightings
+
+* [2024-05-03T14:20:00.000Z - Morelos, Mexico](https://ebird.org/checklist/S171768235) (Only Sighting)
+
+### Places Seen
+
+* Morelos, Mexico
+
+
 
 ## Media
 ### Photographs

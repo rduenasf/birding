@@ -17,20 +17,30 @@ tags:
 
 # Gray-crowned Rosy-Finch <span className='sci_name'>Leucosticte tephrocotis</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Fringillidae (Finches, Euphonias, and Allies)](/tags/fringillidae-finches-euphonias-and-allies) > [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gcrfin) | [Map](/map?species_code=gcrfin)
-
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=gcrfin&mediaType=photo&view=grid) | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The gray-crowned rosy finch or gray-crowned rosy-finch (Leucosticte tephrocotis) is a species of passerine bird in the family Fringillidae native to Alaska, western Canada, and the north-western United States.  Due to its remote and rocky alpine habitat it is rarely seen. There are currently six recognized subspecies. It is one of four species of rosy finches.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Gray-crowned_rosy_finch
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Fringillidae (Finches, Euphonias, and Allies)](/tags/fringillidae-finches-euphonias-and-allies) > [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gcrfin) | [Map](/map?species_code=gcrfin)
+
+### Relevant Sightings
+
+* [2024-09-06T17:43:00.000Z - California, United States](https://ebird.org/checklist/S195013546) (Only Sighting / Photo)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

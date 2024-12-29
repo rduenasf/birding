@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Corvidae (Crows, Jays, and Magpies)"
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "mexjay3"
-sidebar_position: 371
+sidebar_position: 372
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -17,20 +17,30 @@ tags:
 
 # Transvolcanic Jay <span className='sci_name'>Aphelocoma ultramarina</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Corvidae (Crows, Jays, and Magpies)](/tags/corvidae-crows-jays-and-magpies) > [Jays, Magpies, Crows, and Ravens](/tags/jays-magpies-crows-and-ravens)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mexjay3) | [Map](/map?species_code=mexjay3)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Ciudad de México, Mexico
-
-## Description
+### Description
 The Transvolcanic jay (Aphelocoma ultramarina) is a bird endemic to Mexico.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Transvolcanic_jay
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Corvidae (Crows, Jays, and Magpies)](/tags/corvidae-crows-jays-and-magpies) > [Jays, Magpies, Crows, and Ravens](/tags/jays-magpies-crows-and-ravens)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mexjay3) | [Map](/map?species_code=mexjay3)
+
+### Relevant Sightings
+
+* [2024-05-03T20:32:00.000Z - Ciudad de México, Mexico](https://ebird.org/checklist/S171944290) (Only Sighting)
+
+### Places Seen
+
+* Ciudad de México, Mexico
+
+
 
 ## Media
 ### Photographs

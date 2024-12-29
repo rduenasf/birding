@@ -17,21 +17,32 @@ tags:
 
 # Blue Mockingbird <span className='sci_name'>Melanotis caerulescens</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Mimidae (Mockingbirds and Thrashers)](/tags/mimidae-mockingbirds-and-thrashers) > [Catbirds, Mockingbirds, and Thrashers](/tags/catbirds-mockingbirds-and-thrashers)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blumoc) | [Map](/map?species_code=blumoc)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Morelos, Mexico
-
-## Description
+### Description
 The blue mockingbird (Melanotis caerulescens) is a species of bird in the family Mimidae. It is endemic to Mexico, but has occurred as a vagrant in the southern United States. Its natural habitats are subtropical or tropical dry forests, subtropical or tropical moist montane forests, and heavily degraded former forest.
 The blue mockingbird is uniformly blue on its back, tail, wings, head and underbelly. This color is a result of feather structure rather than pigment, and therefore can look gray in the shade. It has a black "mask" surrounding its reddish-brown eyes. It has a rather long, slightly graduated tail, and dark blue streaks over its breast. Its bill is long, thin and slightly curved, and its legs and feet are black.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Blue_mockingbird
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Mimidae (Mockingbirds and Thrashers)](/tags/mimidae-mockingbirds-and-thrashers) > [Catbirds, Mockingbirds, and Thrashers](/tags/catbirds-mockingbirds-and-thrashers)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blumoc) | [Map](/map?species_code=blumoc)
+
+### Relevant Sightings
+
+* [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768235) (First Sighting)
+* [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768281) (Last Sighting)
+
+### Places Seen
+
+* Morelos, Mexico
+
+
 
 ## Media
 ### Photographs

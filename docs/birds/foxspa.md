@@ -17,22 +17,33 @@ tags:
 
 # Fox Sparrow <span className='sci_name'>Passerella iliaca</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+## Overview
 
-**Subspecies Seen**: Fox Sparrow (Sooty)
-
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=foxspa) | [Map](/map?species_code=foxspa)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The fox sparrow (Passerella iliaca) is a large New World sparrow. It is the only member of the genus Passerella, although some authors split the species into four (see below).[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Fox_sparrow
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+
+**Subspecies Seen**: Fox Sparrow (Sooty)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=foxspa) | [Map](/map?species_code=foxspa)
+
+### Relevant Sightings
+
+* [01-28-2024 - California, United States](https://ebird.org/checklist/S160073236) (First Sighting)
+* [12-08-2024 - California, United States](https://ebird.org/checklist/S204849205) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

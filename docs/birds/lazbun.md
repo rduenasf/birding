@@ -17,21 +17,32 @@ tags:
 
 # Lazuli Bunting <span className='sci_name'>Passerina amoena</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Cardinalidae (Cardinals and Allies)](/tags/cardinalidae-cardinals-and-allies) > [Cardinals, Grosbeaks, and Allies](/tags/cardinals-grosbeaks-and-allies)
+## Overview
+
+### Description
+The lazuli bunting (Passerina amoena) is a North American songbird named for the gemstone lapis lazuli.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Lazuli_bunting
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Cardinalidae (Cardinals and Allies)](/tags/cardinalidae-cardinals-and-allies) > [Cardinals, Grosbeaks, and Allies](/tags/cardinals-grosbeaks-and-allies)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=lazbun) | [Map](/map?species_code=lazbun)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170629025) (First Sighting)
+* [09-22-2024 - California, United States](https://ebird.org/checklist/S196121721) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * California, United States
 
-## Description
-The lazuli bunting (Passerina amoena) is a North American songbird named for the gemstone lapis lazuli.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Lazuli_bunting
 
 ## Media
 ### Photographs

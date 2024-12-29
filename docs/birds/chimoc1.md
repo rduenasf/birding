@@ -17,22 +17,33 @@ tags:
 
 # Chilean Mockingbird <span className='sci_name'>Mimus thenca</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Mimidae (Mockingbirds and Thrashers)](/tags/mimidae-mockingbirds-and-thrashers) > [Catbirds, Mockingbirds, and Thrashers](/tags/catbirds-mockingbirds-and-thrashers)
+## Overview
+
+### Description
+The Chilean mockingbird (Mimus thenca), locally known as tenca, is a species of bird in the family Mimidae. It primarily inhabits Chile's northern half, though there are sightings in Argentina.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Chilean_mockingbird
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Mimidae (Mockingbirds and Thrashers)](/tags/mimidae-mockingbirds-and-thrashers) > [Catbirds, Mockingbirds, and Thrashers](/tags/catbirds-mockingbirds-and-thrashers)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chimoc1) | [Map](/map?species_code=chimoc1)
 
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=chimoc1&mediaType=photo&view=grid) | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [10-11-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398422) (First Sighting / Only Photo)
+* [10-21-2024 - Libertador General Bernardo O'Higgins, Chile](https://ebird.org/checklist/S199827532) (Last Sighting)
+
+### Places Seen
 
 * Libertador General Bernardo O'Higgins, Chile
 * Región Metropolitana de Santiago, Chile
 * Valparaíso, Chile
 
-## Description
-The Chilean mockingbird (Mimus thenca), locally known as tenca, is a species of bird in the family Mimidae. It primarily inhabits Chile's northern half, though there are sightings in Argentina.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Chilean_mockingbird
 
 ## Media
 ### Photographs

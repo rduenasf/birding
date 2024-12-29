@@ -5,7 +5,7 @@ order: "Gruiformes"
 family: "Rallidae (Rails, Gallinules, and Coots)"
 species_group: "Rails, Gallinules, and Allies"
 species_code: "virrai"
-sidebar_position: 385
+sidebar_position: 386
 sidebar_class_name: " "
 tags: 
   - Gruiformes
@@ -17,21 +17,31 @@ tags:
 
 # Virginia Rail <span className='sci_name'>Rallus limicola</span>
 
-**Taxonomy:** [Gruiformes](/tags/gruiformes) > [Rallidae (Rails, Gallinules, and Coots)](/tags/rallidae-rails-gallinules-and-coots) > [Rails, Gallinules, and Allies](/tags/rails-gallinules-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=virrai) | [Map](/map?species_code=virrai)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The Virginia rail (Rallus limicola) is a small waterbird, of the family Rallidae.
 These birds remain fairly common despite continuing loss of habitat, but are secretive by nature and more often heard than seen. They are also considered a game species in some provinces and states, though rarely hunted. The Ecuadorian rail is often considered a subspecies, but some taxonomic authorities consider it distinct.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Virginia_rail
+
+### Taxonomy
+[Gruiformes](/tags/gruiformes) > [Rallidae (Rails, Gallinules, and Coots)](/tags/rallidae-rails-gallinules-and-coots) > [Rails, Gallinules, and Allies](/tags/rails-gallinules-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=virrai) | [Map](/map?species_code=virrai)
+
+### Relevant Sightings
+
+* [2024-01-15T16:28:00.000Z - California, United States](https://ebird.org/checklist/S159001730) (Only Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

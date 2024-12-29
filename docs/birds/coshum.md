@@ -17,20 +17,31 @@ tags:
 
 # Costa's Hummingbird <span className='sci_name'>Calypte costae</span>
 
-**Taxonomy:** [Apodiformes](/tags/apodiformes) > [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds) > [Hummingbirds](/tags/hummingbirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=coshum) | [Map](/map?species_code=coshum)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Arizona, United States
-
-## Description
+### Description
 Costa's hummingbird (Calypte costae) is a bird species in the hummingbird family Trochilidae. It breeds in the arid region of the southwest United States and northwest Mexico; it winters in western Mexico.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Costa%27s_hummingbird
+
+### Taxonomy
+[Apodiformes](/tags/apodiformes) > [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds) > [Hummingbirds](/tags/hummingbirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=coshum) | [Map](/map?species_code=coshum)
+
+### Relevant Sightings
+
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170587133) (First Sighting)
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170629025) (Last Sighting)
+
+### Places Seen
+
+* Arizona, United States
+
+
 
 ## Media
 ### Photographs

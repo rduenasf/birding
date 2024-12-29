@@ -17,20 +17,30 @@ tags:
 
 # Blue-and-white Swallow <span className='sci_name'>Pygochelidon cyanoleuca</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Hirundinidae (Swallows)](/tags/hirundinidae-swallows) > [Martins and Swallows](/tags/martins-and-swallows)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bawswa1) | [Map](/map?species_code=bawswa1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Región Metropolitana de Santiago, Chile
-
-## Description
+### Description
 The blue-and-white swallow (Pygochelidon cyanoleuca) is a passerine bird that breeds from Nicaragua south throughout South America, except in the deserts and the Amazon Basin. The southern race is migratory, wintering as far north as Trinidad, where it is a regular visitor. The nominate northern race may have bred on that island.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Blue-and-white_swallow
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Hirundinidae (Swallows)](/tags/hirundinidae-swallows) > [Martins and Swallows](/tags/martins-and-swallows)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bawswa1) | [Map](/map?species_code=bawswa1)
+
+### Relevant Sightings
+
+* [2024-10-19T17:56:00.000Z - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524262) (Only Sighting)
+
+### Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
+
 
 ## Media
 ### Photographs

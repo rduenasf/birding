@@ -17,20 +17,30 @@ tags:
 
 # Mountain Bluebird <span className='sci_name'>Sialia currucoides</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies) > [Thrushes](/tags/thrushes)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=moublu) | [Map](/map?species_code=moublu)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The mountain bluebird (Sialia currucoides) is a migratory small thrush that is found in mountainous districts of western North America. It has a light underbelly and black eyes. Adult males have thin bills and are bright turquoise-blue and somewhat lighter underneath. Adult females have duller blue wings and tail, grey breast, grey crown, throat and back. In fresh fall plumage, the female's throat and breast are tinged with red-orange which is brownish near the flank, contrasting with white tail underparts. Their call is a thin 'few' while their song is a warbled high 'chur chur'. The mountain bluebird is the state bird of Idaho and Nevada. This bird is an omnivore and it can live 6 to 10 years in the wild. It eats spiders, grasshoppers, flies and other insects, and small fruits. The mountain bluebird is a relative of the eastern and western bluebirds.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Mountain_bluebird
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies) > [Thrushes](/tags/thrushes)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=moublu) | [Map](/map?species_code=moublu)
+
+### Relevant Sightings
+
+* [2024-09-08T00:59:00.000Z - California, United States](https://ebird.org/checklist/S194340002) (Only Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

@@ -17,23 +17,34 @@ tags:
 
 # Northern Rough-winged Swallow <span className='sci_name'>Stelgidopteryx serripennis</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Hirundinidae (Swallows)](/tags/hirundinidae-swallows) > [Martins and Swallows](/tags/martins-and-swallows)
+## Overview
+
+### Description
+The northern rough-winged swallow (Stelgidopteryx serripennis) is a small, migratory swallow. It is very similar to the southern rough-winged swallow, Stelgidopteryx ruficollis.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Northern_rough-winged_swallow
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Hirundinidae (Swallows)](/tags/hirundinidae-swallows) > [Martins and Swallows](/tags/martins-and-swallows)
 
 **Subspecies Seen**: Northern Rough-winged Swallow (Northern)
 
+
+## Sightings
+
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=nrwswa) | [Map](/map?species_code=nrwswa)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [03-23-2024 - California, United States](https://ebird.org/checklist/S165759832) (First Sighting)
+* [06-30-2024 - California, United States](https://ebird.org/checklist/S184622875) (Last Sighting)
+
+### Places Seen
 
 * California, United States
 * Morelos, Mexico
 
-## Description
-The northern rough-winged swallow (Stelgidopteryx serripennis) is a small, migratory swallow. It is very similar to the southern rough-winged swallow, Stelgidopteryx ruficollis.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Northern_rough-winged_swallow
 
 ## Media
 ### Photographs

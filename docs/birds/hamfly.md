@@ -17,20 +17,30 @@ tags:
 
 # Hammond's Flycatcher <span className='sci_name'>Empidonax hammondii</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=hamfly) | [Map](/map?species_code=hamfly)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Arizona, United States
-
-## Description
+### Description
 Hammond's flycatcher (Empidonax hammondii) is a flycatcher in the family Tyrannidae. This small insectivorous bird inhabits the coniferous and mixed forests of western North America. The name of this bird commemorates William Alexander Hammond who was the surgeon general of the US Army. Hammond collected bird specimens for Spencer Fullerton Baird.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Hammond%27s_flycatcher
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=hamfly) | [Map](/map?species_code=hamfly)
+
+### Relevant Sightings
+
+* [2024-04-28T15:57:00.000Z - Arizona, United States](https://ebird.org/checklist/S170824764) (Only Sighting)
+
+### Places Seen
+
+* Arizona, United States
+
+
 
 ## Media
 ### Photographs

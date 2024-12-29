@@ -17,20 +17,31 @@ tags:
 
 # Gila Woodpecker <span className='sci_name'>Melanerpes uropygialis</span>
 
-**Taxonomy:** [Piciformes](/tags/piciformes) > [Picidae (Woodpeckers)](/tags/picidae-woodpeckers) > [Woodpeckers](/tags/woodpeckers)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gilwoo) | [Map](/map?species_code=gilwoo)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Arizona, United States
-
-## Description
+### Description
 The Gila woodpecker (Melanerpes uropygialis) is a medium-sized woodpecker of the desert regions of the southwestern United States and western Mexico. In the U.S., they range through southeastern California, southern Nevada, Arizona, and New Mexico.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Gila_woodpecker
+
+### Taxonomy
+[Piciformes](/tags/piciformes) > [Picidae (Woodpeckers)](/tags/picidae-woodpeckers) > [Woodpeckers](/tags/woodpeckers)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gilwoo) | [Map](/map?species_code=gilwoo)
+
+### Relevant Sightings
+
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170587133) (First Sighting)
+* [04-28-2024 - Arizona, United States](https://ebird.org/checklist/S170857525) (Last Sighting)
+
+### Places Seen
+
+* Arizona, United States
+
+
 
 ## Media
 ### Photographs

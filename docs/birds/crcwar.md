@@ -17,20 +17,31 @@ tags:
 
 # Crescent-chested Warbler <span className='sci_name'>Oreothlypis superciliosa</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=crcwar) | [Map](/map?species_code=crcwar)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Morelos, Mexico
-
-## Description
+### Description
 The crescent-chested warbler (Oreothlypis superciliosa) is a small New World warbler. It is common throughout its montane range, from northern Mexico to northern Nicaragua, and is an occasional vagrant to Texas. It shows an affinity for oaks.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Crescent-chested_warbler
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=crcwar) | [Map](/map?species_code=crcwar)
+
+### Relevant Sightings
+
+* [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768259) (First Sighting)
+* [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768281) (Last Sighting)
+
+### Places Seen
+
+* Morelos, Mexico
+
+
 
 ## Media
 ### Photographs

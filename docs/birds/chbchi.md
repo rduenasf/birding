@@ -17,21 +17,34 @@ tags:
 
 # Chestnut-backed Chickadee <span className='sci_name'>Poecile rufescens</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Paridae (Tits, Chickadees, and Titmice)](/tags/paridae-tits-chickadees-and-titmice) > [Tits, Chickadees, and Titmice](/tags/tits-chickadees-and-titmice)
+## Overview
+
+### Description
+The chestnut-backed chickadee (Poecile rufescens) is a small passerine bird in the tit family, Paridae, native to western North America.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Chestnut-backed_chickadee
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Paridae (Tits, Chickadees, and Titmice)](/tags/paridae-tits-chickadees-and-titmice) > [Tits, Chickadees, and Titmice](/tags/tits-chickadees-and-titmice)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chbchi) | [Map](/map?species_code=chbchi)
 
-**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=chbchi&mediaType=audio&view=grid)
+### Relevant Sightings
 
-## Places Seen
+* [09-28-2023 - California, United States](https://ebird.org/checklist/S150966767) (First Sighting)
+* [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (First Recording)
+* [12-08-2024 - California, United States](https://ebird.org/checklist/S204849205) (Best Recording)
+* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Last Sighting)
+
+### Places Seen
 
 * California, United States
 * Washington, United States
 
-## Description
-The chestnut-backed chickadee (Poecile rufescens) is a small passerine bird in the tit family, Paridae, native to western North America.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Chestnut-backed_chickadee
 
 ## Media
 ### Photographs

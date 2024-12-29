@@ -17,22 +17,33 @@ tags:
 
 # Chilean Flamingo <span className='sci_name'>Phoenicopterus chilensis</span>
 
-**Taxonomy:** [Phoenicopteriformes](/tags/phoenicopteriformes) > [Phoenicopteridae (Flamingos)](/tags/phoenicopteridae-flamingos) > [Flamingos](/tags/flamingos)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chifla1) | [Map](/map?species_code=chifla1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The Chilean flamingo (Phoenicopterus chilensis) is a species of large flamingo at a height of 110–130 cm (43–51 in) closely related to the American flamingo and the greater flamingo, with which it was sometimes considered conspecific. The species is listed as Near Threatened by the IUCN.
 It breeds in South America from Ecuador and Peru to Chile and Argentina and east to Brazil; it has been introduced into Germany. Like all flamingos, it lays a single chalky-white egg on a mud mound. 
 These flamingos are mainly restricted to salt lagoons and soda lakes but these areas are vulnerable to habitat loss and water pollution.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Chilean_flamingo
+
+### Taxonomy
+[Phoenicopteriformes](/tags/phoenicopteriformes) > [Phoenicopteridae (Flamingos)](/tags/phoenicopteridae-flamingos) > [Flamingos](/tags/flamingos)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chifla1) | [Map](/map?species_code=chifla1)
+
+### Relevant Sightings
+
+* [01-15-2024 - California, United States](https://ebird.org/checklist/S159001730) (First Sighting)
+* [03-24-2024 - California, United States](https://ebird.org/checklist/S165849468) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

@@ -5,7 +5,7 @@ order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
 species_group: "Waterfowl"
 species_code: "yebpin1"
-sidebar_position: 428
+sidebar_position: 429
 sidebar_class_name: " "
 tags: 
   - Anseriformes
@@ -17,22 +17,32 @@ tags:
 
 # Yellow-billed Pintail <span className='sci_name'>Anas georgica</span>
 
-**Taxonomy:** [Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+## Overview
 
-**Subspecies Seen**: Yellow-billed Pintail (South American)
-
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=yebpin1) | [Map](/map?species_code=yebpin1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Valparaíso, Chile
-
-## Description
+### Description
 The yellow-billed pintail (Anas georgica) is a South American dabbling duck of the genus Anas with three described subspecies.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Yellow-billed_pintail
+
+### Taxonomy
+[Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+
+**Subspecies Seen**: Yellow-billed Pintail (South American)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=yebpin1) | [Map](/map?species_code=yebpin1)
+
+### Relevant Sightings
+
+* [2024-10-12T18:03:00.000Z - Valparaíso, Chile](https://ebird.org/checklist/S198994043) (Only Sighting)
+
+### Places Seen
+
+* Valparaíso, Chile
+
+
 
 ## Media
 ### Photographs

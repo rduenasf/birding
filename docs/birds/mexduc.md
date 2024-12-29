@@ -17,21 +17,32 @@ tags:
 
 # Mexican Duck <span className='sci_name'>Anas diazi</span>
 
-**Taxonomy:** [Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+## Overview
+
+### Description
+The Mexican duck (Anas diazi) is a species of dabbling duck that breeds in Mexico and the southwestern United States.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Mexican_duck
+
+### Taxonomy
+[Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mexduc) | [Map](/map?species_code=mexduc)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170652033) (First Sighting)
+* [05-04-2024 - Ciudad de México, Mexico](https://ebird.org/checklist/S171945643) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * Ciudad de México, Mexico
 
-## Description
-The Mexican duck (Anas diazi) is a species of dabbling duck that breeds in Mexico and the southwestern United States.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Mexican_duck
 
 ## Media
 ### Photographs

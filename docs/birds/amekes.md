@@ -17,18 +17,9 @@ tags:
 
 # American Kestrel <span className='sci_name'>Falco sparverius</span>
 
-**Taxonomy:** [Falconiformes](/tags/falconiformes) > [Falconidae (Falcons and Caracaras)](/tags/falconidae-falcons-and-caracaras) > [Falcons and Caracaras](/tags/falcons-and-caracaras)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=amekes) | [Map](/map?species_code=amekes)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Arizona, United States
-* California, United States
-
-## Description
+### Description
 The American kestrel (Falco sparverius), is the smallest and most common falcon in North America. Formerly called "sparrowhawk", a misnomer as it is a true falcon and is unrelated genetically to the Eurasian sparrowhawk, Accipiter nisus. It has a roughly two-to-one range in size over subspecies and sex, varying in size from about the weight of a blue jay to a mourning dove.  It also ranges to South America and is a well-established species that has evolved into 17 subspecies adapted to different environments and habitats throughout the Americas. It exhibits sexual dimorphism in size (females being moderately larger) and plumage, although both sexes have a rufous back with noticeable barring. Its plumage is colorful and attractive, and juveniles are similar in plumage to adults.
 The American kestrel usually hunts in energy-conserving fashion by perching and scanning the ground for prey to ambush, though it also hunts from the air. It sometimes hovers in the air with rapid wing beats while homing in on prey. Its diet typically consists of grasshoppers and other insects, lizards, mice, and small birds (e.g. sparrows). This broad diet has contributed to its wide success as a species.  It nests in cavities in trees, cliffs, buildings, and other structures. The female lays three to seven eggs, which both sexes help to incubate.
 Its breeding range extends from central and western Alaska across northern Canada to Nova Scotia, and south throughout North America, into central Mexico and the Caribbean. It is a local breeder in Central America and is widely distributed throughout South America. Most birds breeding in Canada and the northern United States migrate south in the winter. It is an occasional vagrant to Western Europe.
@@ -36,6 +27,26 @@ Based on appearance and behavior it was for many years considered a member of th
 The American kestrel is a common bird used in falconry, especially by beginners. Though not as strong a flyer as many other, larger falcons, proper training and weight control by the falconer allows many American kestrels to become effective hunters of birds in the size range of sparrows and starlings, with occasional success against birds up to approximately twice their own weight.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/American_kestrel
+
+### Taxonomy
+[Falconiformes](/tags/falconiformes) > [Falconidae (Falcons and Caracaras)](/tags/falconidae-falcons-and-caracaras) > [Falcons and Caracaras](/tags/falcons-and-caracaras)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=amekes) | [Map](/map?species_code=amekes)
+
+### Relevant Sightings
+
+* [01-15-2024 - California, United States](https://ebird.org/checklist/S159001730) (First Sighting)
+* [12-15-2024 - California, United States](https://ebird.org/checklist/S205487068) (Last Sighting)
+
+### Places Seen
+
+* Arizona, United States
+* California, United States
+
+
 
 ## Media
 ### Photographs

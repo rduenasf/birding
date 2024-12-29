@@ -17,22 +17,32 @@ tags:
 
 # Greater Yellow-Finch <span className='sci_name'>Sicalis auriventris</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Thraupidae (Tanagers and Allies)](/tags/thraupidae-tanagers-and-allies) > [Tanagers and Allies](/tags/tanagers-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gryfin2) | [Map](/map?species_code=gryfin2)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Región Metropolitana de Santiago, Chile
-
-## Description
+### Description
 The greater yellow finch (Sicalis auriventris) is a species of bird in the family Thraupidae.
 It is found in Argentina and Chile.
 Its natural habitats are subtropical or tropical high-altitude shrubland, temperate grassland, and heavily degraded former forest.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Greater_yellow_finch
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Thraupidae (Tanagers and Allies)](/tags/thraupidae-tanagers-and-allies) > [Tanagers and Allies](/tags/tanagers-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gryfin2) | [Map](/map?species_code=gryfin2)
+
+### Relevant Sightings
+
+* [2024-10-19T16:19:00.000Z - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524251) (Only Sighting)
+
+### Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
+
 
 ## Media
 ### Photographs

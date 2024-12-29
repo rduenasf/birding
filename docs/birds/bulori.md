@@ -17,20 +17,31 @@ tags:
 
 # Bullock's Oriole <span className='sci_name'>Icterus bullockii</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bulori) | [Map](/map?species_code=bulori)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 Bullock's oriole (Icterus bullockii) is a small New World blackbird. At one time, this species and the Baltimore oriole were considered to be a single species, the northern oriole. This bird is named after William Bullock, an English amateur naturalist.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Bullock%27s_oriole
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bulori) | [Map](/map?species_code=bulori)
+
+### Relevant Sightings
+
+* [05-11-2024 - California, United States](https://ebird.org/checklist/S173585635) (First Sighting)
+* [05-11-2024 - California, United States](https://ebird.org/checklist/S174510998) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

@@ -17,21 +17,32 @@ tags:
 
 # Coscoroba Swan <span className='sci_name'>Coscoroba coscoroba</span>
 
-**Taxonomy:** [Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+## Overview
+
+### Description
+The coscoroba swan (Coscoroba coscoroba) is a species of waterfowl in the subfamily Anserinae of the family Anatidae. It is found in Argentina, Bolivia, Brazil, Chile, Paraguay, Uruguay, and the Falkland Islands.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Coscoroba_swan
+
+### Taxonomy
+[Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cosswa1) | [Map](/map?species_code=cosswa1)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [10-11-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398135) (First Sighting)
+* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994232) (Last Sighting)
+
+### Places Seen
 
 * Región Metropolitana de Santiago, Chile
 * Valparaíso, Chile
 
-## Description
-The coscoroba swan (Coscoroba coscoroba) is a species of waterfowl in the subfamily Anserinae of the family Anatidae. It is found in Argentina, Bolivia, Brazil, Chile, Paraguay, Uruguay, and the Falkland Islands.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Coscoroba_swan
 
 ## Media
 ### Photographs

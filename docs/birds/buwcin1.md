@@ -17,20 +17,30 @@ tags:
 
 # Buff-winged Cinclodes <span className='sci_name'>Cinclodes fuscus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers) > [Ovenbirds](/tags/ovenbirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=buwcin1) | [Map](/map?species_code=buwcin1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Valparaíso, Chile
-
-## Description
+### Description
 The buff-winged cinclodes (Cinclodes fuscus) is a species of bird in the Furnariinae subfamily of the ovenbird family Furnariidae. It is found in Argentina, Brazil, Chile, Paraguay, Uruguay and as a vagrant on the Falkland Islands.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Buff-winged_cinclodes
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers) > [Ovenbirds](/tags/ovenbirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=buwcin1) | [Map](/map?species_code=buwcin1)
+
+### Relevant Sightings
+
+* [2024-10-12T22:13:00.000Z - Valparaíso, Chile](https://ebird.org/checklist/S198994241) (Only Sighting)
+
+### Places Seen
+
+* Valparaíso, Chile
+
+
 
 ## Media
 ### Photographs

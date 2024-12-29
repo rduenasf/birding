@@ -17,21 +17,34 @@ tags:
 
 # Hermit Thrush <span className='sci_name'>Catharus guttatus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies) > [Thrushes](/tags/thrushes)
+## Overview
+
+### Description
+The hermit thrush (Catharus guttatus) is a medium-sized North American thrush.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Hermit_thrush
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies) > [Thrushes](/tags/thrushes)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=herthr) | [Map](/map?species_code=herthr)
 
-**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=herthr&mediaType=audio&view=grid)
+### Relevant Sightings
 
-## Places Seen
+* [03-28-2024 - California, United States](https://ebird.org/checklist/S166268948) (First Sighting)
+* [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (First Recording)
+* [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (Best Recording)
+* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * California, United States
 
-## Description
-The hermit thrush (Catharus guttatus) is a medium-sized North American thrush.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Hermit_thrush
 
 ## Media
 ### Photographs

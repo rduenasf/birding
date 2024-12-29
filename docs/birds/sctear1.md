@@ -17,20 +17,31 @@ tags:
 
 # Scale-throated Earthcreeper <span className='sci_name'>Upucerthia dumetaria</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers) > [Ovenbirds](/tags/ovenbirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sctear1) | [Map](/map?species_code=sctear1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Región Metropolitana de Santiago, Chile
-
-## Description
+### Description
 The scale-throated earthcreeper (Upucerthia dumetaria) is a species of bird in the Furnariinae subfamily of the ovenbird family Furnariidae. It is found in Argentina, Bolivia, Chile, Peru, and possibly Uruguay.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Scale-throated_earthcreeper
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers) > [Ovenbirds](/tags/ovenbirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sctear1) | [Map](/map?species_code=sctear1)
+
+### Relevant Sightings
+
+* [10-19-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524251) (First Sighting)
+* [10-19-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524262) (Last Sighting)
+
+### Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
+
 
 ## Media
 ### Photographs

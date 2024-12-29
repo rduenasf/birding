@@ -17,20 +17,30 @@ tags:
 
 # Black-winged Ground Dove <span className='sci_name'>Metriopelia melanoptera</span>
 
-**Taxonomy:** [Columbiformes](/tags/columbiformes) > [Columbidae (Pigeons and Doves)](/tags/columbidae-pigeons-and-doves) > [Pigeons and Doves](/tags/pigeons-and-doves)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bwgdov1) | [Map](/map?species_code=bwgdov1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Región Metropolitana de Santiago, Chile
-
-## Description
+### Description
 The black-winged ground dove (Metriopelia melanoptera) is a species of bird in the family Columbidae. It is found in Argentina, Bolivia, Chile, Colombia, Ecuador, and Peru.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Black-winged_ground_dove
+
+### Taxonomy
+[Columbiformes](/tags/columbiformes) > [Columbidae (Pigeons and Doves)](/tags/columbidae-pigeons-and-doves) > [Pigeons and Doves](/tags/pigeons-and-doves)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bwgdov1) | [Map](/map?species_code=bwgdov1)
+
+### Relevant Sightings
+
+* [2024-10-19T19:42:00.000Z - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524278) (Only Sighting)
+
+### Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
+
 
 ## Media
 ### Photographs

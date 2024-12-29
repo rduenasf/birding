@@ -17,21 +17,32 @@ tags:
 
 # Black-chinned Hummingbird <span className='sci_name'>Archilochus alexandri</span>
 
-**Taxonomy:** [Apodiformes](/tags/apodiformes) > [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds) > [Hummingbirds](/tags/hummingbirds)
+## Overview
+
+### Description
+The black-chinned hummingbird (Archilochus alexandri) is a hummingbird occupying a broad range of habitats. Its summer range is in the western United States and southwestern Canada. It is migratory, wintering as far south as Mexico. In sunlight, the gorget of iridescent purple feathers bordering its black chin is noticeable.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Black-chinned_hummingbird
+
+### Taxonomy
+[Apodiformes](/tags/apodiformes) > [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds) > [Hummingbirds](/tags/hummingbirds)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkchum) | [Map](/map?species_code=bkchum)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [04-22-2024 - California, United States](https://ebird.org/checklist/S169885106) (First Sighting)
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170587148) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * California, United States
 
-## Description
-The black-chinned hummingbird (Archilochus alexandri) is a hummingbird occupying a broad range of habitats. Its summer range is in the western United States and southwestern Canada. It is migratory, wintering as far south as Mexico. In sunlight, the gorget of iridescent purple feathers bordering its black chin is noticeable.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Black-chinned_hummingbird
 
 ## Media
 ### Photographs

@@ -17,20 +17,31 @@ tags:
 
 # American Oystercatcher <span className='sci_name'>Haematopus palliatus</span>
 
-**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Haematopodidae (Oystercatchers)](/tags/haematopodidae-oystercatchers) > [Shorebirds](/tags/shorebirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ameoys) | [Map](/map?species_code=ameoys)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Valparaíso, Chile
-
-## Description
+### Description
 The American oystercatcher (Haematopus palliatus), occasionally called the American pied oystercatcher, is a member of family Haematopodidae. Originally called the "sea pie", it was renamed in 1731 when naturalist Mark Catesby claimed that he had observed the bird eating oysters. The current population of American oystercatchers is estimated to be 43,000. There are estimated to be 1,500 breeding pairs along the Atlantic and Gulf Coasts of the US. The bird is marked by its black and white body and a long, thick orange beak.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/American_oystercatcher
+
+### Taxonomy
+[Charadriiformes](/tags/charadriiformes) > [Haematopodidae (Oystercatchers)](/tags/haematopodidae-oystercatchers) > [Shorebirds](/tags/shorebirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ameoys) | [Map](/map?species_code=ameoys)
+
+### Relevant Sightings
+
+* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994043) (First Sighting)
+* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994241) (Last Sighting)
+
+### Places Seen
+
+* Valparaíso, Chile
+
+
 
 ## Media
 ### Photographs

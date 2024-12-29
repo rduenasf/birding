@@ -17,23 +17,35 @@ tags:
 
 # Red-shouldered Hawk <span className='sci_name'>Buteo lineatus</span>
 
-**Taxonomy:** [Accipitriformes](/tags/accipitriformes) > [Accipitridae (Hawks, Eagles, and Kites)](/tags/accipitridae-hawks-eagles-and-kites) > [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
+## Overview
+
+### Description
+The red-shouldered hawk (Buteo lineatus) is a medium-sized buteo. Its breeding range spans eastern North America and along the coast of California and northern to northeastern-central Mexico. It is a permanent resident throughout most of its range, though northern birds do migrate, mostly to central Mexico. The main conservation threat to the widespread species is deforestation.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Red-shouldered_hawk
+
+### Taxonomy
+[Accipitriformes](/tags/accipitriformes) > [Accipitridae (Hawks, Eagles, and Kites)](/tags/accipitridae-hawks-eagles-and-kites) > [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
 
 **Subspecies Seen**: Red-shouldered Hawk (elegans), Red-shouldered Hawk (extimus)
 
+
+## Sightings
+
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=reshaw) | [Map](/map?species_code=reshaw)
 
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=reshaw&mediaType=photo&view=grid) | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [02-18-2024 - California, United States](https://ebird.org/checklist/S162086255) (First Sighting)
+* [07-05-2024 - Florida, United States](https://ebird.org/checklist/S185489786) (Only Photo)
+* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Last Sighting)
+
+### Places Seen
 
 * California, United States
 * Florida, United States
 
-## Description
-The red-shouldered hawk (Buteo lineatus) is a medium-sized buteo. Its breeding range spans eastern North America and along the coast of California and northern to northeastern-central Mexico. It is a permanent resident throughout most of its range, though northern birds do migrate, mostly to central Mexico. The main conservation threat to the widespread species is deforestation.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Red-shouldered_hawk
 
 ## Media
 ### Photographs

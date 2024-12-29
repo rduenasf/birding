@@ -17,21 +17,32 @@ tags:
 
 # Austral Blackbird <span className='sci_name'>Curaeus curaeus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
+## Overview
+
+### Description
+The austral blackbird (Curaeus curaeus) is a species of bird in the family Icteridae. It is found in Argentina and Chile. Its natural habitats are temperate forests, subtropical or tropical high-altitude shrubland, and heavily degraded former forest.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Austral_blackbird
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ausbla1) | [Map](/map?species_code=ausbla1)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994043) (First Sighting)
+* [10-19-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199748080) (Last Sighting)
+
+### Places Seen
 
 * Región Metropolitana de Santiago, Chile
 * Valparaíso, Chile
 
-## Description
-The austral blackbird (Curaeus curaeus) is a species of bird in the family Icteridae. It is found in Argentina and Chile. Its natural habitats are temperate forests, subtropical or tropical high-altitude shrubland, and heavily degraded former forest.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Austral_blackbird
 
 ## Media
 ### Photographs

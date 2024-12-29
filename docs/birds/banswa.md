@@ -17,20 +17,30 @@ tags:
 
 # Bank Swallow <span className='sci_name'>Riparia riparia</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Hirundinidae (Swallows)](/tags/hirundinidae-swallows) > [Martins and Swallows](/tags/martins-and-swallows)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=banswa) | [Map](/map?species_code=banswa)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The sand martin (Riparia riparia), also known as collared sand martin or common sand martin, and in the Americas as the bank swallow, is a migratory passerine bird in the swallow family Hirundinidae. It has a wide range in summer, embracing practically the whole Holarctic area, from Europe, across Asia to the Pacific Ocean, and throughout North America. It winters in eastern and southern Africa, southern Asia, and South America.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Sand_martin
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Hirundinidae (Swallows)](/tags/hirundinidae-swallows) > [Martins and Swallows](/tags/martins-and-swallows)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=banswa) | [Map](/map?species_code=banswa)
+
+### Relevant Sightings
+
+* [2024-09-08T21:03:00.000Z - California, United States](https://ebird.org/checklist/S194467710) (Only Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

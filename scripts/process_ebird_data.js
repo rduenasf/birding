@@ -257,25 +257,30 @@ const fetchBirdMetadata = async () => {
 // Function to replace mlCatalogNumbers with metadata objects
 const replaceMlCatalogNumbers = () => {
   for (const key in dataDict) {
-    dataDict[key].photographed = false;
-    dataDict[key].recorded = false;
+    dataDict[key].photographed = 0;
+    dataDict[key].recorded = 0;
     dataDict[key].observations.forEach((observation) => {
       if (observation.mlCatalogNumbers) {
         observation.mlCatalogNumbers = observation.mlCatalogNumbers
           .split(" ")
           .map((id) => mlDataMap[id] || id);
-        dataDict[key].photographed ||=
+
+        const photographed =
           observation.mlCatalogNumbers.filter(
             ({ format }) => format === "Photo"
           ).length > 0;
+        observation.photographed = photographed;
+        dataDict[key].photographed += photographed ? 1 : 0;
 
-        dataDict[key].recorded ||=
+        const recorded =
           observation.mlCatalogNumbers.filter(
             ({ format }) => format === "Audio"
           ).length > 0;
+        observation.recorded = recorded;
+        dataDict[key].recorded += recorded ? 1 : 0;
       }
     });
-    if (dataDict[key].photographed) {
+    if (dataDict[key].photographed > 0) {
       dataDict[key].bestPhoto = dataDict[key].observations
         .flatMap((obs) => obs.mlCatalogNumbers)
         .filter((item) => item && item.format === "Photo")
@@ -290,7 +295,7 @@ const replaceMlCatalogNumbers = () => {
           return best;
         }, null);
     }
-    if (dataDict[key].recorded) {
+    if (dataDict[key].recorded > 0) {
       dataDict[key].bestRecording = dataDict[key].observations
         .flatMap((obs) => obs.mlCatalogNumbers)
         .filter((item) => item && item.format === "Audio")

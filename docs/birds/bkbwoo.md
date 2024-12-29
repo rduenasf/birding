@@ -17,20 +17,30 @@ tags:
 
 # Black-backed Woodpecker <span className='sci_name'>Picoides arcticus</span>
 
-**Taxonomy:** [Piciformes](/tags/piciformes) > [Picidae (Woodpeckers)](/tags/picidae-woodpeckers) > [Woodpeckers](/tags/woodpeckers)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkbwoo) | [Map](/map?species_code=bkbwoo)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The black-backed woodpecker (Picoides arcticus), also known as the Arctic three-toed woodpecker, is a medium-sized woodpecker (23 cm (9.1 in) long) inhabiting the forests of North America.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Black-backed_woodpecker
+
+### Taxonomy
+[Piciformes](/tags/piciformes) > [Picidae (Woodpeckers)](/tags/picidae-woodpeckers) > [Woodpeckers](/tags/woodpeckers)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkbwoo) | [Map](/map?species_code=bkbwoo)
+
+### Relevant Sightings
+
+* [2024-09-07T22:41:00.000Z - California, United States](https://ebird.org/checklist/S194330060) (Only Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

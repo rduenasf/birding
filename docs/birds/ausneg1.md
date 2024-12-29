@@ -17,20 +17,30 @@ tags:
 
 # Austral Negrito <span className='sci_name'>Lessonia rufa</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ausneg1) | [Map](/map?species_code=ausneg1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Valparaíso, Chile
-
-## Description
+### Description
 The austral negrito or Patagonian negrito (Lessonia rufa) is a species of bird in the family Tyrannidae. It breeds in Argentina and Chile, migrating north as far as Bolivia, southern Brazil, Paraguay and Uruguay. It is a vagrant to the Falkland Islands and the South Georgia and the South Sandwich Islands territory. It has also been seen in the South Shetland Islands. Its natural habitats are freshwater lakes and saline marshes. It is primarily insectivorous but can eat algae. It hunts in grassland environments with short grass. It perches and moves throughout foliage such as shrubs in order to find prey.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Austral_negrito
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ausneg1) | [Map](/map?species_code=ausneg1)
+
+### Relevant Sightings
+
+* [2024-10-12T18:03:00.000Z - Valparaíso, Chile](https://ebird.org/checklist/S198994043) (Only Sighting)
+
+### Places Seen
+
+* Valparaíso, Chile
+
+
 
 ## Media
 ### Photographs

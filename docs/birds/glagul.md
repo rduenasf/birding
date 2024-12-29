@@ -17,20 +17,30 @@ tags:
 
 # Glaucous Gull <span className='sci_name'>Larus hyperboreus</span>
 
-**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers) > [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=glagul) | [Map](/map?species_code=glagul)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The glaucous gull (Larus hyperboreus) is a large gull, the second-largest gull in the world. The genus name is from Latin larus, which appears to have referred to a gull or other large seabird. The specific name hyperboreus is Latin for "northern" from the Ancient Greek Huperboreoi people from the far north  "Glaucous" is from Latin glaucus and denotes the grey colour of the gull. An older English name for this species is burgomaster.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Glaucous_gull
+
+### Taxonomy
+[Charadriiformes](/tags/charadriiformes) > [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers) > [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=glagul) | [Map](/map?species_code=glagul)
+
+### Relevant Sightings
+
+* [2024-03-31T15:25:00.000Z - California, United States](https://ebird.org/checklist/S166695330) (Only Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

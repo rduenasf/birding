@@ -17,20 +17,30 @@ tags:
 
 # Peruvian Booby <span className='sci_name'>Sula variegata</span>
 
-**Taxonomy:** [Suliformes](/tags/suliformes) > [Sulidae (Boobies and Gannets)](/tags/sulidae-boobies-and-gannets) > [Frigatebirds, Boobies, and Gannets](/tags/frigatebirds-boobies-and-gannets)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=perboo1) | [Map](/map?species_code=perboo1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Valparaíso, Chile
-
-## Description
+### Description
 The Peruvian booby (Sula variegata) is an endemic bird of the Peruvian current, and an important predator of the marine community to which it belongs. Its distribution is much less widespread than other closely related booby species. It is the most abundant seabird species that inhabits the Peruvian coast and the second most important guano-producing seabird. During the mid-twentieth century, the Peruvian booby population reached 3 million birds.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Peruvian_booby
+
+### Taxonomy
+[Suliformes](/tags/suliformes) > [Sulidae (Boobies and Gannets)](/tags/sulidae-boobies-and-gannets) > [Frigatebirds, Boobies, and Gannets](/tags/frigatebirds-boobies-and-gannets)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=perboo1) | [Map](/map?species_code=perboo1)
+
+### Relevant Sightings
+
+* [2024-10-12T20:47:00.000Z - Valparaíso, Chile](https://ebird.org/checklist/S198994214) (Only Sighting)
+
+### Places Seen
+
+* Valparaíso, Chile
+
+
 
 ## Media
 ### Photographs

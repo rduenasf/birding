@@ -17,20 +17,31 @@ tags:
 
 # Belted Kingfisher <span className='sci_name'>Megaceryle alcyon</span>
 
-**Taxonomy:** [Coraciiformes](/tags/coraciiformes) > [Alcedinidae (Kingfishers)](/tags/alcedinidae-kingfishers) > [Kingfishers](/tags/kingfishers)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=belkin1) | [Map](/map?species_code=belkin1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The belted kingfisher (Megaceryle alcyon) is a large, conspicuous water kingfisher, native to North America. All kingfishers are placed in one family, Alcedinidae, and recent research suggests that this should be divided into three subfamilies.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Belted_kingfisher
+
+### Taxonomy
+[Coraciiformes](/tags/coraciiformes) > [Alcedinidae (Kingfishers)](/tags/alcedinidae-kingfishers) > [Kingfishers](/tags/kingfishers)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=belkin1) | [Map](/map?species_code=belkin1)
+
+### Relevant Sightings
+
+* [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
+* [03-28-2024 - California, United States](https://ebird.org/checklist/S166301587) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

@@ -17,24 +17,35 @@ tags:
 
 # Black-headed Grosbeak <span className='sci_name'>Pheucticus melanocephalus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Cardinalidae (Cardinals and Allies)](/tags/cardinalidae-cardinals-and-allies) > [Cardinals, Grosbeaks, and Allies](/tags/cardinals-grosbeaks-and-allies)
+## Overview
+
+### Description
+The black-headed grosbeak (Pheucticus melanocephalus) is a medium-sized, seed-eating bird in the family Cardinalidae. It is sometimes considered conspecific with the rose-breasted grosbeak (P. ludovicianus) with which it hybridizes on the American Great Plains.
+The 19 cm (7.5 in) long, 47 g (1.7 oz) black-headed grosbeak is a migratory bird, with nesting grounds from southwestern British Columbia, through the western half of the United States, into central Mexico. It occurs as a vagrant further south in Central America.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Black-headed_grosbeak
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Cardinalidae (Cardinals and Allies)](/tags/cardinalidae-cardinals-and-allies) > [Cardinals, Grosbeaks, and Allies](/tags/cardinals-grosbeaks-and-allies)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkhgro) | [Map](/map?species_code=bkhgro)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170587140) (First Sighting)
+* [05-26-2024 - California, United States](https://ebird.org/checklist/S177248811) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * California, United States
 * Ciudad de México, Mexico
 * Morelos, Mexico
 
-## Description
-The black-headed grosbeak (Pheucticus melanocephalus) is a medium-sized, seed-eating bird in the family Cardinalidae. It is sometimes considered conspecific with the rose-breasted grosbeak (P. ludovicianus) with which it hybridizes on the American Great Plains.
-The 19 cm (7.5 in) long, 47 g (1.7 oz) black-headed grosbeak is a migratory bird, with nesting grounds from southwestern British Columbia, through the western half of the United States, into central Mexico. It occurs as a vagrant further south in Central America.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Black-headed_grosbeak
 
 ## Media
 ### Photographs

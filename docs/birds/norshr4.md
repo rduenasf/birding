@@ -17,20 +17,30 @@ tags:
 
 # Northern Shrike <span className='sci_name'>Lanius borealis</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Laniidae (Shrikes)](/tags/laniidae-shrikes) > [Shrikes](/tags/shrikes)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=norshr4) | [Map](/map?species_code=norshr4)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Ontario, Canada
-
-## Description
+### Description
 The northern shrike (Lanius borealis) is a large songbird species in the shrike family (Laniidae) native to North America and Siberia. Long considered a subspecies of the great grey shrike, it was classified as a distinct species in 2017. Six subspecies are recognised.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Northern_shrike
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Laniidae (Shrikes)](/tags/laniidae-shrikes) > [Shrikes](/tags/shrikes)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=norshr4) | [Map](/map?species_code=norshr4)
+
+### Relevant Sightings
+
+* [2024-04-07T17:15:00.000Z - Ontario, Canada](https://ebird.org/checklist/S167557450) (Only Sighting)
+
+### Places Seen
+
+* Ontario, Canada
+
+
 
 ## Media
 ### Photographs

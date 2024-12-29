@@ -17,23 +17,37 @@ tags:
 
 # Anna's Hummingbird <span className='sci_name'>Calypte anna</span>
 
-**Taxonomy:** [Apodiformes](/tags/apodiformes) > [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds) > [Hummingbirds](/tags/hummingbirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=annhum) | [Map](/map?species_code=annhum)
-
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=annhum&mediaType=photo&view=grid) | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=annhum&mediaType=audio&view=grid)
-
-## Places Seen
-
-* Arizona, United States
-* California, United States
-
-## Description
+### Description
 Anna's hummingbird (Calypte anna) is a North American species of hummingbird. It was named after Anna Masséna, Duchess of Rivoli.
 It is native to western coastal regions of North America. In the early 20th century, Anna's hummingbirds bred only in northern Baja California and Southern California. The transplanting of exotic ornamental plants in residential areas throughout the Pacific coast and inland deserts provided expanded nectar and nesting sites, allowing the species to expand its breeding range. Year-round residence of Anna's hummingbirds in the Pacific Northwest is an example of ecological release dependent on acclimation to colder winter temperatures, introduced plants, and human provision of nectar feeders during winter.
 These birds feed on nectar from flowers using a long extendable tongue. They also consume small insects and other arthropods caught in flight or gleaned from vegetation.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Anna%27s_hummingbird
+
+### Taxonomy
+[Apodiformes](/tags/apodiformes) > [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds) > [Hummingbirds](/tags/hummingbirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=annhum) | [Map](/map?species_code=annhum)
+
+### Relevant Sightings
+
+* [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
+* [03-30-2024 - California, United States](https://ebird.org/checklist/S166535028) (Only Photo)
+* [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (First Recording)
+* [11-28-2024 - California, United States](https://ebird.org/checklist/S203889552) (Best Recording)
+* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Last Sighting)
+
+### Places Seen
+
+* Arizona, United States
+* California, United States
+
+
 
 ## Media
 ### Photographs

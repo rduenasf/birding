@@ -17,21 +17,32 @@ tags:
 
 # Brown-headed Cowbird <span className='sci_name'>Molothrus ater</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
+## Overview
+
+### Description
+The brown-headed cowbird (Molothrus ater) is a small, obligate brood parasitic icterid native to temperate and subtropical North America. It is a permanent resident in the southern parts of its range; northern birds migrate to the southern United States and Mexico in winter, returning to their summer habitat around March or April.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Brown-headed_cowbird
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bnhcow) | [Map](/map?species_code=bnhcow)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [02-24-2024 - California, United States](https://ebird.org/checklist/S162799737) (First Sighting)
+* [09-22-2024 - California, United States](https://ebird.org/checklist/S196121721) (Last Sighting)
+
+### Places Seen
 
 * California, United States
 * Ontario, Canada
 
-## Description
-The brown-headed cowbird (Molothrus ater) is a small, obligate brood parasitic icterid native to temperate and subtropical North America. It is a permanent resident in the southern parts of its range; northern birds migrate to the southern United States and Mexico in winter, returning to their summer habitat around March or April.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Brown-headed_cowbird
 
 ## Media
 ### Photographs

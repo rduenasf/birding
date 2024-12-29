@@ -17,20 +17,33 @@ tags:
 
 # Marsh Wren <span className='sci_name'>Cistothorus palustris</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Troglodytidae (Wrens)](/tags/troglodytidae-wrens) > [Wrens](/tags/wrens)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=marwre) | [Map](/map?species_code=marwre)
-
-**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=marwre&mediaType=audio&view=grid)
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The marsh wren (Cistothorus palustris) is a small North American songbird of the wren family. It is sometimes called the long-billed marsh wren to distinguish it from the sedge wren, also known as the short-billed marsh wren.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Marsh_wren
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Troglodytidae (Wrens)](/tags/troglodytidae-wrens) > [Wrens](/tags/wrens)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=marwre) | [Map](/map?species_code=marwre)
+
+### Relevant Sightings
+
+* [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
+* [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (First Recording)
+* [11-17-2024 - California, United States](https://ebird.org/checklist/S202811385) (Best Recording)
+* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

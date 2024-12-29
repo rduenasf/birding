@@ -17,21 +17,32 @@ tags:
 
 # Red Shoveler <span className='sci_name'>Spatula platalea</span>
 
-**Taxonomy:** [Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+## Overview
+
+### Description
+The red shoveler (Spatula platalea) is a species of dabbling duck native to southern South America.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Red_shoveler
+
+### Taxonomy
+[Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=redsho1) | [Map](/map?species_code=redsho1)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [10-11-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398135) (First Sighting)
+* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994232) (Last Sighting)
+
+### Places Seen
 
 * Región Metropolitana de Santiago, Chile
 * Valparaíso, Chile
 
-## Description
-The red shoveler (Spatula platalea) is a species of dabbling duck native to southern South America.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Red_shoveler
 
 ## Media
 ### Photographs

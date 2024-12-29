@@ -17,21 +17,31 @@ tags:
 
 # Rusty-crowned Ground-Sparrow <span className='sci_name'>Melozone kieneri</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rcgspa1) | [Map](/map?species_code=rcgspa1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Morelos, Mexico
-
-## Description
+### Description
 The rusty-crowned ground sparrow (Melozone kieneri) is a species of bird in the family Passerellidae that is endemic to western and southwestern Mexico. The species occurs both in the Sierra Madre Occidental range, and the Cordillera Neovolcanica mountain belt.
 The rusty-crowned ground sparrow's natural habitats are subtropical or tropical dry forest, subtropical or tropical high-altitude shrubland, and heavily degraded former forest.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Rusty-crowned_ground_sparrow
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rcgspa1) | [Map](/map?species_code=rcgspa1)
+
+### Relevant Sightings
+
+* [2024-05-03T14:20:00.000Z - Morelos, Mexico](https://ebird.org/checklist/S171768235) (Only Sighting)
+
+### Places Seen
+
+* Morelos, Mexico
+
+
 
 ## Media
 ### Photographs

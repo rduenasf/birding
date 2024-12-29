@@ -5,7 +5,7 @@ order: "Gruiformes"
 family: "Rallidae (Rails, Gallinules, and Coots)"
 species_group: "Rails, Gallinules, and Allies"
 species_code: "sora"
-sidebar_position: 350
+sidebar_position: 351
 sidebar_class_name: " "
 tags: 
   - Gruiformes
@@ -17,17 +17,9 @@ tags:
 
 # Sora <span className='sci_name'>Porzana carolina</span>
 
-**Taxonomy:** [Gruiformes](/tags/gruiformes) > [Rallidae (Rails, Gallinules, and Coots)](/tags/rallidae-rails-gallinules-and-coots) > [Rails, Gallinules, and Allies](/tags/rails-gallinules-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sora) | [Map](/map?species_code=sora)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The sora, sora rail or Carolina crake (Porzana carolina) is a small waterbird of the rail family Rallidae, sometimes also referred to as the sora rail or sora crake, that occurs throughout much of North America. The genus name Porzana is derived from Venetian terms for small rails, and the specific carolina refers to the Carolina Colony. The common name "Sora" is probably taken from a Native American language.
 Adult soras are 19–30 cm (7.5–11.8 in) long, with dark-marked brown upperparts, a blue-grey face and underparts, and black and white barring on the flanks. They have a short thick yellow bill, with black markings on the face at the base of the bill and on the throat. Sexes are similar, but young soras lack the black facial markings and have a whitish face and buff breast. They weigh about 49–112 g (1.7–4.0 oz).
 The sora's breeding habitat is marshes throughout much of North America. They nest in a well-concealed location in dense vegetation. The female usually lays 10 to 12 eggs, sometimes as many as 18, in a cup built from marsh vegetation. The eggs do not all hatch together. Both parents incubate and feed the young, who leave the nest soon after they hatch and are able to fly within a month.
@@ -35,6 +27,25 @@ They migrate to the southern United States and northern South America. Sora is a
 Soras forage while walking or swimming. They are omnivores, eating seeds, insects and snails. Although soras are more often heard than seen, they are sometimes seen walking near open water. They are fairly common, despite a decrease in suitable habitat in recent times. The call is a slow whistled ker-whee, or a descending whinny.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Sora_(bird)
+
+### Taxonomy
+[Gruiformes](/tags/gruiformes) > [Rallidae (Rails, Gallinules, and Coots)](/tags/rallidae-rails-gallinules-and-coots) > [Rails, Gallinules, and Allies](/tags/rails-gallinules-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sora) | [Map](/map?species_code=sora)
+
+### Relevant Sightings
+
+* [01-15-2024 - California, United States](https://ebird.org/checklist/S159001730) (First Sighting)
+* [03-16-2024 - California, United States](https://ebird.org/checklist/S165048752) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

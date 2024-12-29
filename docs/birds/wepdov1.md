@@ -5,7 +5,7 @@ order: "Columbiformes"
 family: "Columbidae (Pigeons and Doves)"
 species_group: "Pigeons and Doves"
 species_code: "wepdov1"
-sidebar_position: 390
+sidebar_position: 391
 sidebar_class_name: " "
 tags: 
   - Columbiformes
@@ -17,21 +17,32 @@ tags:
 
 # West Peruvian Dove <span className='sci_name'>Zenaida meloda</span>
 
-**Taxonomy:** [Columbiformes](/tags/columbiformes) > [Columbidae (Pigeons and Doves)](/tags/columbidae-pigeons-and-doves) > [Pigeons and Doves](/tags/pigeons-and-doves)
+## Overview
+
+### Description
+The West Peruvian dove or Pacific dove (Zenaida meloda) is a species of dove in the genus Zenaida.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/West_Peruvian_dove
+
+### Taxonomy
+[Columbiformes](/tags/columbiformes) > [Columbidae (Pigeons and Doves)](/tags/columbidae-pigeons-and-doves) > [Pigeons and Doves](/tags/pigeons-and-doves)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wepdov1) | [Map](/map?species_code=wepdov1)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [10-11-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398422) (First Sighting)
+* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994043) (Last Sighting)
+
+### Places Seen
 
 * Región Metropolitana de Santiago, Chile
 * Valparaíso, Chile
 
-## Description
-The West Peruvian dove or Pacific dove (Zenaida meloda) is a species of dove in the genus Zenaida.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/West_Peruvian_dove
 
 ## Media
 ### Photographs

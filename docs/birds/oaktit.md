@@ -17,17 +17,9 @@ tags:
 
 # Oak Titmouse <span className='sci_name'>Baeolophus inornatus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Paridae (Tits, Chickadees, and Titmice)](/tags/paridae-tits-chickadees-and-titmice) > [Tits, Chickadees, and Titmice](/tags/tits-chickadees-and-titmice)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=oaktit) | [Map](/map?species_code=oaktit)
-
-**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=oaktit&mediaType=audio&view=grid)
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The oak titmouse (Baeolophus inornatus) is a passerine bird in the tit family Paridae. The American Ornithologists' Union split the plain titmouse into the oak titmouse and the juniper titmouse in 1996, due to distinct differences in song, preferred habitat, and genetic makeup.
 The oak titmouse is a small, brown-tinged gray bird with small tuft or crest. The face is plain, and the undersides are a lighter gray. Sexes are similar, as there is very little to no sexual dimorphism.
 This species lives year-round on the Pacific slope, resident from southern Oregon south through California west of the Sierra Nevada to Baja California, but its range surrounds the central San Joaquin Valley. It prefers open woodlands of warm, dry oak and oak-pine at low to mid-elevations but can also be found in forests as long as adequate oak trees are present.
@@ -38,6 +30,26 @@ The oak titmouse builds its nest in a woodpecker hole, a natural cavity, or a ne
 The oak titmouse and juniper titmouse appear almost identical, but differ in voice as well as range. The oak titmouse has a browner back than the juniper titmouse. The oak titmouse gives a repeated series of three to seven syllables, each comprising one low and one high note, while the juniper titmouse song consists of a series of rapid syllables on the same note. Ranges overlap only in a small area in California. The tufted titmouse, which does not overlap in range, has a whiter belly, rusty flanks, and black on the forehead.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Oak_titmouse
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Paridae (Tits, Chickadees, and Titmice)](/tags/paridae-tits-chickadees-and-titmice) > [Tits, Chickadees, and Titmice](/tags/tits-chickadees-and-titmice)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=oaktit) | [Map](/map?species_code=oaktit)
+
+### Relevant Sightings
+
+* [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
+* [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (First/Best Recording)
+* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

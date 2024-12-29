@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
 species_group: "Wood-Warblers"
 species_code: "towwar"
-sidebar_position: 370
+sidebar_position: 371
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -17,21 +17,32 @@ tags:
 
 # Townsend's Warbler <span className='sci_name'>Setophaga townsendi</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
+## Overview
+
+### Description
+Townsend's warbler (Setophaga townsendi) is a small songbird of the New World warbler family.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Townsend%27s_warbler
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=towwar) | [Map](/map?species_code=towwar)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [01-28-2024 - California, United States](https://ebird.org/checklist/S160073236) (First Sighting)
+* [12-08-2024 - California, United States](https://ebird.org/checklist/S204849205) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * California, United States
 
-## Description
-Townsend's warbler (Setophaga townsendi) is a small songbird of the New World warbler family.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Townsend%27s_warbler
 
 ## Media
 ### Photographs

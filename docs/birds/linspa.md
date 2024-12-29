@@ -17,21 +17,32 @@ tags:
 
 # Lincoln's Sparrow <span className='sci_name'>Melospiza lincolnii</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+## Overview
+
+### Description
+Lincoln's sparrow (Melospiza lincolnii) is a small sparrow native to North America. It is a less common passerine bird that often stays hidden under thick ground cover, but can be distinguished by its sweet, wrenlike song. Lincoln's sparrow is one of three species in the genus Melospiza which also includes the song sparrow (M. melodia) and the swamp sparrow (M. georgiana). It lives in well-covered brushy habitats, often near water. This bird is poorly documented because of its secretive nature and breeding habits solely in boreal regions.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Lincoln%27s_sparrow
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=linspa) | [Map](/map?species_code=linspa)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [01-15-2024 - California, United States](https://ebird.org/checklist/S159001730) (First Sighting)
+* [09-22-2024 - California, United States](https://ebird.org/checklist/S196121721) (Last Sighting)
+
+### Places Seen
 
 * California, United States
 * Ciudad de México, Mexico
 
-## Description
-Lincoln's sparrow (Melospiza lincolnii) is a small sparrow native to North America. It is a less common passerine bird that often stays hidden under thick ground cover, but can be distinguished by its sweet, wrenlike song. Lincoln's sparrow is one of three species in the genus Melospiza which also includes the song sparrow (M. melodia) and the swamp sparrow (M. georgiana). It lives in well-covered brushy habitats, often near water. This bird is poorly documented because of its secretive nature and breeding habits solely in boreal regions.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Lincoln%27s_sparrow
 
 ## Media
 ### Photographs

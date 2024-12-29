@@ -17,20 +17,30 @@ tags:
 
 # Sandhill Crane <span className='sci_name'>Antigone canadensis</span>
 
-**Taxonomy:** [Gruiformes](/tags/gruiformes) > [Gruidae (Cranes)](/tags/gruidae-cranes) > [Cranes](/tags/cranes)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sancra) | [Map](/map?species_code=sancra)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Ontario, Canada
-
-## Description
+### Description
 The sandhill crane (Antigone canadensis) is a species of large crane of North America and extreme northeastern Siberia. The common name of this bird refers to their habitat such as the Platte River, on the edge of Nebraska's Sandhills on the American Great Plains. Sandhill cranes are known to frequent the edges of bodies of water. The central Platte River valley in Nebraska is the most important stopover area for the nominotypical subspecies, the great sandhill crane (A. c. canadensis), with up to 450,000 of these birds migrating through annually.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Sandhill_crane
+
+### Taxonomy
+[Gruiformes](/tags/gruiformes) > [Gruidae (Cranes)](/tags/gruidae-cranes) > [Cranes](/tags/cranes)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sancra) | [Map](/map?species_code=sancra)
+
+### Relevant Sightings
+
+* [2024-04-07T17:15:00.000Z - Ontario, Canada](https://ebird.org/checklist/S167557450) (Only Sighting)
+
+### Places Seen
+
+* Ontario, Canada
+
+
 
 ## Media
 ### Photographs

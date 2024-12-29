@@ -5,7 +5,7 @@ order: "Pelecaniformes"
 family: "Threskiornithidae (Ibises and Spoonbills)"
 species_group: "Herons, Ibis, and Allies"
 species_code: "whfibi"
-sidebar_position: 408
+sidebar_position: 409
 sidebar_class_name: " "
 tags: 
   - Pelecaniformes
@@ -17,23 +17,34 @@ tags:
 
 # White-faced Ibis <span className='sci_name'>Plegadis chihi</span>
 
-**Taxonomy:** [Pelecaniformes](/tags/pelecaniformes) > [Threskiornithidae (Ibises and Spoonbills)](/tags/threskiornithidae-ibises-and-spoonbills) > [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
+## Overview
+
+### Description
+The white-faced ibis (Plegadis chihi) is a wading bird in the ibis family, Threskiornithidae.
+This species breeds colonially in marshes, usually nesting in bushes or low trees. Its breeding range extends from the western United States south through Mexico, as well as from southeastern Brazil and southeastern Bolivia south to central Argentina, and along the coast of central Chile. Its winter range extends from southern California and Louisiana south to include the rest of its breeding range.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/White-faced_ibis
+
+### Taxonomy
+[Pelecaniformes](/tags/pelecaniformes) > [Threskiornithidae (Ibises and Spoonbills)](/tags/threskiornithidae-ibises-and-spoonbills) > [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whfibi) | [Map](/map?species_code=whfibi)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [05-03-2024 - Ciudad de México, Mexico](https://ebird.org/checklist/S171944260) (First Sighting)
+* [10-11-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398135) (Last Sighting)
+
+### Places Seen
 
 * California, United States
 * Ciudad de México, Mexico
 * Región Metropolitana de Santiago, Chile
 
-## Description
-The white-faced ibis (Plegadis chihi) is a wading bird in the ibis family, Threskiornithidae.
-This species breeds colonially in marshes, usually nesting in bushes or low trees. Its breeding range extends from the western United States south through Mexico, as well as from southeastern Brazil and southeastern Bolivia south to central Argentina, and along the coast of central Chile. Its winter range extends from southern California and Louisiana south to include the rest of its breeding range.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/White-faced_ibis
 
 ## Media
 ### Photographs

@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "verfly"
-sidebar_position: 382
+sidebar_position: 383
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -17,24 +17,35 @@ tags:
 
 # Vermilion Flycatcher <span className='sci_name'>Pyrocephalus rubinus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+## Overview
+
+### Description
+The scarlet flycatcher or austral vermilion flycatcher (Pyrocephalus rubinus) is a species of flycatcher, closely related to the vermilion flycatcher. It is found in southeastern Bolivia and Brazil, Paraguay to Argentina and Uruguay.  It is recognized as a species by some taxonomic authorities, including the International Ornithologists' Union.  Others still consider it to be a subspecies of the vermilion flycatcher.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Scarlet_flycatcher
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
 
 **Subspecies Seen**: Vermilion Flycatcher (Northern)
 
+
+## Sightings
+
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=verfly) | [Map](/map?species_code=verfly)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170587133) (First Sighting)
+* [05-03-2024 - Ciudad de México, Mexico](https://ebird.org/checklist/S171944260) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * Ciudad de México, Mexico
 * Morelos, Mexico
 
-## Description
-The scarlet flycatcher or austral vermilion flycatcher (Pyrocephalus rubinus) is a species of flycatcher, closely related to the vermilion flycatcher. It is found in southeastern Bolivia and Brazil, Paraguay to Argentina and Uruguay.  It is recognized as a species by some taxonomic authorities, including the International Ornithologists' Union.  Others still consider it to be a subspecies of the vermilion flycatcher.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Scarlet_flycatcher
 
 ## Media
 ### Photographs

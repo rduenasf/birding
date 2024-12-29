@@ -17,20 +17,30 @@ tags:
 
 # Cassin's Finch <span className='sci_name'>Haemorhous cassinii</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Fringillidae (Finches, Euphonias, and Allies)](/tags/fringillidae-finches-euphonias-and-allies) > [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=casfin) | [Map](/map?species_code=casfin)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 Cassin's finch (Haemorhous cassinii) is a bird in the finch family, Fringillidae. This species and the other "American rosefinches" are placed in the genus Haemorhous.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Cassin%27s_finch
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Fringillidae (Finches, Euphonias, and Allies)](/tags/fringillidae-finches-euphonias-and-allies) > [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=casfin) | [Map](/map?species_code=casfin)
+
+### Relevant Sightings
+
+* [2024-09-08T16:09:00.000Z - California, United States](https://ebird.org/checklist/S194427186) (Only Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

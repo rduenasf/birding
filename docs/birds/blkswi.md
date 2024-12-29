@@ -17,20 +17,30 @@ tags:
 
 # Black Swift <span className='sci_name'>Cypseloides niger</span>
 
-**Taxonomy:** [Apodiformes](/tags/apodiformes) > [Apodidae (Swifts)](/tags/apodidae-swifts) > [Swifts](/tags/swifts)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blkswi) | [Map](/map?species_code=blkswi)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The American black swift, or more simply black swift (Cypseloides niger), is a species of bird that is found from northern British Columbia in Canada through the United States and Mexico to Costa Rica and Brazil. They are also found in the Caribbean.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/American_black_swift
+
+### Taxonomy
+[Apodiformes](/tags/apodiformes) > [Apodidae (Swifts)](/tags/apodidae-swifts) > [Swifts](/tags/swifts)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blkswi) | [Map](/map?species_code=blkswi)
+
+### Relevant Sightings
+
+* [2024-05-25T17:32:00.000Z - California, United States](https://ebird.org/checklist/S177364706) (Only Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

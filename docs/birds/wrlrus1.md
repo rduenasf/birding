@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Furnariidae (Ovenbirds and Woodcreepers)"
 species_group: "Ovenbirds"
 species_code: "wrlrus1"
-sidebar_position: 424
+sidebar_position: 425
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
@@ -17,21 +17,33 @@ tags:
 
 # Wren-like Rushbird <span className='sci_name'>Phleocryptes melanops</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers) > [Ovenbirds](/tags/ovenbirds)
+## Overview
+
+### Description
+The wren-like rushbird (Phleocryptes melanops) is a species of bird in the Furnariinae subfamily of the ovenbird family Furnariidae. It is found in Argentina, Bolivia, Brazil, Chile, Paraguay, Peru, and Uruguay.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Wren-like_rushbird
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers) > [Ovenbirds](/tags/ovenbirds)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=wrlrus1) | [Map](/map?species_code=wrlrus1)
 
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=wrlrus1&mediaType=photo&view=grid) | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [10-11-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398422) (First Sighting / First Photo)
+* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994043) (First Photo)
+* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994043) (Last Sighting)
+
+### Places Seen
 
 * Región Metropolitana de Santiago, Chile
 * Valparaíso, Chile
 
-## Description
-The wren-like rushbird (Phleocryptes melanops) is a species of bird in the Furnariinae subfamily of the ovenbird family Furnariidae. It is found in Argentina, Bolivia, Brazil, Chile, Paraguay, Peru, and Uruguay.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Wren-like_rushbird
 
 ## Media
 ### Photographs

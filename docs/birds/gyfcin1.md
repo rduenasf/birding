@@ -17,20 +17,30 @@ tags:
 
 # Gray-flanked Cinclodes <span className='sci_name'>Cinclodes oustaleti</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers) > [Ovenbirds](/tags/ovenbirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gyfcin1) | [Map](/map?species_code=gyfcin1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Región Metropolitana de Santiago, Chile
-
-## Description
+### Description
 The grey-flanked cinclodes (Cinclodes oustaleti), formerly known as Oustalet's cinclodes, is a species of bird in the Furnariinae subfamily of the ovenbird family Furnariidae. It is found in Argentina and Chile.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Grey-flanked_cinclodes
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Furnariidae (Ovenbirds and Woodcreepers)](/tags/furnariidae-ovenbirds-and-woodcreepers) > [Ovenbirds](/tags/ovenbirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gyfcin1) | [Map](/map?species_code=gyfcin1)
+
+### Relevant Sightings
+
+* [2024-10-19T19:42:00.000Z - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524278) (Only Sighting)
+
+### Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
+
 
 ## Media
 ### Photographs

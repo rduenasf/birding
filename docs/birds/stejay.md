@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Corvidae (Crows, Jays, and Magpies)"
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "stejay"
-sidebar_position: 357
+sidebar_position: 358
 sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
@@ -17,23 +17,35 @@ tags:
 
 # Steller's Jay <span className='sci_name'>Cyanocitta stelleri</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Corvidae (Crows, Jays, and Magpies)](/tags/corvidae-crows-jays-and-magpies) > [Jays, Magpies, Crows, and Ravens](/tags/jays-magpies-crows-and-ravens)
+## Overview
+
+### Description
+Steller's jay (Cyanocitta stelleri) is a bird native to western North America and the mountains of Central America, closely related to the blue jay (C. cristata) found in eastern North America. It is the only crested jay west of the Rocky Mountains. It is also sometimes colloquially called a "blue jay" in the Pacific Northwest, but is distinct from the blue jay of eastern North America. The species inhabits pine-oak and coniferous forests.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Steller%27s_jay
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Corvidae (Crows, Jays, and Magpies)](/tags/corvidae-crows-jays-and-magpies) > [Jays, Magpies, Crows, and Ravens](/tags/jays-magpies-crows-and-ravens)
 
 **Subspecies Seen**: Steller's Jay (Coastal), Steller's Jay (Southwest Interior)
 
+
+## Sightings
+
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=stejay) | [Map](/map?species_code=stejay)
 
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=stejay&mediaType=photo&view=grid) | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=stejay&mediaType=audio&view=grid)
+### Relevant Sightings
 
-## Places Seen
+* [08-31-2019 - California, United States](https://ebird.org/checklist/S206238527) (First Sighting / Only Photo)
+* [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (First/Best Recording)
+* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * California, United States
 
-## Description
-Steller's jay (Cyanocitta stelleri) is a bird native to western North America and the mountains of Central America, closely related to the blue jay (C. cristata) found in eastern North America. It is the only crested jay west of the Rocky Mountains. It is also sometimes colloquially called a "blue jay" in the Pacific Northwest, but is distinct from the blue jay of eastern North America. The species inhabits pine-oak and coniferous forests.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Steller%27s_jay
 
 ## Media
 ### Photographs

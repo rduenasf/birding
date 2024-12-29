@@ -17,18 +17,9 @@ tags:
 
 # Forster's Tern <span className='sci_name'>Sterna forsteri</span>
 
-**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers) > [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=forter) | [Map](/map?species_code=forter)
-
-**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=forter&mediaType=audio&view=grid)
-
-## Places Seen
-
-* California, United States
-* Ciudad de México, Mexico
-
-## Description
+### Description
 Forster's tern (Sterna forsteri) is a tern in the family Laridae. The genus name Sterna is derived from Old English "stearn", "tern", and forsteri commemorates the naturalist Johann Reinhold Forster.
 It breeds inland in North America in the northern United States and southern Canada, and migrates south to winter in the southern United States, Mexico, the Caribbean, and northern Central America. It is also a rare but annual vagrant in western Europe, and has wintered in Ireland and Great Britain on a number of occasions.
 This species breeds in colonies in marshes. It nests in a ground scrape and lays two or more eggs. Like all white terns, it is fiercely defensive of its nest and young.
@@ -37,6 +28,27 @@ This is a medium-small tern, 33–36 cm (13–14 in) long with a 64–70 cm (25�
 This species is unlikely to be confused with the common tern in winter because of the black eye mask, but is much more similar in breeding plumage. Forster's has a gray center to its white tail, and the upperwings are whiter, without the darker primary wedge of the common tern.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Forster%27s_tern
+
+### Taxonomy
+[Charadriiformes](/tags/charadriiformes) > [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers) > [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=forter) | [Map](/map?species_code=forter)
+
+### Relevant Sightings
+
+* [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
+* [11-24-2024 - California, United States](https://ebird.org/checklist/S203486069) (Only Recording)
+* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+* Ciudad de México, Mexico
+
+
 
 ## Media
 ### Photographs

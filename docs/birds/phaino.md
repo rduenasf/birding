@@ -17,20 +17,31 @@ tags:
 
 # Phainopepla <span className='sci_name'>Phainopepla nitens</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Ptiliogonatidae (Silky-flycatchers)](/tags/ptiliogonatidae-silky-flycatchers) > [Silky-flycatchers](/tags/silky-flycatchers)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=phaino) | [Map](/map?species_code=phaino)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Arizona, United States
-
-## Description
+### Description
 The phainopepla or northern phainopepla (Phainopepla nitens) is the most northerly representative of the mainly tropical Central American family Ptiliogonatidae, the silky flycatchers. Its name is from the Greek phain pepla meaning "shining robe" in reference to the male's plumage.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Phainopepla
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Ptiliogonatidae (Silky-flycatchers)](/tags/ptiliogonatidae-silky-flycatchers) > [Silky-flycatchers](/tags/silky-flycatchers)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=phaino) | [Map](/map?species_code=phaino)
+
+### Relevant Sightings
+
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170587133) (First Sighting)
+* [04-28-2024 - Arizona, United States](https://ebird.org/checklist/S170824758) (Last Sighting)
+
+### Places Seen
+
+* Arizona, United States
+
+
 
 ## Media
 ### Photographs

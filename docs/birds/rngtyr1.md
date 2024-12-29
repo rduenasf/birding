@@ -17,22 +17,32 @@ tags:
 
 # Rufous-naped Ground-Tyrant <span className='sci_name'>Muscisaxicola rufivertex</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rngtyr1) | [Map](/map?species_code=rngtyr1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Región Metropolitana de Santiago, Chile
-
-## Description
+### Description
 The rufous-naped ground tyrant (Muscisaxicola rufivertex) is a species of bird in the family Tyrannidae.
 It is found in Argentina, Bolivia, Chile, and Peru.
 Its natural habitats are subtropical or tropical high-altitude shrubland and subtropical or tropical high-altitude grassland.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Rufous-naped_ground_tyrant
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rngtyr1) | [Map](/map?species_code=rngtyr1)
+
+### Relevant Sightings
+
+* [2024-10-19T16:19:00.000Z - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524251) (Only Sighting)
+
+### Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
+
 
 ## Media
 ### Photographs

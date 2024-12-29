@@ -17,21 +17,32 @@ tags:
 
 # Brown-hooded Gull <span className='sci_name'>Chroicocephalus maculipennis</span>
 
-**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers) > [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
+## Overview
+
+### Description
+The brown-hooded gull (Chroicocephalus maculipennis) is a species of gull found in Argentina, Brazil, Chile, the Falkland Islands, and Uruguay. Its specific epithet, maculipennis, means 'spotted wings' (macula + penna). It is a white bird with a brown head and red beak and feet.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Brown-hooded_gull
+
+### Taxonomy
+[Charadriiformes](/tags/charadriiformes) > [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers) > [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=brhgul2) | [Map](/map?species_code=brhgul2)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [10-11-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398135) (First Sighting)
+* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994214) (Last Sighting)
+
+### Places Seen
 
 * Región Metropolitana de Santiago, Chile
 * Valparaíso, Chile
 
-## Description
-The brown-hooded gull (Chroicocephalus maculipennis) is a species of gull found in Argentina, Brazil, Chile, the Falkland Islands, and Uruguay. Its specific epithet, maculipennis, means 'spotted wings' (macula + penna). It is a white bird with a brown head and red beak and feet.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Brown-hooded_gull
 
 ## Media
 ### Photographs

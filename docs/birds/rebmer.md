@@ -17,21 +17,32 @@ tags:
 
 # Red-breasted Merganser <span className='sci_name'>Mergus serrator</span>
 
-**Taxonomy:** [Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+## Overview
+
+### Description
+The red-breasted merganser (Mergus serrator) is a duck species that is native to much of the Northern Hemisphere. The red breast that gives the species its common name is only displayed by males in breeding plumage. Individuals fly rapidly, and feed by diving from the surface to pursue aquatic animals underwater, using serrated bills to capture slippery fish. They migrate each year from breeding sites on lakes and rivers to their mostly coastal wintering areas, making them the only species in the genus Mergus to frequent saltwater. They form flocks outside of breeding season that are usually small but can reach 100 individuals. The worldwide population of this species is stable, though it is threatened in some areas by habitat loss and other factors.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Red-breasted_merganser
+
+### Taxonomy
+[Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rebmer) | [Map](/map?species_code=rebmer)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [02-24-2024 - California, United States](https://ebird.org/checklist/S162799737) (First Sighting)
+* [04-13-2024 - Ontario, Canada](https://ebird.org/checklist/S168448531) (Last Sighting)
+
+### Places Seen
 
 * California, United States
 * Ontario, Canada
 
-## Description
-The red-breasted merganser (Mergus serrator) is a duck species that is native to much of the Northern Hemisphere. The red breast that gives the species its common name is only displayed by males in breeding plumage. Individuals fly rapidly, and feed by diving from the surface to pursue aquatic animals underwater, using serrated bills to capture slippery fish. They migrate each year from breeding sites on lakes and rivers to their mostly coastal wintering areas, making them the only species in the genus Mergus to frequent saltwater. They form flocks outside of breeding season that are usually small but can reach 100 individuals. The worldwide population of this species is stable, though it is threatened in some areas by habitat loss and other factors.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Red-breasted_merganser
 
 ## Media
 ### Photographs

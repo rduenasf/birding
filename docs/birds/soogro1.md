@@ -5,7 +5,7 @@ order: "Galliformes"
 family: "Phasianidae (Pheasants, Grouse, and Allies)"
 species_group: "Grouse, Quail, and Allies"
 species_code: "soogro1"
-sidebar_position: 348
+sidebar_position: 349
 sidebar_class_name: "has-photo "
 tags: 
   - Galliformes
@@ -17,20 +17,30 @@ tags:
 
 # Sooty Grouse <span className='sci_name'>Dendragapus fuliginosus</span>
 
-**Taxonomy:** [Galliformes](/tags/galliformes) > [Phasianidae (Pheasants, Grouse, and Allies)](/tags/phasianidae-pheasants-grouse-and-allies) > [Grouse, Quail, and Allies](/tags/grouse-quail-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=soogro1) | [Map](/map?species_code=soogro1)
-
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=soogro1&mediaType=photo&view=grid) | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The sooty grouse (Dendragapus fuliginosus) is a species of forest-dwelling grouse native to North America's Pacific Coast Ranges. It is closely related to the dusky grouse (Dendragapus obscurus), and the two were previously considered a single species, the blue grouse.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Sooty_grouse
+
+### Taxonomy
+[Galliformes](/tags/galliformes) > [Phasianidae (Pheasants, Grouse, and Allies)](/tags/phasianidae-pheasants-grouse-and-allies) > [Grouse, Quail, and Allies](/tags/grouse-quail-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=soogro1) | [Map](/map?species_code=soogro1)
+
+### Relevant Sightings
+
+* [2024-06-29T17:36:00.000Z - California, United States](https://ebird.org/checklist/S184475505) (Only Sighting / Photo)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

@@ -17,21 +17,31 @@ tags:
 
 # Black-vented Oriole <span className='sci_name'>Icterus wagleri</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkvori) | [Map](/map?species_code=bkvori)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Morelos, Mexico
-
-## Description
+### Description
 The black-vented oriole (Icterus wagleri) is a species of bird in the family Icteridae. It is found in El Salvador, Guatemala, Honduras, Mexico, Nicaragua, and the United States.
 Its natural habitats are subtropical or tropical dry forest, subtropical or tropical moist lowland forest, and subtropical or tropical moist montane forest.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Black-vented_oriole
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bkvori) | [Map](/map?species_code=bkvori)
+
+### Relevant Sightings
+
+* [2024-05-03T14:20:00.000Z - Morelos, Mexico](https://ebird.org/checklist/S171768235) (Only Sighting)
+
+### Places Seen
+
+* Morelos, Mexico
+
+
 
 ## Media
 ### Photographs

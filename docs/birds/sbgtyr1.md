@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "sbgtyr1"
-sidebar_position: 354
+sidebar_position: 355
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -17,21 +17,31 @@ tags:
 
 # Spot-billed Ground-Tyrant <span className='sci_name'>Muscisaxicola maculirostris</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sbgtyr1) | [Map](/map?species_code=sbgtyr1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Región Metropolitana de Santiago, Chile
-
-## Description
+### Description
 The spot-billed ground tyrant (Muscisaxicola maculirostris) is a species of bird in the family Tyrannidae.
 It is found in Argentina, Bolivia, Chile, Colombia, Ecuador, and Peru. Its natural habitats are subtropical or tropical high-altitude shrubland and pastureland.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Spot-billed_ground_tyrant
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sbgtyr1) | [Map](/map?species_code=sbgtyr1)
+
+### Relevant Sightings
+
+* [2024-10-19T16:19:00.000Z - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524251) (Only Sighting)
+
+### Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
+
 
 ## Media
 ### Photographs

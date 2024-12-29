@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Turdidae (Thrushes and Allies)"
 species_group: "Thrushes"
 species_code: "varthr"
-sidebar_position: 379
+sidebar_position: 380
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -17,20 +17,30 @@ tags:
 
 # Varied Thrush <span className='sci_name'>Ixoreus naevius</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies) > [Thrushes](/tags/thrushes)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=varthr) | [Map](/map?species_code=varthr)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The varied thrush (Ixoreus naevius) is a member of the thrush family, Turdidae. It is the only species in the monotypic genus Ixoreus.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Varied_thrush
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies) > [Thrushes](/tags/thrushes)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=varthr) | [Map](/map?species_code=varthr)
+
+### Relevant Sightings
+
+* [2024-01-28T16:21:00.000Z - California, United States](https://ebird.org/checklist/S160073236) (Only Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

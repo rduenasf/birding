@@ -17,21 +17,32 @@ tags:
 
 # Gray Silky-flycatcher <span className='sci_name'>Ptiliogonys cinereus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Ptiliogonatidae (Silky-flycatchers)](/tags/ptiliogonatidae-silky-flycatchers) > [Silky-flycatchers](/tags/silky-flycatchers)
+## Overview
+
+### Description
+The grey silky-flycatcher or grey silky flycatcher (Ptiliogonys cinereus), is a species of bird in the family Ptiliogonatidae. It is usually found only in Guatemala and Mexico, but vagrants have turned up in the southern United States. It is found in montane forest and adjacent scrub, both mesic and xeric.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Grey_silky-flycatcher
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Ptiliogonatidae (Silky-flycatchers)](/tags/ptiliogonatidae-silky-flycatchers) > [Silky-flycatchers](/tags/silky-flycatchers)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grsfly1) | [Map](/map?species_code=grsfly1)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768259) (First Sighting)
+* [05-03-2024 - Ciudad de México, Mexico](https://ebird.org/checklist/S171944247) (Last Sighting)
+
+### Places Seen
 
 * Ciudad de México, Mexico
 * Morelos, Mexico
 
-## Description
-The grey silky-flycatcher or grey silky flycatcher (Ptiliogonys cinereus), is a species of bird in the family Ptiliogonatidae. It is usually found only in Guatemala and Mexico, but vagrants have turned up in the southern United States. It is found in montane forest and adjacent scrub, both mesic and xeric.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Grey_silky-flycatcher
 
 ## Media
 ### Photographs

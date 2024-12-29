@@ -17,22 +17,33 @@ tags:
 
 # Diuca Finch <span className='sci_name'>Diuca diuca</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Thraupidae (Tanagers and Allies)](/tags/thraupidae-tanagers-and-allies) > [Tanagers and Allies](/tags/tanagers-and-allies)
+## Overview
+
+### Description
+The diuca finch (Diuca diuca) is a species of bird in the tanager family Thraupidae. It is the only member of the genus Diuca. It is found in Argentina, Bolivia, Brazil, Chile, and Uruguay. Its natural habitats are subtropical or tropical dry shrubland, subtropical or tropical high-altitude shrubland, and heavily degraded former forest.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Diuca_finch
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Thraupidae (Tanagers and Allies)](/tags/thraupidae-tanagers-and-allies) > [Tanagers and Allies](/tags/tanagers-and-allies)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=codfin1) | [Map](/map?species_code=codfin1)
 
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=codfin1&mediaType=photo&view=grid) | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [10-11-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398135) (First Sighting / Only Photo)
+* [10-21-2024 - Libertador General Bernardo O'Higgins, Chile](https://ebird.org/checklist/S199827532) (Last Sighting)
+
+### Places Seen
 
 * Libertador General Bernardo O'Higgins, Chile
 * Región Metropolitana de Santiago, Chile
 * Valparaíso, Chile
 
-## Description
-The diuca finch (Diuca diuca) is a species of bird in the tanager family Thraupidae. It is the only member of the genus Diuca. It is found in Argentina, Bolivia, Brazil, Chile, and Uruguay. Its natural habitats are subtropical or tropical dry shrubland, subtropical or tropical high-altitude shrubland, and heavily degraded former forest.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Diuca_finch
 
 ## Media
 ### Photographs

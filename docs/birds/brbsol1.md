@@ -17,21 +17,32 @@ tags:
 
 # Brown-backed Solitaire <span className='sci_name'>Myadestes occidentalis</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies) > [Thrushes](/tags/thrushes)
+## Overview
+
+### Description
+The brown-backed solitaire (Myadestes occidentalis) is considered a thrush and is placed in the family Turdidae. It is a medium-sized bird about 21 centimeters (8 inches) long. It is a mostly grayish bird with brown flight feathers (hence the "brown back" when it is perched), a white eye ring and white rectrices (tail) feathers.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Brown-backed_solitaire
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Turdidae (Thrushes and Allies)](/tags/turdidae-thrushes-and-allies) > [Thrushes](/tags/thrushes)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=brbsol1) | [Map](/map?species_code=brbsol1)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768259) (First Sighting)
+* [05-03-2024 - Ciudad de México, Mexico](https://ebird.org/checklist/S171944290) (Last Sighting)
+
+### Places Seen
 
 * Ciudad de México, Mexico
 * Morelos, Mexico
 
-## Description
-The brown-backed solitaire (Myadestes occidentalis) is considered a thrush and is placed in the family Turdidae. It is a medium-sized bird about 21 centimeters (8 inches) long. It is a mostly grayish bird with brown flight feathers (hence the "brown back" when it is perched), a white eye ring and white rectrices (tail) feathers.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Brown-backed_solitaire
 
 ## Media
 ### Photographs

@@ -17,23 +17,34 @@ tags:
 
 # Golden-crowned Kinglet <span className='sci_name'>Regulus satrapa</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Regulidae (Kinglets)](/tags/regulidae-kinglets) > [Kinglets](/tags/kinglets)
+## Overview
+
+### Description
+The golden-crowned kinglet (Regulus satrapa) is a very small songbird in the family Regulidae that lives throughout much of North America.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Golden-crowned_kinglet
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Regulidae (Kinglets)](/tags/regulidae-kinglets) > [Kinglets](/tags/kinglets)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gockin) | [Map](/map?species_code=gockin)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [04-07-2024 - Ontario, Canada](https://ebird.org/checklist/S167504743) (First Sighting)
+* [09-15-2024 - Washington, United States](https://ebird.org/checklist/S195264549) (Last Sighting)
+
+### Places Seen
 
 * California, United States
 * Ciudad de México, Mexico
 * Ontario, Canada
 * Washington, United States
 
-## Description
-The golden-crowned kinglet (Regulus satrapa) is a very small songbird in the family Regulidae that lives throughout much of North America.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Golden-crowned_kinglet
 
 ## Media
 ### Photographs

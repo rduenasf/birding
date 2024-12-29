@@ -17,21 +17,34 @@ tags:
 
 # Say's Phoebe <span className='sci_name'>Sayornis saya</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+## Overview
+
+### Description
+Say's phoebe (Sayornis saya) is a passerine bird in the tyrant flycatcher family, Tyrannidae. A common bird across western North America, it prefers dry, desolate areas. It was named for Thomas Say, an American naturalist.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Say%27s_phoebe
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=saypho) | [Map](/map?species_code=saypho)
 
-**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=saypho&mediaType=audio&view=grid)
+### Relevant Sightings
 
-## Places Seen
+* [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
+* [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (First Recording)
+* [11-17-2024 - California, United States](https://ebird.org/checklist/S202811385) (Best Recording)
+* [11-17-2024 - California, United States](https://ebird.org/checklist/S202811385) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * California, United States
 
-## Description
-Say's phoebe (Sayornis saya) is a passerine bird in the tyrant flycatcher family, Tyrannidae. A common bird across western North America, it prefers dry, desolate areas. It was named for Thomas Say, an American naturalist.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Say%27s_phoebe
 
 ## Media
 ### Photographs

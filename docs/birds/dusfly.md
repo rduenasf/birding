@@ -17,22 +17,33 @@ tags:
 
 # Dusky Flycatcher <span className='sci_name'>Empidonax oberholseri</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=dusfly) | [Map](/map?species_code=dusfly)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Arizona, United States
-* Morelos, Mexico
-
-## Description
+### Description
 The American dusky flycatcher (Empidonax oberholseri), or simply dusky flycatcher, is a small insectivorous passerine of the tyrant flycatcher family.
 The dusky flycatcher is one of many species in the genus Empidonax. These species are very similar in appearance and behavior, and they are notoriously difficult to differentiate. The best characteristics for distinguishing these species are voice, breeding habitat, and range.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/American_dusky_flycatcher
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=dusfly) | [Map](/map?species_code=dusfly)
+
+### Relevant Sightings
+
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170587140) (First Sighting)
+* [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768235) (Last Sighting)
+
+### Places Seen
+
+* Arizona, United States
+* Morelos, Mexico
+
+
 
 ## Media
 ### Photographs

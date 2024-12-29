@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
 species_group: "New World Sparrows"
 species_code: "strspa1"
-sidebar_position: 361
+sidebar_position: 362
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -17,21 +17,31 @@ tags:
 
 # Striped Sparrow <span className='sci_name'>Oriturus superciliosus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=strspa1) | [Map](/map?species_code=strspa1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Ciudad de México, Mexico
-
-## Description
+### Description
 The striped sparrow (Oriturus superciliosus) is a species of bird in the family Passerellidae. It is monotypic within the genus Oriturus.
 It is endemic to Mexico where its natural habitats are subtropical or tropical moist montane forest and temperate grassland.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Striped_sparrow
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=strspa1) | [Map](/map?species_code=strspa1)
+
+### Relevant Sightings
+
+* [2024-05-03T20:32:00.000Z - Ciudad de México, Mexico](https://ebird.org/checklist/S171944290) (Only Sighting)
+
+### Places Seen
+
+* Ciudad de México, Mexico
+
+
 
 ## Media
 ### Photographs

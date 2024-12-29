@@ -17,20 +17,30 @@ tags:
 
 # Gray Gull <span className='sci_name'>Leucophaeus modestus</span>
 
-**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers) > [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grygul) | [Map](/map?species_code=grygul)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Valparaíso, Chile
-
-## Description
+### Description
 The grey gull, also known as garuma gull (Leucophaeus modestus) is a medium-sized gull native to South America. Unusual among gulls, it breeds inland in the extremely dry Atacama Desert in northern Chile, although it is present as a non-breeding bird along much of the Pacific coast of South America.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Grey_gull
+
+### Taxonomy
+[Charadriiformes](/tags/charadriiformes) > [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers) > [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grygul) | [Map](/map?species_code=grygul)
+
+### Relevant Sightings
+
+* [2024-10-12T18:03:00.000Z - Valparaíso, Chile](https://ebird.org/checklist/S198994043) (Only Sighting)
+
+### Places Seen
+
+* Valparaíso, Chile
+
+
 
 ## Media
 ### Photographs

@@ -17,20 +17,32 @@ tags:
 
 # Marbled Godwit <span className='sci_name'>Limosa fedoa</span>
 
-**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=margod) | [Map](/map?species_code=margod)
-
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=margod&mediaType=photo&view=grid) | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The marbled godwit (Limosa fedoa) is a large migratory shorebird in the family Scolopacidae. On average, it is the largest of the four species of godwit.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Marbled_godwit
+
+### Taxonomy
+[Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=margod) | [Map](/map?species_code=margod)
+
+### Relevant Sightings
+
+* [12-23-2023 - California, United States](https://ebird.org/checklist/S157058117) (First Sighting)
+* [05-18-2024 - California, United States](https://ebird.org/checklist/S175378784) (Only Photo)
+* [11-30-2024 - California, United States](https://ebird.org/checklist/S204074627) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

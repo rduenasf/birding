@@ -17,23 +17,34 @@ tags:
 
 # Chimango Caracara <span className='sci_name'>Daptrius chimango</span>
 
-**Taxonomy:** [Falconiformes](/tags/falconiformes) > [Falconidae (Falcons and Caracaras)](/tags/falconidae-falcons-and-caracaras) > [Falcons and Caracaras](/tags/falcons-and-caracaras)
+## Overview
+
+### Description
+The chimango caracara also known as chimango or tiuque (Milvago chimango) is a species of bird of prey in the family Falconidae, the falcons and caracaras. It is found in Argentina, Bolivia, Brazil, Chile, Paraguay, and Uruguay, as a vagrant on the Falkland Islands and has been introduced on Rapa Nui.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Chimango_caracara
+
+### Taxonomy
+[Falconiformes](/tags/falconiformes) > [Falconidae (Falcons and Caracaras)](/tags/falconidae-falcons-and-caracaras) > [Falcons and Caracaras](/tags/falcons-and-caracaras)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=chicar1) | [Map](/map?species_code=chicar1)
 
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=chicar1&mediaType=photo&view=grid) | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [03-25-2014 - Magallanes, Chile](https://ebird.org/checklist/S206238343) (First Sighting / Only Photo)
+* [10-20-2024 - Libertador General Bernardo O'Higgins, Chile](https://ebird.org/checklist/S199680323) (Last Sighting)
+
+### Places Seen
 
 * Libertador General Bernardo O'Higgins, Chile
 * Magallanes, Chile
 * Región Metropolitana de Santiago, Chile
 * Valparaíso, Chile
 
-## Description
-The chimango caracara also known as chimango or tiuque (Milvago chimango) is a species of bird of prey in the family Falconidae, the falcons and caracaras. It is found in Argentina, Bolivia, Brazil, Chile, Paraguay, and Uruguay, as a vagrant on the Falkland Islands and has been introduced on Rapa Nui.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Chimango_caracara
 
 ## Media
 ### Photographs

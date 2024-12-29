@@ -17,22 +17,33 @@ tags:
 
 # Band-tailed Pigeon <span className='sci_name'>Patagioenas fasciata</span>
 
-**Taxonomy:** [Columbiformes](/tags/columbiformes) > [Columbidae (Pigeons and Doves)](/tags/columbidae-pigeons-and-doves) > [Pigeons and Doves](/tags/pigeons-and-doves)
+## Overview
 
-**Subspecies Seen**: Band-tailed Pigeon (Northern)
-
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=batpig1) | [Map](/map?species_code=batpig1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The band-tailed pigeon (Patagioenas fasciata) is a pigeon native to the Americas, being the largest pigeon native to North America. They are a native species throughout the Southwestern United States and Mexico, extending south to Peru.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Band-tailed_pigeon
+
+### Taxonomy
+[Columbiformes](/tags/columbiformes) > [Columbidae (Pigeons and Doves)](/tags/columbidae-pigeons-and-doves) > [Pigeons and Doves](/tags/pigeons-and-doves)
+
+**Subspecies Seen**: Band-tailed Pigeon (Northern)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=batpig1) | [Map](/map?species_code=batpig1)
+
+### Relevant Sightings
+
+* [05-19-2024 - California, United States](https://ebird.org/checklist/S177365407) (First Sighting)
+* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

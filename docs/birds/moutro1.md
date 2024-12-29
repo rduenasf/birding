@@ -17,21 +17,31 @@ tags:
 
 # Mountain Trogon <span className='sci_name'>Trogon mexicanus</span>
 
-**Taxonomy:** [Trogoniformes](/tags/trogoniformes) > [Trogonidae (Trogons)](/tags/trogonidae-trogons) > [Trogons and Quetzals](/tags/trogons-and-quetzals)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=moutro1) | [Map](/map?species_code=moutro1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Morelos, Mexico
-
-## Description
+### Description
 The mountain trogon (Trogon mexicanus), also known as the Mexican trogon, is a species of bird in the family Trogonidae. First described by William John Swainson in 1827, it is resident in Guatemala, Honduras, and Mexico and has occurred in El Salvador as a vagrant. Like all trogons, the mountain trogon is sexually dimorphic. The male is metallic green on the crown, nape, upperparts and chest, the latter separated from its bright red belly and vent by a narrow band of white. The female is warm brown on the head, upperparts and chest, separated from its paler brown lower chest and red belly and vent by a narrow white band.
 Its natural habitat is subtropical and tropical moist montane forests. It prefers pine-evergreen and pine-oak woodland between 3,000 and 10,000 ft (914 and 3,048 m) in elevation. Unlike some rarer trogons, this species shows some adaptability to human land use and has utilized coffee plantations with suitable shade trees like oaks.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Mountain_trogon
+
+### Taxonomy
+[Trogoniformes](/tags/trogoniformes) > [Trogonidae (Trogons)](/tags/trogonidae-trogons) > [Trogons and Quetzals](/tags/trogons-and-quetzals)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=moutro1) | [Map](/map?species_code=moutro1)
+
+### Relevant Sightings
+
+* [2024-05-03T18:18:00.000Z - Morelos, Mexico](https://ebird.org/checklist/S171768271) (Only Sighting)
+
+### Places Seen
+
+* Morelos, Mexico
+
+
 
 ## Media
 ### Photographs

@@ -17,20 +17,30 @@ tags:
 
 # Black-headed Siskin <span className='sci_name'>Spinus notatus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Fringillidae (Finches, Euphonias, and Allies)](/tags/fringillidae-finches-euphonias-and-allies) > [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blhsis1) | [Map](/map?species_code=blhsis1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Morelos, Mexico
-
-## Description
+### Description
 The black-headed siskin (Spinus notatus) is a species of finch in the family Fringillidae. It is found in Mexico, Belize, El Salvador, Guatemala, Honduras, and Nicaragua. Its natural habitats are subtropical or tropical moist montane forest and heavily degraded former forest.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Black-headed_siskin
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Fringillidae (Finches, Euphonias, and Allies)](/tags/fringillidae-finches-euphonias-and-allies) > [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blhsis1) | [Map](/map?species_code=blhsis1)
+
+### Relevant Sightings
+
+* [2024-05-03T16:54:00.000Z - Morelos, Mexico](https://ebird.org/checklist/S171768259) (Only Sighting)
+
+### Places Seen
+
+* Morelos, Mexico
+
+
 
 ## Media
 ### Photographs

@@ -17,20 +17,31 @@ tags:
 
 # Peruvian Pelican <span className='sci_name'>Pelecanus thagus</span>
 
-**Taxonomy:** [Pelecaniformes](/tags/pelecaniformes) > [Pelecanidae (Pelicans)](/tags/pelecanidae-pelicans) > [Pelicans](/tags/pelicans)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=perpel1) | [Map](/map?species_code=perpel1)
-
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=perpel1&mediaType=photo&view=grid) | No Recording
-
-## Places Seen
-
-* Valparaíso, Chile
-
-## Description
+### Description
 The Peruvian pelican (Pelecanus thagus) is a member of the pelican family. It lives on the west coast of South America, breeding in loose colonies from about 33.5 degrees south in central Chile to Piura in northern Peru, and occurring as a visitor in southern Chile and Ecuador. It used to be considered a subspecies of the brown pelican.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Peruvian_pelican
+
+### Taxonomy
+[Pelecaniformes](/tags/pelecaniformes) > [Pelecanidae (Pelicans)](/tags/pelecanidae-pelicans) > [Pelicans](/tags/pelicans)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=perpel1) | [Map](/map?species_code=perpel1)
+
+### Relevant Sightings
+
+* [11-24-2012 - Valparaíso, Chile](https://ebird.org/checklist/S206237045) (First Sighting / Only Photo)
+* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994214) (Last Sighting)
+
+### Places Seen
+
+* Valparaíso, Chile
+
+
 
 ## Media
 ### Photographs

@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Cardinalidae (Cardinals and Allies)"
 species_group: "Cardinals, Grosbeaks, and Allies"
 species_code: "sumtan"
-sidebar_position: 364
+sidebar_position: 365
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -17,20 +17,31 @@ tags:
 
 # Summer Tanager <span className='sci_name'>Piranga rubra</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Cardinalidae (Cardinals and Allies)](/tags/cardinalidae-cardinals-and-allies) > [Cardinals, Grosbeaks, and Allies](/tags/cardinals-grosbeaks-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sumtan) | [Map](/map?species_code=sumtan)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Arizona, United States
-
-## Description
+### Description
 The summer tanager (Piranga rubra) is a medium-sized American songbird. Formerly placed in the tanager family (Thraupidae), it and other members of its genus are now classified in the cardinal family (Cardinalidae). The species's plumage and vocalizations are similar to other members of the cardinal family.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Summer_tanager
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Cardinalidae (Cardinals and Allies)](/tags/cardinalidae-cardinals-and-allies) > [Cardinals, Grosbeaks, and Allies](/tags/cardinals-grosbeaks-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=sumtan) | [Map](/map?species_code=sumtan)
+
+### Relevant Sightings
+
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170587140) (First Sighting)
+* [04-28-2024 - Arizona, United States](https://ebird.org/checklist/S170824758) (Last Sighting)
+
+### Places Seen
+
+* Arizona, United States
+
+
 
 ## Media
 ### Photographs

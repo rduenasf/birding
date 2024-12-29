@@ -17,20 +17,31 @@ tags:
 
 # Moustached Turca <span className='sci_name'>Pteroptochos megapodius</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Rhinocryptidae (Tapaculos)](/tags/rhinocryptidae-tapaculos) > [Tapaculos](/tags/tapaculos)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=moutur1) | [Map](/map?species_code=moutur1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Región Metropolitana de Santiago, Chile
-
-## Description
+### Description
 The moustached turca (Pteroptochos megapodius) is a passerine bird which is endemic to Chile and belongs to the tapaculo family Rhinocryptidae. Common names of this species include "Turco" or "Turca". It is a terrestrial bird that burrows its nest on steep hillsides and uses flight for short distances. It is not threatened, yet it is unfortunately an understudied species of bird.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Moustached_turca
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Rhinocryptidae (Tapaculos)](/tags/rhinocryptidae-tapaculos) > [Tapaculos](/tags/tapaculos)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=moutur1) | [Map](/map?species_code=moutur1)
+
+### Relevant Sightings
+
+* [10-19-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199748080) (First Sighting)
+* [10-19-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524285) (Last Sighting)
+
+### Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
+
 
 ## Media
 ### Photographs

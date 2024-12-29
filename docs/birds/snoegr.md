@@ -5,7 +5,7 @@ order: "Pelecaniformes"
 family: "Ardeidae (Herons, Egrets, and Bitterns)"
 species_group: "Herons, Ibis, and Allies"
 species_code: "snoegr"
-sidebar_position: 346
+sidebar_position: 347
 sidebar_class_name: "has-photo "
 tags: 
   - Pelecaniformes
@@ -17,13 +17,29 @@ tags:
 
 # Snowy Egret <span className='sci_name'>Egretta thula</span>
 
-**Taxonomy:** [Pelecaniformes](/tags/pelecaniformes) > [Ardeidae (Herons, Egrets, and Bitterns)](/tags/ardeidae-herons-egrets-and-bitterns) > [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
+## Overview
+
+### Description
+The snowy egret (Egretta thula) is a small white heron. The genus name comes from Provençal French for the little egret, aigrette, which is a diminutive of aigron, 'heron'. The species name thula is the Araucano term for the black-necked swan, applied to this species in error by Chilean naturalist Juan Ignacio Molina in 1782.
+The snowy egret is the American counterpart to the very similar Old World little egret, which has become established in the Bahamas. At one time, the plumes of the snowy egret were in great demand as decorations for women's hats. They were hunted for these plumes and this reduced the population of the species to dangerously low levels. Now protected in the United States by law, under the Migratory Bird Treaty Act, this bird's population has rebounded.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Snowy_egret
+
+### Taxonomy
+[Pelecaniformes](/tags/pelecaniformes) > [Ardeidae (Herons, Egrets, and Bitterns)](/tags/ardeidae-herons-egrets-and-bitterns) > [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=snoegr) | [Map](/map?species_code=snoegr)
 
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=snoegr&mediaType=photo&view=grid) | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
+* [11-26-2023 - California, United States](https://ebird.org/checklist/S155251280) (Only Photo)
+* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Last Sighting)
+
+### Places Seen
 
 * California, United States
 * Ciudad de México, Mexico
@@ -31,11 +47,7 @@ tags:
 * Región Metropolitana de Santiago, Chile
 * Valparaíso, Chile
 
-## Description
-The snowy egret (Egretta thula) is a small white heron. The genus name comes from Provençal French for the little egret, aigrette, which is a diminutive of aigron, 'heron'. The species name thula is the Araucano term for the black-necked swan, applied to this species in error by Chilean naturalist Juan Ignacio Molina in 1782.
-The snowy egret is the American counterpart to the very similar Old World little egret, which has become established in the Bahamas. At one time, the plumes of the snowy egret were in great demand as decorations for women's hats. They were hunted for these plumes and this reduced the population of the species to dangerously low levels. Now protected in the United States by law, under the Migratory Bird Treaty Act, this bird's population has rebounded.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Snowy_egret
 
 ## Media
 ### Photographs

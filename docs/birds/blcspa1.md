@@ -17,20 +17,30 @@ tags:
 
 # Black-chested Sparrow <span className='sci_name'>Peucaea humeralis</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blcspa1) | [Map](/map?species_code=blcspa1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Morelos, Mexico
-
-## Description
+### Description
 The black-chested sparrow (Peucaea humeralis) is a species of bird in the family Passerellidae that is endemic to Mexico. Its natural habitats are subtropical or tropical dry shrubland and subtropical or tropical high-altitude shrubland.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Black-chested_sparrow
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blcspa1) | [Map](/map?species_code=blcspa1)
+
+### Relevant Sightings
+
+* [2024-05-03T14:20:00.000Z - Morelos, Mexico](https://ebird.org/checklist/S171768235) (Only Sighting)
+
+### Places Seen
+
+* Morelos, Mexico
+
+
 
 ## Media
 ### Photographs

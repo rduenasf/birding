@@ -17,20 +17,31 @@ tags:
 
 # American White Pelican <span className='sci_name'>Pelecanus erythrorhynchos</span>
 
-**Taxonomy:** [Pelecaniformes](/tags/pelecaniformes) > [Pelecanidae (Pelicans)](/tags/pelecanidae-pelicans) > [Pelicans](/tags/pelicans)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=amwpel) | [Map](/map?species_code=amwpel)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The American white pelican (Pelecanus erythrorhynchos) is a large aquatic soaring bird from the order Pelecaniformes. It breeds in interior North America, moving south and to the coasts, as far as Costa Rica, in winter.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/American_white_pelican
+
+### Taxonomy
+[Pelecaniformes](/tags/pelecaniformes) > [Pelecanidae (Pelicans)](/tags/pelecanidae-pelicans) > [Pelicans](/tags/pelicans)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=amwpel) | [Map](/map?species_code=amwpel)
+
+### Relevant Sightings
+
+* [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
+* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

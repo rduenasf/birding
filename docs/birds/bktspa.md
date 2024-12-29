@@ -17,21 +17,32 @@ tags:
 
 # Black-throated Sparrow <span className='sci_name'>Amphispiza bilineata</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bktspa) | [Map](/map?species_code=bktspa)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Arizona, United States
-
-## Description
+### Description
 The black-throated sparrow (Amphispiza bilineata) is a small New World sparrow primarily found in the southwestern United States and Mexico. It is the only member of the genus Amphispiza; the five-striped sparrow, formerly also classified in Amphispiza, is now thought to be in the monotypic genus Amphispizopsis.
 It is sometimes referred to as the desert sparrow, due to its preferred habitat of arid desert hillsides and scrub. This name usually refers to the desert sparrow of Africa and Asia.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Black-throated_sparrow
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bktspa) | [Map](/map?species_code=bktspa)
+
+### Relevant Sightings
+
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170652033) (First Sighting)
+* [04-28-2024 - Arizona, United States](https://ebird.org/checklist/S170824754) (Last Sighting)
+
+### Places Seen
+
+* Arizona, United States
+
+
 
 ## Media
 ### Photographs

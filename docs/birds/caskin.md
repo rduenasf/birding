@@ -17,21 +17,32 @@ tags:
 
 # Cassin's Kingbird <span className='sci_name'>Tyrannus vociferans</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+## Overview
+
+### Description
+Cassin's kingbird (Tyrannus vociferans) is a large tyrant flycatcher native to western North America. The name of this bird commemorates the American ornithologist John Cassin.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Cassin%27s_kingbird
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=caskin) | [Map](/map?species_code=caskin)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170587133) (First Sighting)
+* [05-03-2024 - Ciudad de México, Mexico](https://ebird.org/checklist/S171944260) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * Ciudad de México, Mexico
 
-## Description
-Cassin's kingbird (Tyrannus vociferans) is a large tyrant flycatcher native to western North America. The name of this bird commemorates the American ornithologist John Cassin.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Cassin%27s_kingbird
 
 ## Media
 ### Photographs

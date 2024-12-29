@@ -17,20 +17,30 @@ tags:
 
 # Common Ground Dove <span className='sci_name'>Columbina passerina</span>
 
-**Taxonomy:** [Columbiformes](/tags/columbiformes) > [Columbidae (Pigeons and Doves)](/tags/columbidae-pigeons-and-doves) > [Pigeons and Doves](/tags/pigeons-and-doves)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cogdov) | [Map](/map?species_code=cogdov)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Florida, United States
-
-## Description
+### Description
 The common ground dove (Columbina passerina) is a small bird that inhabits the southern United States, parts of Central America, the Caribbean and northern South America. It is considered to be the smallest dove that inhabits the United States. As its name suggests, the bird spends the majority of its time on the ground walking but still has the ability to fly.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Common_ground_dove
+
+### Taxonomy
+[Columbiformes](/tags/columbiformes) > [Columbidae (Pigeons and Doves)](/tags/columbidae-pigeons-and-doves) > [Pigeons and Doves](/tags/pigeons-and-doves)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cogdov) | [Map](/map?species_code=cogdov)
+
+### Relevant Sightings
+
+* [2024-07-06T02:00:00.000Z - Florida, United States](https://ebird.org/checklist/S185535945) (Only Sighting)
+
+### Places Seen
+
+* Florida, United States
+
+
 
 ## Media
 ### Photographs

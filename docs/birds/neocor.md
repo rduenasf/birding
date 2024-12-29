@@ -17,22 +17,33 @@ tags:
 
 # Neotropic Cormorant <span className='sci_name'>Nannopterum brasilianum</span>
 
-**Taxonomy:** [Suliformes](/tags/suliformes) > [Phalacrocoracidae (Cormorants and Shags)](/tags/phalacrocoracidae-cormorants-and-shags) > [Cormorants and Anhingas](/tags/cormorants-and-anhingas)
+## Overview
+
+### Description
+The neotropic cormorant or olivaceous cormorant (Nannopterum brasilianum) is a medium-sized cormorant found throughout the American tropics and subtropics, from the middle Rio Grande and the Gulf and Californian coasts of the United States south through Mexico and Central America to southern South America, where it is called by the indigenous name of biguá. It also breeds in the Bahamas, Cuba, and Trinidad. It can be found both on coasts (including some mangrove areas) and in inland waters. There are at least two subspecies: N. b. mexicanum from Nicaragua northwards and N. b. brasilianum further south. In Peru, the neotropic cormorant is used by the Uru people for fishing.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Neotropic_cormorant
+
+### Taxonomy
+[Suliformes](/tags/suliformes) > [Phalacrocoracidae (Cormorants and Shags)](/tags/phalacrocoracidae-cormorants-and-shags) > [Cormorants and Anhingas](/tags/cormorants-and-anhingas)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=neocor) | [Map](/map?species_code=neocor)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170652033) (First Sighting)
+* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994214) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * Región Metropolitana de Santiago, Chile
 * Valparaíso, Chile
 
-## Description
-The neotropic cormorant or olivaceous cormorant (Nannopterum brasilianum) is a medium-sized cormorant found throughout the American tropics and subtropics, from the middle Rio Grande and the Gulf and Californian coasts of the United States south through Mexico and Central America to southern South America, where it is called by the indigenous name of biguá. It also breeds in the Bahamas, Cuba, and Trinidad. It can be found both on coasts (including some mangrove areas) and in inland waters. There are at least two subspecies: N. b. mexicanum from Nicaragua northwards and N. b. brasilianum further south. In Peru, the neotropic cormorant is used by the Uru people for fishing.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Neotropic_cormorant
 
 ## Media
 ### Photographs

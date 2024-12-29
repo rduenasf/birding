@@ -17,21 +17,32 @@ tags:
 
 # Mourning Sierra Finch <span className='sci_name'>Rhopospina fruticeti</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Thraupidae (Tanagers and Allies)](/tags/thraupidae-tanagers-and-allies) > [Tanagers and Allies](/tags/tanagers-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mosfin1) | [Map](/map?species_code=mosfin1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Región Metropolitana de Santiago, Chile
-
-## Description
+### Description
 The mourning sierra finch (Rhopospina fruticeti) is a species of South American bird in the tanager family Thraupidae. It is the only member of the genus Rhopospina.
 It is found in Argentina, Bolivia, Chile and Peru. It is a vagrant to the Falkland Islands and Brazil. Its natural habitats are subtropical or tropical dry shrubland and subtropical or tropical high-altitude shrubland.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Mourning_sierra_finch
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Thraupidae (Tanagers and Allies)](/tags/thraupidae-tanagers-and-allies) > [Tanagers and Allies](/tags/tanagers-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mosfin1) | [Map](/map?species_code=mosfin1)
+
+### Relevant Sightings
+
+* [10-11-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398308) (First Sighting)
+* [10-19-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524209) (Last Sighting)
+
+### Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
+
 
 ## Media
 ### Photographs

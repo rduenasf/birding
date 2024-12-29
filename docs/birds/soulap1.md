@@ -5,7 +5,7 @@ order: "Charadriiformes"
 family: "Charadriidae (Plovers and Lapwings)"
 species_group: "Shorebirds"
 species_code: "soulap1"
-sidebar_position: 352
+sidebar_position: 353
 sidebar_class_name: "has-photo "
 tags: 
   - Charadriiformes
@@ -17,23 +17,34 @@ tags:
 
 # Southern Lapwing <span className='sci_name'>Vanellus chilensis</span>
 
-**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Charadriidae (Plovers and Lapwings)](/tags/charadriidae-plovers-and-lapwings) > [Shorebirds](/tags/shorebirds)
+## Overview
+
+### Description
+The southern lapwing (Vanellus chilensis), commonly called quero-quero in Brazil, or tero in Argentina and Uruguay, tero-tero in Paraguay, and queltehue in Chile is a wader in the order Charadriiformes. It is a common and widespread resident throughout South America, except in densely forested regions (e.g. most of the Amazon), the higher parts of the Andes, and the arid coast of a large part of western South America. This bird is particularly common in the basin of the Río de la Plata. It has also been spreading through Central America in recent years. It reached Trinidad in 1961, Tobago in 1974, and has rapidly increased on both islands, sporadically making its way North to Barbados where one pair mated, nested, and produced chicks in 2007. There have been sightings reported in North America with a verified sighting of a bird in Texas posted on Birda on the 17th April 2024.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Southern_lapwing
+
+### Taxonomy
+[Charadriiformes](/tags/charadriiformes) > [Charadriidae (Plovers and Lapwings)](/tags/charadriidae-plovers-and-lapwings) > [Shorebirds](/tags/shorebirds)
 
 **Subspecies Seen**: Southern Lapwing (chilensis/fretensis)
 
+
+## Sightings
+
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=soulap1) | [Map](/map?species_code=soulap1)
 
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=soulap1&mediaType=photo&view=grid) | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [09-10-2023 - Libertador General Bernardo O'Higgins, Chile](https://ebird.org/checklist/S160292246) (First Sighting / Only Photo)
+* [10-22-2024 - Libertador General Bernardo O'Higgins, Chile](https://ebird.org/checklist/S201166125) (Last Sighting)
+
+### Places Seen
 
 * Libertador General Bernardo O'Higgins, Chile
 * Región Metropolitana de Santiago, Chile
 
-## Description
-The southern lapwing (Vanellus chilensis), commonly called quero-quero in Brazil, or tero in Argentina and Uruguay, tero-tero in Paraguay, and queltehue in Chile is a wader in the order Charadriiformes. It is a common and widespread resident throughout South America, except in densely forested regions (e.g. most of the Amazon), the higher parts of the Andes, and the arid coast of a large part of western South America. This bird is particularly common in the basin of the Río de la Plata. It has also been spreading through Central America in recent years. It reached Trinidad in 1961, Tobago in 1974, and has rapidly increased on both islands, sporadically making its way North to Barbados where one pair mated, nested, and produced chicks in 2007. There have been sightings reported in North America with a verified sighting of a bird in Texas posted on Birda on the 17th April 2024.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Southern_lapwing
 
 ## Media
 ### Photographs

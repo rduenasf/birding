@@ -17,21 +17,31 @@ tags:
 
 # Rufous-capped Brushfinch <span className='sci_name'>Atlapetes pileatus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rcbfin1) | [Map](/map?species_code=rcbfin1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Ciudad de México, Mexico
-
-## Description
+### Description
 The rufous-capped brushfinch (Atlapetes pileatus) is a species of bird in the family Passerellidae. It is endemic to Mexico.
 Its natural habitats are subtropical or tropical moist montane forest and subtropical or tropical high-altitude shrubland.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Rufous-capped_brushfinch
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rcbfin1) | [Map](/map?species_code=rcbfin1)
+
+### Relevant Sightings
+
+* [2024-05-03T20:32:00.000Z - Ciudad de México, Mexico](https://ebird.org/checklist/S171944290) (Only Sighting)
+
+### Places Seen
+
+* Ciudad de México, Mexico
+
+
 
 ## Media
 ### Photographs

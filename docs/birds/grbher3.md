@@ -17,24 +17,37 @@ tags:
 
 # Great Blue Heron <span className='sci_name'>Ardea herodias</span>
 
-**Taxonomy:** [Pelecaniformes](/tags/pelecaniformes) > [Ardeidae (Herons, Egrets, and Bitterns)](/tags/ardeidae-herons-egrets-and-bitterns) > [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
+## Overview
+
+### Description
+The great blue heron (Ardea herodias) is a large wading bird in the heron family Ardeidae, common near the shores of open water and in wetlands over most of North and Central America, as well as far northwestern South America, the Caribbean and the Galápagos Islands. It is occasionally found in the Azores and is a rare vagrant to Europe. An all-white population found in south Florida and the Florida Keys is known as the great white heron. Debate exists about whether these white birds are a color morph of the great blue heron, a subspecies of it, or an entirely separate species.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Great_blue_heron
+
+### Taxonomy
+[Pelecaniformes](/tags/pelecaniformes) > [Ardeidae (Herons, Egrets, and Bitterns)](/tags/ardeidae-herons-egrets-and-bitterns) > [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
 
 **Subspecies Seen**: Great Blue Heron (Great Blue)
 
+
+## Sightings
+
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grbher3) | [Map](/map?species_code=grbher3)
 
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=grbher3&mediaType=photo&view=grid) | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [03-22-2023 - California, United States](https://ebird.org/checklist/S206227433) (First Sighting)
+* [05-18-2024 - California, United States](https://ebird.org/checklist/S175378784) (First Photo)
+* [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (Best Photo)
+* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * California, United States
 * Washington, United States
 
-## Description
-The great blue heron (Ardea herodias) is a large wading bird in the heron family Ardeidae, common near the shores of open water and in wetlands over most of North and Central America, as well as far northwestern South America, the Caribbean and the Galápagos Islands. It is occasionally found in the Azores and is a rare vagrant to Europe. An all-white population found in south Florida and the Florida Keys is known as the great white heron. Debate exists about whether these white birds are a color morph of the great blue heron, a subspecies of it, or an entirely separate species.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Great_blue_heron
 
 ## Media
 ### Photographs

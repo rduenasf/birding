@@ -17,20 +17,30 @@ tags:
 
 # Black-backed Oriole <span className='sci_name'>Icterus abeillei</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blbori1) | [Map](/map?species_code=blbori1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Ciudad de México, Mexico
-
-## Description
+### Description
 The black-backed oriole (Icterus abeillei) is a species of bird in the family Icteridae.  It is endemic to Mexico.  Its natural habitats are subtropical or tropical moist lowland forest and subtropical or tropical moist montane forest, but it is also found in cities. It is one of the few species that can consume monarch butterflies due to evolving a tolerance to their natural poison.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Black-backed_oriole
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blbori1) | [Map](/map?species_code=blbori1)
+
+### Relevant Sightings
+
+* [2024-05-04T00:44:00.000Z - Ciudad de México, Mexico](https://ebird.org/checklist/S171944278) (Only Sighting)
+
+### Places Seen
+
+* Ciudad de México, Mexico
+
+
 
 ## Media
 ### Photographs

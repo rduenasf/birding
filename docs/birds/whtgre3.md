@@ -5,7 +5,7 @@ order: "Podicipediformes"
 family: "Podicipedidae (Grebes)"
 species_group: "Grebes"
 species_code: "whtgre3"
-sidebar_position: 415
+sidebar_position: 416
 sidebar_class_name: " "
 tags: 
   - Podicipediformes
@@ -17,21 +17,32 @@ tags:
 
 # White-tufted Grebe <span className='sci_name'>Rollandia rolland</span>
 
-**Taxonomy:** [Podicipediformes](/tags/podicipediformes) > [Podicipedidae (Grebes)](/tags/podicipedidae-grebes) > [Grebes](/tags/grebes)
+## Overview
+
+### Description
+The white-tufted grebe (Rollandia rolland), also known as Rolland's grebe, is a species of grebe in the family Podicipedidae. Found in the southern and western South America, its natural habitat is freshwater lakes, ponds and sluggish rivers and streams.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/White-tufted_grebe
+
+### Taxonomy
+[Podicipediformes](/tags/podicipediformes) > [Podicipedidae (Grebes)](/tags/podicipedidae-grebes) > [Grebes](/tags/grebes)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whtgre3) | [Map](/map?species_code=whtgre3)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [10-11-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398422) (First Sighting)
+* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994241) (Last Sighting)
+
+### Places Seen
 
 * Región Metropolitana de Santiago, Chile
 * Valparaíso, Chile
 
-## Description
-The white-tufted grebe (Rollandia rolland), also known as Rolland's grebe, is a species of grebe in the family Podicipedidae. Found in the southern and western South America, its natural habitat is freshwater lakes, ponds and sluggish rivers and streams.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/White-tufted_grebe
 
 ## Media
 ### Photographs

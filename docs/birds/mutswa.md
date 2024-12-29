@@ -17,20 +17,31 @@ tags:
 
 # Mute Swan <span className='sci_name'>Cygnus olor</span>
 
-**Taxonomy:** [Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mutswa) | [Map](/map?species_code=mutswa)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Ontario, Canada
-
-## Description
+### Description
 The mute swan (Cygnus olor) is a species of swan and a member of the waterfowl family Anatidae. It is native to much of Eurasia, and (as a rare winter visitor) the far north of Africa. It is an introduced species in North America, home to the largest populations outside of its native range, with additional smaller introductions in Australasia and southern Africa. The name "mute" derives from it being less vocal than other swan species. Measuring 125 to 160 cm (49 to 63 in) in length, this large swan is wholly white in plumage with an orange beak bordered with black. It is recognisable by its pronounced knob atop the beak, which is larger in males.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Mute_swan
+
+### Taxonomy
+[Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=mutswa) | [Map](/map?species_code=mutswa)
+
+### Relevant Sightings
+
+* [04-10-2024 - Ontario, Canada](https://ebird.org/checklist/S167992532) (First Sighting)
+* [04-13-2024 - Ontario, Canada](https://ebird.org/checklist/S168448531) (Last Sighting)
+
+### Places Seen
+
+* Ontario, Canada
+
+
 
 ## Media
 ### Photographs

@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
 species_group: "New World Sparrows"
 species_code: "whcspa"
-sidebar_position: 405
+sidebar_position: 406
 sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
@@ -17,23 +17,35 @@ tags:
 
 # White-crowned Sparrow <span className='sci_name'>Zonotrichia leucophrys</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+## Overview
+
+### Description
+The white-crowned sparrow (Zonotrichia leucophrys) is a species of passerine bird native to North America. A medium-sized member of the New World sparrow family, this species is marked by a grey face and black and white streaking on the upper head. It breeds in brushy areas in the taiga and tundra of the northernmost parts of the continent and in the Rocky Mountains and Pacific coast. While southerly populations in the Rocky Mountains and coast are largely resident, the breeding populations of the northerly part of its range are migratory and can be found as wintering or passage visitors through most of North America south to central Mexico.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/White-crowned_sparrow
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
 
 **Subspecies Seen**: White-crowned Sparrow (nuttalli)
 
+
+## Sightings
+
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=whcspa) | [Map](/map?species_code=whcspa)
 
-**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=whcspa&mediaType=audio&view=grid)
+### Relevant Sightings
 
-## Places Seen
+* [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
+* [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (First/Best Recording)
+* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * California, United States
 
-## Description
-The white-crowned sparrow (Zonotrichia leucophrys) is a species of passerine bird native to North America. A medium-sized member of the New World sparrow family, this species is marked by a grey face and black and white streaking on the upper head. It breeds in brushy areas in the taiga and tundra of the northernmost parts of the continent and in the Rocky Mountains and Pacific coast. While southerly populations in the Rocky Mountains and coast are largely resident, the breeding populations of the northerly part of its range are migratory and can be found as wintering or passage visitors through most of North America south to central Mexico.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/White-crowned_sparrow
 
 ## Media
 ### Photographs

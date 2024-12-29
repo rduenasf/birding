@@ -5,7 +5,7 @@ order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
 species_group: "Vultures, Hawks, and Allies"
 species_code: "rebhaw2"
-sidebar_position: 378
+sidebar_position: 379
 sidebar_class_name: " "
 tags: 
   - Accipitriformes
@@ -17,21 +17,32 @@ tags:
 
 # Variable Hawk <span className='sci_name'>Geranoaetus polyosoma</span>
 
-**Taxonomy:** [Accipitriformes](/tags/accipitriformes) > [Accipitridae (Hawks, Eagles, and Kites)](/tags/accipitridae-hawks-eagles-and-kites) > [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rebhaw2) | [Map](/map?species_code=rebhaw2)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Región Metropolitana de Santiago, Chile
-
-## Description
+### Description
 The variable hawk (Geranoaetus polyosoma) is a polymorphic species of bird of prey in the family Accipitridae.
 It is widespread and often common in open habitats in western and southern South America, including the Falkland Islands. Its taxonomy is disputed, with some splitting it into the widespread red-backed hawk (G. polyosoma) and the Puna hawk or Gurney's hawk (G. poecilochrous) of the central and north Andean highlands, but the differences between the two are unclear. Most recent authorities have supported the lumping together of the two hawks although the issue still is controversial. On the contrary, the rare taxon from the Juan Fernández Islands is relatively distinctive, and possibly worthy of species recognition as the Juan Fernández hawk (B. exsul). In this article and most current accounts, the three races are regarded as subspecies.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Variable_hawk
+
+### Taxonomy
+[Accipitriformes](/tags/accipitriformes) > [Accipitridae (Hawks, Eagles, and Kites)](/tags/accipitridae-hawks-eagles-and-kites) > [Vultures, Hawks, and Allies](/tags/vultures-hawks-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rebhaw2) | [Map](/map?species_code=rebhaw2)
+
+### Relevant Sightings
+
+* [10-19-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524251) (First Sighting)
+* [10-19-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524270) (Last Sighting)
+
+### Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
+
 
 ## Media
 ### Photographs

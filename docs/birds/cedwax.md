@@ -17,22 +17,33 @@ tags:
 
 # Cedar Waxwing <span className='sci_name'>Bombycilla cedrorum</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Bombycillidae (Waxwings)](/tags/bombycillidae-waxwings) > [Waxwings](/tags/waxwings)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cedwax) | [Map](/map?species_code=cedwax)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-* Washington, United States
-
-## Description
+### Description
 The cedar waxwing (Bombycilla cedrorum) is a member of the family Bombycillidae or waxwing family of passerine birds. It is a medium-sized bird that is mainly brown, gray, and yellow. Some of the wing feathers have red tips, the resemblance of which to sealing wax gives these birds their common name. It is a native of North and Central America, breeding in open wooded areas in southern Canada and wintering in the southern half of the United States, Central America, and the far northwest of South America. Its diet includes cedar cones, fruit, holly berries, and insects. The cedar waxwing is listed as least concern on the IUCN Red List.
 The genus name Bombycilla comes from the Ancient Greek bombux, "silk" and the Modern Latin cilla, "tail"; this is a direct translation of the German Seidenschwanz, "silk-tail", and refers to the silky-soft plumage of these birds. The specific cedrorum is Latin for "of the cedars".[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Cedar_waxwing
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Bombycillidae (Waxwings)](/tags/bombycillidae-waxwings) > [Waxwings](/tags/waxwings)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cedwax) | [Map](/map?species_code=cedwax)
+
+### Relevant Sightings
+
+* [01-20-2024 - California, United States](https://ebird.org/checklist/S159359046) (First Sighting)
+* [09-15-2024 - Washington, United States](https://ebird.org/checklist/S195264549) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+* Washington, United States
+
+
 
 ## Media
 ### Photographs

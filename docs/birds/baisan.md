@@ -17,20 +17,30 @@ tags:
 
 # Baird's Sandpiper <span className='sci_name'>Calidris bairdii</span>
 
-**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=baisan) | [Map](/map?species_code=baisan)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 Baird's sandpiper (Calidris bairdii) is a small shorebird. It is among those calidrids which were formerly included in the genus Erolia, which was subsumed into the genus Calidris in 1973. The genus name is from Ancient Greek kalidris or skalidris, a term used by Aristotle for some grey-coloured waterside birds. The English name and specific bairdii commemorate Spencer Fullerton Baird, 19th-century naturalist and assistant secretary of the Smithsonian Institution.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Baird%27s_sandpiper
+
+### Taxonomy
+[Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=baisan) | [Map](/map?species_code=baisan)
+
+### Relevant Sightings
+
+* [2024-08-04T14:50:00.000Z - California, United States](https://ebird.org/checklist/S190211534) (Only Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

@@ -17,25 +17,37 @@ tags:
 
 # Brown Pelican <span className='sci_name'>Pelecanus occidentalis</span>
 
-**Taxonomy:** [Pelecaniformes](/tags/pelecaniformes) > [Pelecanidae (Pelicans)](/tags/pelecanidae-pelicans) > [Pelicans](/tags/pelicans)
+## Overview
 
-**Subspecies Seen**: Brown Pelican (California)
-
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=brnpel) | [Map](/map?species_code=brnpel)
-
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=brnpel&mediaType=photo&view=grid) | No Recording
-
-## Places Seen
-
-* California, United States
-* Florida, United States
-
-## Description
+### Description
 The brown pelican (Pelecanus occidentalis) is a bird of the pelican family, Pelecanidae, one of three species found in the Americas and one of two that feed by diving into water. It is found on the Atlantic Coast from New Jersey to the mouth of the Amazon River, and along the Pacific Coast from British Columbia to Peru, including the Galapagos Islands. The nominate subspecies in its breeding plumage has a white head with a yellowish wash on the crown. The nape and neck are dark maroon–brown. The upper sides of the neck have white lines along the base of the gular pouch, and the lower fore neck has a pale yellowish patch. The male and female are similar, but the female is slightly smaller. The nonbreeding adult has a white head and neck. The pink skin around the eyes becomes dull and gray in the nonbreeding season. It lacks any red hue, and the pouch is strongly olivaceous ochre-tinged and the legs are olivaceous gray to blackish-gray.
 The brown pelican mainly feeds on fish, but occasionally eats amphibians, crustaceans, and the eggs and nestlings of birds. It nests in colonies in secluded areas, often on islands, vegetated land among sand dunes, thickets of shrubs and trees, and mangroves. Females lay two or three oval, chalky white eggs. Incubation takes 28 to 30 days with both sexes sharing duties. The newly hatched chicks are pink, turning gray or black within 4 to 14 days. About 63 days are needed for chicks to fledge. Six to 9 weeks after hatching, the juveniles leave the nest, and gather into small groups known as pods.
 The brown pelican is the national bird of Saint Martin, Barbados, Saint Kitts and Nevis, and the Turks and Caicos Islands, and the official state bird of Louisiana, appearing on the flag, seal, or coat of arms of each. It has been rated as a species of least concern by the International Union for Conservation of Nature. It was listed under the United States Endangered Species Act from 1970 to 2009, as pesticides such as dieldrin and DDT threatened its future in the Southeastern United States and California. In 1972, the use of DDT was banned in Florida, followed by the rest of the United States. Since then, the brown pelican's population has increased. In 1903, Theodore Roosevelt set aside the first National Wildlife Refuge, Florida's Pelican Island, to protect the species from hunters.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Brown_pelican
+
+### Taxonomy
+[Pelecaniformes](/tags/pelecaniformes) > [Pelecanidae (Pelicans)](/tags/pelecanidae-pelicans) > [Pelicans](/tags/pelicans)
+
+**Subspecies Seen**: Brown Pelican (California)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=brnpel) | [Map](/map?species_code=brnpel)
+
+### Relevant Sightings
+
+* [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
+* [04-20-2024 - California, United States](https://ebird.org/checklist/S169552328) (First/Best Photo)
+* [11-02-2024 - California, United States](https://ebird.org/checklist/S201158119) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+* Florida, United States
+
+
 
 ## Media
 ### Photographs

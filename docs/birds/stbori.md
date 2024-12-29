@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
 species_group: "Blackbirds"
 species_code: "stbori"
-sidebar_position: 358
+sidebar_position: 359
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -17,20 +17,30 @@ tags:
 
 # Streak-backed Oriole <span className='sci_name'>Icterus pustulatus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=stbori) | [Map](/map?species_code=stbori)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Morelos, Mexico
-
-## Description
+### Description
 The streak-backed oriole (Icterus pustulatus) is a medium-sized species of passerine bird from the icterid family (the same family as many blackbirds, meadowlarks, cowbirds, grackles, and others, including the New World orioles). It is native to Central America and Mexico and is an occasional visitor to the United States.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Streak-backed_oriole
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Icteridae (Troupials and Allies)](/tags/icteridae-troupials-and-allies) > [Blackbirds](/tags/blackbirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=stbori) | [Map](/map?species_code=stbori)
+
+### Relevant Sightings
+
+* [2024-05-03T14:20:00.000Z - Morelos, Mexico](https://ebird.org/checklist/S171768235) (Only Sighting)
+
+### Places Seen
+
+* Morelos, Mexico
+
+
 
 ## Media
 ### Photographs

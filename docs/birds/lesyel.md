@@ -17,20 +17,30 @@ tags:
 
 # Lesser Yellowlegs <span className='sci_name'>Tringa flavipes</span>
 
-**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=lesyel) | [Map](/map?species_code=lesyel)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The lesser yellowlegs (Tringa flavipes) is a medium-sized shorebird. It breeds in the boreal forest region of North America.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Lesser_yellowlegs
+
+### Taxonomy
+[Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=lesyel) | [Map](/map?species_code=lesyel)
+
+### Relevant Sightings
+
+* [2024-07-20T15:55:00.000Z - California, United States](https://ebird.org/checklist/S190446672) (Only Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

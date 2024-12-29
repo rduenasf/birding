@@ -17,21 +17,32 @@ tags:
 
 # California Gull <span className='sci_name'>Larus californicus</span>
 
-**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers) > [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
+## Overview
+
+### Description
+The California gull (Larus californicus) is a medium-sized gull, smaller on average than the herring gull, but larger on average than the ring-billed gull (though it may overlap in size with both). Although named after California, it can be found annually across most of western North America, from the Canadian prairie provinces in the northeast and south through western Mexico.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/California_gull
+
+### Taxonomy
+[Charadriiformes](/tags/charadriiformes) > [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers) > [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=calgul) | [Map](/map?species_code=calgul)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
+* [11-02-2024 - California, United States](https://ebird.org/checklist/S201158119) (Last Sighting)
+
+### Places Seen
 
 * California, United States
 * Washington, United States
 
-## Description
-The California gull (Larus californicus) is a medium-sized gull, smaller on average than the herring gull, but larger on average than the ring-billed gull (though it may overlap in size with both). Although named after California, it can be found annually across most of western North America, from the Canadian prairie provinces in the northeast and south through western Mexico.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/California_gull
 
 ## Media
 ### Photographs

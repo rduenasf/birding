@@ -17,17 +17,9 @@ tags:
 
 # Buff-breasted Flycatcher <span className='sci_name'>Empidonax fulvifrons</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bubfly) | [Map](/map?species_code=bubfly)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Ciudad de México, Mexico
-
-## Description
+### Description
 The buff-breasted flycatcher (Empidonax fulvifrons) is a small insectivorous bird. It is the smallest Empidonax flycatcher, typically ranging from 11.5 to 13 cm (4.5 to 5 in) in size.
 Adults have olive gray upper bodies, darker coloration on the wings and tail, conspicuous white eye rings, white wing bars, small bills, and short tails. The breast of this species is distinctive, washed with a strong orange-buff color.
 Their preferred breeding habitat is scrub and open woodlands.   They usually make a cup nest in the forks of trees.  Females usually lay two eggs at a time.
@@ -37,6 +29,24 @@ To feed, they often wait on an open perch of a shrub or low branch of a tree and
 The song is an alternating versed  PIdew, piDEW.  The call is a loud dry pit.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Buff-breasted_flycatcher
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bubfly) | [Map](/map?species_code=bubfly)
+
+### Relevant Sightings
+
+* [2024-05-03T21:50:00.000Z - Ciudad de México, Mexico](https://ebird.org/checklist/S171944247) (Only Sighting)
+
+### Places Seen
+
+* Ciudad de México, Mexico
+
+
 
 ## Media
 ### Photographs

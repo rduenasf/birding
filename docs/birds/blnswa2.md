@@ -17,20 +17,30 @@ tags:
 
 # Black-necked Swan <span className='sci_name'>Cygnus melancoryphus</span>
 
-**Taxonomy:** [Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blnswa2) | [Map](/map?species_code=blnswa2)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Región Metropolitana de Santiago, Chile
-
-## Description
+### Description
 The black-necked swan (Cygnus melancoryphus) is a species of waterfowl in the tribe Cygnini of the subfamily Anserinae. It is found in Argentina, Brazil, Chile, Uruguay, and the Falkland Islands.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Black-necked_swan
+
+### Taxonomy
+[Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blnswa2) | [Map](/map?species_code=blnswa2)
+
+### Relevant Sightings
+
+* [2024-10-11T17:44:00.000Z - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398422) (Only Sighting)
+
+### Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
+
 
 ## Media
 ### Photographs

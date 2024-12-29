@@ -17,21 +17,31 @@ tags:
 
 # Common Myna <span className='sci_name'>Acridotheres tristis</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Sturnidae (Starlings)](/tags/sturnidae-starlings) > [Starlings and Mynas](/tags/starlings-and-mynas)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=commyn) | [Map](/map?species_code=commyn)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Florida, United States
-
-## Description
+### Description
 The common myna or Indian myna (Acridotheres tristis), sometimes spelled mynah, is a bird in the family Sturnidae, native to Asia. An omnivorous open woodland bird with a strong territorial instinct, the common myna has adapted extremely well to urban environments.
 The range of the common myna is increasing at such a rapid rate that in 2000 the IUCN Species Survival Commission declared it one of the world's most invasive species and one of only three birds listed among "100 of the World's Worst Invasive Species" that pose a threat to biodiversity, agriculture and human interests. In particular, the species poses a serious threat to the ecosystems of Australia, where it was named "The Most Important Pest/Problem" in 2008.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Common_myna
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Sturnidae (Starlings)](/tags/sturnidae-starlings) > [Starlings and Mynas](/tags/starlings-and-mynas)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=commyn) | [Map](/map?species_code=commyn)
+
+### Relevant Sightings
+
+* [2024-07-06T17:32:00.000Z - Florida, United States](https://ebird.org/checklist/S185633517) (Only Sighting)
+
+### Places Seen
+
+* Florida, United States
+
+
 
 ## Media
 ### Photographs

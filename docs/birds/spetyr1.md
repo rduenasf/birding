@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "spetyr1"
-sidebar_position: 353
+sidebar_position: 354
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -17,21 +17,32 @@ tags:
 
 # Spectacled Tyrant <span className='sci_name'>Hymenops perspicillatus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=spetyr1) | [Map](/map?species_code=spetyr1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Valparaíso, Chile
-
-## Description
+### Description
 The spectacled tyrant (Hymenops perspicillatus) is a species of bird in the tyrant flycatcher family Tyrannidae. It is the only species placed in the genus Hymenops.
 It is found in Chile, Argentina and Uruguay; it is a vagrant to Bolivia, Paraguay and south-eastern Brazil, once even in far north-eastern Brazil. Its natural habitats are subtropical or tropical dry shrubland and swamps.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Spectacled_tyrant
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=spetyr1) | [Map](/map?species_code=spetyr1)
+
+### Relevant Sightings
+
+* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994043) (First Sighting)
+* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994241) (Last Sighting)
+
+### Places Seen
+
+* Valparaíso, Chile
+
+
 
 ## Media
 ### Photographs

@@ -17,20 +17,30 @@ tags:
 
 # Sierra Madre Sparrow <span className='sci_name'>Xenospiza baileyi</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=simspa1) | [Map](/map?species_code=simspa1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Ciudad de México, Mexico
-
-## Description
+### Description
 The Sierra Madre sparrow (Xenospiza baileyi), also known as Bailey's sparrow, is an endangered, range-restricted, enigmatic American sparrow.  It is endemic to Mexico and is threatened with extinction through habitat loss.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Sierra_Madre_sparrow
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=simspa1) | [Map](/map?species_code=simspa1)
+
+### Relevant Sightings
+
+* [2024-05-03T20:32:00.000Z - Ciudad de México, Mexico](https://ebird.org/checklist/S171944290) (Only Sighting)
+
+### Places Seen
+
+* Ciudad de México, Mexico
+
+
 
 ## Media
 ### Photographs

@@ -17,20 +17,30 @@ tags:
 
 # Arizona Woodpecker <span className='sci_name'>Dryobates arizonae</span>
 
-**Taxonomy:** [Piciformes](/tags/piciformes) > [Picidae (Woodpeckers)](/tags/picidae-woodpeckers) > [Woodpeckers](/tags/woodpeckers)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ariwoo) | [Map](/map?species_code=ariwoo)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Arizona, United States
-
-## Description
+### Description
 The Arizona woodpecker (Leuconotopicus arizonae) is a woodpecker native to southern Arizona and New Mexico and the Sierra Madre Occidental of western Mexico. The species' northernmost range in southeastern Arizona, extreme southwestern New Mexico, and northern Sonora is the region of the Madrean Sky Islands, a region of higher Sonoran Desert mountain ranges.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Arizona_woodpecker
+
+### Taxonomy
+[Piciformes](/tags/piciformes) > [Picidae (Woodpeckers)](/tags/picidae-woodpeckers) > [Woodpeckers](/tags/woodpeckers)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=ariwoo) | [Map](/map?species_code=ariwoo)
+
+### Relevant Sightings
+
+* [2024-04-27T17:40:00.000Z - Arizona, United States](https://ebird.org/checklist/S170587152) (Only Sighting)
+
+### Places Seen
+
+* Arizona, United States
+
+
 
 ## Media
 ### Photographs

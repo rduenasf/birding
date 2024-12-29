@@ -17,22 +17,33 @@ tags:
 
 # Ash-throated Flycatcher <span className='sci_name'>Myiarchus cinerascens</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+## Overview
+
+### Description
+The ash-throated flycatcher (Myiarchus cinerascens) is a passerine bird in the tyrant flycatcher family.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Ash-throated_flycatcher
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Pewees, Kingbirds, and Allies](/tags/tyrant-flycatchers-pewees-kingbirds-and-allies)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=astfly) | [Map](/map?species_code=astfly)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170587140) (First Sighting)
+* [05-19-2024 - California, United States](https://ebird.org/checklist/S177365407) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * California, United States
 * Morelos, Mexico
 
-## Description
-The ash-throated flycatcher (Myiarchus cinerascens) is a passerine bird in the tyrant flycatcher family.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Ash-throated_flycatcher
 
 ## Media
 ### Photographs

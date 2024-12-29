@@ -17,22 +17,34 @@ tags:
 
 # Cinnamon Teal <span className='sci_name'>Spatula cyanoptera</span>
 
-**Taxonomy:** [Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+## Overview
+
+### Description
+The cinnamon teal (Spatula cyanoptera) is a species of duck found in western North and South America. It is a small dabbling duck, with bright reddish plumage on the male and duller brown plumage on the female. It lives in marshes and ponds, and feeds mostly on plants.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Cinnamon_teal
+
+### Taxonomy
+[Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cintea) | [Map](/map?species_code=cintea)
 
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=cintea&mediaType=photo&view=grid) | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
+* [10-11-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398135) (Only Photo)
+* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+
+### Places Seen
 
 * California, United States
 * Región Metropolitana de Santiago, Chile
 * Valparaíso, Chile
 
-## Description
-The cinnamon teal (Spatula cyanoptera) is a species of duck found in western North and South America. It is a small dabbling duck, with bright reddish plumage on the male and duller brown plumage on the female. It lives in marshes and ponds, and feeds mostly on plants.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Cinnamon_teal
 
 ## Media
 ### Photographs

@@ -17,20 +17,33 @@ tags:
 
 # California Scrub-Jay <span className='sci_name'>Aphelocoma californica</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Corvidae (Crows, Jays, and Magpies)](/tags/corvidae-crows-jays-and-magpies) > [Jays, Magpies, Crows, and Ravens](/tags/jays-magpies-crows-and-ravens)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cowscj1) | [Map](/map?species_code=cowscj1)
-
-**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=cowscj1&mediaType=audio&view=grid)
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The California scrub jay (Aphelocoma californica) is a species of scrub jay native to western North America. It ranges from southern British Columbia throughout California and western Nevada near Reno to west of the Sierra Nevada.  The California scrub jay was once lumped with Woodhouse's scrub jay and collectively called the western scrub jay. The group was also lumped with the island scrub jay and the Florida scrub jay; the taxon was then called simply scrub jay. The California scrub jay is nonmigratory and can be found in urban areas, where it can become tame and will come to bird feeders. While many refer to scrub jays as "blue jays", the blue jay is a different species of bird entirely.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/California_scrub_jay
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Corvidae (Crows, Jays, and Magpies)](/tags/corvidae-crows-jays-and-magpies) > [Jays, Magpies, Crows, and Ravens](/tags/jays-magpies-crows-and-ravens)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=cowscj1) | [Map](/map?species_code=cowscj1)
+
+### Relevant Sightings
+
+* [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
+* [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (First Recording)
+* [11-17-2024 - California, United States](https://ebird.org/checklist/S202811385) (Best Recording)
+* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

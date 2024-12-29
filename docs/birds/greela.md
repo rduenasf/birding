@@ -17,22 +17,33 @@ tags:
 
 # Greenish Elaenia <span className='sci_name'>Myiopagis viridicata</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Elaenias, Tyrannulets, and Allies](/tags/tyrant-flycatchers-elaenias-tyrannulets-and-allies)
+## Overview
 
-**Subspecies Seen**: Greenish Elaenia (West Mexico)
-
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=greela) | [Map](/map?species_code=greela)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Morelos, Mexico
-
-## Description
+### Description
 The greenish elaenia (Myiopagis viridicata) is a species of bird in subfamily Elaeniinae of family Tyrannidae, the tyrant flycatchers. It is found in Mexico, every Central American country, and every mainland South American country except Chile and French Guiana. It has also occurred as a vagrant in southern Texas.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Greenish_elaenia
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Tyrannidae (Tyrant Flycatchers)](/tags/tyrannidae-tyrant-flycatchers) > [Tyrant Flycatchers: Elaenias, Tyrannulets, and Allies](/tags/tyrant-flycatchers-elaenias-tyrannulets-and-allies)
+
+**Subspecies Seen**: Greenish Elaenia (West Mexico)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=greela) | [Map](/map?species_code=greela)
+
+### Relevant Sightings
+
+* [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768235) (First Sighting)
+* [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768271) (Last Sighting)
+
+### Places Seen
+
+* Morelos, Mexico
+
+
 
 ## Media
 ### Photographs

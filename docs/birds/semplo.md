@@ -17,20 +17,31 @@ tags:
 
 # Semipalmated Plover <span className='sci_name'>Charadrius semipalmatus</span>
 
-**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Charadriidae (Plovers and Lapwings)](/tags/charadriidae-plovers-and-lapwings) > [Shorebirds](/tags/shorebirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=semplo) | [Map](/map?species_code=semplo)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The semipalmated plover (Charadrius semipalmatus) is a small plover. Charadrius is a Late Latin word for a yellowish bird mentioned in the fourth-century Vulgate. It derives from Ancient Greek kharadrios a bird found in ravines and river valleys (kharadra, "ravine"). The specific semipalmatus is  Latin and comes from  semi, "half" and palma, "palm". Like the English name, this refers to its only partially webbed feet.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Semipalmated_plover
+
+### Taxonomy
+[Charadriiformes](/tags/charadriiformes) > [Charadriidae (Plovers and Lapwings)](/tags/charadriidae-plovers-and-lapwings) > [Shorebirds](/tags/shorebirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=semplo) | [Map](/map?species_code=semplo)
+
+### Relevant Sightings
+
+* [03-31-2024 - California, United States](https://ebird.org/checklist/S166695330) (First Sighting)
+* [08-04-2024 - California, United States](https://ebird.org/checklist/S190211534) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

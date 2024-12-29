@@ -17,20 +17,30 @@ tags:
 
 # Black-chinned Siskin <span className='sci_name'>Spinus barbatus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Fringillidae (Finches, Euphonias, and Allies)](/tags/fringillidae-finches-euphonias-and-allies) > [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blcsis2) | [Map](/map?species_code=blcsis2)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Región Metropolitana de Santiago, Chile
-
-## Description
+### Description
 The black-chinned siskin (Spinus barbatus) is a species of finch in the family Fringillidae. Found in Argentina, Chile and the Falkland Islands, its natural habitats are temperate forests and heavily degraded former forest.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Black-chinned_siskin
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Fringillidae (Finches, Euphonias, and Allies)](/tags/fringillidae-finches-euphonias-and-allies) > [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=blcsis2) | [Map](/map?species_code=blcsis2)
+
+### Relevant Sightings
+
+* [2024-10-19T20:26:00.000Z - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524285) (Only Sighting)
+
+### Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
+
 
 ## Media
 ### Photographs

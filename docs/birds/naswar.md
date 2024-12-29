@@ -17,20 +17,31 @@ tags:
 
 # Nashville Warbler <span className='sci_name'>Leiothlypis ruficapilla</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=naswar) | [Map](/map?species_code=naswar)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The Nashville warbler (Leiothlypis ruficapilla) is a small songbird in the New World warbler family, found in North and Central America. It breeds in parts of the northern and western United States and southern Canada, and migrates to winter in southern California and Texas, Mexico, and the north of Central America. It has a gray head and a green back, and its underparts are yellow and white.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Nashville_warbler
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=naswar) | [Map](/map?species_code=naswar)
+
+### Relevant Sightings
+
+* [05-25-2024 - California, United States](https://ebird.org/checklist/S176954716) (First Sighting)
+* [05-25-2024 - California, United States](https://ebird.org/checklist/S177366068) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

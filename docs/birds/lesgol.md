@@ -17,23 +17,35 @@ tags:
 
 # Lesser Goldfinch <span className='sci_name'>Spinus psaltria</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Fringillidae (Finches, Euphonias, and Allies)](/tags/fringillidae-finches-euphonias-and-allies) > [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
+## Overview
+
+### Description
+The lesser goldfinch (Spinus psaltria) is a small finch in the genus Spinus native to the Americas.
+As is the case for most species in the genus Spinus, lesser goldfinch males have a black forehead, which females lack. Males in this species vary strikingly in the color of their back across their range, from green in western North America to black in the eastern Rocky Mountains and Texas south to northern South America; this variation has resulted in five subspecies being recognized.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Lesser_goldfinch
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Fringillidae (Finches, Euphonias, and Allies)](/tags/fringillidae-finches-euphonias-and-allies) > [Finches, Euphonias, and Allies](/tags/finches-euphonias-and-allies)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=lesgol) | [Map](/map?species_code=lesgol)
 
-**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=lesgol&mediaType=audio&view=grid)
+### Relevant Sightings
 
-## Places Seen
+* [11-11-2023 - California, United States](https://ebird.org/checklist/S154259403) (First Sighting)
+* [11-24-2024 - California, United States](https://ebird.org/checklist/S203486069) (Only Recording)
+* [11-28-2024 - California, United States](https://ebird.org/checklist/S203889552) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * California, United States
 * Morelos, Mexico
 
-## Description
-The lesser goldfinch (Spinus psaltria) is a small finch in the genus Spinus native to the Americas.
-As is the case for most species in the genus Spinus, lesser goldfinch males have a black forehead, which females lack. Males in this species vary strikingly in the color of their back across their range, from green in western North America to black in the eastern Rocky Mountains and Texas south to northern South America; this variation has resulted in five subspecies being recognized.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Lesser_goldfinch
 
 ## Media
 ### Photographs

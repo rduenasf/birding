@@ -71,6 +71,136 @@ function generatePlacesSeen(observations) {
   return [...places].sort((a, b) => a.localeCompare(b)).join("\n");
 }
 
+function generateSightings({
+  observations,
+  bestPhoto,
+  bestRecording,
+  photographed,
+  recorded,
+}) {
+  if (observations.length === 1)
+    return `* [${observations[0].datetime} - ${
+      stateMap[observations[0]["state/Province"]].name
+    }, ${
+      stateMap[observations[0]["state/Province"]].countryName
+    }](https://ebird.org/checklist/${
+      observations[0].submissionId
+    }) (Only Sighting${photographed === 1 ? " / Photo" : ""}${
+      recorded === 1 ? " / Recording" : ""
+    })`;
+
+  const sightings = [
+    {
+      ...observations[0],
+      type: `First Sighting${
+        observations[0].photographed
+          ? photographed === 1
+            ? " / Only Photo"
+            : " / First Photo"
+          : ""
+      }${
+        observations[0].recorded
+          ? recorded === 1
+            ? " / Only Recording"
+            : " / First Recording"
+          : ""
+      }`,
+      priority: 0,
+    },
+    {
+      ...observations[observations.length - 1],
+      type: "Last Sighting",
+      priority: 5,
+    },
+  ];
+  let firstPhotoObs = false;
+  let firstRecordingObs = false;
+  let bestPhotoObs = false;
+  let bestRecordingObs = false;
+
+  observations.slice(1).forEach((obs) => {
+    if (
+      !firstPhotoObs &&
+      obs.mlCatalogNumbers &&
+      obs.mlCatalogNumbers.filter(({ format }) => format === "Photo").length > 0
+    ) {
+      firstPhotoObs = true;
+      if (bestPhoto && bestPhoto.ebirdChecklistId === obs.submissionId) {
+        bestPhotoObs = true;
+        sightings.push({
+          ...obs,
+          type: photographed === 1 ? "Only Photo" : "First/Best Photo",
+          priority: 1,
+        });
+      } else {
+        sightings.push({ ...obs, type: "First Photo", priority: 1 });
+      }
+    }
+    if (
+      !firstRecordingObs &&
+      obs.mlCatalogNumbers &&
+      obs.mlCatalogNumbers.filter(({ format }) => format === "Audio").length > 0
+    ) {
+      firstRecordingObs = true;
+      if (
+        bestRecording &&
+        bestRecording.ebirdChecklistId === obs.submissionId
+      ) {
+        bestRecordingObs = true;
+        sightings.push({
+          ...obs,
+          type: recorded === 1 ? "Only Recording" : "First/Best Recording",
+          priority: 3,
+        });
+      } else {
+        sightings.push({ ...obs, type: "First Recording", priority: 3 });
+      }
+    }
+    if (
+      bestPhoto &&
+      !bestPhotoObs &&
+      obs.mlCatalogNumbers &&
+      obs.mlCatalogNumbers.filter(
+        ({ MlCatalogNumber }) => MlCatalogNumber === bestPhoto.MlCatalogNumber
+      ).length > 0
+    ) {
+      sightings.push({ ...obs, type: "Best Photo", priority: 2 });
+    }
+    if (
+      bestRecording &&
+      !bestRecordingObs &&
+      obs.mlCatalogNumbers &&
+      obs.mlCatalogNumbers.filter(
+        ({ MlCatalogNumber }) =>
+          MlCatalogNumber === bestRecording.MlCatalogNumber
+      ).length > 0
+    ) {
+      sightings.push({ ...obs, type: "Best Recording", priority: 4 });
+    }
+  });
+
+  return sightings
+    .sort((a, b) => {
+      const dateA = new Date(a.datetime).toDateString();
+      const dateB = new Date(b.datetime).toDateString();
+      if (dateA === dateB) {
+        return a.priority - b.priority;
+      }
+      return new Date(a.datetime).getTime() - new Date(b.datetime).getTime();
+    })
+    .map((obs) => {
+      const date = new Date(obs.datetime);
+      const formattedDate = `${String(date.getMonth() + 1).padStart(
+        2,
+        "0"
+      )}-${String(date.getDate()).padStart(2, "0")}-${date.getFullYear()}`;
+      return `* [${formattedDate} - ${stateMap[obs["state/Province"]].name}, ${
+        stateMap[obs["state/Province"]].countryName
+      }](https://ebird.org/checklist/${obs.submissionId}) (${obs.type})`;
+    })
+    .join("\n");
+}
+
 function generateMarkdownContent(bird, index, photoEmbeds, audioEmbeds) {
   const {
     primaryComName,
@@ -102,36 +232,36 @@ tags:
 
 # ${primaryComName} <span className='sci_name'>${sciName}</span>
 
-**Taxonomy:** [${order}](/tags/${generateSlug(
-    order
-  )}) > [${family}](/tags/${generateSlug(
-    family
-  )}) > [${speciesGroup}](/tags/${generateSlug(speciesGroup)})
-${generateSubspeciesSeen(bird.observations)}
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=${speciesCode}) | [Map](/map?species_code=${speciesCode})
-
-**Media**: ${
-    photoEmbeds.length > 0
-      ? `[Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=${speciesCode}&mediaType=photo&view=grid)`
-      : "No Photo"
-  } | ${
-    audioEmbeds.length > 0
-      ? `[Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=${speciesCode}&mediaType=audio&view=grid)`
-      : "No Recording"
-  }
-
-## Places Seen
-
-${generatePlacesSeen(bird.observations)}
+## Overview
 
 ${
   description
-    ? `## Description
+    ? `### Description
 ${description}[^1]
 
 [^1]: ${wikipediaUrl}`
     : ""
 }
+
+### Taxonomy
+[${order}](/tags/${generateSlug(order)}) > [${family}](/tags/${generateSlug(
+    family
+  )}) > [${speciesGroup}](/tags/${generateSlug(speciesGroup)})
+${generateSubspeciesSeen(bird.observations)}
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=${speciesCode}) | [Map](/map?species_code=${speciesCode})
+
+### Relevant Sightings
+
+${generateSightings(bird)}
+
+### Places Seen
+
+${generatePlacesSeen(bird.observations)}
+
+
 
 ## Media
 ### Photographs

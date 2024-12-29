@@ -17,23 +17,36 @@ tags:
 
 # Black-crowned Night Heron <span className='sci_name'>Nycticorax nycticorax</span>
 
-**Taxonomy:** [Pelecaniformes](/tags/pelecaniformes) > [Ardeidae (Herons, Egrets, and Bitterns)](/tags/ardeidae-herons-egrets-and-bitterns) > [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
+## Overview
+
+### Description
+The black-crowned night heron (Nycticorax nycticorax) [or black-capped night heron], commonly shortened to just night heron in Eurasia, is a medium-sized heron found throughout a large part of the world, including parts of Europe, Asia, and North and South America. In Australasia it is replaced by the closely related Nankeen night heron (N. caledonicus), with which it has hybridised in the area of contact.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Black-crowned_night_heron
+
+### Taxonomy
+[Pelecaniformes](/tags/pelecaniformes) > [Ardeidae (Herons, Egrets, and Bitterns)](/tags/ardeidae-herons-egrets-and-bitterns) > [Herons, Ibis, and Allies](/tags/herons-ibis-and-allies)
 
 **Subspecies Seen**: Black-crowned Night Heron (American)
 
+
+## Sightings
+
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=bcnher) | [Map](/map?species_code=bcnher)
 
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=bcnher&mediaType=photo&view=grid) | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
+* [11-26-2023 - California, United States](https://ebird.org/checklist/S155290413) (First Photo)
+* [04-19-2024 - California, United States](https://ebird.org/checklist/S169631720) (Best Photo)
+* [11-28-2024 - California, United States](https://ebird.org/checklist/S203889552) (Last Sighting)
+
+### Places Seen
 
 * California, United States
 * Ciudad de México, Mexico
 
-## Description
-The black-crowned night heron (Nycticorax nycticorax) [or black-capped night heron], commonly shortened to just night heron in Eurasia, is a medium-sized heron found throughout a large part of the world, including parts of Europe, Asia, and North and South America. In Australasia it is replaced by the closely related Nankeen night heron (N. caledonicus), with which it has hybridised in the area of contact.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Black-crowned_night_heron
 
 ## Media
 ### Photographs

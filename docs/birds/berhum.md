@@ -17,22 +17,32 @@ tags:
 
 # Berylline Hummingbird <span className='sci_name'>Saucerottia beryllina</span>
 
-**Taxonomy:** [Apodiformes](/tags/apodiformes) > [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds) > [Hummingbirds](/tags/hummingbirds)
+## Overview
 
-**Subspecies Seen**: Berylline Hummingbird (Northern)
-
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=berhum) | [Map](/map?species_code=berhum)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Ciudad de México, Mexico
-
-## Description
+### Description
 The berylline hummingbird (Saucerottia beryllina) is a species of hummingbird in the "emeralds", tribe Trochilini of subfamily Trochilinae. It is found in El Salvador, Guatemala, Honduras, Mexico, and the United States.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Berylline_hummingbird
+
+### Taxonomy
+[Apodiformes](/tags/apodiformes) > [Trochilidae (Hummingbirds)](/tags/trochilidae-hummingbirds) > [Hummingbirds](/tags/hummingbirds)
+
+**Subspecies Seen**: Berylline Hummingbird (Northern)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=berhum) | [Map](/map?species_code=berhum)
+
+### Relevant Sightings
+
+* [2024-05-03T23:25:00.000Z - Ciudad de México, Mexico](https://ebird.org/checklist/S171944260) (Only Sighting)
+
+### Places Seen
+
+* Ciudad de México, Mexico
+
+
 
 ## Media
 ### Photographs

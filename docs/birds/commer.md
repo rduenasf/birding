@@ -17,23 +17,34 @@ tags:
 
 # Common Merganser <span className='sci_name'>Mergus merganser</span>
 
-**Taxonomy:** [Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+## Overview
+
+### Description
+The common merganser (North American) or goosander (Eurasian) (Mergus merganser) is a large sea duck of rivers and lakes in forested areas of Europe, Asia, and North America. The common merganser eats mainly fish.  It nests in holes in trees.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Common_merganser
+
+### Taxonomy
+[Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
 
 **Subspecies Seen**: Common Merganser (North American)
 
+
+## Sightings
+
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=commer) | [Map](/map?species_code=commer)
 
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=commer&mediaType=photo&view=grid) | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [02-11-2024 - California, United States](https://ebird.org/checklist/S161327433) (First Sighting / Only Photo)
+* [04-13-2024 - Ontario, Canada](https://ebird.org/checklist/S168448531) (Last Sighting)
+
+### Places Seen
 
 * California, United States
 * Ontario, Canada
 
-## Description
-The common merganser (North American) or goosander (Eurasian) (Mergus merganser) is a large sea duck of rivers and lakes in forested areas of Europe, Asia, and North America. The common merganser eats mainly fish.  It nests in holes in trees.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Common_merganser
 
 ## Media
 ### Photographs

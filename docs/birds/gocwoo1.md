@@ -17,20 +17,30 @@ tags:
 
 # Golden-cheeked Woodpecker <span className='sci_name'>Melanerpes chrysogenys</span>
 
-**Taxonomy:** [Piciformes](/tags/piciformes) > [Picidae (Woodpeckers)](/tags/picidae-woodpeckers) > [Woodpeckers](/tags/woodpeckers)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gocwoo1) | [Map](/map?species_code=gocwoo1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Morelos, Mexico
-
-## Description
+### Description
 The golden-cheeked woodpecker (Melanerpes chrysogenys) is a species of bird in subfamily Picinae of the woodpecker family Picidae. It is endemic to Mexico.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Golden-cheeked_woodpecker
+
+### Taxonomy
+[Piciformes](/tags/piciformes) > [Picidae (Woodpeckers)](/tags/picidae-woodpeckers) > [Woodpeckers](/tags/woodpeckers)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=gocwoo1) | [Map](/map?species_code=gocwoo1)
+
+### Relevant Sightings
+
+* [2024-05-03T14:20:00.000Z - Morelos, Mexico](https://ebird.org/checklist/S171768235) (Only Sighting)
+
+### Places Seen
+
+* Morelos, Mexico
+
+
 
 ## Media
 ### Photographs

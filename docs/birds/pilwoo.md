@@ -17,20 +17,30 @@ tags:
 
 # Pileated Woodpecker <span className='sci_name'>Dryocopus pileatus</span>
 
-**Taxonomy:** [Piciformes](/tags/piciformes) > [Picidae (Woodpeckers)](/tags/picidae-woodpeckers) > [Woodpeckers](/tags/woodpeckers)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pilwoo) | [Map](/map?species_code=pilwoo)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Ontario, Canada
-
-## Description
+### Description
 The pileated woodpecker ( PY-lee-ay-tid, PIL-ee-; Dryocopus pileatus) is a large, mostly black woodpecker native to North America. An insectivore, it inhabits deciduous forests in eastern North America, the Great Lakes, the boreal forests of Canada, and parts of the Pacific Coast. It is the largest confirmed extant woodpecker species in North America, with the possible exception of the ivory-billed woodpecker, which the U.S. Fish and Wildlife Service has proposed be reclassified as extinct. It is also the third largest extant species of woodpecker in the world, after the great slaty woodpecker and the black woodpecker. "Pileated" refers to the bird's prominent red crest, from the Latin pileatus meaning "capped".[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Pileated_woodpecker
+
+### Taxonomy
+[Piciformes](/tags/piciformes) > [Picidae (Woodpeckers)](/tags/picidae-woodpeckers) > [Woodpeckers](/tags/woodpeckers)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=pilwoo) | [Map](/map?species_code=pilwoo)
+
+### Relevant Sightings
+
+* [2024-04-09T23:58:00.000Z - Ontario, Canada](https://ebird.org/checklist/S167923446) (Only Sighting)
+
+### Places Seen
+
+* Ontario, Canada
+
+
 
 ## Media
 ### Photographs

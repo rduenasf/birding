@@ -17,23 +17,34 @@ tags:
 
 # Clark's Grebe <span className='sci_name'>Aechmophorus clarkii</span>
 
-**Taxonomy:** [Podicipediformes](/tags/podicipediformes) > [Podicipedidae (Grebes)](/tags/podicipedidae-grebes) > [Grebes](/tags/grebes)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=clagre) | [Map](/map?species_code=clagre)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 Clark's grebe (Aechmophorus clarkii) is a North American waterbird species in the grebe family. Until the 1980s, it was thought to be a pale morph of the western grebe, which it resembles in size, range, and behavior. Intermediates between the two species are known.
 This species nests on large inland lakes in western North America and migrates to the Pacific coast over the winter. It maintains local populations year-round in California, Nevada, and Arizona (the Lower Colorado River Valley), as well as in central Mexico. 
 It feeds by diving for insects, polychaete worms, crustaceans, and salamanders.
 It performs the same elaborate courtship display as the western grebe.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Clark%27s_grebe
+
+### Taxonomy
+[Podicipediformes](/tags/podicipediformes) > [Podicipedidae (Grebes)](/tags/podicipedidae-grebes) > [Grebes](/tags/grebes)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=clagre) | [Map](/map?species_code=clagre)
+
+### Relevant Sightings
+
+* [02-11-2024 - California, United States](https://ebird.org/checklist/S161327433) (First Sighting)
+* [06-22-2024 - California, United States](https://ebird.org/checklist/S183306505) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

@@ -17,20 +17,30 @@ tags:
 
 # Rock Wren <span className='sci_name'>Salpinctes obsoletus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Troglodytidae (Wrens)](/tags/troglodytidae-wrens) > [Wrens](/tags/wrens)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rocwre) | [Map](/map?species_code=rocwre)
-
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=rocwre&mediaType=photo&view=grid) | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The rock wren (Salpinctes obsoletus) is a small songbird of the wren family native to western North America, Mexico and Central America.  It is the only species in the genus Salpinctes.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Rock_wren
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Troglodytidae (Wrens)](/tags/troglodytidae-wrens) > [Wrens](/tags/wrens)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=rocwre) | [Map](/map?species_code=rocwre)
+
+### Relevant Sightings
+
+* [2024-03-24T18:37:00.000Z - California, United States](https://ebird.org/checklist/S165849468) (Only Sighting / Photo)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

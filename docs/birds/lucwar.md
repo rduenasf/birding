@@ -17,20 +17,31 @@ tags:
 
 # Lucy's Warbler <span className='sci_name'>Leiothlypis luciae</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=lucwar) | [Map](/map?species_code=lucwar)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Arizona, United States
-
-## Description
+### Description
 Lucy's warbler (Leiothlypis luciae) is a small New World warbler found in North America. This species ranges includes southwestern United States and northwestern Mexico. It is one of only two warblers to nest in cavities.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Lucy%27s_warbler
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=lucwar) | [Map](/map?species_code=lucwar)
+
+### Relevant Sightings
+
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170587133) (First Sighting)
+* [04-28-2024 - Arizona, United States](https://ebird.org/checklist/S170824758) (Last Sighting)
+
+### Places Seen
+
+* Arizona, United States
+
+
 
 ## Media
 ### Photographs

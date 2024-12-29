@@ -5,7 +5,7 @@ order: "Piciformes"
 family: "Picidae (Woodpeckers)"
 species_group: "Woodpeckers"
 species_code: "strwoo"
-sidebar_position: 359
+sidebar_position: 360
 sidebar_class_name: " "
 tags: 
   - Piciformes
@@ -17,20 +17,30 @@ tags:
 
 # Strickland's Woodpecker <span className='sci_name'>Dryobates stricklandi</span>
 
-**Taxonomy:** [Piciformes](/tags/piciformes) > [Picidae (Woodpeckers)](/tags/picidae-woodpeckers) > [Woodpeckers](/tags/woodpeckers)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=strwoo) | [Map](/map?species_code=strwoo)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Ciudad de México, Mexico
-
-## Description
+### Description
 Strickland's woodpecker (Leuconotopicus stricklandi) is a medium-sized species of woodpecker endemic to Mexico.  The Arizona woodpecker (L. arizonae) was formerly considered the northern subspecies of this bird until the 42nd supplement of the American Ornithologists Union checklist, which officially split them into two separate species.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Strickland%27s_woodpecker
+
+### Taxonomy
+[Piciformes](/tags/piciformes) > [Picidae (Woodpeckers)](/tags/picidae-woodpeckers) > [Woodpeckers](/tags/woodpeckers)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=strwoo) | [Map](/map?species_code=strwoo)
+
+### Relevant Sightings
+
+* [2024-05-03T21:50:00.000Z - Ciudad de México, Mexico](https://ebird.org/checklist/S171944247) (Only Sighting)
+
+### Places Seen
+
+* Ciudad de México, Mexico
+
+
 
 ## Media
 ### Photographs

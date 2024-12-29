@@ -17,20 +17,30 @@ tags:
 
 # Gray-barred Wren <span className='sci_name'>Campylorhynchus megalopterus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Troglodytidae (Wrens)](/tags/troglodytidae-wrens) > [Wrens](/tags/wrens)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grbwre1) | [Map](/map?species_code=grbwre1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Morelos, Mexico
-
-## Description
+### Description
 The gray-barred wren (Campylorhynchus megalopterus) is a species of bird in the family Troglodytidae. It is endemic to Mexico.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Gray-barred_wren
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Troglodytidae (Wrens)](/tags/troglodytidae-wrens) > [Wrens](/tags/wrens)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=grbwre1) | [Map](/map?species_code=grbwre1)
+
+### Relevant Sightings
+
+* [2024-05-03T16:54:00.000Z - Morelos, Mexico](https://ebird.org/checklist/S171768259) (Only Sighting)
+
+### Places Seen
+
+* Morelos, Mexico
+
+
 
 ## Media
 ### Photographs

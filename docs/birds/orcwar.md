@@ -17,21 +17,32 @@ tags:
 
 # Orange-crowned Warbler <span className='sci_name'>Leiothlypis celata</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
+## Overview
+
+### Description
+The orange-crowned warbler (Leiothlypis celata) is a small songbird of the New World warbler family.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Orange-crowned_warbler
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Parulidae (New World Warblers)](/tags/parulidae-new-world-warblers) > [Wood-Warblers](/tags/wood-warblers)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=orcwar) | [Map](/map?species_code=orcwar)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [03-28-2024 - California, United States](https://ebird.org/checklist/S166268948) (First Sighting)
+* [05-11-2024 - California, United States](https://ebird.org/checklist/S173585635) (Last Sighting)
+
+### Places Seen
 
 * Arizona, United States
 * California, United States
 
-## Description
-The orange-crowned warbler (Leiothlypis celata) is a small songbird of the New World warbler family.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Orange-crowned_warbler
 
 ## Media
 ### Photographs

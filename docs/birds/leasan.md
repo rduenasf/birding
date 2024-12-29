@@ -17,20 +17,33 @@ tags:
 
 # Least Sandpiper <span className='sci_name'>Calidris minutilla</span>
 
-**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=leasan) | [Map](/map?species_code=leasan)
-
-**Media**: No Photo | [Has Recording](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=leasan&mediaType=audio&view=grid)
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The least sandpiper (Calidris minutilla) is the smallest shorebird. The genus name is from Ancient Greek kalidris or skalidris, a term used by Aristotle for some grey-colored waterside birds. The specific minutilla is Medieval Latin for "very small".[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Least_sandpiper
+
+### Taxonomy
+[Charadriiformes](/tags/charadriiformes) > [Scolopacidae (Sandpipers and Allies)](/tags/scolopacidae-sandpipers-and-allies) > [Shorebirds](/tags/shorebirds)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=leasan) | [Map](/map?species_code=leasan)
+
+### Relevant Sightings
+
+* [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
+* [11-17-2024 - California, United States](https://ebird.org/checklist/S202811385) (First Recording)
+* [11-23-2024 - California, United States](https://ebird.org/checklist/S203364471) (Best Recording)
+* [11-24-2024 - California, United States](https://ebird.org/checklist/S203486069) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

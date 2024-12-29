@@ -17,20 +17,30 @@ tags:
 
 # Lake Duck <span className='sci_name'>Oxyura vittata</span>
 
-**Taxonomy:** [Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=lakduc1) | [Map](/map?species_code=lakduc1)
-
-**Media**: [Has Photo](https://media.ebird.org/catalog?userId=USER4436073&taxonCode=lakduc1&mediaType=photo&view=grid) | No Recording
-
-## Places Seen
-
-* Región Metropolitana de Santiago, Chile
-
-## Description
+### Description
 The lake duck (Oxyura vittata) is a small, South American stiff-tailed duck. It is also called the Argentine blue-bill, Argentine blue-billed duck, Argentine lake duck, or Argentine ruddy duck.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Lake_duck
+
+### Taxonomy
+[Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=lakduc1) | [Map](/map?species_code=lakduc1)
+
+### Relevant Sightings
+
+* [2024-10-11T17:44:00.000Z - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398422) (Only Sighting / Photo)
+
+### Places Seen
+
+* Región Metropolitana de Santiago, Chile
+
+
 
 ## Media
 ### Photographs

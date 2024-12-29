@@ -5,7 +5,7 @@ order: "Passeriformes"
 family: "Vireonidae (Vireos, Shrike-Babblers, and Erpornis)"
 species_group: "Vireos"
 species_code: "warvir"
-sidebar_position: 387
+sidebar_position: 388
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -17,22 +17,9 @@ tags:
 
 # Warbling Vireo <span className='sci_name'>Vireo gilvus</span>
 
-**Taxonomy:** [Passeriformes](/tags/passeriformes) > [Vireonidae (Vireos, Shrike-Babblers, and Erpornis)](/tags/vireonidae-vireos-shrike-babblers-and-erpornis) > [Vireos](/tags/vireos)
+## Overview
 
-**Subspecies Seen**: Warbling Vireo (Western)
-
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=warvir) | [Map](/map?species_code=warvir)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* Arizona, United States
-* California, United States
-* Ciudad de México, Mexico
-* Morelos, Mexico
-
-## Description
+### Description
 The warbling vireo (Vireo gilvus) is a small North American songbird.
 Its breeding habitat is open deciduous and mixed woods from Alaska to Mexico. It often nests in widely spaced trees, often cottonwood or aspen, along streams or rivers. It migrates to Mexico and Central America.
 Measurements:
@@ -49,6 +36,30 @@ The eastern warbling vireo, V. g. gilvus, breeds from central Alberta and northe
 The brown-capped vireo (Vireo leucophrys), resident in Central America and northern South America, is sometimes considered conspecific with the warbling vireo.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Warbling_vireo
+
+### Taxonomy
+[Passeriformes](/tags/passeriformes) > [Vireonidae (Vireos, Shrike-Babblers, and Erpornis)](/tags/vireonidae-vireos-shrike-babblers-and-erpornis) > [Vireos](/tags/vireos)
+
+**Subspecies Seen**: Warbling Vireo (Western)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=warvir) | [Map](/map?species_code=warvir)
+
+### Relevant Sightings
+
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170587140) (First Sighting)
+* [09-07-2024 - California, United States](https://ebird.org/checklist/S195013430) (Last Sighting)
+
+### Places Seen
+
+* Arizona, United States
+* California, United States
+* Ciudad de México, Mexico
+* Morelos, Mexico
+
+
 
 ## Media
 ### Photographs

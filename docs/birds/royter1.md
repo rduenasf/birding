@@ -17,20 +17,31 @@ tags:
 
 # Royal Tern <span className='sci_name'>Thalasseus maximus</span>
 
-**Taxonomy:** [Charadriiformes](/tags/charadriiformes) > [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers) > [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
+## Overview
 
-**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=royter1) | [Map](/map?species_code=royter1)
-
-**Media**: No Photo | No Recording
-
-## Places Seen
-
-* California, United States
-
-## Description
+### Description
 The royal tern (Thalasseus maximus) is a tern in the family Laridae. The species is endemic to the Americas, though vagrants have been identified in Europe.[^1]
 
 [^1]: https://en.wikipedia.org/wiki/Royal_tern
+
+### Taxonomy
+[Charadriiformes](/tags/charadriiformes) > [Laridae (Gulls, Terns, and Skimmers)](/tags/laridae-gulls-terns-and-skimmers) > [Gulls, Terns, and Skimmers](/tags/gulls-terns-and-skimmers)
+
+
+## Sightings
+
+**My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=royter1) | [Map](/map?species_code=royter1)
+
+### Relevant Sightings
+
+* [04-19-2024 - California, United States](https://ebird.org/checklist/S169304576) (First Sighting)
+* [04-20-2024 - California, United States](https://ebird.org/checklist/S169552328) (Last Sighting)
+
+### Places Seen
+
+* California, United States
+
+
 
 ## Media
 ### Photographs

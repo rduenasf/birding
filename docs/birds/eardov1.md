@@ -17,23 +17,34 @@ tags:
 
 # Eared Dove <span className='sci_name'>Zenaida auriculata</span>
 
-**Taxonomy:** [Columbiformes](/tags/columbiformes) > [Columbidae (Pigeons and Doves)](/tags/columbidae-pigeons-and-doves) > [Pigeons and Doves](/tags/pigeons-and-doves)
+## Overview
+
+### Description
+The eared dove (Zenaida auriculata) is a New World dove. It is a resident breeder throughout South America from Colombia to southern Argentina and Chile, and on the offshore islands from the Grenadines southwards. It may be a relatively recent colonist of Tobago and Trinidad. It appears to be partially migratory, its movements driven by food supplies.
+It is a close relative of the North American mourning dove. With that species, the Socorro dove, and possibly the Galápagos dove, it forms a superspecies. The latter two are insular offshoots, the Socorro birds from ancestral mourning doves, and the Galápagos ones from more ancient stock.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/Eared_dove
+
+### Taxonomy
+[Columbiformes](/tags/columbiformes) > [Columbidae (Pigeons and Doves)](/tags/columbidae-pigeons-and-doves) > [Pigeons and Doves](/tags/pigeons-and-doves)
+
+
+## Sightings
 
 **My Sightings:** [eBird](https://ebird.org/lifelist?r=world&time=life&spp=eardov1) | [Map](/map?species_code=eardov1)
 
-**Media**: No Photo | No Recording
+### Relevant Sightings
 
-## Places Seen
+* [10-06-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S197782095) (First Sighting)
+* [10-23-2024 - Libertador General Bernardo O'Higgins, Chile](https://ebird.org/checklist/S199973075) (Last Sighting)
+
+### Places Seen
 
 * Libertador General Bernardo O'Higgins, Chile
 * Región Metropolitana de Santiago, Chile
 * Valparaíso, Chile
 
-## Description
-The eared dove (Zenaida auriculata) is a New World dove. It is a resident breeder throughout South America from Colombia to southern Argentina and Chile, and on the offshore islands from the Grenadines southwards. It may be a relatively recent colonist of Tobago and Trinidad. It appears to be partially migratory, its movements driven by food supplies.
-It is a close relative of the North American mourning dove. With that species, the Socorro dove, and possibly the Galápagos dove, it forms a superspecies. The latter two are insular offshoots, the Socorro birds from ancestral mourning doves, and the Galápagos ones from more ancient stock.[^1]
 
-[^1]: https://en.wikipedia.org/wiki/Eared_dove
 
 ## Media
 ### Photographs
