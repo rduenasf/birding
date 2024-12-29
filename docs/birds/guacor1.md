@@ -41,7 +41,7 @@ The scientific name commemorates the French explorer Louis Antoine de Bougainvil
 
 ### Relevant Sightings
 
-* [2024-10-12T20:47:00.000Z - Valparaíso, Chile](https://ebird.org/checklist/S198994214) (Only Sighting)
+* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994214) (Only Sighting)
 
 ### Places Seen
 

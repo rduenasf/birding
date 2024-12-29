@@ -34,7 +34,7 @@ The snow bunting (Plectrophenax nivalis) is a passerine bird in the family Calca
 
 ### Relevant Sightings
 
-* [2024-12-23T15:46:00.000Z - California, United States](https://ebird.org/checklist/S206318000) (Only Sighting / Recording)
+* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Only Sighting / Recording)
 
 ### Places Seen
 

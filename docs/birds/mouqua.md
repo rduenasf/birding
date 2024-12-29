@@ -34,7 +34,7 @@ The mountain quail (Oreortyx pictus) is a small ground-dwelling bird in the New 
 
 ### Relevant Sightings
 
-* [2024-05-26T02:23:00.000Z - California, United States](https://ebird.org/checklist/S177366068) (Only Sighting)
+* [05-25-2024 - California, United States](https://ebird.org/checklist/S177366068) (Only Sighting)
 
 ### Places Seen
 

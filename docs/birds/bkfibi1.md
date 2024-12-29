@@ -34,7 +34,7 @@ The black-faced ibis (Theristicus melanopis) is a species of bird in the family 
 
 ### Relevant Sightings
 
-* [2024-10-19T16:19:00.000Z - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524251) (Only Sighting)
+* [10-19-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524251) (Only Sighting)
 
 ### Places Seen
 

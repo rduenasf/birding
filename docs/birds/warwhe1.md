@@ -34,7 +34,7 @@ The warbling white-eye (Zosterops japonicus) is a small passerine bird in the wh
 
 ### Relevant Sightings
 
-* [2012-03-24T14:33:00.000Z - Hawaii, United States](https://ebird.org/checklist/S206236615) (Only Sighting / Photo)
+* [03-24-2012 - Hawaii, United States](https://ebird.org/checklist/S206236615) (Only Sighting / Photo)
 
 ### Places Seen
 

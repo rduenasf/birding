@@ -36,7 +36,7 @@ Populations have declined as the species faces threats related to human activiti
 
 ### Relevant Sightings
 
-* [2024-04-28T22:58:00.000Z - Arizona, United States](https://ebird.org/checklist/S170857525) (Only Sighting)
+* [04-28-2024 - Arizona, United States](https://ebird.org/checklist/S170857525) (Only Sighting)
 
 ### Places Seen
 

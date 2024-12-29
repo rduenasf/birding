@@ -34,7 +34,7 @@ The white-throated flycatcher (Empidonax albigularis) is a species of bird in th
 
 ### Relevant Sightings
 
-* [2024-05-03T21:50:00.000Z - Ciudad de México, Mexico](https://ebird.org/checklist/S171944247) (Only Sighting)
+* [05-03-2024 - Ciudad de México, Mexico](https://ebird.org/checklist/S171944247) (Only Sighting)
 
 ### Places Seen
 

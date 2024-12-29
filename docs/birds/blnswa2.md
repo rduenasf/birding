@@ -34,7 +34,7 @@ The black-necked swan (Cygnus melancoryphus) is a species of waterfowl in the tr
 
 ### Relevant Sightings
 
-* [2024-10-11T17:44:00.000Z - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398422) (Only Sighting)
+* [10-11-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398422) (Only Sighting)
 
 ### Places Seen
 

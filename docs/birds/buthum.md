@@ -34,7 +34,7 @@ The blue-throated mountaingem, also known as the blue-throated mountain-gem or b
 
 ### Relevant Sightings
 
-* [2024-04-28T19:00:00.000Z - Arizona, United States](https://ebird.org/checklist/S170824770) (Only Sighting)
+* [04-28-2024 - Arizona, United States](https://ebird.org/checklist/S170824770) (Only Sighting)
 
 ### Places Seen
 

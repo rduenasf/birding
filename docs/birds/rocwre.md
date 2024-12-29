@@ -34,7 +34,7 @@ The rock wren (Salpinctes obsoletus) is a small songbird of the wren family nati
 
 ### Relevant Sightings
 
-* [2024-03-24T18:37:00.000Z - California, United States](https://ebird.org/checklist/S165849468) (Only Sighting / Photo)
+* [03-24-2024 - California, United States](https://ebird.org/checklist/S165849468) (Only Sighting / Photo)
 
 ### Places Seen
 

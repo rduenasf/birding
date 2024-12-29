@@ -36,7 +36,7 @@ Condor numbers dramatically declined in the 20th century due to agricultural che
 
 ### Relevant Sightings
 
-* [2024-01-28T16:21:00.000Z - California, United States](https://ebird.org/checklist/S160073236) (Only Sighting)
+* [01-28-2024 - California, United States](https://ebird.org/checklist/S160073236) (Only Sighting)
 
 ### Places Seen
 

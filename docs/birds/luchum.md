@@ -34,7 +34,7 @@ The lucifer sheartail or lucifer hummingbird (Calothorax lucifer) is a medium-si
 
 ### Relevant Sightings
 
-* [2024-04-27T22:24:00.000Z - Arizona, United States](https://ebird.org/checklist/S170629025) (Only Sighting)
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170629025) (Only Sighting)
 
 ### Places Seen
 

@@ -38,7 +38,7 @@ The Indian peafowl is listed as Least Concern on the IUCN Red List. It is the na
 
 ### Relevant Sightings
 
-* [2024-07-07T23:53:00.000Z - Florida, United States](https://ebird.org/checklist/S185917527) (Only Sighting)
+* [07-07-2024 - Florida, United States](https://ebird.org/checklist/S185917527) (Only Sighting)
 
 ### Places Seen
 

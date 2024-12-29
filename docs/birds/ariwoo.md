@@ -34,7 +34,7 @@ The Arizona woodpecker (Leuconotopicus arizonae) is a woodpecker native to south
 
 ### Relevant Sightings
 
-* [2024-04-27T17:40:00.000Z - Arizona, United States](https://ebird.org/checklist/S170587152) (Only Sighting)
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170587152) (Only Sighting)
 
 ### Places Seen
 

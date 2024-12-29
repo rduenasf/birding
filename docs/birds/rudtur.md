@@ -35,7 +35,7 @@ It is now classified in the sandpiper family Scolopacidae but was formerly somet
 
 ### Relevant Sightings
 
-* [2015-03-08T17:32:00.000Z - Quintana Roo, Mexico](https://ebird.org/checklist/S206241196) (Only Sighting / Photo)
+* [03-08-2015 - Quintana Roo, Mexico](https://ebird.org/checklist/S206241196) (Only Sighting / Photo)
 
 ### Places Seen
 

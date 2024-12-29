@@ -34,7 +34,7 @@ The sand martin (Riparia riparia), also known as collared sand martin or common 
 
 ### Relevant Sightings
 
-* [2024-09-08T21:03:00.000Z - California, United States](https://ebird.org/checklist/S194467710) (Only Sighting)
+* [09-08-2024 - California, United States](https://ebird.org/checklist/S194467710) (Only Sighting)
 
 ### Places Seen
 

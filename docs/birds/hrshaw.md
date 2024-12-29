@@ -38,7 +38,7 @@ Harris's hawk is notable for its behavior of hunting cooperatively in packs cons
 
 ### Relevant Sightings
 
-* [2024-10-12T21:24:00.000Z - Valparaíso, Chile](https://ebird.org/checklist/S198994232) (Only Sighting)
+* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994232) (Only Sighting)
 
 ### Places Seen
 

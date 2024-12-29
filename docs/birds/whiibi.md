@@ -37,7 +37,7 @@ Human pollution has affected the behavior of the American white ibis via an incr
 
 ### Relevant Sightings
 
-* [2024-07-05T16:19:00.000Z - Florida, United States](https://ebird.org/checklist/S185489786) (Only Sighting)
+* [07-05-2024 - Florida, United States](https://ebird.org/checklist/S185489786) (Only Sighting)
 
 ### Places Seen
 

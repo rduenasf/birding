@@ -34,7 +34,7 @@ The Chilean tinamou (Nothoprocta perdicaria) is a type of tinamou commonly found
 
 ### Relevant Sightings
 
-* [2024-10-19T15:09:00.000Z - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199748080) (Only Sighting)
+* [10-19-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199748080) (Only Sighting)
 
 ### Places Seen
 

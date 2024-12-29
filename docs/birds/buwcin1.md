@@ -34,7 +34,7 @@ The buff-winged cinclodes (Cinclodes fuscus) is a species of bird in the Furnari
 
 ### Relevant Sightings
 
-* [2024-10-12T22:13:00.000Z - Valparaíso, Chile](https://ebird.org/checklist/S198994241) (Only Sighting)
+* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994241) (Only Sighting)
 
 ### Places Seen
 

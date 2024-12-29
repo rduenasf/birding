@@ -34,7 +34,7 @@ The mountain caracara (Phalcoboenus megalopterus), (Spanish: corequenque) is a s
 
 ### Relevant Sightings
 
-* [2024-10-19T18:54:00.000Z - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524270) (Only Sighting)
+* [10-19-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524270) (Only Sighting)
 
 ### Places Seen
 

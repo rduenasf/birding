@@ -35,7 +35,7 @@ Its natural habitat is subtropical and tropical moist montane forests. It prefer
 
 ### Relevant Sightings
 
-* [2024-05-03T18:18:00.000Z - Morelos, Mexico](https://ebird.org/checklist/S171768271) (Only Sighting)
+* [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768271) (Only Sighting)
 
 ### Places Seen
 

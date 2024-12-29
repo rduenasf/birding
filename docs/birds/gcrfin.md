@@ -34,7 +34,7 @@ The gray-crowned rosy finch or gray-crowned rosy-finch (Leucosticte tephrocotis)
 
 ### Relevant Sightings
 
-* [2024-09-06T17:43:00.000Z - California, United States](https://ebird.org/checklist/S195013546) (Only Sighting / Photo)
+* [09-06-2024 - California, United States](https://ebird.org/checklist/S195013546) (Only Sighting / Photo)
 
 ### Places Seen
 

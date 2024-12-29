@@ -34,7 +34,7 @@ The northern shrike (Lanius borealis) is a large songbird species in the shrike 
 
 ### Relevant Sightings
 
-* [2024-04-07T17:15:00.000Z - Ontario, Canada](https://ebird.org/checklist/S167557450) (Only Sighting)
+* [04-07-2024 - Ontario, Canada](https://ebird.org/checklist/S167557450) (Only Sighting)
 
 ### Places Seen
 

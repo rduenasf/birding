@@ -34,7 +34,7 @@ The greater roadrunner (Geococcyx californianus) is a long-legged bird in the cu
 
 ### Relevant Sightings
 
-* [2024-09-04T19:04:00.000Z - California, United States](https://ebird.org/checklist/S195013391) (Only Sighting)
+* [09-04-2024 - California, United States](https://ebird.org/checklist/S195013391) (Only Sighting)
 
 ### Places Seen
 

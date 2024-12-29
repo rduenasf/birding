@@ -39,7 +39,7 @@ The song is a whistled tee tee tee.[^1]
 
 ### Relevant Sightings
 
-* [2024-03-10T15:45:00.000Z - California, United States](https://ebird.org/checklist/S164344784) (Only Sighting)
+* [03-10-2024 - California, United States](https://ebird.org/checklist/S164344784) (Only Sighting)
 
 ### Places Seen
 

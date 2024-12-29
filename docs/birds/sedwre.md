@@ -36,7 +36,7 @@ The grass wren (Cistothorus platensis) is a species of passerine bird in the fam
 
 ### Relevant Sightings
 
-* [2024-05-03T21:50:00.000Z - Ciudad de México, Mexico](https://ebird.org/checklist/S171944247) (Only Sighting)
+* [05-03-2024 - Ciudad de México, Mexico](https://ebird.org/checklist/S171944247) (Only Sighting)
 
 ### Places Seen
 

@@ -36,7 +36,7 @@ The northern gannet was previously hunted for food in certain parts of its range
 
 ### Relevant Sightings
 
-* [2024-06-22T19:58:00.000Z - California, United States](https://ebird.org/checklist/S183306516) (Only Sighting)
+* [06-22-2024 - California, United States](https://ebird.org/checklist/S183306516) (Only Sighting)
 
 ### Places Seen
 

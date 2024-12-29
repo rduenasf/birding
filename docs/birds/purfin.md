@@ -36,7 +36,7 @@ The purple finch (Haemorhous purpureus) is a bird in the finch family, Fringilli
 
 ### Relevant Sightings
 
-* [2024-12-08T15:14:00.000Z - California, United States](https://ebird.org/checklist/S204849205) (Only Sighting / Recording)
+* [12-08-2024 - California, United States](https://ebird.org/checklist/S204849205) (Only Sighting / Recording)
 
 ### Places Seen
 

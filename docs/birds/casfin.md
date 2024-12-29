@@ -34,7 +34,7 @@ Cassin's finch (Haemorhous cassinii) is a bird in the finch family, Fringillidae
 
 ### Relevant Sightings
 
-* [2024-09-08T16:09:00.000Z - California, United States](https://ebird.org/checklist/S194427186) (Only Sighting)
+* [09-08-2024 - California, United States](https://ebird.org/checklist/S194427186) (Only Sighting)
 
 ### Places Seen
 

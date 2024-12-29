@@ -36,7 +36,7 @@ The yellow-billed teal  (Anas flavirostris) is a South American species of duck.
 
 ### Relevant Sightings
 
-* [2024-10-22T03:04:00.000Z - Libertador General Bernardo O'Higgins, Chile](https://ebird.org/checklist/S199827532) (Only Sighting)
+* [10-21-2024 - Libertador General Bernardo O'Higgins, Chile](https://ebird.org/checklist/S199827532) (Only Sighting)
 
 ### Places Seen
 

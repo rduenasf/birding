@@ -78,8 +78,13 @@ function generateSightings({
   photographed,
   recorded,
 }) {
-  if (observations.length === 1)
-    return `* [${observations[0].datetime} - ${
+  if (observations.length === 1) {
+    const date = new Date(observations[0].datetime);
+    const formattedDate = `${String(date.getMonth() + 1).padStart(
+      2,
+      "0"
+    )}-${String(date.getDate()).padStart(2, "0")}-${date.getFullYear()}`;
+    return `* [${formattedDate} - ${
       stateMap[observations[0]["state/Province"]].name
     }, ${
       stateMap[observations[0]["state/Province"]].countryName
@@ -88,6 +93,7 @@ function generateSightings({
     }) (Only Sighting${photographed === 1 ? " / Photo" : ""}${
       recorded === 1 ? " / Recording" : ""
     })`;
+  }
 
   let firstPhotoObs = !!observations[0].photographed;
   let firstRecordingObs = !!observations[0].recorded;

@@ -34,7 +34,7 @@ The black-winged ground dove (Metriopelia melanoptera) is a species of bird in t
 
 ### Relevant Sightings
 
-* [2024-10-19T19:42:00.000Z - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524278) (Only Sighting)
+* [10-19-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524278) (Only Sighting)
 
 ### Places Seen
 

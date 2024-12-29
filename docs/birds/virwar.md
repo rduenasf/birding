@@ -35,7 +35,7 @@ Despite what its name may suggest, Virginia's warbler is not actually named afte
 
 ### Relevant Sightings
 
-* [2024-04-28T14:45:00.000Z - Arizona, United States](https://ebird.org/checklist/S170824758) (Only Sighting)
+* [04-28-2024 - Arizona, United States](https://ebird.org/checklist/S170824758) (Only Sighting)
 
 ### Places Seen
 

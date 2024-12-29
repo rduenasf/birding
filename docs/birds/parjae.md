@@ -34,7 +34,7 @@ The parasitic jaeger (North America) or Arctic skua (Europe) (Stercorarius paras
 
 ### Relevant Sightings
 
-* [2024-09-15T16:16:00.000Z - Washington, United States](https://ebird.org/checklist/S195264549) (Only Sighting)
+* [09-15-2024 - Washington, United States](https://ebird.org/checklist/S195264549) (Only Sighting)
 
 ### Places Seen
 

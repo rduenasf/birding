@@ -36,7 +36,7 @@ Eggs and young are vulnerable to predation by mammals such as rats and American 
 
 ### Relevant Sightings
 
-* [2024-09-08T18:27:00.000Z - California, United States](https://ebird.org/checklist/S194447788) (Only Sighting)
+* [09-08-2024 - California, United States](https://ebird.org/checklist/S194447788) (Only Sighting)
 
 ### Places Seen
 

@@ -35,7 +35,7 @@ It is a circumpolar breeder in Arctic or subarctic regions. Birds that breed in 
 
 ### Relevant Sightings
 
-* [2024-03-31T15:25:00.000Z - California, United States](https://ebird.org/checklist/S166695330) (Only Sighting)
+* [03-31-2024 - California, United States](https://ebird.org/checklist/S166695330) (Only Sighting)
 
 ### Places Seen
 

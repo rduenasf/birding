@@ -34,7 +34,7 @@ The pileated woodpecker ( PY-lee-ay-tid, PIL-ee-; Dryocopus pileatus) is a large
 
 ### Relevant Sightings
 
-* [2024-04-09T23:58:00.000Z - Ontario, Canada](https://ebird.org/checklist/S167923446) (Only Sighting)
+* [04-09-2024 - Ontario, Canada](https://ebird.org/checklist/S167923446) (Only Sighting)
 
 ### Places Seen
 

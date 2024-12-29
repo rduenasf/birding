@@ -35,7 +35,7 @@ Other names that have been used for the redhead include red-headed duck and the 
 
 ### Relevant Sightings
 
-* [2024-01-15T16:28:00.000Z - California, United States](https://ebird.org/checklist/S159001730) (Only Sighting)
+* [01-15-2024 - California, United States](https://ebird.org/checklist/S159001730) (Only Sighting)
 
 ### Places Seen
 

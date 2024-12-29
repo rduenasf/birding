@@ -35,7 +35,7 @@ It is found in Argentina, Bolivia, Chile, Colombia, Ecuador, and Peru. Its natur
 
 ### Relevant Sightings
 
-* [2024-10-19T16:19:00.000Z - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524251) (Only Sighting)
+* [10-19-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524251) (Only Sighting)
 
 ### Places Seen
 

@@ -34,7 +34,7 @@ The red-masked parakeet (Psittacara erythrogenys) is a medium-sized parrot from 
 
 ### Relevant Sightings
 
-* [2024-06-06T02:04:00.000Z - California, United States](https://ebird.org/checklist/S179653911) (Only Sighting)
+* [06-05-2024 - California, United States](https://ebird.org/checklist/S179653911) (Only Sighting)
 
 ### Places Seen
 

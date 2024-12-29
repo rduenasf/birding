@@ -34,7 +34,7 @@ The sandhill crane (Antigone canadensis) is a species of large crane of North Am
 
 ### Relevant Sightings
 
-* [2024-04-07T17:15:00.000Z - Ontario, Canada](https://ebird.org/checklist/S167557450) (Only Sighting)
+* [04-07-2024 - Ontario, Canada](https://ebird.org/checklist/S167557450) (Only Sighting)
 
 ### Places Seen
 

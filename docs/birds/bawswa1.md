@@ -34,7 +34,7 @@ The blue-and-white swallow (Pygochelidon cyanoleuca) is a passerine bird that br
 
 ### Relevant Sightings
 
-* [2024-10-19T17:56:00.000Z - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524262) (Only Sighting)
+* [10-19-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524262) (Only Sighting)
 
 ### Places Seen
 

@@ -34,7 +34,7 @@ The hermit warbler (Setophaga occidentalis) is a small perching bird. It is a sp
 
 ### Relevant Sightings
 
-* [2024-04-27T15:53:00.000Z - Arizona, United States](https://ebird.org/checklist/S170587140) (Only Sighting)
+* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170587140) (Only Sighting)
 
 ### Places Seen
 

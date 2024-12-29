@@ -34,7 +34,7 @@ The lesser yellowlegs (Tringa flavipes) is a medium-sized shorebird. It breeds i
 
 ### Relevant Sightings
 
-* [2024-07-20T15:55:00.000Z - California, United States](https://ebird.org/checklist/S190446672) (Only Sighting)
+* [07-20-2024 - California, United States](https://ebird.org/checklist/S190446672) (Only Sighting)
 
 ### Places Seen
 

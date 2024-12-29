@@ -37,7 +37,7 @@ The range extends from central Peru and western Bolivia southwards through Chile
 
 ### Relevant Sightings
 
-* [2024-10-19T19:42:00.000Z - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524278) (Only Sighting / Photo)
+* [10-19-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524278) (Only Sighting / Photo)
 
 ### Places Seen
 

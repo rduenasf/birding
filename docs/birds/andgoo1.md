@@ -34,7 +34,7 @@ The Andean goose (Chloephaga melanoptera) is a species of waterfowl in tribe Tad
 
 ### Relevant Sightings
 
-* [2024-10-11T15:23:00.000Z - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398135) (Only Sighting)
+* [10-11-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398135) (Only Sighting)
 
 ### Places Seen
 

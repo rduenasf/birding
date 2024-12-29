@@ -36,7 +36,7 @@ The ruff forages in wet grassland and soft mud, probing or searching by sight fo
 
 ### Relevant Sightings
 
-* [2024-07-20T15:55:00.000Z - California, United States](https://ebird.org/checklist/S190446672) (Only Sighting)
+* [07-20-2024 - California, United States](https://ebird.org/checklist/S190446672) (Only Sighting)
 
 ### Places Seen
 

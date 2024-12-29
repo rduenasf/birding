@@ -34,7 +34,7 @@ The Pacific loon or Pacific diver (Gavia pacifica), is a medium-sized member of 
 
 ### Relevant Sightings
 
-* [2024-06-22T15:35:00.000Z - California, United States](https://ebird.org/checklist/S183306526) (Only Sighting)
+* [06-22-2024 - California, United States](https://ebird.org/checklist/S183306526) (Only Sighting)
 
 ### Places Seen
 

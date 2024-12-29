@@ -35,7 +35,7 @@ The anhinga is placed in the darter family, Anhingidae, and is closely related t
 
 ### Relevant Sightings
 
-* [2024-07-06T02:00:00.000Z - Florida, United States](https://ebird.org/checklist/S185535945) (Only Sighting)
+* [07-05-2024 - Florida, United States](https://ebird.org/checklist/S185535945) (Only Sighting)
 
 ### Places Seen
 

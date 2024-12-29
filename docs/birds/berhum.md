@@ -36,7 +36,7 @@ The berylline hummingbird (Saucerottia beryllina) is a species of hummingbird in
 
 ### Relevant Sightings
 
-* [2024-05-03T23:25:00.000Z - Ciudad de México, Mexico](https://ebird.org/checklist/S171944260) (Only Sighting)
+* [05-03-2024 - Ciudad de México, Mexico](https://ebird.org/checklist/S171944260) (Only Sighting)
 
 ### Places Seen
 

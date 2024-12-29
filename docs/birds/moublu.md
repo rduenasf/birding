@@ -34,7 +34,7 @@ The mountain bluebird (Sialia currucoides) is a migratory small thrush that is f
 
 ### Relevant Sightings
 
-* [2024-09-08T00:59:00.000Z - California, United States](https://ebird.org/checklist/S194340002) (Only Sighting)
+* [09-07-2024 - California, United States](https://ebird.org/checklist/S194340002) (Only Sighting)
 
 ### Places Seen
 

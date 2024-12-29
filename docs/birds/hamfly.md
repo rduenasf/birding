@@ -34,7 +34,7 @@ Hammond's flycatcher (Empidonax hammondii) is a flycatcher in the family Tyranni
 
 ### Relevant Sightings
 
-* [2024-04-28T15:57:00.000Z - Arizona, United States](https://ebird.org/checklist/S170824764) (Only Sighting)
+* [04-28-2024 - Arizona, United States](https://ebird.org/checklist/S170824764) (Only Sighting)
 
 ### Places Seen
 

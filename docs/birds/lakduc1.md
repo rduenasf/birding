@@ -34,7 +34,7 @@ The lake duck (Oxyura vittata) is a small, South American stiff-tailed duck. It 
 
 ### Relevant Sightings
 
-* [2024-10-11T17:44:00.000Z - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398422) (Only Sighting / Photo)
+* [10-11-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398422) (Only Sighting / Photo)
 
 ### Places Seen
 

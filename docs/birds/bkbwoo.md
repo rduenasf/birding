@@ -34,7 +34,7 @@ The black-backed woodpecker (Picoides arcticus), also known as the Arctic three-
 
 ### Relevant Sightings
 
-* [2024-09-07T22:41:00.000Z - California, United States](https://ebird.org/checklist/S194330060) (Only Sighting)
+* [09-07-2024 - California, United States](https://ebird.org/checklist/S194330060) (Only Sighting)
 
 ### Places Seen
 

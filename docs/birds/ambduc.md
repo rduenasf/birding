@@ -36,7 +36,7 @@ The American black duck is considered to be a species of least concern by the In
 
 ### Relevant Sightings
 
-* [2024-04-13T16:10:00.000Z - Ontario, Canada](https://ebird.org/checklist/S168448531) (Only Sighting)
+* [04-13-2024 - Ontario, Canada](https://ebird.org/checklist/S168448531) (Only Sighting)
 
 ### Places Seen
 

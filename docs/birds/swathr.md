@@ -34,7 +34,7 @@ Swainson's thrush (Catharus ustulatus), also called olive-backed thrush and russ
 
 ### Relevant Sightings
 
-* [2024-05-11T15:09:00.000Z - California, United States](https://ebird.org/checklist/S173585635) (Only Sighting)
+* [05-11-2024 - California, United States](https://ebird.org/checklist/S173585635) (Only Sighting)
 
 ### Places Seen
 

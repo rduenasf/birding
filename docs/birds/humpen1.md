@@ -36,7 +36,7 @@ The Humboldt penguin has become a focus of ecotourism over the last decades.[^1]
 
 ### Relevant Sightings
 
-* [2024-10-12T20:47:00.000Z - Valparaíso, Chile](https://ebird.org/checklist/S198994214) (Only Sighting)
+* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994214) (Only Sighting)
 
 ### Places Seen
 

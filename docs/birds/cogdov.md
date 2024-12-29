@@ -34,7 +34,7 @@ The common ground dove (Columbina passerina) is a small bird that inhabits the s
 
 ### Relevant Sightings
 
-* [2024-07-06T02:00:00.000Z - Florida, United States](https://ebird.org/checklist/S185535945) (Only Sighting)
+* [07-05-2024 - Florida, United States](https://ebird.org/checklist/S185535945) (Only Sighting)
 
 ### Places Seen
 

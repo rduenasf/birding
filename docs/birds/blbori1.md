@@ -34,7 +34,7 @@ The black-backed oriole (Icterus abeillei) is a species of bird in the family Ic
 
 ### Relevant Sightings
 
-* [2024-05-04T00:44:00.000Z - Ciudad de México, Mexico](https://ebird.org/checklist/S171944278) (Only Sighting)
+* [05-03-2024 - Ciudad de México, Mexico](https://ebird.org/checklist/S171944278) (Only Sighting)
 
 ### Places Seen
 

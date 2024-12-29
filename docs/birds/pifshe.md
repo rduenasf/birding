@@ -39,7 +39,7 @@ Numbers of this shearwater have been reduced due to predation by introduced spec
 
 ### Relevant Sightings
 
-* [2024-06-22T18:52:00.000Z - California, United States](https://ebird.org/checklist/S183306531) (Only Sighting)
+* [06-22-2024 - California, United States](https://ebird.org/checklist/S183306531) (Only Sighting)
 
 ### Places Seen
 

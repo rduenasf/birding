@@ -37,7 +37,7 @@ They wait on an open perch usually rather high or on top of the tree and fly out
 
 ### Relevant Sightings
 
-* [2024-05-03T14:20:00.000Z - Morelos, Mexico](https://ebird.org/checklist/S171768235) (Only Sighting)
+* [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768235) (Only Sighting)
 
 ### Places Seen
 

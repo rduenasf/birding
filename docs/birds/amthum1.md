@@ -34,7 +34,7 @@ The amethyst-throated mountaingem (Lampornis amethystinus), also called amethyst
 
 ### Relevant Sightings
 
-* [2024-05-03T16:54:00.000Z - Morelos, Mexico](https://ebird.org/checklist/S171768259) (Only Sighting)
+* [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768259) (Only Sighting)
 
 ### Places Seen
 

@@ -34,7 +34,7 @@ The Picui ground dove or Picui dove (Columbina picui) is a species of bird in th
 
 ### Relevant Sightings
 
-* [2024-10-11T21:46:00.000Z - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398308) (Only Sighting)
+* [10-11-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398308) (Only Sighting)
 
 ### Places Seen
 

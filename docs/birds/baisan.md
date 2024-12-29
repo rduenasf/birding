@@ -34,7 +34,7 @@ Baird's sandpiper (Calidris bairdii) is a small shorebird. It is among those cal
 
 ### Relevant Sightings
 
-* [2024-08-04T14:50:00.000Z - California, United States](https://ebird.org/checklist/S190211534) (Only Sighting)
+* [08-04-2024 - California, United States](https://ebird.org/checklist/S190211534) (Only Sighting)
 
 ### Places Seen
 

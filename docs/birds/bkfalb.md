@@ -34,7 +34,7 @@ The black-footed albatross (Phoebastria nigripes) is a large seabird of the alba
 
 ### Relevant Sightings
 
-* [2024-06-22T18:52:00.000Z - California, United States](https://ebird.org/checklist/S183306531) (Only Sighting)
+* [06-22-2024 - California, United States](https://ebird.org/checklist/S183306531) (Only Sighting)
 
 ### Places Seen
 

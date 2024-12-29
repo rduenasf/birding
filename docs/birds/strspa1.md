@@ -35,7 +35,7 @@ It is endemic to Mexico where its natural habitats are subtropical or tropical m
 
 ### Relevant Sightings
 
-* [2024-05-03T20:32:00.000Z - Ciudad de México, Mexico](https://ebird.org/checklist/S171944290) (Only Sighting)
+* [05-03-2024 - Ciudad de México, Mexico](https://ebird.org/checklist/S171944290) (Only Sighting)
 
 ### Places Seen
 

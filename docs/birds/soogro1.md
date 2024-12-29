@@ -34,7 +34,7 @@ The sooty grouse (Dendragapus fuliginosus) is a species of forest-dwelling grous
 
 ### Relevant Sightings
 
-* [2024-06-29T17:36:00.000Z - California, United States](https://ebird.org/checklist/S184475505) (Only Sighting / Photo)
+* [06-29-2024 - California, United States](https://ebird.org/checklist/S184475505) (Only Sighting / Photo)
 
 ### Places Seen
 

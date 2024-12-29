@@ -39,7 +39,7 @@ This swift is normally silent when seen solitary and noisy when encountered in a
 
 ### Relevant Sightings
 
-* [2024-05-03T23:08:00.000Z - Ciudad de México, Mexico](https://ebird.org/checklist/S171767670) (Only Sighting)
+* [05-03-2024 - Ciudad de México, Mexico](https://ebird.org/checklist/S171767670) (Only Sighting)
 
 ### Places Seen
 

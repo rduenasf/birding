@@ -35,7 +35,7 @@ The range of the common myna is increasing at such a rapid rate that in 2000 the
 
 ### Relevant Sightings
 
-* [2024-07-06T17:32:00.000Z - Florida, United States](https://ebird.org/checklist/S185633517) (Only Sighting)
+* [07-06-2024 - Florida, United States](https://ebird.org/checklist/S185633517) (Only Sighting)
 
 ### Places Seen
 

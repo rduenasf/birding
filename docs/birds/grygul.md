@@ -34,7 +34,7 @@ The grey gull, also known as garuma gull (Leucophaeus modestus) is a medium-size
 
 ### Relevant Sightings
 
-* [2024-10-12T18:03:00.000Z - Valparaíso, Chile](https://ebird.org/checklist/S198994043) (Only Sighting)
+* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994043) (Only Sighting)
 
 ### Places Seen
 

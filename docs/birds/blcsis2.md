@@ -34,7 +34,7 @@ The black-chinned siskin (Spinus barbatus) is a species of finch in the family F
 
 ### Relevant Sightings
 
-* [2024-10-19T20:26:00.000Z - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524285) (Only Sighting)
+* [10-19-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S199524285) (Only Sighting)
 
 ### Places Seen
 

@@ -34,7 +34,7 @@ The blue-winged teal (Spatula discors) is a species of bird in the duck, goose, 
 
 ### Relevant Sightings
 
-* [2024-02-24T15:54:00.000Z - California, United States](https://ebird.org/checklist/S162799737) (Only Sighting)
+* [02-24-2024 - California, United States](https://ebird.org/checklist/S162799737) (Only Sighting)
 
 ### Places Seen
 

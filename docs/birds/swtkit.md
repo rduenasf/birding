@@ -34,7 +34,7 @@ The swallow-tailed kite (Elanoides forficatus) is a pernine raptor which breeds 
 
 ### Relevant Sightings
 
-* [2024-07-05T15:40:00.000Z - Florida, United States](https://ebird.org/checklist/S185429884) (Only Sighting)
+* [07-05-2024 - Florida, United States](https://ebird.org/checklist/S185429884) (Only Sighting)
 
 ### Places Seen
 

@@ -34,7 +34,7 @@ The rufous hummingbird (Selasphorus rufus) is a small hummingbird, about 8 cm (3
 
 ### Relevant Sightings
 
-* [2024-02-11T16:47:00.000Z - California, United States](https://ebird.org/checklist/S161327433) (Only Sighting)
+* [02-11-2024 - California, United States](https://ebird.org/checklist/S161327433) (Only Sighting)
 
 ### Places Seen
 

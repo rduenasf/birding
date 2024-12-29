@@ -35,7 +35,7 @@ It is found in Chile and adjacent areas of south-western Argentina.[^1]
 
 ### Relevant Sightings
 
-* [2024-10-12T22:13:00.000Z - Valparaíso, Chile](https://ebird.org/checklist/S198994241) (Only Sighting)
+* [10-12-2024 - Valparaíso, Chile](https://ebird.org/checklist/S198994241) (Only Sighting)
 
 ### Places Seen
 

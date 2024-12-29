@@ -34,7 +34,7 @@ The dusky-tailed canastero (Pseudasthenes humicola) is a species of bird in the 
 
 ### Relevant Sightings
 
-* [2024-10-13T15:48:00.000Z - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198994397) (Only Sighting)
+* [10-13-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198994397) (Only Sighting)
 
 ### Places Seen
 

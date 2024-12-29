@@ -34,7 +34,7 @@ The American black swift, or more simply black swift (Cypseloides niger), is a s
 
 ### Relevant Sightings
 
-* [2024-05-25T17:32:00.000Z - California, United States](https://ebird.org/checklist/S177364706) (Only Sighting)
+* [05-25-2024 - California, United States](https://ebird.org/checklist/S177364706) (Only Sighting)
 
 ### Places Seen
 
