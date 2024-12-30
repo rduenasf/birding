@@ -395,6 +395,21 @@ ${birdsByYear[year]
           .map((region) => `[${region}](https://ebird.org/region/${region})`)
           .join(", ")}
 * Dates: ${currentTripReport.startDate} - ${currentTripReport.endDate}
+${
+  currentTripReport.lifers
+    ? `* <FAIcon icon="fa-solid fa-eye"/> Lifers: ${currentTripReport.lifers}`
+    : ""
+}
+${
+  currentTripReport.photoLifers
+    ? `* <FAIcon icon="fa-solid fa-camera"/> Lifers: ${currentTripReport.photoLifers}`
+    : ""
+}
+${
+  currentTripReport.recordingLifers
+    ? `* <FAIcon icon="fa-solid fa-microphone-lines"/> Recording Lifers: ${currentTripReport.recordingLifers}`
+    : ""
+}
 
 See details at [eBird](${currentTripReport.url}) 
 

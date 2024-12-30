@@ -34,8 +34,8 @@
     "endDate": "2024-10-26",
     "country": "CL",
     "lifers": 71,
-    "photo_lifers": 15,
-    "audio_lifers": 0,
+    "photoLifers": 15,
+    "audioLifers": 0,
     "regions": ["CL-LI", "CL-RM", "CL-VS"]
   },
   {
@@ -67,8 +67,8 @@
     "endDate": "2024-07-07",
     "country": "US",
     "lifers": 9,
-    "photo_lifers": 4,
-    "audio_lifers": 0,
+    "photoLifers": 4,
+    "audioLifers": 0,
     "regions": ["US-FL-086", "US-FL-087"]
   },
   {
@@ -90,8 +90,8 @@
     "endDate": "2024-05-03",
     "country": "MX",
     "lifers": 60,
-    "photo_lifers": 0,
-    "audio_lifers": 0,
+    "photoLifers": 0,
+    "audioLifers": 0,
     "regions": ["MX-DIF", "MX-MOR"]
   },
   {
@@ -118,8 +118,32 @@
     "endDate": "2024-04-28",
     "country": "US",
     "lifers": 66,
-    "photo_lifers": 1,
-    "audio_lifers": 0,
+    "photoLifers": 1,
+    "audioLifers": 0,
     "regions": ["US-AZ-019", "US-AZ-023"]
+  },
+  {
+    "id": "254647",
+    "url": "https://ebird.org/tripreport/254647",
+    "checklists": [
+      "S183306505",
+      "S183306533",
+      "S183306532",
+      "S183306516",
+      "S183306531",
+      "S183306530",
+      "S183306529",
+      "S183306528",
+      "S183306526",
+      "S183306525"
+    ],
+    "title": "Pelagic @ Sausalito - 22 June 2024",
+    "startDate": "2024-06-22",
+    "endDate": "2024-06-22",
+    "country": "US",
+    "lifers": 13,
+    "photoLifers": 1,
+    "audioLifers": 0,
+    "regions": ["US-CA-041", "US-CA-075"]
   }
 ]

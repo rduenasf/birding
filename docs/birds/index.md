@@ -40,6 +40,9 @@ import BirdCard from '@site/src/components/BirdCard';
 
 * Regions Visited: [CL-LI](https://ebird.org/region/CL-LI), [CL-RM](https://ebird.org/region/CL-RM), [CL-VS](https://ebird.org/region/CL-VS)
 * Dates: 2024-10-06 - 2024-10-26
+* <FAIcon icon="fa-solid fa-eye"/> Lifers: 71
+* <FAIcon icon="fa-solid fa-camera"/> Lifers: 15
+
 
 See details at [eBird](https://ebird.org/tripreport/284688) 
 
@@ -841,6 +844,9 @@ See details at [eBird](https://ebird.org/tripreport/284688)
 
 * Regions Visited: [US-FL-086](https://ebird.org/region/US-FL-086), [US-FL-087](https://ebird.org/region/US-FL-087)
 * Dates: 2024-07-03 - 2024-07-07
+* <FAIcon icon="fa-solid fa-eye"/> Lifers: 9
+* <FAIcon icon="fa-solid fa-camera"/> Lifers: 4
+
 
 See details at [eBird](https://ebird.org/tripreport/284690) 
 
@@ -954,6 +960,23 @@ See details at [eBird](https://ebird.org/tripreport/284690)
 
 
 
+      </div></div>
+      ### Pelagic @ Sausalito - 22 June 2024
+      <div className="container tripReport">
+       :::tip[Trip Report Summary]
+
+* Regions Visited: [US-CA-041](https://ebird.org/region/US-CA-041), [US-CA-075](https://ebird.org/region/US-CA-075)
+* Dates: 2024-06-22 - 2024-06-22
+* <FAIcon icon="fa-solid fa-eye"/> Lifers: 13
+* <FAIcon icon="fa-solid fa-camera"/> Lifers: 1
+
+
+See details at [eBird](https://ebird.org/tripreport/254647) 
+
+:::
+
+      <div className="row">
+
     <BirdCard
       index="337"
       name="Cocos Booby"
@@ -969,8 +992,7 @@ See details at [eBird](https://ebird.org/tripreport/284690)
       speciesCode="norgan"
        
       />
-</div>
-    <div className="row">
+
 
 
     <BirdCard
@@ -979,7 +1001,8 @@ See details at [eBird](https://ebird.org/tripreport/284690)
       speciesCode="pifshe"
        
       />
-
+</div>
+    <div className="row">
 
 
     <BirdCard
@@ -997,8 +1020,7 @@ See details at [eBird](https://ebird.org/tripreport/284690)
       speciesCode="sooshe"
        
       />
-</div>
-    <div className="row">
+
 
 
     <BirdCard
@@ -1007,7 +1029,8 @@ See details at [eBird](https://ebird.org/tripreport/284690)
       speciesCode="tufpuf"
        
       />
-
+</div>
+    <div className="row">
 
 
     <BirdCard
@@ -1025,8 +1048,7 @@ See details at [eBird](https://ebird.org/tripreport/284690)
       speciesCode="rhiauk"
        
       />
-</div>
-    <div className="row">
+
 
 
     <BirdCard
@@ -1035,7 +1057,8 @@ See details at [eBird](https://ebird.org/tripreport/284690)
       speciesCode="pacloo"
        
       />
-
+</div>
+    <div className="row">
 
 
     <BirdCard
@@ -1053,8 +1076,7 @@ See details at [eBird](https://ebird.org/tripreport/284690)
       speciesCode="commur"
       photo="627868853" 
       />
-</div>
-    <div className="row">
+
 
 
     <BirdCard
@@ -1063,7 +1085,8 @@ See details at [eBird](https://ebird.org/tripreport/284690)
       speciesCode="heegul"
        
       />
-
+</div>
+    <div className="row">
 
 
     <BirdCard
@@ -1075,14 +1098,17 @@ See details at [eBird](https://ebird.org/tripreport/284690)
 
 
 
+        </div></div>
+        <div className="container ">
+        <div className="row">
+
     <BirdCard
       index="324"
       name="Red-masked Parakeet"
       speciesCode="rempar"
        
       />
-</div>
-    <div className="row">
+
 
 
     <BirdCard
@@ -1100,7 +1126,8 @@ See details at [eBird](https://ebird.org/tripreport/284690)
       speciesCode="blkswi"
        
       />
-
+</div>
+    <div className="row">
 
 
     <BirdCard
@@ -1109,8 +1136,7 @@ See details at [eBird](https://ebird.org/tripreport/284690)
       speciesCode="naswar"
        
       />
-</div>
-    <div className="row">
+
 
 
     <BirdCard
@@ -1128,7 +1154,8 @@ See details at [eBird](https://ebird.org/tripreport/284690)
       speciesCode="blkoys"
       photo="619242520" 
       />
-
+</div>
+    <div className="row">
 
 
     <BirdCard
@@ -1137,8 +1164,7 @@ See details at [eBird](https://ebird.org/tripreport/284690)
       speciesCode="bulori"
        
       />
-</div>
-    <div className="row">
+
 
 
     <BirdCard
@@ -1156,7 +1182,8 @@ See details at [eBird](https://ebird.org/tripreport/284690)
       speciesCode="calqua"
        
       recording="626995524"/>
-
+</div>
+    <div className="row">
 
 
       </div></div>
@@ -1166,6 +1193,9 @@ See details at [eBird](https://ebird.org/tripreport/284690)
 
 * Regions Visited: [MX-DIF](https://ebird.org/region/MX-DIF), [MX-MOR](https://ebird.org/region/MX-MOR)
 * Dates: 2024-05-03 - 2024-05-03
+* <FAIcon icon="fa-solid fa-eye"/> Lifers: 60
+
+
 
 See details at [eBird](https://ebird.org/tripreport/230939/320416) 
 
@@ -1740,6 +1770,9 @@ See details at [eBird](https://ebird.org/tripreport/230939/320416)
 
 * Regions Visited: [US-AZ-019](https://ebird.org/region/US-AZ-019), [US-AZ-023](https://ebird.org/region/US-AZ-023)
 * Dates: 2024-04-26 - 2024-04-28
+* <FAIcon icon="fa-solid fa-eye"/> Lifers: 66
+* <FAIcon icon="fa-solid fa-camera"/> Lifers: 1
+
 
 See details at [eBird](https://ebird.org/tripreport/228402/316876) 
 
