@@ -48,9 +48,9 @@ The range extends from central Peru and western Bolivia southwards through Chile
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/625246862/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/625246864/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/625246863/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe vertical" src="https://macaulaylibrary.org/asset/625246862/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe vertical" src="https://macaulaylibrary.org/asset/625246864/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe vertical" src="https://macaulaylibrary.org/asset/625246863/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

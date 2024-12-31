@@ -47,7 +47,7 @@ The western wood pewee (Contopus sordidulus) is a small tyrant flycatcher. Adult
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/619037692/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe vertical" src="https://macaulaylibrary.org/asset/619037692/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

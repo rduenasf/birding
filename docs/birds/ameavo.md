@@ -47,7 +47,7 @@ The American avocet (Recurvirostra americana) is a large wader in the avocet and
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/627928139/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/627928139/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

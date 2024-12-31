@@ -50,10 +50,10 @@ The American pipit (Anthus rubescens), formerly known as the Buff-bellied pipit,
 No photographs available.
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626684923/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626684924/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626684926/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/627926535/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626684923/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626684924/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626684926/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/627926535/embed" frameBorder="0" allowFullScreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/amepip) 

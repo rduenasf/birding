@@ -52,7 +52,7 @@ The nest is made of dry grass and is built by the female. It is placed on or nea
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/625246580/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe vertical" src="https://macaulaylibrary.org/asset/625246580/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

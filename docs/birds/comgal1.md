@@ -49,10 +49,10 @@ The common gallinule (Gallinula galeata) is a bird in the family Rallidae. It wa
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/626996488/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/626996488/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626843308/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626843308/embed" frameBorder="0" allowFullScreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/comgal1) 

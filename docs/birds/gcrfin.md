@@ -45,7 +45,7 @@ The gray-crowned rosy finch or gray-crowned rosy-finch (Leucosticte tephrocotis)
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/627867943/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/627867943/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

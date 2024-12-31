@@ -54,12 +54,12 @@ The great egret (Ardea alba), also known as the common egret, large egret, or (i
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/619242708/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/619242708/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626618062/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626685068/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/627593386/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626618062/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626685068/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/627593386/embed" frameBorder="0" allowFullScreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/greegr) 

@@ -55,9 +55,9 @@ The species name sandwichensis is Latin from Sandwich Sound (now Prince William 
 No photographs available.
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626684620/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626915529/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/627926530/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626684620/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626915529/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/627926530/embed" frameBorder="0" allowFullScreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/savspa) 

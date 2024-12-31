@@ -50,7 +50,7 @@ This species is closely related to the clapper rail, and until recently was cons
 No photographs available.
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626917178/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626917178/embed" frameBorder="0" allowFullScreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/ridrai1) 

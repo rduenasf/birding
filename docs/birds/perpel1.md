@@ -46,8 +46,8 @@ The Peruvian pelican (Pelecanus thagus) is a member of the pelican family. It li
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/627873524/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/627873565/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/627873524/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/627873565/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

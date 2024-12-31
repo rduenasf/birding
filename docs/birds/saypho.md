@@ -51,8 +51,8 @@ Say's phoebe (Sayornis saya) is a passerine bird in the tyrant flycatcher family
 No photographs available.
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626557563/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626447722/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626557563/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626447722/embed" frameBorder="0" allowFullScreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/saypho) 

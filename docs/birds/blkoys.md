@@ -48,8 +48,8 @@ Although the species is not considered threatened, its global population is esti
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/619242520/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/619242521/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe vertical" src="https://macaulaylibrary.org/asset/619242520/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe vertical" src="https://macaulaylibrary.org/asset/619242521/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

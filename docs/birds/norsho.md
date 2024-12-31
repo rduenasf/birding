@@ -51,9 +51,9 @@ The northern shoveler is one of the species to which the Agreement on the Conser
 No photographs available.
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626915520/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626995447/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/627593359/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626915520/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626995447/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/627593359/embed" frameBorder="0" allowFullScreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/norsho) 

@@ -47,8 +47,8 @@ The great grebe (Podiceps major) is the largest species of grebe in the world. A
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/627874550/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/627874551/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/627874550/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/627874551/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

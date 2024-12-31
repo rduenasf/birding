@@ -45,7 +45,7 @@ The Chilean pigeon (Patagioenas araucana) is a species of bird in the family Col
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/625246747/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe vertical" src="https://macaulaylibrary.org/asset/625246747/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

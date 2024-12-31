@@ -48,8 +48,8 @@ The magnificent frigatebird is a large, lightly built seabird with brownish-blac
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/627874839/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/627868077/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/627874839/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/627868077/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

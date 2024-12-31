@@ -49,10 +49,10 @@ The northern pintail is a bird of open wetlands which nests on the ground, often
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/627928092/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/627928092/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626557675/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626557675/embed" frameBorder="0" allowFullScreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/norpin) 

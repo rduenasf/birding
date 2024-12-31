@@ -48,8 +48,8 @@ The Chilean mockingbird (Mimus thenca), locally known as tenca, is a species of 
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/625246481/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/625246482/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe vertical" src="https://macaulaylibrary.org/asset/625246481/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe vertical" src="https://macaulaylibrary.org/asset/625246482/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

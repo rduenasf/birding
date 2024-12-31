@@ -45,8 +45,8 @@ The rock wren (Salpinctes obsoletus) is a small songbird of the wren family nati
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/616427612/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/616427604/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/616427612/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/616427604/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

@@ -48,14 +48,14 @@ The white-tailed kite (Elanus leucurus) is a small raptor found in western North
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/626996149/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626996162/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626996180/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe vertical" src="https://macaulaylibrary.org/asset/626996149/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe vertical" src="https://macaulaylibrary.org/asset/626996162/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe vertical" src="https://macaulaylibrary.org/asset/626996180/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/626618148/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/626995496/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/627593370/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626618148/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626995496/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/627593370/embed" frameBorder="0" allowFullScreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/whtkit) 

@@ -53,19 +53,19 @@ The dark-eyed junco (Junco hyemalis) is a species of junco, a group of small, gr
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/628169392/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/628169423/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/628169424/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/628169432/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/628169477/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/614232433/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628169392/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628169423/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628169424/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628169432/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628169477/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/614232433/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/627219221/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/627219360/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/627219397/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/627628678/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/627628679/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/627219221/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/627219360/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/627219397/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/627628678/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/627628679/embed" frameBorder="0" allowFullScreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/daejun) 

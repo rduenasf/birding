@@ -52,8 +52,8 @@ The brown pelican is the national bird of Saint Martin, Barbados, Saint Kitts an
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/617717278/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/619242703/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/617717278/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/619242703/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

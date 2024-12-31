@@ -48,7 +48,7 @@ In its native range, it is called the pato overo ("piebald duck") or pato real (
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/627867390/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/627867390/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

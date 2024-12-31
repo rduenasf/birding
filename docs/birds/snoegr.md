@@ -52,7 +52,7 @@ The snowy egret is the American counterpart to the very similar Old World little
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/627869446/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/627869446/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

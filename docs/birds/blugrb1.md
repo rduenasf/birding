@@ -47,7 +47,7 @@ The blue grosbeak (Passerina caerulea), is a medium-sized North American passeri
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/627875333/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/627875333/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

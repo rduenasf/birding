@@ -47,7 +47,7 @@ It is found in Argentina and Chile where its natural habitats are subtropical or
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/625246796/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/625246796/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

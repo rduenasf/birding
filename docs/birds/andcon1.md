@@ -50,7 +50,7 @@ The Andean condor is a national symbol of Bolivia, Chile, Colombia, Ecuador, and
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/627875079/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/627875079/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

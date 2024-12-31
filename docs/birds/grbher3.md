@@ -52,8 +52,8 @@ The great blue heron (Ardea herodias) is a large wading bird in the heron family
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/626996232/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://macaulaylibrary.org/asset/619242587/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe vertical" src="https://macaulaylibrary.org/asset/626996232/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe vertical" src="https://macaulaylibrary.org/asset/619242587/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

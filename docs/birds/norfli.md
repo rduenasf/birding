@@ -55,10 +55,10 @@ The northern flicker or common flicker (Colaptes auratus) is a medium-sized bird
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/626996238/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe vertical" src="https://macaulaylibrary.org/asset/626996238/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
-<iframe src="https://macaulaylibrary.org/asset/627593169/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/627593169/embed" frameBorder="0" allowFullScreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/norfli) 

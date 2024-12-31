@@ -47,7 +47,7 @@ The rufous-tailed plantcutter (Phytotoma rara), sometimes called the Chilean pla
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/625246687/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe vertical" src="https://macaulaylibrary.org/asset/625246687/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

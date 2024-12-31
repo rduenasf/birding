@@ -44,8 +44,10 @@ function generatePhotoEmbeds(photos) {
   return photos
     .sort((a, b) => b.averageCommunityRating - a.averageCommunityRating)
     .map(
-      ({ MlCatalogNumber }) =>
-        `<iframe src="https://macaulaylibrary.org/asset/${MlCatalogNumber}/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>`
+      ({ MlCatalogNumber, originalImageHeight, originalImageWidth }) =>
+        `<iframe className="photo_iframe ${
+          originalImageHeight > originalImageWidth ? "vertical" : "horizontal"
+        }" src="https://macaulaylibrary.org/asset/${MlCatalogNumber}/embed" frameBorder="0" allowFullScreen></iframe>`
     )
     .join("\n");
 }
@@ -53,8 +55,8 @@ function generatePhotoEmbeds(photos) {
 function generateAudioEmbeds(audios) {
   return audios
     .map(
-      ({ MlCatalogNumber }) =>
-        `<iframe src="https://macaulaylibrary.org/asset/${MlCatalogNumber}/embed" width="360" height="480" frameborder="0" allowfullscreen></iframe>`
+      ({ MlCatalogNumber, originalImageHeight, originalImageWidth }) =>
+        `<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/${MlCatalogNumber}/embed" frameBorder="0" allowFullScreen></iframe>`
     )
     .join("\n");
 }

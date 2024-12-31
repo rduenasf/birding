@@ -49,7 +49,7 @@ The southern lapwing (Vanellus chilensis), commonly called quero-quero in Brazil
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/614236123/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/614236123/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

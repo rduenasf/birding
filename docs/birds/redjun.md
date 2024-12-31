@@ -47,7 +47,7 @@ Molecular evidence, derived from whole-genome sequencing, has revealed that the 
 
 ## Media
 ### Photographs
-<iframe src="https://macaulaylibrary.org/asset/627868357/embed" width="550" height="560" frameborder="0" allowfullscreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/627868357/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

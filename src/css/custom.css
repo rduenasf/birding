@@ -38,3 +38,34 @@
   margin-bottom: 30px;
 
 }
+
+.audio_iframe {
+  width: 360px;
+  height: 470px; 
+  margin-right: 20px;
+}
+
+.photo_iframe {
+  width: 550px;
+  height: 560px;
+}
+
+/** In mobile view, reduce the padding */
+@media screen and (max-width: 996px) {
+  .audio_iframe, .photo_iframe {
+    width: 100%;
+  }
+
+  .audio_iframe {
+    height: 105vw;
+    margin-right: 0;
+  }
+
+  .photo_iframe.vertical {
+    height: 120vw;
+  }
+
+  .photo_iframe {
+    height: 100vw;
+  }
+}
