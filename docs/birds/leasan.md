@@ -3,6 +3,7 @@ title: "Least Sandpiper"
 scientific_name: "Calidris minutilla"
 order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
+description: "Calidris minutilla is a species of bird in the Scolopacidae (Sandpipers and Allies) family. It has been observed 10 times. It has been recorded."
 species_group: "Shorebirds"
 species_code: "leasan"
 

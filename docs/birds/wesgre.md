@@ -3,6 +3,7 @@ title: "Western Grebe"
 scientific_name: "Aechmophorus occidentalis"
 order: "Podicipediformes"
 family: "Podicipedidae (Grebes)"
+description: "Aechmophorus occidentalis is a species of bird in the Podicipedidae (Grebes) family. It has been observed 11 times."
 species_group: "Grebes"
 species_code: "wesgre"
 

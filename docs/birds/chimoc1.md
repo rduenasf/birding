@@ -3,6 +3,7 @@ title: "Chilean Mockingbird"
 scientific_name: "Mimus thenca"
 order: "Passeriformes"
 family: "Mimidae (Mockingbirds and Thrashers)"
+description: "Mimus thenca is a species of bird in the Mimidae (Mockingbirds and Thrashers) family. It has been observed 7 times. It has been photographed."
 species_group: "Catbirds, Mockingbirds, and Thrashers"
 species_code: "chimoc1"
 

@@ -3,6 +3,7 @@ title: "Long-tailed Duck"
 scientific_name: "Clangula hyemalis"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
+description: "Clangula hyemalis is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 4 times. It has been photographed."
 species_group: "Waterfowl"
 species_code: "lotduc"
 

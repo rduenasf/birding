@@ -3,6 +3,7 @@ title: "Red-bellied Woodpecker"
 scientific_name: "Melanerpes carolinus"
 order: "Piciformes"
 family: "Picidae (Woodpeckers)"
+description: "Melanerpes carolinus is a species of bird in the Picidae (Woodpeckers) family. It has been observed 6 times."
 species_group: "Woodpeckers"
 species_code: "rebwoo"
 

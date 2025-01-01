@@ -3,6 +3,7 @@ title: "Greater Roadrunner"
 scientific_name: "Geococcyx californianus"
 order: "Cuculiformes"
 family: "Cuculidae (Cuckoos)"
+description: "Geococcyx californianus is a species of bird in the Cuculidae (Cuckoos) family. It has been observed 1 times."
 species_group: "Cuckoos"
 species_code: "greroa"
 

@@ -3,6 +3,7 @@ title: "Bell's Vireo"
 scientific_name: "Vireo bellii"
 order: "Passeriformes"
 family: "Vireonidae (Vireos, Shrike-Babblers, and Erpornis)"
+description: "Vireo bellii is a species of bird in the Vireonidae (Vireos, Shrike-Babblers, and Erpornis) family. It has been observed 3 times."
 species_group: "Vireos"
 species_code: "belvir"
 

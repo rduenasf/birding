@@ -3,6 +3,7 @@ title: "Harris's Hawk"
 scientific_name: "Parabuteo unicinctus"
 order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
+description: "Parabuteo unicinctus is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 1 times."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "hrshaw"
 

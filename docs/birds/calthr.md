@@ -3,6 +3,7 @@ title: "California Thrasher"
 scientific_name: "Toxostoma redivivum"
 order: "Passeriformes"
 family: "Mimidae (Mockingbirds and Thrashers)"
+description: "Toxostoma redivivum is a species of bird in the Mimidae (Mockingbirds and Thrashers) family. It has been observed 3 times. It has been recorded."
 species_group: "Catbirds, Mockingbirds, and Thrashers"
 species_code: "calthr"
 

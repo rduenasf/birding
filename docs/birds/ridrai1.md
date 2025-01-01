@@ -3,6 +3,7 @@ title: "Ridgway's Rail"
 scientific_name: "Rallus obsoletus"
 order: "Gruiformes"
 family: "Rallidae (Rails, Gallinules, and Coots)"
+description: "Rallus obsoletus is a species of bird in the Rallidae (Rails, Gallinules, and Coots) family. It has been observed 2 times. It has been recorded."
 species_group: "Rails, Gallinules, and Allies"
 species_code: "ridrai1"
 

@@ -3,6 +3,7 @@ title: "Pileated Woodpecker"
 scientific_name: "Dryocopus pileatus"
 order: "Piciformes"
 family: "Picidae (Woodpeckers)"
+description: "Dryocopus pileatus is a species of bird in the Picidae (Woodpeckers) family. It has been observed 1 times."
 species_group: "Woodpeckers"
 species_code: "pilwoo"
 

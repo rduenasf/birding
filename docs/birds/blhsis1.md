@@ -3,6 +3,7 @@ title: "Black-headed Siskin"
 scientific_name: "Spinus notatus"
 order: "Passeriformes"
 family: "Fringillidae (Finches, Euphonias, and Allies)"
+description: "Spinus notatus is a species of bird in the Fringillidae (Finches, Euphonias, and Allies) family. It has been observed 1 times."
 species_group: "Finches, Euphonias, and Allies"
 species_code: "blhsis1"
 

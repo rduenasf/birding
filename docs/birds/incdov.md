@@ -3,6 +3,7 @@ title: "Inca Dove"
 scientific_name: "Columbina inca"
 order: "Columbiformes"
 family: "Columbidae (Pigeons and Doves)"
+description: "Columbina inca is a species of bird in the Columbidae (Pigeons and Doves) family. It has been observed 4 times."
 species_group: "Pigeons and Doves"
 species_code: "incdov"
 

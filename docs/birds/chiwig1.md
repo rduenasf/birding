@@ -3,6 +3,7 @@ title: "Chiloe Wigeon"
 scientific_name: "Mareca sibilatrix"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
+description: "Mareca sibilatrix is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 2 times. It has been photographed."
 species_group: "Waterfowl"
 species_code: "chiwig1"
 

@@ -3,6 +3,7 @@ title: "Mountain Caracara"
 scientific_name: "Daptrius megalopterus"
 order: "Falconiformes"
 family: "Falconidae (Falcons and Caracaras)"
+description: "Daptrius megalopterus is a species of bird in the Falconidae (Falcons and Caracaras) family. It has been observed 1 times."
 species_group: "Falcons and Caracaras"
 species_code: "moucar1"
 

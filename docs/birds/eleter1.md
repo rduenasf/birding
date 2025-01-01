@@ -3,6 +3,7 @@ title: "Elegant Tern"
 scientific_name: "Thalasseus elegans"
 order: "Charadriiformes"
 family: "Laridae (Gulls, Terns, and Skimmers)"
+description: "Thalasseus elegans is a species of bird in the Laridae (Gulls, Terns, and Skimmers) family. It has been observed 3 times."
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "eleter1"
 

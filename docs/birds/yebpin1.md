@@ -3,6 +3,7 @@ title: "Yellow-billed Pintail"
 scientific_name: "Anas georgica"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
+description: "Anas georgica is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 1 times."
 species_group: "Waterfowl"
 species_code: "yebpin1"
 

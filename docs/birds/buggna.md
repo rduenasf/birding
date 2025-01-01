@@ -3,6 +3,7 @@ title: "Blue-gray Gnatcatcher"
 scientific_name: "Polioptila caerulea"
 order: "Passeriformes"
 family: "Polioptilidae (Gnatcatchers)"
+description: "Polioptila caerulea is a species of bird in the Polioptilidae (Gnatcatchers) family. It has been observed 1 times."
 species_group: "Gnatcatchers"
 species_code: "buggna"
 

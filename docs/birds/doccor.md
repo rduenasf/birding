@@ -3,6 +3,7 @@ title: "Double-crested Cormorant"
 scientific_name: "Nannopterum auritum"
 order: "Suliformes"
 family: "Phalacrocoracidae (Cormorants and Shags)"
+description: "Nannopterum auritum is a species of bird in the Phalacrocoracidae (Cormorants and Shags) family. It has been observed 39 times."
 species_group: "Cormorants and Anhingas"
 species_code: "doccor"
 

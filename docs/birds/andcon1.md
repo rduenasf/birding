@@ -3,6 +3,7 @@ title: "Andean Condor"
 scientific_name: "Vultur gryphus"
 order: "Cathartiformes"
 family: "Cathartidae (New World Vultures)"
+description: "Vultur gryphus is a species of bird in the Cathartidae (New World Vultures) family. It has been observed 2 times. It has been photographed."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "andcon1"
 

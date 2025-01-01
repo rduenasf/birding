@@ -3,6 +3,7 @@ title: "Willet"
 scientific_name: "Tringa semipalmata"
 order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
+description: "Tringa semipalmata is a species of bird in the Scolopacidae (Sandpipers and Allies) family. It has been observed 9 times. It has been recorded."
 species_group: "Shorebirds"
 species_code: "willet1"
 

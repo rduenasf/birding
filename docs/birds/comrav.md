@@ -3,6 +3,7 @@ title: "Common Raven"
 scientific_name: "Corvus corax"
 order: "Passeriformes"
 family: "Corvidae (Crows, Jays, and Magpies)"
+description: "Corvus corax is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 27 times. It has been recorded."
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "comrav"
 

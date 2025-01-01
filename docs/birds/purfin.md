@@ -3,6 +3,7 @@ title: "Purple Finch"
 scientific_name: "Haemorhous purpureus"
 order: "Passeriformes"
 family: "Fringillidae (Finches, Euphonias, and Allies)"
+description: "Haemorhous purpureus is a species of bird in the Fringillidae (Finches, Euphonias, and Allies) family. It has been observed 1 times. It has been recorded."
 species_group: "Finches, Euphonias, and Allies"
 species_code: "purfin"
 

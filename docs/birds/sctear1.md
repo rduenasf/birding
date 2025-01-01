@@ -3,6 +3,7 @@ title: "Scale-throated Earthcreeper"
 scientific_name: "Upucerthia dumetaria"
 order: "Passeriformes"
 family: "Furnariidae (Ovenbirds and Woodcreepers)"
+description: "Upucerthia dumetaria is a species of bird in the Furnariidae (Ovenbirds and Woodcreepers) family. It has been observed 2 times."
 species_group: "Ovenbirds"
 species_code: "sctear1"
 

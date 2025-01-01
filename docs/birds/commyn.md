@@ -3,6 +3,7 @@ title: "Common Myna"
 scientific_name: "Acridotheres tristis"
 order: "Passeriformes"
 family: "Sturnidae (Starlings)"
+description: "Acridotheres tristis is a species of bird in the Sturnidae (Starlings) family. It has been observed 1 times."
 species_group: "Starlings and Mynas"
 species_code: "commyn"
 

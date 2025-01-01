@@ -3,6 +3,7 @@ title: "House Sparrow"
 scientific_name: "Passer domesticus"
 order: "Passeriformes"
 family: "Passeridae (Old World Sparrows)"
+description: "Passer domesticus is a species of bird in the Passeridae (Old World Sparrows) family. It has been observed 23 times. It has been recorded."
 species_group: "Old World Sparrows"
 species_code: "houspa"
 

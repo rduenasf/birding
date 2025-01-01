@@ -3,6 +3,7 @@ title: "Burrowing Parakeet"
 scientific_name: "Cyanoliseus patagonus"
 order: "Psittaciformes"
 family: "Psittacidae (New World and African Parrots)"
+description: "Cyanoliseus patagonus is a species of bird in the Psittacidae (New World and African Parrots) family. It has been observed 1 times."
 species_group: "Parrots, Parakeets, and Allies"
 species_code: "burpar"
 

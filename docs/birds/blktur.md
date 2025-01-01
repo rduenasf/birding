@@ -3,6 +3,7 @@ title: "Black Turnstone"
 scientific_name: "Arenaria melanocephala"
 order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
+description: "Arenaria melanocephala is a species of bird in the Scolopacidae (Sandpipers and Allies) family. It has been observed 1 times."
 species_group: "Shorebirds"
 species_code: "blktur"
 

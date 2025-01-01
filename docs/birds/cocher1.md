@@ -3,6 +3,7 @@ title: "Cocoi Heron"
 scientific_name: "Ardea cocoi"
 order: "Pelecaniformes"
 family: "Ardeidae (Herons, Egrets, and Bitterns)"
+description: "Ardea cocoi is a species of bird in the Ardeidae (Herons, Egrets, and Bitterns) family. It has been observed 1 times."
 species_group: "Herons, Ibis, and Allies"
 species_code: "cocher1"
 

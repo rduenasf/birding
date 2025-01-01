@@ -3,6 +3,7 @@ title: "Ring-necked Pheasant"
 scientific_name: "Phasianus colchicus"
 order: "Galliformes"
 family: "Phasianidae (Pheasants, Grouse, and Allies)"
+description: "Phasianus colchicus is a species of bird in the Phasianidae (Pheasants, Grouse, and Allies) family. It has been observed 2 times."
 species_group: "Grouse, Quail, and Allies"
 species_code: "rinphe1"
 

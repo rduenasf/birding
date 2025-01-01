@@ -3,6 +3,7 @@ title: "Amethyst-throated Mountain-gem"
 scientific_name: "Lampornis amethystinus"
 order: "Apodiformes"
 family: "Trochilidae (Hummingbirds)"
+description: "Lampornis amethystinus is a species of bird in the Trochilidae (Hummingbirds) family. It has been observed 1 times."
 species_group: "Hummingbirds"
 species_code: "amthum1"
 

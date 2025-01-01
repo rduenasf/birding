@@ -3,6 +3,7 @@ title: "Canyon Towhee"
 scientific_name: "Melozone fusca"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
+description: "Melozone fusca is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 2 times."
 species_group: "New World Sparrows"
 species_code: "cantow"
 

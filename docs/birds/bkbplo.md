@@ -3,6 +3,7 @@ title: "Black-bellied Plover"
 scientific_name: "Pluvialis squatarola"
 order: "Charadriiformes"
 family: "Charadriidae (Plovers and Lapwings)"
+description: "Pluvialis squatarola is a species of bird in the Charadriidae (Plovers and Lapwings) family. It has been observed 2 times."
 species_group: "Shorebirds"
 species_code: "bkbplo"
 

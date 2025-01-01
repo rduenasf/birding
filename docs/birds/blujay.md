@@ -3,6 +3,7 @@ title: "Blue Jay"
 scientific_name: "Cyanocitta cristata"
 order: "Passeriformes"
 family: "Corvidae (Crows, Jays, and Magpies)"
+description: "Cyanocitta cristata is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 5 times."
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "blujay"
 

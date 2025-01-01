@@ -3,6 +3,7 @@ title: "Eastern Phoebe"
 scientific_name: "Sayornis phoebe"
 order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
+description: "Sayornis phoebe is a species of bird in the Tyrannidae (Tyrant Flycatchers) family. It has been observed 3 times."
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "easpho"
 

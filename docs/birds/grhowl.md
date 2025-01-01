@@ -3,6 +3,7 @@ title: "Great Horned Owl"
 scientific_name: "Bubo virginianus"
 order: "Strigiformes"
 family: "Strigidae (Owls)"
+description: "Bubo virginianus is a species of bird in the Strigidae (Owls) family. It has been observed 4 times. It has been photographed."
 species_group: "Owls"
 species_code: "grhowl"
 

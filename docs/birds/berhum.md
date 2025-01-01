@@ -3,6 +3,7 @@ title: "Berylline Hummingbird"
 scientific_name: "Saucerottia beryllina"
 order: "Apodiformes"
 family: "Trochilidae (Hummingbirds)"
+description: "Saucerottia beryllina is a species of bird in the Trochilidae (Hummingbirds) family. It has been observed 1 times."
 species_group: "Hummingbirds"
 species_code: "berhum"
 

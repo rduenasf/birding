@@ -3,6 +3,7 @@ title: "Brandt's Cormorant"
 scientific_name: "Urile penicillatus"
 order: "Suliformes"
 family: "Phalacrocoracidae (Cormorants and Shags)"
+description: "Urile penicillatus is a species of bird in the Phalacrocoracidae (Cormorants and Shags) family. It has been observed 11 times. It has been photographed."
 species_group: "Cormorants and Anhingas"
 species_code: "bracor"
 

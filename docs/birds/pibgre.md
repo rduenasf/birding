@@ -3,6 +3,7 @@ title: "Pied-billed Grebe"
 scientific_name: "Podilymbus podiceps"
 order: "Podicipediformes"
 family: "Podicipedidae (Grebes)"
+description: "Podilymbus podiceps is a species of bird in the Podicipedidae (Grebes) family. It has been observed 23 times. It has been recorded."
 species_group: "Grebes"
 species_code: "pibgre"
 

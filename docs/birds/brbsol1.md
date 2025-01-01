@@ -3,6 +3,7 @@ title: "Brown-backed Solitaire"
 scientific_name: "Myadestes occidentalis"
 order: "Passeriformes"
 family: "Turdidae (Thrushes and Allies)"
+description: "Myadestes occidentalis is a species of bird in the Turdidae (Thrushes and Allies) family. It has been observed 4 times."
 species_group: "Thrushes"
 species_code: "brbsol1"
 

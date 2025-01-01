@@ -3,6 +3,7 @@ title: "Western Wood-Pewee"
 scientific_name: "Contopus sordidulus"
 order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
+description: "Contopus sordidulus is a species of bird in the Tyrannidae (Tyrant Flycatchers) family. It has been observed 3 times. It has been photographed."
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "wewpew"
 

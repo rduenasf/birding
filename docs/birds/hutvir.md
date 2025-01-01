@@ -3,6 +3,7 @@ title: "Hutton's Vireo"
 scientific_name: "Vireo huttoni"
 order: "Passeriformes"
 family: "Vireonidae (Vireos, Shrike-Babblers, and Erpornis)"
+description: "Vireo huttoni is a species of bird in the Vireonidae (Vireos, Shrike-Babblers, and Erpornis) family. It has been observed 10 times."
 species_group: "Vireos"
 species_code: "hutvir"
 

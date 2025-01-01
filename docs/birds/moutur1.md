@@ -3,6 +3,7 @@ title: "Moustached Turca"
 scientific_name: "Pteroptochos megapodius"
 order: "Passeriformes"
 family: "Rhinocryptidae (Tapaculos)"
+description: "Pteroptochos megapodius is a species of bird in the Rhinocryptidae (Tapaculos) family. It has been observed 3 times."
 species_group: "Tapaculos"
 species_code: "moutur1"
 

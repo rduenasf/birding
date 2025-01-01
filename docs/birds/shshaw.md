@@ -3,6 +3,7 @@ title: "Sharp-shinned Hawk"
 scientific_name: "Accipiter striatus"
 order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
+description: "Accipiter striatus is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 1 times."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "shshaw"
 

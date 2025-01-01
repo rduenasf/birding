@@ -3,6 +3,7 @@ title: "White-breasted Nuthatch"
 scientific_name: "Sitta carolinensis"
 order: "Passeriformes"
 family: "Sittidae (Nuthatches)"
+description: "Sitta carolinensis is a species of bird in the Sittidae (Nuthatches) family. It has been observed 16 times. It has been recorded."
 species_group: "Nuthatches"
 species_code: "whbnut"
 

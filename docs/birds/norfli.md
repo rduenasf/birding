@@ -3,6 +3,7 @@ title: "Northern Flicker"
 scientific_name: "Colaptes auratus"
 order: "Piciformes"
 family: "Picidae (Woodpeckers)"
+description: "Colaptes auratus is a species of bird in the Picidae (Woodpeckers) family. It has been observed 14 times. It has been photographed. It has been recorded."
 species_group: "Woodpeckers"
 species_code: "norfli"
 

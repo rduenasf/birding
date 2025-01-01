@@ -3,6 +3,7 @@ title: "Pygmy Nuthatch"
 scientific_name: "Sitta pygmaea"
 order: "Passeriformes"
 family: "Sittidae (Nuthatches)"
+description: "Sitta pygmaea is a species of bird in the Sittidae (Nuthatches) family. It has been observed 5 times. It has been photographed."
 species_group: "Nuthatches"
 species_code: "pygnut"
 

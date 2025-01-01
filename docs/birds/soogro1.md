@@ -3,6 +3,7 @@ title: "Sooty Grouse"
 scientific_name: "Dendragapus fuliginosus"
 order: "Galliformes"
 family: "Phasianidae (Pheasants, Grouse, and Allies)"
+description: "Dendragapus fuliginosus is a species of bird in the Phasianidae (Pheasants, Grouse, and Allies) family. It has been observed 1 times. It has been photographed."
 species_group: "Grouse, Quail, and Allies"
 species_code: "soogro1"
 

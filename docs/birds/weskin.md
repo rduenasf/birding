@@ -3,6 +3,7 @@ title: "Western Kingbird"
 scientific_name: "Tyrannus verticalis"
 order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
+description: "Tyrannus verticalis is a species of bird in the Tyrannidae (Tyrant Flycatchers) family. It has been observed 1 times."
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "weskin"
 

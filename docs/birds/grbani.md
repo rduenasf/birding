@@ -3,6 +3,7 @@ title: "Groove-billed Ani"
 scientific_name: "Crotophaga sulcirostris"
 order: "Cuculiformes"
 family: "Cuculidae (Cuckoos)"
+description: "Crotophaga sulcirostris is a species of bird in the Cuculidae (Cuckoos) family. It has been observed 1 times."
 species_group: "Cuckoos"
 species_code: "grbani"
 

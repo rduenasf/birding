@@ -3,6 +3,7 @@ title: "Spectacled Tyrant"
 scientific_name: "Hymenops perspicillatus"
 order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
+description: "Hymenops perspicillatus is a species of bird in the Tyrannidae (Tyrant Flycatchers) family. It has been observed 2 times."
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "spetyr1"
 

@@ -3,6 +3,7 @@ title: "Parasitic Jaeger"
 scientific_name: "Stercorarius parasiticus"
 order: "Charadriiformes"
 family: "Stercorariidae (Skuas and Jaegers)"
+description: "Stercorarius parasiticus is a species of bird in the Stercorariidae (Skuas and Jaegers) family. It has been observed 1 times."
 species_group: "Skuas and Jaegers"
 species_code: "parjae"
 

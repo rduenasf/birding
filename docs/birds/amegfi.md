@@ -3,6 +3,7 @@ title: "American Goldfinch"
 scientific_name: "Spinus tristis"
 order: "Passeriformes"
 family: "Fringillidae (Finches, Euphonias, and Allies)"
+description: "Spinus tristis is a species of bird in the Fringillidae (Finches, Euphonias, and Allies) family. It has been observed 12 times."
 species_group: "Finches, Euphonias, and Allies"
 species_code: "amegfi"
 

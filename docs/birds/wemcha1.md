@@ -3,6 +3,7 @@ title: "West Mexican Chachalaca"
 scientific_name: "Ortalis poliocephala"
 order: "Galliformes"
 family: "Cracidae (Guans, Chachalacas, and Curassows)"
+description: "Ortalis poliocephala is a species of bird in the Cracidae (Guans, Chachalacas, and Curassows) family. It has been observed 1 times."
 species_group: "Chachalacas, Guans, and Curassows"
 species_code: "wemcha1"
 

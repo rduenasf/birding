@@ -3,6 +3,7 @@ title: "Common Loon"
 scientific_name: "Gavia immer"
 order: "Gaviiformes"
 family: "Gaviidae (Loons)"
+description: "Gavia immer is a species of bird in the Gaviidae (Loons) family. It has been observed 4 times."
 species_group: "Loons"
 species_code: "comloo"
 

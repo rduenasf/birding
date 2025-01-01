@@ -3,6 +3,7 @@ title: "Varied Thrush"
 scientific_name: "Ixoreus naevius"
 order: "Passeriformes"
 family: "Turdidae (Thrushes and Allies)"
+description: "Ixoreus naevius is a species of bird in the Turdidae (Thrushes and Allies) family. It has been observed 1 times."
 species_group: "Thrushes"
 species_code: "varthr"
 

@@ -3,6 +3,7 @@ title: "Cooper's Hawk"
 scientific_name: "Astur cooperii"
 order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
+description: "Astur cooperii is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 10 times. It has been photographed."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "coohaw"
 

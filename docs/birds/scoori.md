@@ -3,6 +3,7 @@ title: "Scott's Oriole"
 scientific_name: "Icterus parisorum"
 order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
+description: "Icterus parisorum is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 2 times."
 species_group: "Blackbirds"
 species_code: "scoori"
 

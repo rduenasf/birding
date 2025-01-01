@@ -3,6 +3,7 @@ title: "Black-winged Ground Dove"
 scientific_name: "Metriopelia melanoptera"
 order: "Columbiformes"
 family: "Columbidae (Pigeons and Doves)"
+description: "Metriopelia melanoptera is a species of bird in the Columbidae (Pigeons and Doves) family. It has been observed 1 times."
 species_group: "Pigeons and Doves"
 species_code: "bwgdov1"
 

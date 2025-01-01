@@ -3,6 +3,7 @@ title: "Lucifer Hummingbird"
 scientific_name: "Calothorax lucifer"
 order: "Apodiformes"
 family: "Trochilidae (Hummingbirds)"
+description: "Calothorax lucifer is a species of bird in the Trochilidae (Hummingbirds) family. It has been observed 1 times."
 species_group: "Hummingbirds"
 species_code: "luchum"
 

@@ -3,6 +3,7 @@ title: "White-winged Coot"
 scientific_name: "Fulica leucoptera"
 order: "Gruiformes"
 family: "Rallidae (Rails, Gallinules, and Coots)"
+description: "Fulica leucoptera is a species of bird in the Rallidae (Rails, Gallinules, and Coots) family. It has been observed 3 times."
 species_group: "Rails, Gallinules, and Allies"
 species_code: "whwcoo1"
 

@@ -3,6 +3,7 @@ title: "Yellow Warbler"
 scientific_name: "Setophaga petechia"
 order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
+description: "Setophaga petechia is a species of bird in the Parulidae (New World Warblers) family. It has been observed 6 times."
 species_group: "Wood-Warblers"
 species_code: "yelwar"
 

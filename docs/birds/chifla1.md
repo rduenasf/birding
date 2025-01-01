@@ -3,6 +3,7 @@ title: "Chilean Flamingo"
 scientific_name: "Phoenicopterus chilensis"
 order: "Phoenicopteriformes"
 family: "Phoenicopteridae (Flamingos)"
+description: "Phoenicopterus chilensis is a species of bird in the Phoenicopteridae (Flamingos) family. It has been observed 2 times."
 species_group: "Flamingos"
 species_code: "chifla1"
 

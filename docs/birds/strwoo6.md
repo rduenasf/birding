@@ -3,6 +3,7 @@ title: "Striped Woodpecker"
 scientific_name: "Dryobates lignarius"
 order: "Piciformes"
 family: "Picidae (Woodpeckers)"
+description: "Dryobates lignarius is a species of bird in the Picidae (Woodpeckers) family. It has been observed 2 times."
 species_group: "Woodpeckers"
 species_code: "strwoo6"
 

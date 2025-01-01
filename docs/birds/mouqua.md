@@ -3,6 +3,7 @@ title: "Mountain Quail"
 scientific_name: "Oreortyx pictus"
 order: "Galliformes"
 family: "Odontophoridae (New World Quail)"
+description: "Oreortyx pictus is a species of bird in the Odontophoridae (New World Quail) family. It has been observed 1 times."
 species_group: "Grouse, Quail, and Allies"
 species_code: "mouqua"
 

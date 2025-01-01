@@ -3,6 +3,7 @@ title: "Variable Hawk"
 scientific_name: "Geranoaetus polyosoma"
 order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
+description: "Geranoaetus polyosoma is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 2 times."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "rebhaw2"
 

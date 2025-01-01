@@ -3,6 +3,7 @@ title: "House Finch"
 scientific_name: "Haemorhous mexicanus"
 order: "Passeriformes"
 family: "Fringillidae (Finches, Euphonias, and Allies)"
+description: "Haemorhous mexicanus is a species of bird in the Fringillidae (Finches, Euphonias, and Allies) family. It has been observed 54 times. It has been recorded."
 species_group: "Finches, Euphonias, and Allies"
 species_code: "houfin"
 

@@ -3,6 +3,7 @@ title: "Neotropic Cormorant"
 scientific_name: "Nannopterum brasilianum"
 order: "Suliformes"
 family: "Phalacrocoracidae (Cormorants and Shags)"
+description: "Nannopterum brasilianum is a species of bird in the Phalacrocoracidae (Cormorants and Shags) family. It has been observed 5 times."
 species_group: "Cormorants and Anhingas"
 species_code: "neocor"
 

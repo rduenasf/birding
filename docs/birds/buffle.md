@@ -3,6 +3,7 @@ title: "Bufflehead"
 scientific_name: "Bucephala albeola"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
+description: "Bucephala albeola is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 14 times."
 species_group: "Waterfowl"
 species_code: "buffle"
 

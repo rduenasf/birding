@@ -3,6 +3,7 @@ title: "White-throated Thrush"
 scientific_name: "Turdus assimilis"
 order: "Passeriformes"
 family: "Turdidae (Thrushes and Allies)"
+description: "Turdus assimilis is a species of bird in the Turdidae (Thrushes and Allies) family. It has been observed 3 times."
 species_group: "Thrushes"
 species_code: "whtrob1"
 

@@ -3,6 +3,7 @@ title: "Western Tanager"
 scientific_name: "Piranga ludoviciana"
 order: "Passeriformes"
 family: "Cardinalidae (Cardinals and Allies)"
+description: "Piranga ludoviciana is a species of bird in the Cardinalidae (Cardinals and Allies) family. It has been observed 5 times."
 species_group: "Cardinals, Grosbeaks, and Allies"
 species_code: "westan"
 

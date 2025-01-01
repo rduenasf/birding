@@ -3,6 +3,7 @@ title: "Acorn Woodpecker"
 scientific_name: "Melanerpes formicivorus"
 order: "Piciformes"
 family: "Picidae (Woodpeckers)"
+description: "Melanerpes formicivorus is a species of bird in the Picidae (Woodpeckers) family. It has been observed 19 times. It has been photographed. It has been recorded."
 species_group: "Woodpeckers"
 species_code: "acowoo"
 

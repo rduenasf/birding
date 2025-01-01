@@ -3,6 +3,7 @@ title: "White-winged Dove"
 scientific_name: "Zenaida asiatica"
 order: "Columbiformes"
 family: "Columbidae (Pigeons and Doves)"
+description: "Zenaida asiatica is a species of bird in the Columbidae (Pigeons and Doves) family. It has been observed 12 times."
 species_group: "Pigeons and Doves"
 species_code: "whwdov"
 

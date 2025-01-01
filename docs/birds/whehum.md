@@ -3,6 +3,7 @@ title: "White-eared Hummingbird"
 scientific_name: "Basilinna leucotis"
 order: "Apodiformes"
 family: "Trochilidae (Hummingbirds)"
+description: "Basilinna leucotis is a species of bird in the Trochilidae (Hummingbirds) family. It has been observed 4 times."
 species_group: "Hummingbirds"
 species_code: "whehum"
 

@@ -3,6 +3,7 @@ title: "Golden-crowned Sparrow"
 scientific_name: "Zonotrichia atricapilla"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
+description: "Zonotrichia atricapilla is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 19 times. It has been recorded."
 species_group: "New World Sparrows"
 species_code: "gocspa"
 

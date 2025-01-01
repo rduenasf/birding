@@ -3,6 +3,7 @@ title: "Painted Redstart"
 scientific_name: "Myioborus pictus"
 order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
+description: "Myioborus pictus is a species of bird in the Parulidae (New World Warblers) family. It has been observed 2 times."
 species_group: "Wood-Warblers"
 species_code: "paired"
 

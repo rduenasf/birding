@@ -3,6 +3,7 @@ title: "Common Ground Dove"
 scientific_name: "Columbina passerina"
 order: "Columbiformes"
 family: "Columbidae (Pigeons and Doves)"
+description: "Columbina passerina is a species of bird in the Columbidae (Pigeons and Doves) family. It has been observed 1 times."
 species_group: "Pigeons and Doves"
 species_code: "cogdov"
 

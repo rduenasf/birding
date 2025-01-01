@@ -3,6 +3,7 @@ title: "Rock Wren"
 scientific_name: "Salpinctes obsoletus"
 order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
+description: "Salpinctes obsoletus is a species of bird in the Troglodytidae (Wrens) family. It has been observed 1 times. It has been photographed."
 species_group: "Wrens"
 species_code: "rocwre"
 

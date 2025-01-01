@@ -3,6 +3,7 @@ title: "Western Meadowlark"
 scientific_name: "Sturnella neglecta"
 order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
+description: "Sturnella neglecta is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 8 times. It has been recorded."
 species_group: "Blackbirds"
 species_code: "wesmea"
 

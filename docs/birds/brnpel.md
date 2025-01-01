@@ -3,6 +3,7 @@ title: "Brown Pelican"
 scientific_name: "Pelecanus occidentalis"
 order: "Pelecaniformes"
 family: "Pelecanidae (Pelicans)"
+description: "Pelecanus occidentalis is a species of bird in the Pelecanidae (Pelicans) family. It has been observed 20 times. It has been photographed."
 species_group: "Pelicans"
 species_code: "brnpel"
 

@@ -3,6 +3,7 @@ title: "Mountain Trogon"
 scientific_name: "Trogon mexicanus"
 order: "Trogoniformes"
 family: "Trogonidae (Trogons)"
+description: "Trogon mexicanus is a species of bird in the Trogonidae (Trogons) family. It has been observed 1 times."
 species_group: "Trogons and Quetzals"
 species_code: "moutro1"
 

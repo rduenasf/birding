@@ -3,6 +3,7 @@ title: "Plumbeous Vireo"
 scientific_name: "Vireo plumbeus"
 order: "Passeriformes"
 family: "Vireonidae (Vireos, Shrike-Babblers, and Erpornis)"
+description: "Vireo plumbeus is a species of bird in the Vireonidae (Vireos, Shrike-Babblers, and Erpornis) family. It has been observed 4 times."
 species_group: "Vireos"
 species_code: "plsvir"
 

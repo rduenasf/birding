@@ -3,6 +3,7 @@ title: "Ruby-crowned Kinglet"
 scientific_name: "Corthylio calendula"
 order: "Passeriformes"
 family: "Regulidae (Kinglets)"
+description: "Corthylio calendula is a species of bird in the Regulidae (Kinglets) family. It has been observed 16 times. It has been recorded."
 species_group: "Kinglets"
 species_code: "ruckin"
 

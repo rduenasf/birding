@@ -3,6 +3,7 @@ title: "Mourning Dove"
 scientific_name: "Zenaida macroura"
 order: "Columbiformes"
 family: "Columbidae (Pigeons and Doves)"
+description: "Zenaida macroura is a species of bird in the Columbidae (Pigeons and Doves) family. It has been observed 32 times. It has been recorded."
 species_group: "Pigeons and Doves"
 species_code: "moudov"
 

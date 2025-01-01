@@ -3,6 +3,7 @@ title: "Say's Phoebe"
 scientific_name: "Sayornis saya"
 order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
+description: "Sayornis saya is a species of bird in the Tyrannidae (Tyrant Flycatchers) family. It has been observed 10 times. It has been recorded."
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "saypho"
 

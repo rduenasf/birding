@@ -3,6 +3,7 @@ title: "Horned Grebe"
 scientific_name: "Podiceps auritus"
 order: "Podicipediformes"
 family: "Podicipedidae (Grebes)"
+description: "Podiceps auritus is a species of bird in the Podicipedidae (Grebes) family. It has been observed 2 times."
 species_group: "Grebes"
 species_code: "horgre"
 

@@ -3,6 +3,7 @@ title: "Black Oystercatcher"
 scientific_name: "Haematopus bachmani"
 order: "Charadriiformes"
 family: "Haematopodidae (Oystercatchers)"
+description: "Haematopus bachmani is a species of bird in the Haematopodidae (Oystercatchers) family. It has been observed 3 times. It has been photographed."
 species_group: "Shorebirds"
 species_code: "blkoys"
 

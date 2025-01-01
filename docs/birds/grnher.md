@@ -3,6 +3,7 @@ title: "Green Heron"
 scientific_name: "Butorides virescens"
 order: "Pelecaniformes"
 family: "Ardeidae (Herons, Egrets, and Bitterns)"
+description: "Butorides virescens is a species of bird in the Ardeidae (Herons, Egrets, and Bitterns) family. It has been observed 11 times."
 species_group: "Herons, Ibis, and Allies"
 species_code: "grnher"
 

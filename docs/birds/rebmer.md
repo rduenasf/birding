@@ -3,6 +3,7 @@ title: "Red-breasted Merganser"
 scientific_name: "Mergus serrator"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
+description: "Mergus serrator is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 7 times."
 species_group: "Waterfowl"
 species_code: "rebmer"
 

@@ -3,6 +3,7 @@ title: "American Wigeon"
 scientific_name: "Mareca americana"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
+description: "Mareca americana is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 10 times. It has been recorded."
 species_group: "Waterfowl"
 species_code: "amewig"
 

@@ -3,6 +3,7 @@ title: "White-tufted Grebe"
 scientific_name: "Rollandia rolland"
 order: "Podicipediformes"
 family: "Podicipedidae (Grebes)"
+description: "Rollandia rolland is a species of bird in the Podicipedidae (Grebes) family. It has been observed 3 times."
 species_group: "Grebes"
 species_code: "whtgre3"
 

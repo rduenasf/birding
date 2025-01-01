@@ -3,6 +3,7 @@ title: "Eared Grebe"
 scientific_name: "Podiceps nigricollis"
 order: "Podicipediformes"
 family: "Podicipedidae (Grebes)"
+description: "Podiceps nigricollis is a species of bird in the Podicipedidae (Grebes) family. It has been observed 4 times."
 species_group: "Grebes"
 species_code: "eargre"
 

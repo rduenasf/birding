@@ -3,6 +3,7 @@ title: "Rusty-crowned Ground-Sparrow"
 scientific_name: "Melozone kieneri"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
+description: "Melozone kieneri is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 1 times."
 species_group: "New World Sparrows"
 species_code: "rcgspa1"
 

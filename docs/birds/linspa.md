@@ -3,6 +3,7 @@ title: "Lincoln's Sparrow"
 scientific_name: "Melospiza lincolnii"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
+description: "Melospiza lincolnii is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 4 times."
 species_group: "New World Sparrows"
 species_code: "linspa"
 

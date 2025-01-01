@@ -3,6 +3,7 @@ title: "Red-faced Warbler"
 scientific_name: "Cardellina rubrifrons"
 order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
+description: "Cardellina rubrifrons is a species of bird in the Parulidae (New World Warblers) family. It has been observed 2 times."
 species_group: "Wood-Warblers"
 species_code: "refwar"
 

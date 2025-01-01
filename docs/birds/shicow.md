@@ -3,6 +3,7 @@ title: "Shiny Cowbird"
 scientific_name: "Molothrus bonariensis"
 order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
+description: "Molothrus bonariensis is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 5 times."
 species_group: "Blackbirds"
 species_code: "shicow"
 

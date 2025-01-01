@@ -3,6 +3,7 @@ title: "Andean Goose"
 scientific_name: "Oressochen melanopterus"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
+description: "Oressochen melanopterus is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 1 times."
 species_group: "Waterfowl"
 species_code: "andgoo1"
 

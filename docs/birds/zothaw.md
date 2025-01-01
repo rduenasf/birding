@@ -3,6 +3,7 @@ title: "Zone-tailed Hawk"
 scientific_name: "Buteo albonotatus"
 order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
+description: "Buteo albonotatus is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 1 times."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "zothaw"
 

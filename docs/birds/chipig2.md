@@ -3,6 +3,7 @@ title: "Chilean Pigeon"
 scientific_name: "Patagioenas araucana"
 order: "Columbiformes"
 family: "Columbidae (Pigeons and Doves)"
+description: "Patagioenas araucana is a species of bird in the Columbidae (Pigeons and Doves) family. It has been observed 1 times. It has been photographed."
 species_group: "Pigeons and Doves"
 species_code: "chipig2"
 

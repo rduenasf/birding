@@ -3,6 +3,7 @@ title: "Wilson's Warbler"
 scientific_name: "Cardellina pusilla"
 order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
+description: "Cardellina pusilla is a species of bird in the Parulidae (New World Warblers) family. It has been observed 7 times."
 species_group: "Wood-Warblers"
 species_code: "wlswar"
 

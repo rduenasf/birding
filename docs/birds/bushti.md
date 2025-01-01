@@ -3,6 +3,7 @@ title: "Bushtit"
 scientific_name: "Psaltriparus minimus"
 order: "Passeriformes"
 family: "Aegithalidae (Long-tailed Tits)"
+description: "Psaltriparus minimus is a species of bird in the Aegithalidae (Long-tailed Tits) family. It has been observed 26 times. It has been recorded."
 species_group: "Long-tailed Tits and Bushtit"
 species_code: "bushti"
 

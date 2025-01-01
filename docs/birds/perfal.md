@@ -3,6 +3,7 @@ title: "Peregrine Falcon"
 scientific_name: "Falco peregrinus"
 order: "Falconiformes"
 family: "Falconidae (Falcons and Caracaras)"
+description: "Falco peregrinus is a species of bird in the Falconidae (Falcons and Caracaras) family. It has been observed 4 times."
 species_group: "Falcons and Caracaras"
 species_code: "perfal"
 

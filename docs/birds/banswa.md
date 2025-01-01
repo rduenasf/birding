@@ -3,6 +3,7 @@ title: "Bank Swallow"
 scientific_name: "Riparia riparia"
 order: "Passeriformes"
 family: "Hirundinidae (Swallows)"
+description: "Riparia riparia is a species of bird in the Hirundinidae (Swallows) family. It has been observed 1 times."
 species_group: "Martins and Swallows"
 species_code: "banswa"
 

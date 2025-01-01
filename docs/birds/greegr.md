@@ -3,6 +3,7 @@ title: "Great Egret"
 scientific_name: "Ardea alba"
 order: "Pelecaniformes"
 family: "Ardeidae (Herons, Egrets, and Bitterns)"
+description: "Ardea alba is a species of bird in the Ardeidae (Herons, Egrets, and Bitterns) family. It has been observed 32 times. It has been photographed. It has been recorded."
 species_group: "Herons, Ibis, and Allies"
 species_code: "greegr"
 

@@ -3,6 +3,7 @@ title: "Rufous-capped Warbler"
 scientific_name: "Basileuterus rufifrons"
 order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
+description: "Basileuterus rufifrons is a species of bird in the Parulidae (New World Warblers) family. It has been observed 1 times."
 species_group: "Wood-Warblers"
 species_code: "rucwar"
 

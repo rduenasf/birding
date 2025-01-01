@@ -3,6 +3,7 @@ title: "Violet-green Swallow"
 scientific_name: "Tachycineta thalassina"
 order: "Passeriformes"
 family: "Hirundinidae (Swallows)"
+description: "Tachycineta thalassina is a species of bird in the Hirundinidae (Swallows) family. It has been observed 10 times."
 species_group: "Martins and Swallows"
 species_code: "vigswa"
 

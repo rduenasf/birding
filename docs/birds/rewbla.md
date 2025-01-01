@@ -3,6 +3,7 @@ title: "Red-winged Blackbird"
 scientific_name: "Agelaius phoeniceus"
 order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
+description: "Agelaius phoeniceus is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 24 times."
 species_group: "Blackbirds"
 species_code: "rewbla"
 

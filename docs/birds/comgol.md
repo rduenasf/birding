@@ -3,6 +3,7 @@ title: "Common Goldeneye"
 scientific_name: "Bucephala clangula"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
+description: "Bucephala clangula is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 6 times."
 species_group: "Waterfowl"
 species_code: "comgol"
 

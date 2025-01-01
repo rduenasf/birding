@@ -3,6 +3,7 @@ title: "Rufous-capped Brushfinch"
 scientific_name: "Atlapetes pileatus"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
+description: "Atlapetes pileatus is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 1 times."
 species_group: "New World Sparrows"
 species_code: "rcbfin1"
 

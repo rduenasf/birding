@@ -3,6 +3,7 @@ title: "Hooded Merganser"
 scientific_name: "Lophodytes cucullatus"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
+description: "Lophodytes cucullatus is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 3 times."
 species_group: "Waterfowl"
 species_code: "hoomer"
 

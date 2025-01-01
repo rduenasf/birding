@@ -3,6 +3,7 @@ title: "Great Shrike-Tyrant"
 scientific_name: "Agriornis lividus"
 order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
+description: "Agriornis lividus is a species of bird in the Tyrannidae (Tyrant Flycatchers) family. It has been observed 1 times."
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "gresht1"
 

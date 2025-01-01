@@ -3,6 +3,7 @@ title: "Crescent-chested Warbler"
 scientific_name: "Oreothlypis superciliosa"
 order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
+description: "Oreothlypis superciliosa is a species of bird in the Parulidae (New World Warblers) family. It has been observed 3 times."
 species_group: "Wood-Warblers"
 species_code: "crcwar"
 

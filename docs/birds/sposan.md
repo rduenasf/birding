@@ -3,6 +3,7 @@ title: "Spotted Sandpiper"
 scientific_name: "Actitis macularius"
 order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
+description: "Actitis macularius is a species of bird in the Scolopacidae (Sandpipers and Allies) family. It has been observed 2 times."
 species_group: "Shorebirds"
 species_code: "sposan"
 

@@ -3,6 +3,7 @@ title: "Lesser Goldfinch"
 scientific_name: "Spinus psaltria"
 order: "Passeriformes"
 family: "Fringillidae (Finches, Euphonias, and Allies)"
+description: "Spinus psaltria is a species of bird in the Fringillidae (Finches, Euphonias, and Allies) family. It has been observed 21 times. It has been recorded."
 species_group: "Finches, Euphonias, and Allies"
 species_code: "lesgol"
 

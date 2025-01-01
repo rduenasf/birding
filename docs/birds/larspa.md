@@ -3,6 +3,7 @@ title: "Lark Sparrow"
 scientific_name: "Chondestes grammacus"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
+description: "Chondestes grammacus is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 3 times."
 species_group: "New World Sparrows"
 species_code: "larspa"
 

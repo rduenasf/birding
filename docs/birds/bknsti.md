@@ -3,6 +3,7 @@ title: "Black-necked Stilt"
 scientific_name: "Himantopus mexicanus"
 order: "Charadriiformes"
 family: "Recurvirostridae (Stilts and Avocets)"
+description: "Himantopus mexicanus is a species of bird in the Recurvirostridae (Stilts and Avocets) family. It has been observed 28 times. It has been recorded."
 species_group: "Shorebirds"
 species_code: "bknsti"
 

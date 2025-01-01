@@ -3,6 +3,7 @@ title: "Tufted Puffin"
 scientific_name: "Fratercula cirrhata"
 order: "Charadriiformes"
 family: "Alcidae (Auks, Murres, and Puffins)"
+description: "Fratercula cirrhata is a species of bird in the Alcidae (Auks, Murres, and Puffins) family. It has been observed 3 times."
 species_group: "Alcids"
 species_code: "tufpuf"
 

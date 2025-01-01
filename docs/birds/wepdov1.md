@@ -3,6 +3,7 @@ title: "West Peruvian Dove"
 scientific_name: "Zenaida meloda"
 order: "Columbiformes"
 family: "Columbidae (Pigeons and Doves)"
+description: "Zenaida meloda is a species of bird in the Columbidae (Pigeons and Doves) family. It has been observed 2 times."
 species_group: "Pigeons and Doves"
 species_code: "wepdov1"
 

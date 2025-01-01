@@ -3,6 +3,7 @@ title: "Canada Goose"
 scientific_name: "Branta canadensis"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
+description: "Branta canadensis is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 43 times. It has been photographed. It has been recorded."
 species_group: "Waterfowl"
 species_code: "cangoo"
 

@@ -3,6 +3,7 @@ title: "Chimango Caracara"
 scientific_name: "Daptrius chimango"
 order: "Falconiformes"
 family: "Falconidae (Falcons and Caracaras)"
+description: "Daptrius chimango is a species of bird in the Falconidae (Falcons and Caracaras) family. It has been observed 8 times. It has been photographed."
 species_group: "Falcons and Caracaras"
 species_code: "chicar1"
 

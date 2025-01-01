@@ -3,6 +3,7 @@ title: "Boat-tailed Grackle"
 scientific_name: "Quiscalus major"
 order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
+description: "Quiscalus major is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 2 times."
 species_group: "Blackbirds"
 species_code: "botgra"
 

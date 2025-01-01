@@ -3,6 +3,7 @@ title: "Peruvian Pelican"
 scientific_name: "Pelecanus thagus"
 order: "Pelecaniformes"
 family: "Pelecanidae (Pelicans)"
+description: "Pelecanus thagus is a species of bird in the Pelecanidae (Pelicans) family. It has been observed 2 times. It has been photographed."
 species_group: "Pelicans"
 species_code: "perpel1"
 

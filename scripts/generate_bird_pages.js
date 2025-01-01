@@ -234,6 +234,11 @@ title: "${primaryComName}"
 scientific_name: "${sciName}"
 order: "${order}"
 family: "${family}"
+description: "${sciName} is a species of bird in the ${family} family. It has been observed ${
+    bird.observations.length
+  } times.${photoEmbeds.length > 0 ? " It has been photographed." : ""}${
+    audioEmbeds.length > 0 ? " It has been recorded." : ""
+  }"
 species_group: "${speciesGroup}"
 species_code: "${speciesCode}"
 ${index === 0 ? `pagination_prev: null` : ""}

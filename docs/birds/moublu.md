@@ -3,6 +3,7 @@ title: "Mountain Bluebird"
 scientific_name: "Sialia currucoides"
 order: "Passeriformes"
 family: "Turdidae (Thrushes and Allies)"
+description: "Sialia currucoides is a species of bird in the Turdidae (Thrushes and Allies) family. It has been observed 1 times."
 species_group: "Thrushes"
 species_code: "moublu"
 

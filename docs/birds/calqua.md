@@ -3,6 +3,7 @@ title: "California Quail"
 scientific_name: "Callipepla californica"
 order: "Galliformes"
 family: "Odontophoridae (New World Quail)"
+description: "Callipepla californica is a species of bird in the Odontophoridae (New World Quail) family. It has been observed 9 times. It has been recorded."
 species_group: "Grouse, Quail, and Allies"
 species_code: "calqua"
 

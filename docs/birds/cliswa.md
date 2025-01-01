@@ -3,6 +3,7 @@ title: "Cliff Swallow"
 scientific_name: "Petrochelidon pyrrhonota"
 order: "Passeriformes"
 family: "Hirundinidae (Swallows)"
+description: "Petrochelidon pyrrhonota is a species of bird in the Hirundinidae (Swallows) family. It has been observed 4 times."
 species_group: "Martins and Swallows"
 species_code: "cliswa"
 

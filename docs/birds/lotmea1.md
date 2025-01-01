@@ -3,6 +3,7 @@ title: "Long-tailed Meadowlark"
 scientific_name: "Leistes loyca"
 order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
+description: "Leistes loyca is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 7 times. It has been photographed."
 species_group: "Blackbirds"
 species_code: "lotmea1"
 

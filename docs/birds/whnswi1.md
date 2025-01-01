@@ -3,6 +3,7 @@ title: "White-naped Swift"
 scientific_name: "Streptoprocne semicollaris"
 order: "Apodiformes"
 family: "Apodidae (Swifts)"
+description: "Streptoprocne semicollaris is a species of bird in the Apodidae (Swifts) family. It has been observed 1 times."
 species_group: "Swifts"
 species_code: "whnswi1"
 

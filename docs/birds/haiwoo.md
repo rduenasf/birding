@@ -3,6 +3,7 @@ title: "Hairy Woodpecker"
 scientific_name: "Dryobates villosus"
 order: "Piciformes"
 family: "Picidae (Woodpeckers)"
+description: "Dryobates villosus is a species of bird in the Picidae (Woodpeckers) family. It has been observed 14 times. It has been recorded."
 species_group: "Woodpeckers"
 species_code: "haiwoo"
 

@@ -3,6 +3,7 @@ title: "Blue Mockingbird"
 scientific_name: "Melanotis caerulescens"
 order: "Passeriformes"
 family: "Mimidae (Mockingbirds and Thrashers)"
+description: "Melanotis caerulescens is a species of bird in the Mimidae (Mockingbirds and Thrashers) family. It has been observed 3 times."
 species_group: "Catbirds, Mockingbirds, and Thrashers"
 species_code: "blumoc"
 

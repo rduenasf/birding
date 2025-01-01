@@ -3,6 +3,7 @@ title: "Black-chinned Siskin"
 scientific_name: "Spinus barbatus"
 order: "Passeriformes"
 family: "Fringillidae (Finches, Euphonias, and Allies)"
+description: "Spinus barbatus is a species of bird in the Fringillidae (Finches, Euphonias, and Allies) family. It has been observed 1 times."
 species_group: "Finches, Euphonias, and Allies"
 species_code: "blcsis2"
 

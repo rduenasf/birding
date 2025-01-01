@@ -3,6 +3,7 @@ title: "Summer Tanager"
 scientific_name: "Piranga rubra"
 order: "Passeriformes"
 family: "Cardinalidae (Cardinals and Allies)"
+description: "Piranga rubra is a species of bird in the Cardinalidae (Cardinals and Allies) family. It has been observed 3 times."
 species_group: "Cardinals, Grosbeaks, and Allies"
 species_code: "sumtan"
 

@@ -3,6 +3,7 @@ title: "Blue Grosbeak"
 scientific_name: "Passerina caerulea"
 order: "Passeriformes"
 family: "Cardinalidae (Cardinals and Allies)"
+description: "Passerina caerulea is a species of bird in the Cardinalidae (Cardinals and Allies) family. It has been observed 2 times. It has been photographed."
 species_group: "Cardinals, Grosbeaks, and Allies"
 species_code: "blugrb1"
 

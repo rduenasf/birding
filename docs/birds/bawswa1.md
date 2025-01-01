@@ -3,6 +3,7 @@ title: "Blue-and-white Swallow"
 scientific_name: "Pygochelidon cyanoleuca"
 order: "Passeriformes"
 family: "Hirundinidae (Swallows)"
+description: "Pygochelidon cyanoleuca is a species of bird in the Hirundinidae (Swallows) family. It has been observed 1 times."
 species_group: "Martins and Swallows"
 species_code: "bawswa1"
 

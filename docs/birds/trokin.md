@@ -3,6 +3,7 @@ title: "Tropical Kingbird"
 scientific_name: "Tyrannus melancholicus"
 order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
+description: "Tyrannus melancholicus is a species of bird in the Tyrannidae (Tyrant Flycatchers) family. It has been observed 1 times."
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "trokin"
 

@@ -3,6 +3,7 @@ title: "White-throated Sparrow"
 scientific_name: "Zonotrichia albicollis"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
+description: "Zonotrichia albicollis is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 5 times."
 species_group: "New World Sparrows"
 species_code: "whtspa"
 

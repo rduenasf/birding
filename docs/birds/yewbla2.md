@@ -3,6 +3,7 @@ title: "Yellow-winged Blackbird"
 scientific_name: "Agelasticus thilius"
 order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
+description: "Agelasticus thilius is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 5 times. It has been photographed."
 species_group: "Blackbirds"
 species_code: "yewbla2"
 

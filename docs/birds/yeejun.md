@@ -3,6 +3,7 @@ title: "Yellow-eyed Junco"
 scientific_name: "Junco phaeonotus"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
+description: "Junco phaeonotus is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 6 times."
 species_group: "New World Sparrows"
 species_code: "yeejun"
 

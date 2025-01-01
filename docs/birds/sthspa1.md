@@ -3,6 +3,7 @@ title: "Stripe-headed Sparrow"
 scientific_name: "Peucaea ruficauda"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
+description: "Peucaea ruficauda is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 1 times."
 species_group: "New World Sparrows"
 species_code: "sthspa1"
 

@@ -3,6 +3,7 @@ title: "Sulphur-bellied Flycatcher"
 scientific_name: "Myiodynastes luteiventris"
 order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
+description: "Myiodynastes luteiventris is a species of bird in the Tyrannidae (Tyrant Flycatchers) family. It has been observed 1 times."
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "subfly"
 

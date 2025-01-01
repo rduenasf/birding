@@ -3,6 +3,7 @@ title: "Austral Thrush"
 scientific_name: "Turdus falcklandii"
 order: "Passeriformes"
 family: "Turdidae (Thrushes and Allies)"
+description: "Turdus falcklandii is a species of bird in the Turdidae (Thrushes and Allies) family. It has been observed 7 times."
 species_group: "Thrushes"
 species_code: "austhr1"
 

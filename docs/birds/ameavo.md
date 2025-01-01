@@ -3,6 +3,7 @@ title: "American Avocet"
 scientific_name: "Recurvirostra americana"
 order: "Charadriiformes"
 family: "Recurvirostridae (Stilts and Avocets)"
+description: "Recurvirostra americana is a species of bird in the Recurvirostridae (Stilts and Avocets) family. It has been observed 20 times. It has been photographed."
 species_group: "Shorebirds"
 species_code: "ameavo"
 

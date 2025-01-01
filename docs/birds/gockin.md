@@ -3,6 +3,7 @@ title: "Golden-crowned Kinglet"
 scientific_name: "Regulus satrapa"
 order: "Passeriformes"
 family: "Regulidae (Kinglets)"
+description: "Regulus satrapa is a species of bird in the Regulidae (Kinglets) family. It has been observed 9 times."
 species_group: "Kinglets"
 species_code: "gockin"
 

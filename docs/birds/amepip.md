@@ -3,6 +3,7 @@ title: "American Pipit"
 scientific_name: "Anthus rubescens"
 order: "Passeriformes"
 family: "Motacillidae (Wagtails and Pipits)"
+description: "Anthus rubescens is a species of bird in the Motacillidae (Wagtails and Pipits) family. It has been observed 9 times. It has been recorded."
 species_group: "Wagtails and Pipits"
 species_code: "amepip"
 

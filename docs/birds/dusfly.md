@@ -3,6 +3,7 @@ title: "Dusky Flycatcher"
 scientific_name: "Empidonax oberholseri"
 order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
+description: "Empidonax oberholseri is a species of bird in the Tyrannidae (Tyrant Flycatchers) family. It has been observed 2 times."
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "dusfly"
 

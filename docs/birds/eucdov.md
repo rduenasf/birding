@@ -3,6 +3,7 @@ title: "Eurasian Collared-Dove"
 scientific_name: "Streptopelia decaocto"
 order: "Columbiformes"
 family: "Columbidae (Pigeons and Doves)"
+description: "Streptopelia decaocto is a species of bird in the Columbidae (Pigeons and Doves) family. It has been observed 7 times."
 species_group: "Pigeons and Doves"
 species_code: "eucdov"
 

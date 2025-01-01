@@ -3,6 +3,7 @@ title: "Glaucous Gull"
 scientific_name: "Larus hyperboreus"
 order: "Charadriiformes"
 family: "Laridae (Gulls, Terns, and Skimmers)"
+description: "Larus hyperboreus is a species of bird in the Laridae (Gulls, Terns, and Skimmers) family. It has been observed 1 times."
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "glagul"
 

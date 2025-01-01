@@ -3,6 +3,7 @@ title: "Bullock's Oriole"
 scientific_name: "Icterus bullockii"
 order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
+description: "Icterus bullockii is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 2 times."
 species_group: "Blackbirds"
 species_code: "bulori"
 

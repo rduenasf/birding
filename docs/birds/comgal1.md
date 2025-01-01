@@ -3,6 +3,7 @@ title: "Common Gallinule"
 scientific_name: "Gallinula galeata"
 order: "Gruiformes"
 family: "Rallidae (Rails, Gallinules, and Coots)"
+description: "Gallinula galeata is a species of bird in the Rallidae (Rails, Gallinules, and Coots) family. It has been observed 7 times. It has been photographed. It has been recorded."
 species_group: "Rails, Gallinules, and Allies"
 species_code: "comgal1"
 

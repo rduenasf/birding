@@ -3,6 +3,7 @@ title: "Pyrrhuloxia"
 scientific_name: "Cardinalis sinuatus"
 order: "Passeriformes"
 family: "Cardinalidae (Cardinals and Allies)"
+description: "Cardinalis sinuatus is a species of bird in the Cardinalidae (Cardinals and Allies) family. It has been observed 2 times."
 species_group: "Cardinals, Grosbeaks, and Allies"
 species_code: "pyrrhu"
 

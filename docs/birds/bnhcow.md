@@ -3,6 +3,7 @@ title: "Brown-headed Cowbird"
 scientific_name: "Molothrus ater"
 order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
+description: "Molothrus ater is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 9 times."
 species_group: "Blackbirds"
 species_code: "bnhcow"
 

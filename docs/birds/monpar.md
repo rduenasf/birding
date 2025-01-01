@@ -3,6 +3,7 @@ title: "Monk Parakeet"
 scientific_name: "Myiopsitta monachus"
 order: "Psittaciformes"
 family: "Psittacidae (New World and African Parrots)"
+description: "Myiopsitta monachus is a species of bird in the Psittacidae (New World and African Parrots) family. It has been observed 3 times."
 species_group: "Parrots, Parakeets, and Allies"
 species_code: "monpar"
 

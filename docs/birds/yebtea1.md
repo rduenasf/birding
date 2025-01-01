@@ -3,6 +3,7 @@ title: "Yellow-billed Teal"
 scientific_name: "Anas flavirostris"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
+description: "Anas flavirostris is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 1 times."
 species_group: "Waterfowl"
 species_code: "yebtea1"
 

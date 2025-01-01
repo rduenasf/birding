@@ -3,6 +3,7 @@ title: "Gray-hooded Sierra Finch"
 scientific_name: "Phrygilus gayi"
 order: "Passeriformes"
 family: "Thraupidae (Tanagers and Allies)"
+description: "Phrygilus gayi is a species of bird in the Thraupidae (Tanagers and Allies) family. It has been observed 3 times. It has been photographed."
 species_group: "Tanagers and Allies"
 species_code: "gyhsif1"
 

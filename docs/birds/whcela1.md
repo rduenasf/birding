@@ -3,6 +3,7 @@ title: "White-crested Elaenia"
 scientific_name: "Elaenia albiceps"
 order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
+description: "Elaenia albiceps is a species of bird in the Tyrannidae (Tyrant Flycatchers) family. It has been observed 7 times."
 species_group: "Tyrant Flycatchers: Elaenias, Tyrannulets, and Allies"
 species_code: "whcela1"
 

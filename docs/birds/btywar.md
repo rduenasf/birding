@@ -3,6 +3,7 @@ title: "Black-throated Gray Warbler"
 scientific_name: "Setophaga nigrescens"
 order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
+description: "Setophaga nigrescens is a species of bird in the Parulidae (New World Warblers) family. It has been observed 5 times."
 species_group: "Wood-Warblers"
 species_code: "btywar"
 

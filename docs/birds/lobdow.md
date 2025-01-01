@@ -3,6 +3,7 @@ title: "Long-billed Dowitcher"
 scientific_name: "Limnodromus scolopaceus"
 order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
+description: "Limnodromus scolopaceus is a species of bird in the Scolopacidae (Sandpipers and Allies) family. It has been observed 7 times. It has been recorded."
 species_group: "Shorebirds"
 species_code: "lobdow"
 

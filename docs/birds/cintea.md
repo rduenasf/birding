@@ -3,6 +3,7 @@ title: "Cinnamon Teal"
 scientific_name: "Spatula cyanoptera"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
+description: "Spatula cyanoptera is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 11 times. It has been photographed."
 species_group: "Waterfowl"
 species_code: "cintea"
 

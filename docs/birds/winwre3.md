@@ -3,6 +3,7 @@ title: "Winter Wren"
 scientific_name: "Troglodytes hiemalis"
 order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
+description: "Troglodytes hiemalis is a species of bird in the Troglodytidae (Wrens) family. It has been observed 1 times."
 species_group: "Wrens"
 species_code: "winwre3"
 

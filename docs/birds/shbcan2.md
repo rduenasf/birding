@@ -3,6 +3,7 @@ title: "Sharp-billed Canastero"
 scientific_name: "Asthenes pyrrholeuca"
 order: "Passeriformes"
 family: "Furnariidae (Ovenbirds and Woodcreepers)"
+description: "Asthenes pyrrholeuca is a species of bird in the Furnariidae (Ovenbirds and Woodcreepers) family. It has been observed 2 times."
 species_group: "Ovenbirds"
 species_code: "shbcan2"
 

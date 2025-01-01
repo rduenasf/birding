@@ -3,6 +3,7 @@ title: "Western Bluebird"
 scientific_name: "Sialia mexicana"
 order: "Passeriformes"
 family: "Turdidae (Thrushes and Allies)"
+description: "Sialia mexicana is a species of bird in the Turdidae (Thrushes and Allies) family. It has been observed 18 times. It has been photographed."
 species_group: "Thrushes"
 species_code: "wesblu"
 

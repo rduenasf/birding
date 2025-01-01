@@ -3,6 +3,7 @@ title: "Red-shouldered Hawk"
 scientific_name: "Buteo lineatus"
 order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
+description: "Buteo lineatus is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 9 times. It has been photographed."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "reshaw"
 

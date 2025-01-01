@@ -3,6 +3,7 @@ title: "Rufous-naped Ground-Tyrant"
 scientific_name: "Muscisaxicola rufivertex"
 order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
+description: "Muscisaxicola rufivertex is a species of bird in the Tyrannidae (Tyrant Flycatchers) family. It has been observed 1 times."
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "rngtyr1"
 

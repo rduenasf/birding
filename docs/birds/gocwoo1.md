@@ -3,6 +3,7 @@ title: "Golden-cheeked Woodpecker"
 scientific_name: "Melanerpes chrysogenys"
 order: "Piciformes"
 family: "Picidae (Woodpeckers)"
+description: "Melanerpes chrysogenys is a species of bird in the Picidae (Woodpeckers) family. It has been observed 1 times."
 species_group: "Woodpeckers"
 species_code: "gocwoo1"
 

@@ -3,6 +3,7 @@ title: "Common Grackle"
 scientific_name: "Quiscalus quiscula"
 order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
+description: "Quiscalus quiscula is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 7 times."
 species_group: "Blackbirds"
 species_code: "comgra"
 

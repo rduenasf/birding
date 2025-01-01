@@ -3,6 +3,7 @@ title: "Cassin's Auklet"
 scientific_name: "Ptychoramphus aleuticus"
 order: "Charadriiformes"
 family: "Alcidae (Auks, Murres, and Puffins)"
+description: "Ptychoramphus aleuticus is a species of bird in the Alcidae (Auks, Murres, and Puffins) family. It has been observed 3 times."
 species_group: "Alcids"
 species_code: "casauk"
 

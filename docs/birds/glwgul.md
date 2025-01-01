@@ -3,6 +3,7 @@ title: "Glaucous-winged Gull"
 scientific_name: "Larus glaucescens"
 order: "Charadriiformes"
 family: "Laridae (Gulls, Terns, and Skimmers)"
+description: "Larus glaucescens is a species of bird in the Laridae (Gulls, Terns, and Skimmers) family. It has been observed 2 times."
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "glwgul"
 

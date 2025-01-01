@@ -3,6 +3,7 @@ title: "Happy Wren"
 scientific_name: "Pheugopedius felix"
 order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
+description: "Pheugopedius felix is a species of bird in the Troglodytidae (Wrens) family. It has been observed 1 times."
 species_group: "Wrens"
 species_code: "hapwre1"
 

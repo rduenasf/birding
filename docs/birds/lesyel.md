@@ -3,6 +3,7 @@ title: "Lesser Yellowlegs"
 scientific_name: "Tringa flavipes"
 order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
+description: "Tringa flavipes is a species of bird in the Scolopacidae (Sandpipers and Allies) family. It has been observed 1 times."
 species_group: "Shorebirds"
 species_code: "lesyel"
 

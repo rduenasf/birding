@@ -3,6 +3,7 @@ title: "Wild Turkey"
 scientific_name: "Meleagris gallopavo"
 order: "Galliformes"
 family: "Phasianidae (Pheasants, Grouse, and Allies)"
+description: "Meleagris gallopavo is a species of bird in the Phasianidae (Pheasants, Grouse, and Allies) family. It has been observed 13 times. It has been photographed. It has been recorded."
 species_group: "Grouse, Quail, and Allies"
 species_code: "wiltur"
 

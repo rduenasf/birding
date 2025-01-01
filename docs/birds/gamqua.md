@@ -3,6 +3,7 @@ title: "Gambel's Quail"
 scientific_name: "Callipepla gambelii"
 order: "Galliformes"
 family: "Odontophoridae (New World Quail)"
+description: "Callipepla gambelii is a species of bird in the Odontophoridae (New World Quail) family. It has been observed 2 times."
 species_group: "Grouse, Quail, and Allies"
 species_code: "gamqua"
 

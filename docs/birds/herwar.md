@@ -3,6 +3,7 @@ title: "Hermit Warbler"
 scientific_name: "Setophaga occidentalis"
 order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
+description: "Setophaga occidentalis is a species of bird in the Parulidae (New World Warblers) family. It has been observed 1 times."
 species_group: "Wood-Warblers"
 species_code: "herwar"
 

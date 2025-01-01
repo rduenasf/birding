@@ -3,6 +3,7 @@ title: "Mallard"
 scientific_name: "Anas platyrhynchos"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
+description: "Anas platyrhynchos is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 52 times. It has been photographed. It has been recorded."
 species_group: "Waterfowl"
 species_code: "mallar3"
 

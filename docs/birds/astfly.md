@@ -3,6 +3,7 @@ title: "Ash-throated Flycatcher"
 scientific_name: "Myiarchus cinerascens"
 order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
+description: "Myiarchus cinerascens is a species of bird in the Tyrannidae (Tyrant Flycatchers) family. It has been observed 6 times."
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "astfly"
 

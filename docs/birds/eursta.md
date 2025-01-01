@@ -3,6 +3,7 @@ title: "European Starling"
 scientific_name: "Sturnus vulgaris"
 order: "Passeriformes"
 family: "Sturnidae (Starlings)"
+description: "Sturnus vulgaris is a species of bird in the Sturnidae (Starlings) family. It has been observed 14 times. It has been recorded."
 species_group: "Starlings and Mynas"
 species_code: "eursta"
 

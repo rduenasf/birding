@@ -3,6 +3,7 @@ title: "Marbled Godwit"
 scientific_name: "Limosa fedoa"
 order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
+description: "Limosa fedoa is a species of bird in the Scolopacidae (Sandpipers and Allies) family. It has been observed 9 times. It has been photographed."
 species_group: "Shorebirds"
 species_code: "margod"
 

@@ -3,6 +3,7 @@ title: "Black Vulture"
 scientific_name: "Coragyps atratus"
 order: "Cathartiformes"
 family: "Cathartidae (New World Vultures)"
+description: "Coragyps atratus is a species of bird in the Cathartidae (New World Vultures) family. It has been observed 6 times."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "blkvul"
 

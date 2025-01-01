@@ -3,6 +3,7 @@ title: "Northern Mockingbird"
 scientific_name: "Mimus polyglottos"
 order: "Passeriformes"
 family: "Mimidae (Mockingbirds and Thrashers)"
+description: "Mimus polyglottos is a species of bird in the Mimidae (Mockingbirds and Thrashers) family. It has been observed 18 times. It has been photographed. It has been recorded."
 species_group: "Catbirds, Mockingbirds, and Thrashers"
 species_code: "normoc"
 

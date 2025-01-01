@@ -3,6 +3,7 @@ title: "Blue-winged Teal"
 scientific_name: "Spatula discors"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
+description: "Spatula discors is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 1 times."
 species_group: "Waterfowl"
 species_code: "buwtea"
 

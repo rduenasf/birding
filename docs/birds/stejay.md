@@ -3,6 +3,7 @@ title: "Steller's Jay"
 scientific_name: "Cyanocitta stelleri"
 order: "Passeriformes"
 family: "Corvidae (Crows, Jays, and Magpies)"
+description: "Cyanocitta stelleri is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 17 times. It has been photographed. It has been recorded."
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "stejay"
 

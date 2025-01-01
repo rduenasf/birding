@@ -3,6 +3,7 @@ title: "Gray-flanked Cinclodes"
 scientific_name: "Cinclodes oustaleti"
 order: "Passeriformes"
 family: "Furnariidae (Ovenbirds and Woodcreepers)"
+description: "Cinclodes oustaleti is a species of bird in the Furnariidae (Ovenbirds and Woodcreepers) family. It has been observed 1 times."
 species_group: "Ovenbirds"
 species_code: "gyfcin1"
 

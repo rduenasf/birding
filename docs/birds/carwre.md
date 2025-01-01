@@ -3,6 +3,7 @@ title: "Carolina Wren"
 scientific_name: "Thryothorus ludovicianus"
 order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
+description: "Thryothorus ludovicianus is a species of bird in the Troglodytidae (Wrens) family. It has been observed 4 times."
 species_group: "Wrens"
 species_code: "carwre"
 

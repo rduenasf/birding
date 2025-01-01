@@ -3,6 +3,7 @@ title: "Whimbrel"
 scientific_name: "Numenius phaeopus"
 order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
+description: "Numenius phaeopus is a species of bird in the Scolopacidae (Sandpipers and Allies) family. It has been observed 4 times. It has been photographed."
 species_group: "Shorebirds"
 species_code: "whimbr"
 

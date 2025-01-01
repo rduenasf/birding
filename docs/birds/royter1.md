@@ -3,6 +3,7 @@ title: "Royal Tern"
 scientific_name: "Thalasseus maximus"
 order: "Charadriiformes"
 family: "Laridae (Gulls, Terns, and Skimmers)"
+description: "Thalasseus maximus is a species of bird in the Laridae (Gulls, Terns, and Skimmers) family. It has been observed 2 times."
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "royter1"
 

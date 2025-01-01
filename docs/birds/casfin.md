@@ -3,6 +3,7 @@ title: "Cassin's Finch"
 scientific_name: "Haemorhous cassinii"
 order: "Passeriformes"
 family: "Fringillidae (Finches, Euphonias, and Allies)"
+description: "Haemorhous cassinii is a species of bird in the Fringillidae (Finches, Euphonias, and Allies) family. It has been observed 1 times."
 species_group: "Finches, Euphonias, and Allies"
 species_code: "casfin"
 

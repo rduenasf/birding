@@ -3,6 +3,7 @@ title: "Northern Cardinal"
 scientific_name: "Cardinalis cardinalis"
 order: "Passeriformes"
 family: "Cardinalidae (Cardinals and Allies)"
+description: "Cardinalis cardinalis is a species of bird in the Cardinalidae (Cardinals and Allies) family. It has been observed 16 times. It has been photographed."
 species_group: "Cardinals, Grosbeaks, and Allies"
 species_code: "norcar"
 

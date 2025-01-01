@@ -3,6 +3,7 @@ title: "Killdeer"
 scientific_name: "Charadrius vociferus"
 order: "Charadriiformes"
 family: "Charadriidae (Plovers and Lapwings)"
+description: "Charadrius vociferus is a species of bird in the Charadriidae (Plovers and Lapwings) family. It has been observed 19 times. It has been photographed. It has been recorded."
 species_group: "Shorebirds"
 species_code: "killde"
 

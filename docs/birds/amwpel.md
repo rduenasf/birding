@@ -3,6 +3,7 @@ title: "American White Pelican"
 scientific_name: "Pelecanus erythrorhynchos"
 order: "Pelecaniformes"
 family: "Pelecanidae (Pelicans)"
+description: "Pelecanus erythrorhynchos is a species of bird in the Pelecanidae (Pelicans) family. It has been observed 12 times."
 species_group: "Pelicans"
 species_code: "amwpel"
 

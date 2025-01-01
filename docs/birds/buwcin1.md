@@ -3,6 +3,7 @@ title: "Buff-winged Cinclodes"
 scientific_name: "Cinclodes fuscus"
 order: "Passeriformes"
 family: "Furnariidae (Ovenbirds and Woodcreepers)"
+description: "Cinclodes fuscus is a species of bird in the Furnariidae (Ovenbirds and Woodcreepers) family. It has been observed 1 times."
 species_group: "Ovenbirds"
 species_code: "buwcin1"
 

@@ -3,6 +3,7 @@ title: "Red-masked Parakeet"
 scientific_name: "Psittacara erythrogenys"
 order: "Psittaciformes"
 family: "Psittacidae (New World and African Parrots)"
+description: "Psittacara erythrogenys is a species of bird in the Psittacidae (New World and African Parrots) family. It has been observed 1 times."
 species_group: "Parrots, Parakeets, and Allies"
 species_code: "rempar"
 

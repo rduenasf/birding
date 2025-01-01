@@ -3,6 +3,7 @@ title: "Red-necked Grebe"
 scientific_name: "Podiceps grisegena"
 order: "Podicipediformes"
 family: "Podicipedidae (Grebes)"
+description: "Podiceps grisegena is a species of bird in the Podicipedidae (Grebes) family. It has been observed 3 times."
 species_group: "Grebes"
 species_code: "rengre"
 

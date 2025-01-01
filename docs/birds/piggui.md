@@ -3,6 +3,7 @@ title: "Pigeon Guillemot"
 scientific_name: "Cepphus columba"
 order: "Charadriiformes"
 family: "Alcidae (Auks, Murres, and Puffins)"
+description: "Cepphus columba is a species of bird in the Alcidae (Auks, Murres, and Puffins) family. It has been observed 6 times."
 species_group: "Alcids"
 species_code: "piggui"
 

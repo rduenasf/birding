@@ -3,6 +3,7 @@ title: "Red-tailed Hawk"
 scientific_name: "Buteo jamaicensis"
 order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
+description: "Buteo jamaicensis is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 18 times."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "rethaw"
 

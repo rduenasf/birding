@@ -3,6 +3,7 @@ title: "Downy Woodpecker"
 scientific_name: "Dryobates pubescens"
 order: "Piciformes"
 family: "Picidae (Woodpeckers)"
+description: "Dryobates pubescens is a species of bird in the Picidae (Woodpeckers) family. It has been observed 7 times."
 species_group: "Woodpeckers"
 species_code: "dowwoo"
 

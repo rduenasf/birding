@@ -3,6 +3,7 @@ title: "Black-necked Swan"
 scientific_name: "Cygnus melancoryphus"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
+description: "Cygnus melancoryphus is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 1 times."
 species_group: "Waterfowl"
 species_code: "blnswa2"
 

@@ -3,6 +3,7 @@ title: "Northern Shrike"
 scientific_name: "Lanius borealis"
 order: "Passeriformes"
 family: "Laniidae (Shrikes)"
+description: "Lanius borealis is a species of bird in the Laniidae (Shrikes) family. It has been observed 1 times."
 species_group: "Shrikes"
 species_code: "norshr4"
 

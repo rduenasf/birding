@@ -3,6 +3,7 @@ title: "Merlin"
 scientific_name: "Falco columbarius"
 order: "Falconiformes"
 family: "Falconidae (Falcons and Caracaras)"
+description: "Falco columbarius is a species of bird in the Falconidae (Falcons and Caracaras) family. It has been observed 3 times."
 species_group: "Falcons and Caracaras"
 species_code: "merlin"
 

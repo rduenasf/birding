@@ -3,6 +3,7 @@ title: "Barn Swallow"
 scientific_name: "Hirundo rustica"
 order: "Passeriformes"
 family: "Hirundinidae (Swallows)"
+description: "Hirundo rustica is a species of bird in the Hirundinidae (Swallows) family. It has been observed 19 times."
 species_group: "Martins and Swallows"
 species_code: "barswa"
 

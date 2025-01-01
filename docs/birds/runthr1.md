@@ -3,6 +3,7 @@ title: "Russet Nightingale-Thrush"
 scientific_name: "Catharus occidentalis"
 order: "Passeriformes"
 family: "Turdidae (Thrushes and Allies)"
+description: "Catharus occidentalis is a species of bird in the Turdidae (Thrushes and Allies) family. It has been observed 1 times."
 species_group: "Thrushes"
 species_code: "runthr1"
 

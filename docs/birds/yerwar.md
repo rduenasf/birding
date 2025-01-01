@@ -3,6 +3,7 @@ title: "Yellow-rumped Warbler"
 scientific_name: "Setophaga coronata"
 order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
+description: "Setophaga coronata is a species of bird in the Parulidae (New World Warblers) family. It has been observed 42 times. It has been recorded."
 species_group: "Wood-Warblers"
 species_code: "yerwar"
 

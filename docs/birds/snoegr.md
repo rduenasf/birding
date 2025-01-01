@@ -3,6 +3,7 @@ title: "Snowy Egret"
 scientific_name: "Egretta thula"
 order: "Pelecaniformes"
 family: "Ardeidae (Herons, Egrets, and Bitterns)"
+description: "Egretta thula is a species of bird in the Ardeidae (Herons, Egrets, and Bitterns) family. It has been observed 41 times. It has been photographed."
 species_group: "Herons, Ibis, and Allies"
 species_code: "snoegr"
 

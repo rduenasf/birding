@@ -3,6 +3,7 @@ title: "Black-headed Grosbeak"
 scientific_name: "Pheucticus melanocephalus"
 order: "Passeriformes"
 family: "Cardinalidae (Cardinals and Allies)"
+description: "Pheucticus melanocephalus is a species of bird in the Cardinalidae (Cardinals and Allies) family. It has been observed 13 times."
 species_group: "Cardinals, Grosbeaks, and Allies"
 species_code: "bkhgro"
 

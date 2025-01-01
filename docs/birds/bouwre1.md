@@ -3,6 +3,7 @@ title: "Boucard's Wren"
 scientific_name: "Campylorhynchus jocosus"
 order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
+description: "Campylorhynchus jocosus is a species of bird in the Troglodytidae (Wrens) family. It has been observed 1 times."
 species_group: "Wrens"
 species_code: "bouwre1"
 

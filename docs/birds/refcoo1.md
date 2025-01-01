@@ -3,6 +3,7 @@ title: "Red-fronted Coot"
 scientific_name: "Fulica rufifrons"
 order: "Gruiformes"
 family: "Rallidae (Rails, Gallinules, and Coots)"
+description: "Fulica rufifrons is a species of bird in the Rallidae (Rails, Gallinules, and Coots) family. It has been observed 3 times. It has been photographed."
 species_group: "Rails, Gallinules, and Allies"
 species_code: "refcoo1"
 

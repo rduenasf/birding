@@ -3,6 +3,7 @@ title: "Eastern Towhee"
 scientific_name: "Pipilo erythrophthalmus"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
+description: "Pipilo erythrophthalmus is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 1 times."
 species_group: "New World Sparrows"
 species_code: "eastow"
 

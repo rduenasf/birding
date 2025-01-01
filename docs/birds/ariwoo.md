@@ -3,6 +3,7 @@ title: "Arizona Woodpecker"
 scientific_name: "Dryobates arizonae"
 order: "Piciformes"
 family: "Picidae (Woodpeckers)"
+description: "Dryobates arizonae is a species of bird in the Picidae (Woodpeckers) family. It has been observed 1 times."
 species_group: "Woodpeckers"
 species_code: "ariwoo"
 

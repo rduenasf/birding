@@ -3,6 +3,7 @@ title: "Phainopepla"
 scientific_name: "Phainopepla nitens"
 order: "Passeriformes"
 family: "Ptiliogonatidae (Silky-flycatchers)"
+description: "Phainopepla nitens is a species of bird in the Ptiliogonatidae (Silky-flycatchers) family. It has been observed 4 times."
 species_group: "Silky-flycatchers"
 species_code: "phaino"
 

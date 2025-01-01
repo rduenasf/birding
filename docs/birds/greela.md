@@ -3,6 +3,7 @@ title: "Greenish Elaenia"
 scientific_name: "Myiopagis viridicata"
 order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
+description: "Myiopagis viridicata is a species of bird in the Tyrannidae (Tyrant Flycatchers) family. It has been observed 3 times."
 species_group: "Tyrant Flycatchers: Elaenias, Tyrannulets, and Allies"
 species_code: "greela"
 

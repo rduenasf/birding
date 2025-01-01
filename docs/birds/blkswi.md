@@ -3,6 +3,7 @@ title: "Black Swift"
 scientific_name: "Cypseloides niger"
 order: "Apodiformes"
 family: "Apodidae (Swifts)"
+description: "Cypseloides niger is a species of bird in the Apodidae (Swifts) family. It has been observed 1 times."
 species_group: "Swifts"
 species_code: "blkswi"
 

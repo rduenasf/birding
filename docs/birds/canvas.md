@@ -3,6 +3,7 @@ title: "Canvasback"
 scientific_name: "Aythya valisineria"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
+description: "Aythya valisineria is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 6 times."
 species_group: "Waterfowl"
 species_code: "canvas"
 

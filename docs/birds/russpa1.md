@@ -3,6 +3,7 @@ title: "Rusty Sparrow"
 scientific_name: "Aimophila rufescens"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
+description: "Aimophila rufescens is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 1 times."
 species_group: "New World Sparrows"
 species_code: "russpa1"
 

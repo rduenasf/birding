@@ -3,6 +3,7 @@ title: "Bridled Titmouse"
 scientific_name: "Baeolophus wollweberi"
 order: "Passeriformes"
 family: "Paridae (Tits, Chickadees, and Titmice)"
+description: "Baeolophus wollweberi is a species of bird in the Paridae (Tits, Chickadees, and Titmice) family. It has been observed 3 times."
 species_group: "Tits, Chickadees, and Titmice"
 species_code: "britit"
 

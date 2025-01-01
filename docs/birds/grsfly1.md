@@ -3,6 +3,7 @@ title: "Gray Silky-flycatcher"
 scientific_name: "Ptiliogonys cinereus"
 order: "Passeriformes"
 family: "Ptiliogonatidae (Silky-flycatchers)"
+description: "Ptiliogonys cinereus is a species of bird in the Ptiliogonatidae (Silky-flycatchers) family. It has been observed 5 times."
 species_group: "Silky-flycatchers"
 species_code: "grsfly1"
 

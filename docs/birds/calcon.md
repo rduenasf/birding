@@ -3,6 +3,7 @@ title: "California Condor"
 scientific_name: "Gymnogyps californianus"
 order: "Cathartiformes"
 family: "Cathartidae (New World Vultures)"
+description: "Gymnogyps californianus is a species of bird in the Cathartidae (New World Vultures) family. It has been observed 1 times."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "calcon"
 

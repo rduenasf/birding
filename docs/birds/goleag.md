@@ -3,6 +3,7 @@ title: "Golden Eagle"
 scientific_name: "Aquila chrysaetos"
 order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
+description: "Aquila chrysaetos is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 2 times."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "goleag"
 

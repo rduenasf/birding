@@ -3,6 +3,7 @@ title: "Austral Blackbird"
 scientific_name: "Curaeus curaeus"
 order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
+description: "Curaeus curaeus is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 4 times."
 species_group: "Blackbirds"
 species_code: "ausbla1"
 

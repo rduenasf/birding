@@ -3,6 +3,7 @@ title: "Striped Sparrow"
 scientific_name: "Oriturus superciliosus"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
+description: "Oriturus superciliosus is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 1 times."
 species_group: "New World Sparrows"
 species_code: "strspa1"
 

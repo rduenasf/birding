@@ -3,6 +3,7 @@ title: "Gadwall"
 scientific_name: "Mareca strepera"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
+description: "Mareca strepera is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 19 times."
 species_group: "Waterfowl"
 species_code: "gadwal"
 

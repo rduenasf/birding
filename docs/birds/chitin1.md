@@ -3,6 +3,7 @@ title: "Chilean Tinamou"
 scientific_name: "Nothoprocta perdicaria"
 order: "Tinamiformes"
 family: "Tinamidae (Tinamous)"
+description: "Nothoprocta perdicaria is a species of bird in the Tinamidae (Tinamous) family. It has been observed 1 times."
 species_group: "Tinamous"
 species_code: "chitin1"
 

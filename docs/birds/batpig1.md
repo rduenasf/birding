@@ -3,6 +3,7 @@ title: "Band-tailed Pigeon"
 scientific_name: "Patagioenas fasciata"
 order: "Columbiformes"
 family: "Columbidae (Pigeons and Doves)"
+description: "Patagioenas fasciata is a species of bird in the Columbidae (Pigeons and Doves) family. It has been observed 3 times."
 species_group: "Pigeons and Doves"
 species_code: "batpig1"
 

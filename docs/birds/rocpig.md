@@ -3,6 +3,7 @@ title: "Rock Pigeon"
 scientific_name: "Columba livia"
 order: "Columbiformes"
 family: "Columbidae (Pigeons and Doves)"
+description: "Columba livia is a species of bird in the Columbidae (Pigeons and Doves) family. It has been observed 23 times. It has been photographed."
 species_group: "Pigeons and Doves"
 species_code: "rocpig"
 

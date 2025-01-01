@@ -3,6 +3,7 @@ title: "Northern Pintail"
 scientific_name: "Anas acuta"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
+description: "Anas acuta is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 6 times. It has been photographed. It has been recorded."
 species_group: "Waterfowl"
 species_code: "norpin"
 

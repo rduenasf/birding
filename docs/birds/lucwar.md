@@ -3,6 +3,7 @@ title: "Lucy's Warbler"
 scientific_name: "Leiothlypis luciae"
 order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
+description: "Leiothlypis luciae is a species of bird in the Parulidae (New World Warblers) family. It has been observed 4 times."
 species_group: "Wood-Warblers"
 species_code: "lucwar"
 

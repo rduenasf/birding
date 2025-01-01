@@ -3,6 +3,7 @@ title: "Cackling Goose"
 scientific_name: "Branta hutchinsii"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
+description: "Branta hutchinsii is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 5 times. It has been recorded."
 species_group: "Waterfowl"
 species_code: "cacgoo1"
 

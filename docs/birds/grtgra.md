@@ -3,6 +3,7 @@ title: "Great-tailed Grackle"
 scientific_name: "Quiscalus mexicanus"
 order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
+description: "Quiscalus mexicanus is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 9 times. It has been photographed."
 species_group: "Blackbirds"
 species_code: "grtgra"
 

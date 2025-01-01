@@ -3,6 +3,7 @@ title: "Clark's Grebe"
 scientific_name: "Aechmophorus clarkii"
 order: "Podicipediformes"
 family: "Podicipedidae (Grebes)"
+description: "Aechmophorus clarkii is a species of bird in the Podicipedidae (Grebes) family. It has been observed 7 times."
 species_group: "Grebes"
 species_code: "clagre"
 

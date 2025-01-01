@@ -3,6 +3,7 @@ title: "Warbling Vireo"
 scientific_name: "Vireo gilvus"
 order: "Passeriformes"
 family: "Vireonidae (Vireos, Shrike-Babblers, and Erpornis)"
+description: "Vireo gilvus is a species of bird in the Vireonidae (Vireos, Shrike-Babblers, and Erpornis) family. It has been observed 8 times."
 species_group: "Vireos"
 species_code: "warvir"
 

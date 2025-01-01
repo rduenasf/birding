@@ -3,6 +3,7 @@ title: "Humboldt Penguin"
 scientific_name: "Spheniscus humboldti"
 order: "Sphenisciformes"
 family: "Spheniscidae (Penguins)"
+description: "Spheniscus humboldti is a species of bird in the Spheniscidae (Penguins) family. It has been observed 1 times."
 species_group: "Penguins"
 species_code: "humpen1"
 

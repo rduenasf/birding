@@ -3,6 +3,7 @@ title: "Red Crossbill"
 scientific_name: "Loxia curvirostra"
 order: "Passeriformes"
 family: "Fringillidae (Finches, Euphonias, and Allies)"
+description: "Loxia curvirostra is a species of bird in the Fringillidae (Finches, Euphonias, and Allies) family. It has been observed 2 times."
 species_group: "Finches, Euphonias, and Allies"
 species_code: "redcro"
 

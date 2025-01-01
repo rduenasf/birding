@@ -3,6 +3,7 @@ title: "Guanay Cormorant"
 scientific_name: "Leucocarbo bougainvilliorum"
 order: "Suliformes"
 family: "Phalacrocoracidae (Cormorants and Shags)"
+description: "Leucocarbo bougainvilliorum is a species of bird in the Phalacrocoracidae (Cormorants and Shags) family. It has been observed 1 times."
 species_group: "Cormorants and Anhingas"
 species_code: "guacor1"
 

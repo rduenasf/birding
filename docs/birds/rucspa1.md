@@ -3,6 +3,7 @@ title: "Rufous-collared Sparrow"
 scientific_name: "Zonotrichia capensis"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
+description: "Zonotrichia capensis is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 13 times."
 species_group: "New World Sparrows"
 species_code: "rucspa1"
 

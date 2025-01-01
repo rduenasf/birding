@@ -3,6 +3,7 @@ title: "Hooded Oriole"
 scientific_name: "Icterus cucullatus"
 order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
+description: "Icterus cucullatus is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 4 times."
 species_group: "Blackbirds"
 species_code: "hooori"
 

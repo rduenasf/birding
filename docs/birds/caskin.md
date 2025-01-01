@@ -3,6 +3,7 @@ title: "Cassin's Kingbird"
 scientific_name: "Tyrannus vociferans"
 order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
+description: "Tyrannus vociferans is a species of bird in the Tyrannidae (Tyrant Flycatchers) family. It has been observed 3 times."
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "caskin"
 

@@ -3,6 +3,7 @@ title: "Curve-billed Thrasher"
 scientific_name: "Toxostoma curvirostre"
 order: "Passeriformes"
 family: "Mimidae (Mockingbirds and Thrashers)"
+description: "Toxostoma curvirostre is a species of bird in the Mimidae (Mockingbirds and Thrashers) family. It has been observed 7 times."
 species_group: "Catbirds, Mockingbirds, and Thrashers"
 species_code: "cubthr"
 

@@ -3,6 +3,7 @@ title: "Ruff"
 scientific_name: "Calidris pugnax"
 order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
+description: "Calidris pugnax is a species of bird in the Scolopacidae (Sandpipers and Allies) family. It has been observed 1 times."
 species_group: "Shorebirds"
 species_code: "ruff"
 

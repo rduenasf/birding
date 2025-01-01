@@ -3,6 +3,7 @@ title: "American Kestrel"
 scientific_name: "Falco sparverius"
 order: "Falconiformes"
 family: "Falconidae (Falcons and Caracaras)"
+description: "Falco sparverius is a species of bird in the Falconidae (Falcons and Caracaras) family. It has been observed 4 times."
 species_group: "Falcons and Caracaras"
 species_code: "amekes"
 

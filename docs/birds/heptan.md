@@ -3,6 +3,7 @@ title: "Hepatic Tanager"
 scientific_name: "Piranga flava"
 order: "Passeriformes"
 family: "Cardinalidae (Cardinals and Allies)"
+description: "Piranga flava is a species of bird in the Cardinalidae (Cardinals and Allies) family. It has been observed 3 times."
 species_group: "Cardinals, Grosbeaks, and Allies"
 species_code: "heptan"
 

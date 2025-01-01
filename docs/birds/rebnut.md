@@ -3,6 +3,7 @@ title: "Red-breasted Nuthatch"
 scientific_name: "Sitta canadensis"
 order: "Passeriformes"
 family: "Sittidae (Nuthatches)"
+description: "Sitta canadensis is a species of bird in the Sittidae (Nuthatches) family. It has been observed 7 times."
 species_group: "Nuthatches"
 species_code: "rebnut"
 

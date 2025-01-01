@@ -3,6 +3,7 @@ title: "Brown-hooded Gull"
 scientific_name: "Chroicocephalus maculipennis"
 order: "Charadriiformes"
 family: "Laridae (Gulls, Terns, and Skimmers)"
+description: "Chroicocephalus maculipennis is a species of bird in the Laridae (Gulls, Terns, and Skimmers) family. It has been observed 2 times."
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "brhgul2"
 

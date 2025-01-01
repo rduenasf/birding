@@ -3,6 +3,7 @@ title: "Eared Dove"
 scientific_name: "Zenaida auriculata"
 order: "Columbiformes"
 family: "Columbidae (Pigeons and Doves)"
+description: "Zenaida auriculata is a species of bird in the Columbidae (Pigeons and Doves) family. It has been observed 11 times."
 species_group: "Pigeons and Doves"
 species_code: "eardov1"
 

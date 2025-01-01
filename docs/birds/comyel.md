@@ -3,6 +3,7 @@ title: "Common Yellowthroat"
 scientific_name: "Geothlypis trichas"
 order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
+description: "Geothlypis trichas is a species of bird in the Parulidae (New World Warblers) family. It has been observed 13 times. It has been recorded."
 species_group: "Wood-Warblers"
 species_code: "comyel"
 

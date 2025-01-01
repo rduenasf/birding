@@ -3,6 +3,7 @@ title: "Rhinoceros Auklet"
 scientific_name: "Cerorhinca monocerata"
 order: "Charadriiformes"
 family: "Alcidae (Auks, Murres, and Puffins)"
+description: "Cerorhinca monocerata is a species of bird in the Alcidae (Auks, Murres, and Puffins) family. It has been observed 4 times."
 species_group: "Alcids"
 species_code: "rhiauk"
 

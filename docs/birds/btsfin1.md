@@ -3,6 +3,7 @@ title: "Band-tailed Sierra Finch"
 scientific_name: "Rhopospina alaudina"
 order: "Passeriformes"
 family: "Thraupidae (Tanagers and Allies)"
+description: "Rhopospina alaudina is a species of bird in the Thraupidae (Tanagers and Allies) family. It has been observed 4 times."
 species_group: "Tanagers and Allies"
 species_code: "btsfin1"
 

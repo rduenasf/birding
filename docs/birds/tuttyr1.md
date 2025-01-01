@@ -3,6 +3,7 @@ title: "Tufted Tit-Tyrant"
 scientific_name: "Anairetes parulus"
 order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
+description: "Anairetes parulus is a species of bird in the Tyrannidae (Tyrant Flycatchers) family. It has been observed 1 times."
 species_group: "Tyrant Flycatchers: Elaenias, Tyrannulets, and Allies"
 species_code: "tuttyr1"
 

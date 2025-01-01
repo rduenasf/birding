@@ -3,6 +3,7 @@ title: "Gila Woodpecker"
 scientific_name: "Melanerpes uropygialis"
 order: "Piciformes"
 family: "Picidae (Woodpeckers)"
+description: "Melanerpes uropygialis is a species of bird in the Picidae (Woodpeckers) family. It has been observed 6 times."
 species_group: "Woodpeckers"
 species_code: "gilwoo"
 

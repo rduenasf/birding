@@ -3,6 +3,7 @@ title: "Long-billed Curlew"
 scientific_name: "Numenius americanus"
 order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
+description: "Numenius americanus is a species of bird in the Scolopacidae (Sandpipers and Allies) family. It has been observed 9 times."
 species_group: "Shorebirds"
 species_code: "lobcur"
 

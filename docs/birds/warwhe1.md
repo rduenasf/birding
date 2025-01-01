@@ -3,6 +3,7 @@ title: "Warbling White-eye"
 scientific_name: "Zosterops japonicus"
 order: "Passeriformes"
 family: "Zosteropidae (White-eyes, Yuhinas, and Allies)"
+description: "Zosterops japonicus is a species of bird in the Zosteropidae (White-eyes, Yuhinas, and Allies) family. It has been observed 1 times. It has been photographed."
 species_group: "White-eyes, Yuhinas, and Allies"
 species_code: "warwhe1"
 

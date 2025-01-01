@@ -3,6 +3,7 @@ title: "Brown-crested Flycatcher"
 scientific_name: "Myiarchus tyrannulus"
 order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
+description: "Myiarchus tyrannulus is a species of bird in the Tyrannidae (Tyrant Flycatchers) family. It has been observed 2 times."
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "bncfly"
 

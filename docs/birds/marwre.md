@@ -3,6 +3,7 @@ title: "Marsh Wren"
 scientific_name: "Cistothorus palustris"
 order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
+description: "Cistothorus palustris is a species of bird in the Troglodytidae (Wrens) family. It has been observed 16 times. It has been recorded."
 species_group: "Wrens"
 species_code: "marwre"
 

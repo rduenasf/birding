@@ -3,6 +3,7 @@ title: "California Scrub-Jay"
 scientific_name: "Aphelocoma californica"
 order: "Passeriformes"
 family: "Corvidae (Crows, Jays, and Magpies)"
+description: "Aphelocoma californica is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 20 times. It has been recorded."
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "cowscj1"
 

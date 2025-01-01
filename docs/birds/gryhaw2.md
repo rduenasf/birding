@@ -3,6 +3,7 @@ title: "Gray Hawk"
 scientific_name: "Buteo plagiatus"
 order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
+description: "Buteo plagiatus is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 3 times."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "gryhaw2"
 

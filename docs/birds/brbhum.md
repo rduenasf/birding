@@ -3,6 +3,7 @@ title: "Broad-billed Hummingbird"
 scientific_name: "Cynanthus latirostris"
 order: "Apodiformes"
 family: "Trochilidae (Hummingbirds)"
+description: "Cynanthus latirostris is a species of bird in the Trochilidae (Hummingbirds) family. It has been observed 8 times."
 species_group: "Hummingbirds"
 species_code: "brbhum"
 

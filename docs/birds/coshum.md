@@ -3,6 +3,7 @@ title: "Costa's Hummingbird"
 scientific_name: "Calypte costae"
 order: "Apodiformes"
 family: "Trochilidae (Hummingbirds)"
+description: "Calypte costae is a species of bird in the Trochilidae (Hummingbirds) family. It has been observed 3 times."
 species_group: "Hummingbirds"
 species_code: "coshum"
 

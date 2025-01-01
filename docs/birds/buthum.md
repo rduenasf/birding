@@ -3,6 +3,7 @@ title: "Blue-throated Mountain-gem"
 scientific_name: "Lampornis clemenciae"
 order: "Apodiformes"
 family: "Trochilidae (Hummingbirds)"
+description: "Lampornis clemenciae is a species of bird in the Trochilidae (Hummingbirds) family. It has been observed 1 times."
 species_group: "Hummingbirds"
 species_code: "buthum"
 

@@ -3,6 +3,7 @@ title: "Coscoroba Swan"
 scientific_name: "Coscoroba coscoroba"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
+description: "Coscoroba coscoroba is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 2 times."
 species_group: "Waterfowl"
 species_code: "cosswa1"
 

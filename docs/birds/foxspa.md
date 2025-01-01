@@ -3,6 +3,7 @@ title: "Fox Sparrow"
 scientific_name: "Passerella iliaca"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
+description: "Passerella iliaca is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 7 times."
 species_group: "New World Sparrows"
 species_code: "foxspa"
 

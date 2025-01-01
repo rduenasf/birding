@@ -3,6 +3,7 @@ title: "Virginia Rail"
 scientific_name: "Rallus limicola"
 order: "Gruiformes"
 family: "Rallidae (Rails, Gallinules, and Coots)"
+description: "Rallus limicola is a species of bird in the Rallidae (Rails, Gallinules, and Coots) family. It has been observed 1 times."
 species_group: "Rails, Gallinules, and Allies"
 species_code: "virrai"
 

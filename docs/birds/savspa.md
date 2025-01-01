@@ -3,6 +3,7 @@ title: "Savannah Sparrow"
 scientific_name: "Passerculus sandwichensis"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
+description: "Passerculus sandwichensis is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 17 times. It has been recorded."
 species_group: "New World Sparrows"
 species_code: "savspa"
 

@@ -3,6 +3,7 @@ title: "Orange-billed Nightingale-Thrush"
 scientific_name: "Catharus aurantiirostris"
 order: "Passeriformes"
 family: "Turdidae (Thrushes and Allies)"
+description: "Catharus aurantiirostris is a species of bird in the Turdidae (Thrushes and Allies) family. It has been observed 2 times."
 species_group: "Thrushes"
 species_code: "obnthr1"
 

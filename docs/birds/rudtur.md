@@ -3,6 +3,7 @@ title: "Ruddy Turnstone"
 scientific_name: "Arenaria interpres"
 order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
+description: "Arenaria interpres is a species of bird in the Scolopacidae (Sandpipers and Allies) family. It has been observed 1 times. It has been photographed."
 species_group: "Shorebirds"
 species_code: "rudtur"
 

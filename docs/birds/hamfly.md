@@ -3,6 +3,7 @@ title: "Hammond's Flycatcher"
 scientific_name: "Empidonax hammondii"
 order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
+description: "Empidonax hammondii is a species of bird in the Tyrannidae (Tyrant Flycatchers) family. It has been observed 1 times."
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "hamfly"
 

@@ -3,6 +3,7 @@ title: "Red Junglefowl"
 scientific_name: "Gallus gallus"
 order: "Galliformes"
 family: "Phasianidae (Pheasants, Grouse, and Allies)"
+description: "Gallus gallus is a species of bird in the Phasianidae (Pheasants, Grouse, and Allies) family. It has been observed 2 times. It has been photographed."
 species_group: "Grouse, Quail, and Allies"
 species_code: "redjun"
 

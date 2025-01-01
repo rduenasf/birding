@@ -3,6 +3,7 @@ title: "Black-capped Chickadee"
 scientific_name: "Poecile atricapillus"
 order: "Passeriformes"
 family: "Paridae (Tits, Chickadees, and Titmice)"
+description: "Poecile atricapillus is a species of bird in the Paridae (Tits, Chickadees, and Titmice) family. It has been observed 8 times."
 species_group: "Tits, Chickadees, and Titmice"
 species_code: "bkcchi"
 

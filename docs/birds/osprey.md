@@ -3,6 +3,7 @@ title: "Osprey"
 scientific_name: "Pandion haliaetus"
 order: "Accipitriformes"
 family: "Pandionidae (Osprey)"
+description: "Pandion haliaetus is a species of bird in the Pandionidae (Osprey) family. It has been observed 5 times. It has been photographed."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "osprey"
 

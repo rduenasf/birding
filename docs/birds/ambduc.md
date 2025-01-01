@@ -3,6 +3,7 @@ title: "American Black Duck"
 scientific_name: "Anas rubripes"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
+description: "Anas rubripes is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 1 times."
 species_group: "Waterfowl"
 species_code: "ambduc"
 

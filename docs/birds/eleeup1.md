@@ -3,6 +3,7 @@ title: "Elegant Euphonia"
 scientific_name: "Chlorophonia elegantissima"
 order: "Passeriformes"
 family: "Fringillidae (Finches, Euphonias, and Allies)"
+description: "Chlorophonia elegantissima is a species of bird in the Fringillidae (Finches, Euphonias, and Allies) family. It has been observed 3 times."
 species_group: "Finches, Euphonias, and Allies"
 species_code: "eleeup1"
 

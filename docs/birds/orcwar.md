@@ -3,6 +3,7 @@ title: "Orange-crowned Warbler"
 scientific_name: "Leiothlypis celata"
 order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
+description: "Leiothlypis celata is a species of bird in the Parulidae (New World Warblers) family. It has been observed 3 times."
 species_group: "Wood-Warblers"
 species_code: "orcwar"
 

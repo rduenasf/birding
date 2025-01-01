@@ -3,6 +3,7 @@ title: "Olive Warbler"
 scientific_name: "Peucedramus taeniatus"
 order: "Passeriformes"
 family: "Peucedramidae (Olive Warbler)"
+description: "Peucedramus taeniatus is a species of bird in the Peucedramidae (Olive Warbler) family. It has been observed 4 times."
 species_group: "Olive Warbler"
 species_code: "oliwar"
 

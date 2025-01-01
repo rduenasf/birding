@@ -3,6 +3,7 @@ title: "Greater Yellowlegs"
 scientific_name: "Tringa melanoleuca"
 order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
+description: "Tringa melanoleuca is a species of bird in the Scolopacidae (Sandpipers and Allies) family. It has been observed 14 times. It has been recorded."
 species_group: "Shorebirds"
 species_code: "greyel"
 

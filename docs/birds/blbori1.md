@@ -3,6 +3,7 @@ title: "Black-backed Oriole"
 scientific_name: "Icterus abeillei"
 order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
+description: "Icterus abeillei is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 1 times."
 species_group: "Blackbirds"
 species_code: "blbori1"
 

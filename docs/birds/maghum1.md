@@ -3,6 +3,7 @@ title: "Rivoli's Hummingbird"
 scientific_name: "Eugenes fulgens"
 order: "Apodiformes"
 family: "Trochilidae (Hummingbirds)"
+description: "Eugenes fulgens is a species of bird in the Trochilidae (Hummingbirds) family. It has been observed 4 times."
 species_group: "Hummingbirds"
 species_code: "maghum1"
 

@@ -3,6 +3,7 @@ title: "Abert's Towhee"
 scientific_name: "Melozone aberti"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
+description: "Melozone aberti is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 2 times."
 species_group: "New World Sparrows"
 species_code: "abetow"
 pagination_prev: null

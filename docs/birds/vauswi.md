@@ -3,6 +3,7 @@ title: "Vaux's Swift"
 scientific_name: "Chaetura vauxi"
 order: "Apodiformes"
 family: "Apodidae (Swifts)"
+description: "Chaetura vauxi is a species of bird in the Apodidae (Swifts) family. It has been observed 2 times."
 species_group: "Swifts"
 species_code: "vauswi"
 

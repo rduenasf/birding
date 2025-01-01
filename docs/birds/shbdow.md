@@ -3,6 +3,7 @@ title: "Short-billed Dowitcher"
 scientific_name: "Limnodromus griseus"
 order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
+description: "Limnodromus griseus is a species of bird in the Scolopacidae (Sandpipers and Allies) family. It has been observed 1 times."
 species_group: "Shorebirds"
 species_code: "shbdow"
 

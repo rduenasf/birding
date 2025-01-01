@@ -3,6 +3,7 @@ title: "Mexican Jay"
 scientific_name: "Aphelocoma wollweberi"
 order: "Passeriformes"
 family: "Corvidae (Crows, Jays, and Magpies)"
+description: "Aphelocoma wollweberi is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 2 times."
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "mexjay4"
 

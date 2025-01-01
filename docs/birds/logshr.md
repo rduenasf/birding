@@ -3,6 +3,7 @@ title: "Loggerhead Shrike"
 scientific_name: "Lanius ludovicianus"
 order: "Passeriformes"
 family: "Laniidae (Shrikes)"
+description: "Lanius ludovicianus is a species of bird in the Laniidae (Shrikes) family. It has been observed 1 times."
 species_group: "Shrikes"
 species_code: "logshr"
 

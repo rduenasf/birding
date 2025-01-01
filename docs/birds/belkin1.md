@@ -3,6 +3,7 @@ title: "Belted Kingfisher"
 scientific_name: "Megaceryle alcyon"
 order: "Coraciiformes"
 family: "Alcedinidae (Kingfishers)"
+description: "Megaceryle alcyon is a species of bird in the Alcedinidae (Kingfishers) family. It has been observed 3 times."
 species_group: "Kingfishers"
 species_code: "belkin1"
 

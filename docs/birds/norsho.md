@@ -3,6 +3,7 @@ title: "Northern Shoveler"
 scientific_name: "Spatula clypeata"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
+description: "Spatula clypeata is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 22 times. It has been recorded."
 species_group: "Waterfowl"
 species_code: "norsho"
 

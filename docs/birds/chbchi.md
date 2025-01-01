@@ -3,6 +3,7 @@ title: "Chestnut-backed Chickadee"
 scientific_name: "Poecile rufescens"
 order: "Passeriformes"
 family: "Paridae (Tits, Chickadees, and Titmice)"
+description: "Poecile rufescens is a species of bird in the Paridae (Tits, Chickadees, and Titmice) family. It has been observed 16 times. It has been recorded."
 species_group: "Tits, Chickadees, and Titmice"
 species_code: "chbchi"
 

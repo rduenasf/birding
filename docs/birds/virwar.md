@@ -3,6 +3,7 @@ title: "Virginia's Warbler"
 scientific_name: "Leiothlypis virginiae"
 order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
+description: "Leiothlypis virginiae is a species of bird in the Parulidae (New World Warblers) family. It has been observed 1 times."
 species_group: "Wood-Warblers"
 species_code: "virwar"
 

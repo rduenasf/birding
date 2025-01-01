@@ -3,6 +3,7 @@ title: "Picui Ground Dove"
 scientific_name: "Columbina picui"
 order: "Columbiformes"
 family: "Columbidae (Pigeons and Doves)"
+description: "Columbina picui is a species of bird in the Columbidae (Pigeons and Doves) family. It has been observed 1 times."
 species_group: "Pigeons and Doves"
 species_code: "pigdov1"
 

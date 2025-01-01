@@ -3,6 +3,7 @@ title: "Red-gartered Coot"
 scientific_name: "Fulica armillata"
 order: "Gruiformes"
 family: "Rallidae (Rails, Gallinules, and Coots)"
+description: "Fulica armillata is a species of bird in the Rallidae (Rails, Gallinules, and Coots) family. It has been observed 3 times. It has been photographed."
 species_group: "Rails, Gallinules, and Allies"
 species_code: "regcoo1"
 

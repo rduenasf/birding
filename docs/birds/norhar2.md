@@ -3,6 +3,7 @@ title: "Northern Harrier"
 scientific_name: "Circus hudsonius"
 order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
+description: "Circus hudsonius is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 16 times."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "norhar2"
 

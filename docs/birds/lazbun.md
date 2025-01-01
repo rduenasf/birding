@@ -3,6 +3,7 @@ title: "Lazuli Bunting"
 scientific_name: "Passerina amoena"
 order: "Passeriformes"
 family: "Cardinalidae (Cardinals and Allies)"
+description: "Passerina amoena is a species of bird in the Cardinalidae (Cardinals and Allies) family. It has been observed 2 times."
 species_group: "Cardinals, Grosbeaks, and Allies"
 species_code: "lazbun"
 

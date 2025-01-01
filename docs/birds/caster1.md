@@ -3,6 +3,7 @@ title: "Caspian Tern"
 scientific_name: "Hydroprogne caspia"
 order: "Charadriiformes"
 family: "Laridae (Gulls, Terns, and Skimmers)"
+description: "Hydroprogne caspia is a species of bird in the Laridae (Gulls, Terns, and Skimmers) family. It has been observed 9 times."
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "caster1"
 

@@ -3,6 +3,7 @@ title: "Swallow-tailed Kite"
 scientific_name: "Elanoides forficatus"
 order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
+description: "Elanoides forficatus is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 1 times."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "swtkit"
 

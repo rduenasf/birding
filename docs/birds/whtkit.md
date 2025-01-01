@@ -3,6 +3,7 @@ title: "White-tailed Kite"
 scientific_name: "Elanus leucurus"
 order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
+description: "Elanus leucurus is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 12 times. It has been photographed. It has been recorded."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "whtkit"
 

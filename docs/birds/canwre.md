@@ -3,6 +3,7 @@ title: "Canyon Wren"
 scientific_name: "Catherpes mexicanus"
 order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
+description: "Catherpes mexicanus is a species of bird in the Troglodytidae (Wrens) family. It has been observed 2 times."
 species_group: "Wrens"
 species_code: "canwre"
 

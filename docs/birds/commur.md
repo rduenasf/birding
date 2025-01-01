@@ -3,6 +3,7 @@ title: "Common Murre"
 scientific_name: "Uria aalge"
 order: "Charadriiformes"
 family: "Alcidae (Auks, Murres, and Puffins)"
+description: "Uria aalge is a species of bird in the Alcidae (Auks, Murres, and Puffins) family. It has been observed 8 times. It has been photographed."
 species_group: "Alcids"
 species_code: "commur"
 

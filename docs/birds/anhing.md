@@ -3,6 +3,7 @@ title: "Anhinga"
 scientific_name: "Anhinga anhinga"
 order: "Suliformes"
 family: "Anhingidae (Anhingas)"
+description: "Anhinga anhinga is a species of bird in the Anhingidae (Anhingas) family. It has been observed 1 times."
 species_group: "Cormorants and Anhingas"
 species_code: "anhing"
 

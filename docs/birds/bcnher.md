@@ -3,6 +3,7 @@ title: "Black-crowned Night Heron"
 scientific_name: "Nycticorax nycticorax"
 order: "Pelecaniformes"
 family: "Ardeidae (Herons, Egrets, and Bitterns)"
+description: "Nycticorax nycticorax is a species of bird in the Ardeidae (Herons, Egrets, and Bitterns) family. It has been observed 16 times. It has been photographed."
 species_group: "Herons, Ibis, and Allies"
 species_code: "bcnher"
 

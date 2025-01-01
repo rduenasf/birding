@@ -3,6 +3,7 @@ title: "Great Blue Heron"
 scientific_name: "Ardea herodias"
 order: "Pelecaniformes"
 family: "Ardeidae (Herons, Egrets, and Bitterns)"
+description: "Ardea herodias is a species of bird in the Ardeidae (Herons, Egrets, and Bitterns) family. It has been observed 21 times. It has been photographed."
 species_group: "Herons, Ibis, and Allies"
 species_code: "grbher3"
 

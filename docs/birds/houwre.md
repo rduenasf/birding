@@ -3,6 +3,7 @@ title: "Northern House Wren"
 scientific_name: "Troglodytes aedon"
 order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
+description: "Troglodytes aedon is a species of bird in the Troglodytidae (Wrens) family. It has been observed 9 times."
 species_group: "Wrens"
 species_code: "houwre"
 

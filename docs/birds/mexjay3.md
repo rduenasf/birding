@@ -3,6 +3,7 @@ title: "Transvolcanic Jay"
 scientific_name: "Aphelocoma ultramarina"
 order: "Passeriformes"
 family: "Corvidae (Crows, Jays, and Magpies)"
+description: "Aphelocoma ultramarina is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 1 times."
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "mexjay3"
 

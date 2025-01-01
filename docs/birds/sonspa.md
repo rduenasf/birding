@@ -3,6 +3,7 @@ title: "Song Sparrow"
 scientific_name: "Melospiza melodia"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
+description: "Melospiza melodia is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 49 times. It has been recorded."
 species_group: "New World Sparrows"
 species_code: "sonspa"
 

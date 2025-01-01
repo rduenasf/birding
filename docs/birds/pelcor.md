@@ -3,6 +3,7 @@ title: "Pelagic Cormorant"
 scientific_name: "Urile pelagicus"
 order: "Suliformes"
 family: "Phalacrocoracidae (Cormorants and Shags)"
+description: "Urile pelagicus is a species of bird in the Phalacrocoracidae (Cormorants and Shags) family. It has been observed 7 times."
 species_group: "Cormorants and Anhingas"
 species_code: "pelcor"
 

@@ -3,6 +3,7 @@ title: "Golden-browed Warbler"
 scientific_name: "Basileuterus belli"
 order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
+description: "Basileuterus belli is a species of bird in the Parulidae (New World Warblers) family. It has been observed 3 times."
 species_group: "Wood-Warblers"
 species_code: "gobwar1"
 

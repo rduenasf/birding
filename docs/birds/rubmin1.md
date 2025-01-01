@@ -3,6 +3,7 @@ title: "Rufous-banded Miner"
 scientific_name: "Geositta rufipennis"
 order: "Passeriformes"
 family: "Furnariidae (Ovenbirds and Woodcreepers)"
+description: "Geositta rufipennis is a species of bird in the Furnariidae (Ovenbirds and Woodcreepers) family. It has been observed 3 times."
 species_group: "Leaftossers and Miners"
 species_code: "rubmin1"
 

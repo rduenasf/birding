@@ -3,6 +3,7 @@ title: "Streak-backed Oriole"
 scientific_name: "Icterus pustulatus"
 order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
+description: "Icterus pustulatus is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 1 times."
 species_group: "Blackbirds"
 species_code: "stbori"
 

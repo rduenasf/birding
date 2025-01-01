@@ -3,6 +3,7 @@ title: "Cactus Wren"
 scientific_name: "Campylorhynchus brunneicapillus"
 order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
+description: "Campylorhynchus brunneicapillus is a species of bird in the Troglodytidae (Wrens) family. It has been observed 1 times."
 species_group: "Wrens"
 species_code: "cacwre"
 

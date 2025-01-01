@@ -3,6 +3,7 @@ title: "Chilean Swallow"
 scientific_name: "Tachycineta leucopyga"
 order: "Passeriformes"
 family: "Hirundinidae (Swallows)"
+description: "Tachycineta leucopyga is a species of bird in the Hirundinidae (Swallows) family. It has been observed 2 times."
 species_group: "Martins and Swallows"
 species_code: "chiswa1"
 

@@ -3,6 +3,7 @@ title: "Plain-mantled Tit-Spinetail"
 scientific_name: "Leptasthenura aegithaloides"
 order: "Passeriformes"
 family: "Furnariidae (Ovenbirds and Woodcreepers)"
+description: "Leptasthenura aegithaloides is a species of bird in the Furnariidae (Ovenbirds and Woodcreepers) family. It has been observed 2 times."
 species_group: "Ovenbirds"
 species_code: "pmtspi1"
 

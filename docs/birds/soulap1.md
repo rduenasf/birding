@@ -3,6 +3,7 @@ title: "Southern Lapwing"
 scientific_name: "Vanellus chilensis"
 order: "Charadriiformes"
 family: "Charadriidae (Plovers and Lapwings)"
+description: "Vanellus chilensis is a species of bird in the Charadriidae (Plovers and Lapwings) family. It has been observed 5 times. It has been photographed."
 species_group: "Shorebirds"
 species_code: "soulap1"
 

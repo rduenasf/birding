@@ -3,6 +3,7 @@ title: "Sandhill Crane"
 scientific_name: "Antigone canadensis"
 order: "Gruiformes"
 family: "Gruidae (Cranes)"
+description: "Antigone canadensis is a species of bird in the Gruidae (Cranes) family. It has been observed 1 times."
 species_group: "Cranes"
 species_code: "sancra"
 

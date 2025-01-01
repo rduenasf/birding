@@ -3,6 +3,7 @@ title: "Cinnamon-bellied Flowerpiercer"
 scientific_name: "Diglossa baritula"
 order: "Passeriformes"
 family: "Thraupidae (Tanagers and Allies)"
+description: "Diglossa baritula is a species of bird in the Thraupidae (Tanagers and Allies) family. It has been observed 2 times."
 species_group: "Tanagers and Allies"
 species_code: "cibflo1"
 

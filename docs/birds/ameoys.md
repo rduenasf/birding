@@ -3,6 +3,7 @@ title: "American Oystercatcher"
 scientific_name: "Haematopus palliatus"
 order: "Charadriiformes"
 family: "Haematopodidae (Oystercatchers)"
+description: "Haematopus palliatus is a species of bird in the Haematopodidae (Oystercatchers) family. It has been observed 2 times."
 species_group: "Shorebirds"
 species_code: "ameoys"
 

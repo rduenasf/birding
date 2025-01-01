@@ -3,6 +3,7 @@ title: "Ring-necked Duck"
 scientific_name: "Aythya collaris"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
+description: "Aythya collaris is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 3 times."
 species_group: "Waterfowl"
 species_code: "rinduc"
 

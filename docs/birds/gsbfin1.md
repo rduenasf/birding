@@ -3,6 +3,7 @@ title: "Green-striped Brushfinch"
 scientific_name: "Arremon virenticeps"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
+description: "Arremon virenticeps is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 2 times."
 species_group: "New World Sparrows"
 species_code: "gsbfin1"
 

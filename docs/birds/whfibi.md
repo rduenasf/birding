@@ -3,6 +3,7 @@ title: "White-faced Ibis"
 scientific_name: "Plegadis chihi"
 order: "Pelecaniformes"
 family: "Threskiornithidae (Ibises and Spoonbills)"
+description: "Plegadis chihi is a species of bird in the Threskiornithidae (Ibises and Spoonbills) family. It has been observed 3 times."
 species_group: "Herons, Ibis, and Allies"
 species_code: "whfibi"
 

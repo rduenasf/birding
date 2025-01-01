@@ -3,6 +3,7 @@ title: "Verdin"
 scientific_name: "Auriparus flaviceps"
 order: "Passeriformes"
 family: "Remizidae (Penduline-Tits)"
+description: "Auriparus flaviceps is a species of bird in the Remizidae (Penduline-Tits) family. It has been observed 2 times."
 species_group: "Penduline-Tits and Verdin"
 species_code: "verdin"
 

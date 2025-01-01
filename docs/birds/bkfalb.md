@@ -3,6 +3,7 @@ title: "Black-footed Albatross"
 scientific_name: "Phoebastria nigripes"
 order: "Procellariiformes"
 family: "Diomedeidae (Albatrosses)"
+description: "Phoebastria nigripes is a species of bird in the Diomedeidae (Albatrosses) family. It has been observed 1 times."
 species_group: "Albatrosses"
 species_code: "bkfalb"
 

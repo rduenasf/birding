@@ -3,6 +3,7 @@ title: "Black-chinned Hummingbird"
 scientific_name: "Archilochus alexandri"
 order: "Apodiformes"
 family: "Trochilidae (Hummingbirds)"
+description: "Archilochus alexandri is a species of bird in the Trochilidae (Hummingbirds) family. It has been observed 2 times."
 species_group: "Hummingbirds"
 species_code: "bkchum"
 

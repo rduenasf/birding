@@ -3,6 +3,7 @@ title: "Great Grebe"
 scientific_name: "Podiceps major"
 order: "Podicipediformes"
 family: "Podicipedidae (Grebes)"
+description: "Podiceps major is a species of bird in the Podicipedidae (Grebes) family. It has been observed 2 times. It has been photographed."
 species_group: "Grebes"
 species_code: "gregre1"
 

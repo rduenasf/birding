@@ -3,6 +3,7 @@ title: "Brewer's Blackbird"
 scientific_name: "Euphagus cyanocephalus"
 order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
+description: "Euphagus cyanocephalus is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 6 times. It has been photographed."
 species_group: "Blackbirds"
 species_code: "brebla"
 

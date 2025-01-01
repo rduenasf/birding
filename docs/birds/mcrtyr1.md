@@ -3,6 +3,7 @@ title: "Many-colored Rush Tyrant"
 scientific_name: "Tachuris rubrigastra"
 order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
+description: "Tachuris rubrigastra is a species of bird in the Tyrannidae (Tyrant Flycatchers) family. It has been observed 2 times. It has been photographed."
 species_group: "Tyrant Flycatchers: Elaenias, Tyrannulets, and Allies"
 species_code: "mcrtyr1"
 

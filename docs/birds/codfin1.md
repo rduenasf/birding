@@ -3,6 +3,7 @@ title: "Diuca Finch"
 scientific_name: "Diuca diuca"
 order: "Passeriformes"
 family: "Thraupidae (Tanagers and Allies)"
+description: "Diuca diuca is a species of bird in the Thraupidae (Tanagers and Allies) family. It has been observed 9 times. It has been photographed."
 species_group: "Tanagers and Allies"
 species_code: "codfin1"
 

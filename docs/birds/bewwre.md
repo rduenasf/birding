@@ -3,6 +3,7 @@ title: "Bewick's Wren"
 scientific_name: "Thryomanes bewickii"
 order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
+description: "Thryomanes bewickii is a species of bird in the Troglodytidae (Wrens) family. It has been observed 32 times. It has been recorded."
 species_group: "Wrens"
 species_code: "bewwre"
 

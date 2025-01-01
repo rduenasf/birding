@@ -3,6 +3,7 @@ title: "Cordilleran Canastero"
 scientific_name: "Asthenes modesta"
 order: "Passeriformes"
 family: "Furnariidae (Ovenbirds and Woodcreepers)"
+description: "Asthenes modesta is a species of bird in the Furnariidae (Ovenbirds and Woodcreepers) family. It has been observed 1 times."
 species_group: "Ovenbirds"
 species_code: "corcan1"
 

@@ -3,6 +3,7 @@ title: "Townsend's Warbler"
 scientific_name: "Setophaga townsendi"
 order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
+description: "Setophaga townsendi is a species of bird in the Parulidae (New World Warblers) family. It has been observed 4 times."
 species_group: "Wood-Warblers"
 species_code: "towwar"
 

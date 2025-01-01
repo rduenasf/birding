@@ -3,6 +3,7 @@ title: "Oak Titmouse"
 scientific_name: "Baeolophus inornatus"
 order: "Passeriformes"
 family: "Paridae (Tits, Chickadees, and Titmice)"
+description: "Baeolophus inornatus is a species of bird in the Paridae (Tits, Chickadees, and Titmice) family. It has been observed 14 times. It has been recorded."
 species_group: "Tits, Chickadees, and Titmice"
 species_code: "oaktit"
 

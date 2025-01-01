@@ -3,6 +3,7 @@ title: "Sooty Shearwater"
 scientific_name: "Ardenna grisea"
 order: "Procellariiformes"
 family: "Procellariidae (Shearwaters and Petrels)"
+description: "Ardenna grisea is a species of bird in the Procellariidae (Shearwaters and Petrels) family. It has been observed 2 times."
 species_group: "Petrels, Shearwaters, and Diving-Petrels"
 species_code: "sooshe"
 

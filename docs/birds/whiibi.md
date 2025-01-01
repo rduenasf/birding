@@ -3,6 +3,7 @@ title: "White Ibis"
 scientific_name: "Eudocimus albus"
 order: "Pelecaniformes"
 family: "Threskiornithidae (Ibises and Spoonbills)"
+description: "Eudocimus albus is a species of bird in the Threskiornithidae (Ibises and Spoonbills) family. It has been observed 1 times."
 species_group: "Herons, Ibis, and Allies"
 species_code: "whiibi"
 

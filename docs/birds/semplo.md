@@ -3,6 +3,7 @@ title: "Semipalmated Plover"
 scientific_name: "Charadrius semipalmatus"
 order: "Charadriiformes"
 family: "Charadriidae (Plovers and Lapwings)"
+description: "Charadrius semipalmatus is a species of bird in the Charadriidae (Plovers and Lapwings) family. It has been observed 2 times."
 species_group: "Shorebirds"
 species_code: "semplo"
 

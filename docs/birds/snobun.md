@@ -3,6 +3,7 @@ title: "Snow Bunting"
 scientific_name: "Plectrophenax nivalis"
 order: "Passeriformes"
 family: "Calcariidae (Longspurs and Snow Buntings)"
+description: "Plectrophenax nivalis is a species of bird in the Calcariidae (Longspurs and Snow Buntings) family. It has been observed 1 times. It has been recorded."
 species_group: "Longspurs and Snow Buntings"
 species_code: "snobun"
 

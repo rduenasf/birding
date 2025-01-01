@@ -3,6 +3,7 @@ title: "Pine Siskin"
 scientific_name: "Spinus pinus"
 order: "Passeriformes"
 family: "Fringillidae (Finches, Euphonias, and Allies)"
+description: "Spinus pinus is a species of bird in the Fringillidae (Finches, Euphonias, and Allies) family. It has been observed 7 times."
 species_group: "Finches, Euphonias, and Allies"
 species_code: "pinsis"
 

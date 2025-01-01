@@ -3,6 +3,7 @@ title: "Lake Duck"
 scientific_name: "Oxyura vittata"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
+description: "Oxyura vittata is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 1 times. It has been photographed."
 species_group: "Waterfowl"
 species_code: "lakduc1"
 

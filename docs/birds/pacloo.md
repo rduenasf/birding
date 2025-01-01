@@ -3,6 +3,7 @@ title: "Pacific Loon"
 scientific_name: "Gavia pacifica"
 order: "Gaviiformes"
 family: "Gaviidae (Loons)"
+description: "Gavia pacifica is a species of bird in the Gaviidae (Loons) family. It has been observed 1 times."
 species_group: "Loons"
 species_code: "pacloo"
 

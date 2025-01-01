@@ -3,6 +3,7 @@ title: "Rufous-tailed Plantcutter"
 scientific_name: "Phytotoma rara"
 order: "Passeriformes"
 family: "Cotingidae (Cotingas)"
+description: "Phytotoma rara is a species of bird in the Cotingidae (Cotingas) family. It has been observed 4 times. It has been photographed."
 species_group: "Cotingas"
 species_code: "rutpla1"
 

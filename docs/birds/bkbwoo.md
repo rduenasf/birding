@@ -3,6 +3,7 @@ title: "Black-backed Woodpecker"
 scientific_name: "Picoides arcticus"
 order: "Piciformes"
 family: "Picidae (Woodpeckers)"
+description: "Picoides arcticus is a species of bird in the Picidae (Woodpeckers) family. It has been observed 1 times."
 species_group: "Woodpeckers"
 species_code: "bkbwoo"
 

@@ -3,6 +3,7 @@ title: "Tree Swallow"
 scientific_name: "Tachycineta bicolor"
 order: "Passeriformes"
 family: "Hirundinidae (Swallows)"
+description: "Tachycineta bicolor is a species of bird in the Hirundinidae (Swallows) family. It has been observed 11 times."
 species_group: "Martins and Swallows"
 species_code: "treswa"
 

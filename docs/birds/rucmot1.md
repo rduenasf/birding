@@ -3,6 +3,7 @@ title: "Russet-crowned Motmot"
 scientific_name: "Momotus mexicanus"
 order: "Coraciiformes"
 family: "Momotidae (Motmots)"
+description: "Momotus mexicanus is a species of bird in the Momotidae (Motmots) family. It has been observed 1 times."
 species_group: "Motmots"
 species_code: "rucmot1"
 

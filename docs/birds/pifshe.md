@@ -3,6 +3,7 @@ title: "Pink-footed Shearwater"
 scientific_name: "Ardenna creatopus"
 order: "Procellariiformes"
 family: "Procellariidae (Shearwaters and Petrels)"
+description: "Ardenna creatopus is a species of bird in the Procellariidae (Shearwaters and Petrels) family. It has been observed 1 times."
 species_group: "Petrels, Shearwaters, and Diving-Petrels"
 species_code: "pifshe"
 

@@ -3,6 +3,7 @@ title: "Tufted Flycatcher"
 scientific_name: "Mitrephanes phaeocercus"
 order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
+description: "Mitrephanes phaeocercus is a species of bird in the Tyrannidae (Tyrant Flycatchers) family. It has been observed 3 times."
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "tuffly"
 

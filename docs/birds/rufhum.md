@@ -3,6 +3,7 @@ title: "Rufous Hummingbird"
 scientific_name: "Selasphorus rufus"
 order: "Apodiformes"
 family: "Trochilidae (Hummingbirds)"
+description: "Selasphorus rufus is a species of bird in the Trochilidae (Hummingbirds) family. It has been observed 1 times."
 species_group: "Hummingbirds"
 species_code: "rufhum"
 

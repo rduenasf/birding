@@ -3,6 +3,7 @@ title: "Nashville Warbler"
 scientific_name: "Leiothlypis ruficapilla"
 order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
+description: "Leiothlypis ruficapilla is a species of bird in the Parulidae (New World Warblers) family. It has been observed 3 times."
 species_group: "Wood-Warblers"
 species_code: "naswar"
 

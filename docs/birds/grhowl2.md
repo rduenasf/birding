@@ -3,6 +3,7 @@ title: "Lesser Horned Owl"
 scientific_name: "Bubo magellanicus"
 order: "Strigiformes"
 family: "Strigidae (Owls)"
+description: "Bubo magellanicus is a species of bird in the Strigidae (Owls) family. It has been observed 1 times. It has been photographed."
 species_group: "Owls"
 species_code: "grhowl2"
 

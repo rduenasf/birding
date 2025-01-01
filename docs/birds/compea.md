@@ -3,6 +3,7 @@ title: "Indian Peafowl"
 scientific_name: "Pavo cristatus"
 order: "Galliformes"
 family: "Phasianidae (Pheasants, Grouse, and Allies)"
+description: "Pavo cristatus is a species of bird in the Phasianidae (Pheasants, Grouse, and Allies) family. It has been observed 1 times."
 species_group: "Grouse, Quail, and Allies"
 species_code: "compea"
 

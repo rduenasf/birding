@@ -3,6 +3,7 @@ title: "Black-faced Ibis"
 scientific_name: "Theristicus melanopis"
 order: "Pelecaniformes"
 family: "Threskiornithidae (Ibises and Spoonbills)"
+description: "Theristicus melanopis is a species of bird in the Threskiornithidae (Ibises and Spoonbills) family. It has been observed 1 times."
 species_group: "Herons, Ibis, and Allies"
 species_code: "bkfibi1"
 

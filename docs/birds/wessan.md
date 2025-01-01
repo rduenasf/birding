@@ -3,6 +3,7 @@ title: "Western Sandpiper"
 scientific_name: "Calidris mauri"
 order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
+description: "Calidris mauri is a species of bird in the Scolopacidae (Sandpipers and Allies) family. It has been observed 8 times."
 species_group: "Shorebirds"
 species_code: "wessan"
 

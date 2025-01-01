@@ -3,6 +3,7 @@ title: "Buff-breasted Flycatcher"
 scientific_name: "Empidonax fulvifrons"
 order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
+description: "Empidonax fulvifrons is a species of bird in the Tyrannidae (Tyrant Flycatchers) family. It has been observed 1 times."
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "bubfly"
 

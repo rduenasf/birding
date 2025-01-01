@@ -3,6 +3,7 @@ title: "Peruvian Booby"
 scientific_name: "Sula variegata"
 order: "Suliformes"
 family: "Sulidae (Boobies and Gannets)"
+description: "Sula variegata is a species of bird in the Sulidae (Boobies and Gannets) family. It has been observed 1 times."
 species_group: "Frigatebirds, Boobies, and Gannets"
 species_code: "perboo1"
 

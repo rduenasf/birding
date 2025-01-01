@@ -3,6 +3,7 @@ title: "Red-throated Loon"
 scientific_name: "Gavia stellata"
 order: "Gaviiformes"
 family: "Gaviidae (Loons)"
+description: "Gavia stellata is a species of bird in the Gaviidae (Loons) family. It has been observed 4 times."
 species_group: "Loons"
 species_code: "retloo"
 

@@ -3,6 +3,7 @@ title: "Western Gull"
 scientific_name: "Larus occidentalis"
 order: "Charadriiformes"
 family: "Laridae (Gulls, Terns, and Skimmers)"
+description: "Larus occidentalis is a species of bird in the Laridae (Gulls, Terns, and Skimmers) family. It has been observed 14 times."
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "wesgul"
 

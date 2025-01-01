@@ -3,6 +3,7 @@ title: "Nuttall's Woodpecker"
 scientific_name: "Dryobates nuttallii"
 order: "Piciformes"
 family: "Picidae (Woodpeckers)"
+description: "Dryobates nuttallii is a species of bird in the Picidae (Woodpeckers) family. It has been observed 11 times. It has been recorded."
 species_group: "Woodpeckers"
 species_code: "nutwoo"
 

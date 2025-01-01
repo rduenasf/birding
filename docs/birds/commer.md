@@ -3,6 +3,7 @@ title: "Common Merganser"
 scientific_name: "Mergus merganser"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
+description: "Mergus merganser is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 4 times. It has been photographed."
 species_group: "Waterfowl"
 species_code: "commer"
 

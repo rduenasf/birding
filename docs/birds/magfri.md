@@ -3,6 +3,7 @@ title: "Magnificent Frigatebird"
 scientific_name: "Fregata magnificens"
 order: "Suliformes"
 family: "Fregatidae (Frigatebirds)"
+description: "Fregata magnificens is a species of bird in the Fregatidae (Frigatebirds) family. It has been observed 2 times. It has been photographed."
 species_group: "Frigatebirds, Boobies, and Gannets"
 species_code: "magfri"
 

@@ -3,6 +3,7 @@ title: "Greater Yellow-Finch"
 scientific_name: "Sicalis auriventris"
 order: "Passeriformes"
 family: "Thraupidae (Tanagers and Allies)"
+description: "Sicalis auriventris is a species of bird in the Thraupidae (Tanagers and Allies) family. It has been observed 1 times."
 species_group: "Tanagers and Allies"
 species_code: "gryfin2"
 

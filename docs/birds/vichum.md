@@ -3,6 +3,7 @@ title: "Violet-crowned Hummingbird"
 scientific_name: "Ramosomyia violiceps"
 order: "Apodiformes"
 family: "Trochilidae (Hummingbirds)"
+description: "Ramosomyia violiceps is a species of bird in the Trochilidae (Hummingbirds) family. It has been observed 1 times."
 species_group: "Hummingbirds"
 species_code: "vichum"
 

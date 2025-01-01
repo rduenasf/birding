@@ -3,6 +3,7 @@ title: "White-throated Swift"
 scientific_name: "Aeronautes saxatalis"
 order: "Apodiformes"
 family: "Apodidae (Swifts)"
+description: "Aeronautes saxatalis is a species of bird in the Apodidae (Swifts) family. It has been observed 6 times."
 species_group: "Swifts"
 species_code: "whtswi"
 

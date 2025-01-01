@@ -3,6 +3,7 @@ title: "Turkey Vulture"
 scientific_name: "Cathartes aura"
 order: "Cathartiformes"
 family: "Cathartidae (New World Vultures)"
+description: "Cathartes aura is a species of bird in the Cathartidae (New World Vultures) family. It has been observed 46 times. It has been photographed."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "turvul"
 
