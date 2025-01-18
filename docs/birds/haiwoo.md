@@ -3,7 +3,7 @@ title: "Hairy Woodpecker"
 scientific_name: "Dryobates villosus"
 order: "Piciformes"
 family: "Picidae (Woodpeckers)"
-description: "Dryobates villosus is a species of bird in the Picidae (Woodpeckers) family. It has been observed 14 times. It has been recorded."
+description: "Dryobates villosus is a species of bird in the Picidae (Woodpeckers) family. It has been observed 15 times. It has been recorded."
 species_group: "Woodpeckers"
 species_code: "haiwoo"
 
@@ -29,7 +29,7 @@ The hairy woodpecker (Leuconotopicus villosus) is a medium-sized woodpecker that
 ### Taxonomy
 [Piciformes](/tags/piciformes) > [Picidae (Woodpeckers)](/tags/picidae-woodpeckers) > [Woodpeckers](/tags/woodpeckers)
 
-**Subspecies Seen**: Hairy Woodpecker (South Mexican)
+**Subspecies Seen**: Hairy Woodpecker (Pacific), Hairy Woodpecker (South Mexican)
 
 
 ## Sightings
@@ -40,7 +40,7 @@ The hairy woodpecker (Leuconotopicus villosus) is a medium-sized woodpecker that
 
 * [11-11-2023 - California, United States](https://ebird.org/checklist/S154259403) (First Sighting)
 * [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (Only Recording)
-* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Last Sighting)
+* [01-01-2025 - California, United States](https://ebird.org/checklist/S207553830) (Last Sighting)
 
 ### Places Seen
 

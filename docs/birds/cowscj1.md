@@ -3,17 +3,17 @@ title: "California Scrub-Jay"
 scientific_name: "Aphelocoma californica"
 order: "Passeriformes"
 family: "Corvidae (Crows, Jays, and Magpies)"
-description: "Aphelocoma californica is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 20 times. It has been recorded."
+description: "Aphelocoma californica is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 23 times. It has been photographed. It has been recorded."
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "cowscj1"
 
 sidebar_position: 91
-sidebar_class_name: " has-audio"
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
   - Corvidae (Crows, Jays, and Magpies)
   - Jays, Magpies, Crows, and Ravens
-  - Needs Photo
+  - Has Photo
   - Has Audio
 ---
 
@@ -38,8 +38,9 @@ The California scrub jay (Aphelocoma californica) is a species of scrub jay nati
 
 * [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
 * [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (First Recording)
-* [11-17-2024 - California, United States](https://ebird.org/checklist/S202811385) (Best Recording)
-* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+* [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (Best Recording)
+* [01-05-2025 - California, United States](https://ebird.org/checklist/S208150408) (Only Photo)
+* [01-11-2025 - California, United States](https://ebird.org/checklist/S208851041) (Last Sighting)
 
 ### Places Seen
 
@@ -49,7 +50,8 @@ The California scrub jay (Aphelocoma californica) is a species of scrub jay nati
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629201803/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629201488/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626559393/embed" frameBorder="0" allowFullScreen></iframe>

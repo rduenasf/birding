@@ -1291,7 +1291,7 @@ See details at [eBird](https://ebird.org/tripreport/230939/320416)
       index="306"
       name="Loggerhead Shrike"
       speciesCode="logshr"
-       
+      photo="629201713" 
       />
 
 
@@ -2767,7 +2767,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="150"
       name="Eurasian Collared-Dove"
       speciesCode="eucdov"
-       
+      photo="629201506" 
       />
 
 
@@ -2870,7 +2870,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="139"
       name="Northern Mockingbird"
       speciesCode="normoc"
-      photo="626996435" 
+      photo="628922335" 
       recording="626583307"/>
 
 
@@ -2926,7 +2926,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="133"
       name="Red-shouldered Hawk"
       speciesCode="reshaw"
-      photo="627868402" 
+      photo="628955110" 
       />
 
 
@@ -2972,7 +2972,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="128"
       name="Ring-necked Duck"
       speciesCode="rinduc"
-       
+      photo="628458521" 
       />
 </div>
     <div className="row">
@@ -3028,7 +3028,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="122"
       name="California Thrasher"
       speciesCode="calthr"
-       
+      photo="628922272" 
       recording="626995461"/>
 </div>
     <div className="row">
@@ -3168,7 +3168,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="107"
       name="American Kestrel"
       speciesCode="amekes"
-       
+      photo="628381207" 
       />
 </div>
     <div className="row">
@@ -3257,7 +3257,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="98"
       name="Northern Harrier"
       speciesCode="norhar2"
-       
+      photo="629201515" 
       />
 
 
@@ -3341,7 +3341,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="89"
       name="Golden-crowned Sparrow"
       speciesCode="gocspa"
-       
+      photo="628924008" 
       recording="626485053"/>
 
 
@@ -3350,7 +3350,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="88"
       name="Dark-eyed Junco"
       speciesCode="daejun"
-      photo="628169392" 
+      photo="628169423" 
       recording="627628679"/>
 
 
@@ -3359,7 +3359,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="87"
       name="Northern Flicker"
       speciesCode="norfli"
-      photo="626996238" 
+      photo="628924678" 
       recording="627593169"/>
 </div>
     <div className="row">
@@ -3387,7 +3387,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="84"
       name="Eared Grebe"
       speciesCode="eargre"
-       
+      photo="629120797" 
       />
 </div>
     <div className="row">
@@ -3425,7 +3425,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="80"
       name="Bufflehead"
       speciesCode="buffle"
-       
+      photo="628458461" 
       />
 
 
@@ -3443,7 +3443,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="78"
       name="Acorn Woodpecker"
       speciesCode="acowoo"
-      photo="627869005" 
+      photo="629072007" 
       recording="627219355"/>
 </div>
     <div className="row">
@@ -3499,7 +3499,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="72"
       name="California Towhee"
       speciesCode="caltow"
-       
+      photo="628924498" 
       recording="627219214"/>
 </div>
     <div className="row">
@@ -3527,7 +3527,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="69"
       name="House Sparrow"
       speciesCode="houspa"
-       
+      photo="628955434" 
       recording="626559381"/>
 </div>
     <div className="row">
@@ -3537,7 +3537,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="68"
       name="Ruby-crowned Kinglet"
       speciesCode="ruckin"
-       
+      photo="629095571" 
       recording="626995435"/>
 
 
@@ -3583,7 +3583,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="63"
       name="Ring-billed Gull"
       speciesCode="ribgul"
-       
+      photo="629095497" 
       />
 </div>
     <div className="row">
@@ -3658,7 +3658,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="55"
       name="Say's Phoebe"
       speciesCode="saypho"
-       
+      photo="629103964" 
       recording="626447722"/>
 
 
@@ -3667,7 +3667,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="54"
       name="White-tailed Kite"
       speciesCode="whtkit"
-      photo="626996149" 
+      photo="629201994" 
       recording="626618148"/>
 </div>
     <div className="row">
@@ -3686,7 +3686,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="52"
       name="American White Pelican"
       speciesCode="amwpel"
-       
+      photo="629144594" 
       />
 
 
@@ -3779,7 +3779,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="42"
       name="Ruddy Duck"
       speciesCode="rudduc"
-       
+      photo="628458514" 
       />
 </div>
     <div className="row">
@@ -3826,7 +3826,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="37"
       name="Yellow-rumped Warbler"
       speciesCode="yerwar"
-       
+      photo="629095523" 
       recording="626557552"/>
 
 
@@ -3845,7 +3845,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="35"
       name="White-crowned Sparrow"
       speciesCode="whcspa"
-       
+      photo="629166863" 
       recording="626557628"/>
 
 
@@ -3891,7 +3891,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="30"
       name="American Crow"
       speciesCode="amecro"
-      photo="628169384" 
+      photo="627868551" 
       recording="626557692"/>
 </div>
     <div className="row">
@@ -3901,8 +3901,8 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="29"
       name="California Scrub-Jay"
       speciesCode="cowscj1"
-       
-      recording="626447081"/>
+      photo="629201803" 
+      recording="626557545"/>
 
 
 
@@ -3910,7 +3910,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="28"
       name="Black Phoebe"
       speciesCode="blkpho"
-       
+      photo="628924624" 
       recording="626618112"/>
 
 
@@ -3929,7 +3929,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="26"
       name="Red-tailed Hawk"
       speciesCode="rethaw"
-       
+      photo="629201674" 
       />
 
 
@@ -3938,7 +3938,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="25"
       name="Cooper's Hawk"
       speciesCode="coohaw"
-      photo="627868716" 
+      photo="628923784" 
       />
 
 
@@ -3966,7 +3966,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="22"
       name="Snowy Egret"
       speciesCode="snoegr"
-      photo="627869446" 
+      photo="628458445" 
       />
 
 
@@ -3985,7 +3985,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="20"
       name="Double-crested Cormorant"
       speciesCode="doccor"
-       
+      photo="628458453" 
       />
 
 
@@ -3994,7 +3994,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="19"
       name="Pied-billed Grebe"
       speciesCode="pibgre"
-       
+      photo="629095608" 
       recording="626995454"/>
 
 
@@ -4013,7 +4013,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="17"
       name="American Coot"
       speciesCode="y00475"
-      photo="614210043" 
+      photo="629095513" 
       recording="626485749"/>
 
 
@@ -4022,7 +4022,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="16"
       name="Anna's Hummingbird"
       speciesCode="annhum"
-      photo="627869182" 
+      photo="628899976" 
       recording="626843418"/>
 
 
@@ -4031,7 +4031,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="15"
       name="Mallard"
       speciesCode="mallar3"
-      photo="626996611" 
+      photo="629166805" 
       recording="626618132"/>
 </div>
     <div className="row">
@@ -4041,7 +4041,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="14"
       name="Canada Goose"
       speciesCode="cangoo"
-      photo="627928244" 
+      photo="628955631" 
       recording="626915514"/>
 
 

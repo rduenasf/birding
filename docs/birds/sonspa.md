@@ -3,7 +3,7 @@ title: "Song Sparrow"
 scientific_name: "Melospiza melodia"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
-description: "Melospiza melodia is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 49 times. It has been recorded."
+description: "Melospiza melodia is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 52 times. It has been recorded."
 species_group: "New World Sparrows"
 species_code: "sonspa"
 
@@ -41,7 +41,7 @@ The song sparrow (Melospiza melodia) is a medium-sized New World sparrow. Among 
 * [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
 * [11-17-2024 - California, United States](https://ebird.org/checklist/S202811385) (First Recording)
 * [11-23-2024 - California, United States](https://ebird.org/checklist/S203368565) (Best Recording)
-* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Last Sighting)
+* [01-12-2025 - California, United States](https://ebird.org/checklist/S209042786) (Last Sighting)
 
 ### Places Seen
 

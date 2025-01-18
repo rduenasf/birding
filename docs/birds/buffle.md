@@ -3,17 +3,17 @@ title: "Bufflehead"
 scientific_name: "Bucephala albeola"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
-description: "Bucephala albeola is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 14 times."
+description: "Bucephala albeola is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 18 times. It has been photographed."
 species_group: "Waterfowl"
 species_code: "buffle"
 
 sidebar_position: 82
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Anseriformes
   - Anatidae (Ducks, Geese, and Waterfowl)
   - Waterfowl
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -37,7 +37,8 @@ The bufflehead (Bucephala albeola) is a small sea duck of the genus Bucephala, t
 ### Relevant Sightings
 
 * [12-02-2023 - California, United States](https://ebird.org/checklist/S155611564) (First Sighting)
-* [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (Last Sighting)
+* [01-02-2025 - California, United States](https://ebird.org/checklist/S207761995) (First/Best Photo)
+* [01-15-2025 - California, United States](https://ebird.org/checklist/S209444881) (Last Sighting)
 
 ### Places Seen
 
@@ -48,7 +49,11 @@ The bufflehead (Bucephala albeola) is a small sea duck of the genus Bucephala, t
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628458461/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628458468/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628458660/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629166821/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629166820/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

@@ -3,7 +3,7 @@ title: "Snowy Egret"
 scientific_name: "Egretta thula"
 order: "Pelecaniformes"
 family: "Ardeidae (Herons, Egrets, and Bitterns)"
-description: "Egretta thula is a species of bird in the Ardeidae (Herons, Egrets, and Bitterns) family. It has been observed 41 times. It has been photographed."
+description: "Egretta thula is a species of bird in the Ardeidae (Herons, Egrets, and Bitterns) family. It has been observed 46 times. It has been photographed."
 species_group: "Herons, Ibis, and Allies"
 species_code: "snoegr"
 
@@ -38,8 +38,9 @@ The snowy egret is the American counterpart to the very similar Old World little
 ### Relevant Sightings
 
 * [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
-* [11-26-2023 - California, United States](https://ebird.org/checklist/S155251280) (Only Photo)
-* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Last Sighting)
+* [11-26-2023 - California, United States](https://ebird.org/checklist/S155251280) (First Photo)
+* [01-02-2025 - California, United States](https://ebird.org/checklist/S207761995) (Best Photo)
+* [01-15-2025 - California, United States](https://ebird.org/checklist/S209444881) (Last Sighting)
 
 ### Places Seen
 
@@ -53,7 +54,10 @@ The snowy egret is the American counterpart to the very similar Old World little
 
 ## Media
 ### Photographs
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628458445/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628458483/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/627869446/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629166799/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

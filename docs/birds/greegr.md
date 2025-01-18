@@ -3,7 +3,7 @@ title: "Great Egret"
 scientific_name: "Ardea alba"
 order: "Pelecaniformes"
 family: "Ardeidae (Herons, Egrets, and Bitterns)"
-description: "Ardea alba is a species of bird in the Ardeidae (Herons, Egrets, and Bitterns) family. It has been observed 32 times. It has been photographed. It has been recorded."
+description: "Ardea alba is a species of bird in the Ardeidae (Herons, Egrets, and Bitterns) family. It has been observed 34 times. It has been photographed. It has been recorded."
 species_group: "Herons, Ibis, and Allies"
 species_code: "greegr"
 
@@ -39,9 +39,9 @@ The great egret (Ardea alba), also known as the common egret, large egret, or (i
 ### Relevant Sightings
 
 * [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
-* [05-18-2024 - California, United States](https://ebird.org/checklist/S175399797) (Only Photo)
+* [05-18-2024 - California, United States](https://ebird.org/checklist/S175399797) (First/Best Photo)
 * [11-23-2024 - California, United States](https://ebird.org/checklist/S203364471) (First/Best Recording)
-* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Last Sighting)
+* [01-15-2025 - California, United States](https://ebird.org/checklist/S209444881) (Last Sighting)
 
 ### Places Seen
 
@@ -56,6 +56,7 @@ The great egret (Ardea alba), also known as the common egret, large egret, or (i
 ## Media
 ### Photographs
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/619242708/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629166793/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626618062/embed" frameBorder="0" allowFullScreen></iframe>

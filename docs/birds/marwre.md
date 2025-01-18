@@ -3,7 +3,7 @@ title: "Marsh Wren"
 scientific_name: "Cistothorus palustris"
 order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
-description: "Cistothorus palustris is a species of bird in the Troglodytidae (Wrens) family. It has been observed 16 times. It has been recorded."
+description: "Cistothorus palustris is a species of bird in the Troglodytidae (Wrens) family. It has been observed 17 times. It has been recorded."
 species_group: "Wrens"
 species_code: "marwre"
 
@@ -39,7 +39,7 @@ The marsh wren (Cistothorus palustris) is a small North American songbird of the
 * [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
 * [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (First Recording)
 * [11-17-2024 - California, United States](https://ebird.org/checklist/S202811385) (Best Recording)
-* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+* [01-05-2025 - California, United States](https://ebird.org/checklist/S208150408) (Last Sighting)
 
 ### Places Seen
 

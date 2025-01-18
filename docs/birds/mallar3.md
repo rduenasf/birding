@@ -3,7 +3,7 @@ title: "Mallard"
 scientific_name: "Anas platyrhynchos"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
-description: "Anas platyrhynchos is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 52 times. It has been photographed. It has been recorded."
+description: "Anas platyrhynchos is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 61 times. It has been photographed. It has been recorded."
 species_group: "Waterfowl"
 species_code: "mallar3"
 
@@ -42,9 +42,9 @@ The mallard is considered to be a species of least concern by the International 
 
 * [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
 * [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (First Recording)
-* [11-17-2024 - California, United States](https://ebird.org/checklist/S202811385) (Only Photo)
+* [11-17-2024 - California, United States](https://ebird.org/checklist/S202811385) (First Photo)
 * [11-23-2024 - California, United States](https://ebird.org/checklist/S203364471) (Best Recording)
-* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Last Sighting)
+* [01-15-2025 - California, United States](https://ebird.org/checklist/S209444881) (Last Sighting / Last and Best Photo)
 
 ### Places Seen
 
@@ -57,7 +57,9 @@ The mallard is considered to be a species of least concern by the International 
 
 ## Media
 ### Photographs
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629166805/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/626996611/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629166812/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626557641/embed" frameBorder="0" allowFullScreen></iframe>

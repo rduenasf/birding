@@ -3,17 +3,17 @@ title: "Black Phoebe"
 scientific_name: "Sayornis nigricans"
 order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
-description: "Sayornis nigricans is a species of bird in the Tyrannidae (Tyrant Flycatchers) family. It has been observed 40 times. It has been recorded."
+description: "Sayornis nigricans is a species of bird in the Tyrannidae (Tyrant Flycatchers) family. It has been observed 47 times. It has been photographed. It has been recorded."
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "blkpho"
 
 sidebar_position: 37
-sidebar_class_name: " has-audio"
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
   - Tyrannidae (Tyrant Flycatchers)
   - Tyrant Flycatchers - Pewees, Kingbirds, and Allies
-  - Needs Photo
+  - Has Photo
   - Has Audio
 ---
 
@@ -42,7 +42,9 @@ The black phoebe has predominantly black plumage, with a white belly and underta
 * [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
 * [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (First Recording)
 * [11-23-2024 - California, United States](https://ebird.org/checklist/S203364471) (Best Recording)
-* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+* [01-05-2025 - California, United States](https://ebird.org/checklist/S208150408) (First Photo)
+* [01-10-2025 - California, United States](https://ebird.org/checklist/S208779826) (Best Photo)
+* [01-15-2025 - California, United States](https://ebird.org/checklist/S209444881) (Last Sighting)
 
 ### Places Seen
 
@@ -52,7 +54,11 @@ The black phoebe has predominantly black plumage, with a white belly and underta
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628924624/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628924625/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628924626/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628955178/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629202024/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626559390/embed" frameBorder="0" allowFullScreen></iframe>

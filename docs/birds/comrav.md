@@ -3,7 +3,7 @@ title: "Common Raven"
 scientific_name: "Corvus corax"
 order: "Passeriformes"
 family: "Corvidae (Crows, Jays, and Magpies)"
-description: "Corvus corax is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 27 times. It has been recorded."
+description: "Corvus corax is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 28 times. It has been recorded."
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "comrav"
 
@@ -40,7 +40,7 @@ Over the centuries, the raven has been the subject of mythology, folklore, art, 
 
 * [11-24-2023 - California, United States](https://ebird.org/checklist/S155126951) (First Sighting)
 * [11-17-2024 - California, United States](https://ebird.org/checklist/S202811385) (Only Recording)
-* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Last Sighting)
+* [01-01-2025 - California, United States](https://ebird.org/checklist/S207553830) (Last Sighting)
 
 ### Places Seen
 

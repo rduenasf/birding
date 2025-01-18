@@ -3,17 +3,17 @@ title: "American Kestrel"
 scientific_name: "Falco sparverius"
 order: "Falconiformes"
 family: "Falconidae (Falcons and Caracaras)"
-description: "Falco sparverius is a species of bird in the Falconidae (Falcons and Caracaras) family. It has been observed 4 times."
+description: "Falco sparverius is a species of bird in the Falconidae (Falcons and Caracaras) family. It has been observed 5 times. It has been photographed."
 species_group: "Falcons and Caracaras"
 species_code: "amekes"
 
 sidebar_position: 10
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Falconiformes
   - Falconidae (Falcons and Caracaras)
   - Falcons and Caracaras
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -41,7 +41,7 @@ The American kestrel is a common bird used in falconry, especially by beginners.
 ### Relevant Sightings
 
 * [01-15-2024 - California, United States](https://ebird.org/checklist/S159001730) (First Sighting)
-* [12-15-2024 - California, United States](https://ebird.org/checklist/S205487068) (Last Sighting)
+* [01-01-2025 - California, United States](https://ebird.org/checklist/S207490939) (Last Sighting / Only Photo)
 
 ### Places Seen
 
@@ -52,7 +52,7 @@ The American kestrel is a common bird used in falconry, especially by beginners.
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628381207/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

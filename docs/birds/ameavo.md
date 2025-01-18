@@ -3,7 +3,7 @@ title: "American Avocet"
 scientific_name: "Recurvirostra americana"
 order: "Charadriiformes"
 family: "Recurvirostridae (Stilts and Avocets)"
-description: "Recurvirostra americana is a species of bird in the Recurvirostridae (Stilts and Avocets) family. It has been observed 20 times. It has been photographed."
+description: "Recurvirostra americana is a species of bird in the Recurvirostridae (Stilts and Avocets) family. It has been observed 21 times. It has been photographed."
 species_group: "Shorebirds"
 species_code: "ameavo"
 
@@ -38,7 +38,7 @@ The American avocet (Recurvirostra americana) is a large wader in the avocet and
 
 * [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
 * [01-21-2024 - California, United States](https://ebird.org/checklist/S159471387) (Only Photo)
-* [11-30-2024 - California, United States](https://ebird.org/checklist/S204074627) (Last Sighting)
+* [01-05-2025 - California, United States](https://ebird.org/checklist/S208150408) (Last Sighting)
 
 ### Places Seen
 

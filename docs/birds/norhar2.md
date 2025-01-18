@@ -3,17 +3,17 @@ title: "Northern Harrier"
 scientific_name: "Circus hudsonius"
 order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
-description: "Circus hudsonius is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 16 times."
+description: "Circus hudsonius is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 18 times. It has been photographed."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "norhar2"
 
 sidebar_position: 260
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Accipitriformes
   - Accipitridae (Hawks, Eagles, and Kites)
   - Vultures, Hawks, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -38,7 +38,8 @@ The northern harrier migrates south in winter, with breeding birds in Canada and
 ### Relevant Sightings
 
 * [12-23-2023 - California, United States](https://ebird.org/checklist/S157058117) (First Sighting)
-* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+* [01-05-2025 - California, United States](https://ebird.org/checklist/S208150408) (Only Photo)
+* [01-12-2025 - California, United States](https://ebird.org/checklist/S209042786) (Last Sighting)
 
 ### Places Seen
 
@@ -48,7 +49,8 @@ The northern harrier migrates south in winter, with breeding birds in Canada and
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629201515/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629201603/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

@@ -3,7 +3,7 @@ title: "Bushtit"
 scientific_name: "Psaltriparus minimus"
 order: "Passeriformes"
 family: "Aegithalidae (Long-tailed Tits)"
-description: "Psaltriparus minimus is a species of bird in the Aegithalidae (Long-tailed Tits) family. It has been observed 26 times. It has been recorded."
+description: "Psaltriparus minimus is a species of bird in the Aegithalidae (Long-tailed Tits) family. It has been observed 27 times. It has been recorded."
 species_group: "Long-tailed Tits and Bushtit"
 species_code: "bushti"
 
@@ -42,7 +42,7 @@ The sharp-shinned hawk and other birds prey upon American bushtits. Bushtits liv
 
 * [11-11-2023 - California, United States](https://ebird.org/checklist/S154259403) (First Sighting)
 * [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (First/Best Recording)
-* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+* [01-06-2025 - California, United States](https://ebird.org/checklist/S208277867) (Last Sighting)
 
 ### Places Seen
 

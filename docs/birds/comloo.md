@@ -3,7 +3,7 @@ title: "Common Loon"
 scientific_name: "Gavia immer"
 order: "Gaviiformes"
 family: "Gaviidae (Loons)"
-description: "Gavia immer is a species of bird in the Gaviidae (Loons) family. It has been observed 4 times."
+description: "Gavia immer is a species of bird in the Gaviidae (Loons) family. It has been observed 5 times."
 species_group: "Loons"
 species_code: "comloo"
 
@@ -40,7 +40,7 @@ The common loon is the provincial bird of Ontario, and it appears on Canadian cu
 ### Relevant Sightings
 
 * [03-10-2024 - California, United States](https://ebird.org/checklist/S164344784) (First Sighting)
-* [04-13-2024 - Ontario, Canada](https://ebird.org/checklist/S169076500) (Last Sighting)
+* [01-01-2025 - California, United States](https://ebird.org/checklist/S207490939) (Last Sighting)
 
 ### Places Seen
 

@@ -3,17 +3,17 @@ title: "White-crowned Sparrow"
 scientific_name: "Zonotrichia leucophrys"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
-description: "Zonotrichia leucophrys is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 30 times. It has been recorded."
+description: "Zonotrichia leucophrys is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 33 times. It has been photographed. It has been recorded."
 species_group: "New World Sparrows"
 species_code: "whcspa"
 
 sidebar_position: 406
-sidebar_class_name: " has-audio"
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
   - Passerellidae (New World Sparrows)
   - New World Sparrows
-  - Needs Photo
+  - Has Photo
   - Has Audio
 ---
 
@@ -40,7 +40,8 @@ The white-crowned sparrow (Zonotrichia leucophrys) is a species of passerine bir
 
 * [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
 * [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (First/Best Recording)
-* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+* [01-12-2025 - California, United States](https://ebird.org/checklist/S209042786) (First Photo)
+* [01-15-2025 - California, United States](https://ebird.org/checklist/S209444881) (Last Sighting / Last and Best Photo)
 
 ### Places Seen
 
@@ -51,7 +52,9 @@ The white-crowned sparrow (Zonotrichia leucophrys) is a species of passerine bir
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629166863/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629106031/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629166862/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626557628/embed" frameBorder="0" allowFullScreen></iframe>

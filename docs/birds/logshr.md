@@ -3,17 +3,17 @@ title: "Loggerhead Shrike"
 scientific_name: "Lanius ludovicianus"
 order: "Passeriformes"
 family: "Laniidae (Shrikes)"
-description: "Lanius ludovicianus is a species of bird in the Laniidae (Shrikes) family. It has been observed 1 times."
+description: "Lanius ludovicianus is a species of bird in the Laniidae (Shrikes) family. It has been observed 2 times. It has been photographed."
 species_group: "Shrikes"
 species_code: "logshr"
 
 sidebar_position: 229
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Laniidae (Shrikes)
   - Shrikes
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -36,17 +36,19 @@ The loggerhead shrike (Lanius ludovicianus) is a passerine bird in the family La
 
 ### Relevant Sightings
 
-* [05-03-2024 - Ciudad de México, Mexico](https://ebird.org/checklist/S171944247) (Only Sighting)
+* [05-03-2024 - Ciudad de México, Mexico](https://ebird.org/checklist/S171944247) (First Sighting)
+* [01-05-2025 - California, United States](https://ebird.org/checklist/S208150408) (Last Sighting / Only Photo)
 
 ### Places Seen
 
+* California, United States
 * Ciudad de México, Mexico
 
 
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629201713/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

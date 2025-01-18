@@ -3,7 +3,7 @@ title: "Northern Mockingbird"
 scientific_name: "Mimus polyglottos"
 order: "Passeriformes"
 family: "Mimidae (Mockingbirds and Thrashers)"
-description: "Mimus polyglottos is a species of bird in the Mimidae (Mockingbirds and Thrashers) family. It has been observed 18 times. It has been photographed. It has been recorded."
+description: "Mimus polyglottos is a species of bird in the Mimidae (Mockingbirds and Thrashers) family. It has been observed 20 times. It has been photographed. It has been recorded."
 species_group: "Catbirds, Mockingbirds, and Thrashers"
 species_code: "normoc"
 
@@ -40,7 +40,8 @@ The mockingbird is influential in United States culture, being the state bird of
 
 * [02-24-2024 - California, United States](https://ebird.org/checklist/S162799737) (First Sighting)
 * [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (Only Recording)
-* [11-30-2024 - California, United States](https://ebird.org/checklist/S204068913) (Last Sighting / Only Photo)
+* [11-30-2024 - California, United States](https://ebird.org/checklist/S204068913) (First Photo)
+* [01-11-2025 - California, United States](https://ebird.org/checklist/S208851041) (Last Sighting / Last and Best Photo)
 
 ### Places Seen
 
@@ -52,6 +53,9 @@ The mockingbird is influential in United States culture, being the state bird of
 
 ## Media
 ### Photographs
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628922335/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628922338/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628922339/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/626996435/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings

@@ -3,7 +3,7 @@ title: "Chestnut-backed Chickadee"
 scientific_name: "Poecile rufescens"
 order: "Passeriformes"
 family: "Paridae (Tits, Chickadees, and Titmice)"
-description: "Poecile rufescens is a species of bird in the Paridae (Tits, Chickadees, and Titmice) family. It has been observed 16 times. It has been recorded."
+description: "Poecile rufescens is a species of bird in the Paridae (Tits, Chickadees, and Titmice) family. It has been observed 18 times. It has been recorded."
 species_group: "Tits, Chickadees, and Titmice"
 species_code: "chbchi"
 
@@ -39,7 +39,7 @@ The chestnut-backed chickadee (Poecile rufescens) is a small passerine bird in t
 * [09-28-2023 - California, United States](https://ebird.org/checklist/S150966767) (First Sighting)
 * [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (First Recording)
 * [12-08-2024 - California, United States](https://ebird.org/checklist/S204849205) (Best Recording)
-* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Last Sighting)
+* [01-13-2025 - California, United States](https://ebird.org/checklist/S209208311) (Last Sighting)
 
 ### Places Seen
 

@@ -3,7 +3,7 @@ title: "Common Yellowthroat"
 scientific_name: "Geothlypis trichas"
 order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
-description: "Geothlypis trichas is a species of bird in the Parulidae (New World Warblers) family. It has been observed 13 times. It has been recorded."
+description: "Geothlypis trichas is a species of bird in the Parulidae (New World Warblers) family. It has been observed 14 times. It has been recorded."
 species_group: "Wood-Warblers"
 species_code: "comyel"
 
@@ -38,7 +38,7 @@ The common yellowthroat (Geothlypis trichas), also known as the yellow bandit or
 
 * [12-23-2023 - California, United States](https://ebird.org/checklist/S157058117) (First Sighting)
 * [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (First/Best Recording)
-* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+* [01-12-2025 - California, United States](https://ebird.org/checklist/S209042786) (Last Sighting)
 
 ### Places Seen
 

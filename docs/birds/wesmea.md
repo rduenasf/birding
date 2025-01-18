@@ -3,7 +3,7 @@ title: "Western Meadowlark"
 scientific_name: "Sturnella neglecta"
 order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
-description: "Sturnella neglecta is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 8 times. It has been recorded."
+description: "Sturnella neglecta is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 9 times. It has been recorded."
 species_group: "Blackbirds"
 species_code: "wesmea"
 
@@ -37,7 +37,8 @@ The western meadowlark (Sturnella neglecta) is a medium-sized icterid bird, abou
 ### Relevant Sightings
 
 * [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
-* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Last Sighting / Only Recording)
+* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Only Recording)
+* [01-05-2025 - California, United States](https://ebird.org/checklist/S208150408) (Last Sighting)
 
 ### Places Seen
 

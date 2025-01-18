@@ -3,7 +3,7 @@ title: "Common Goldeneye"
 scientific_name: "Bucephala clangula"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
-description: "Bucephala clangula is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 6 times."
+description: "Bucephala clangula is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 7 times."
 species_group: "Waterfowl"
 species_code: "comgol"
 
@@ -38,7 +38,7 @@ Common goldeneyes are aggressive and territorial ducks, and have elaborate court
 ### Relevant Sightings
 
 * [12-02-2023 - California, United States](https://ebird.org/checklist/S155611564) (First Sighting)
-* [07-20-2024 - California, United States](https://ebird.org/checklist/S190446672) (Last Sighting)
+* [01-05-2025 - California, United States](https://ebird.org/checklist/S208150408) (Last Sighting)
 
 ### Places Seen
 

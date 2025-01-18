@@ -3,17 +3,17 @@ title: "Ring-necked Duck"
 scientific_name: "Aythya collaris"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
-description: "Aythya collaris is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 3 times."
+description: "Aythya collaris is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 5 times. It has been photographed."
 species_group: "Waterfowl"
 species_code: "rinduc"
 
 sidebar_position: 311
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Anseriformes
   - Anatidae (Ducks, Geese, and Waterfowl)
   - Waterfowl
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -37,7 +37,8 @@ The ring-necked duck (Aythya collaris) is a diving duck from North America commo
 ### Relevant Sightings
 
 * [02-11-2024 - California, United States](https://ebird.org/checklist/S161327433) (First Sighting)
-* [03-28-2024 - California, United States](https://ebird.org/checklist/S166301587) (Last Sighting)
+* [01-02-2025 - California, United States](https://ebird.org/checklist/S207761995) (Only Photo)
+* [01-06-2025 - California, United States](https://ebird.org/checklist/S208277867) (Last Sighting)
 
 ### Places Seen
 
@@ -47,7 +48,7 @@ The ring-necked duck (Aythya collaris) is a diving duck from North America commo
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628458521/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

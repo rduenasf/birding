@@ -3,17 +3,17 @@ title: "California Towhee"
 scientific_name: "Melozone crissalis"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
-description: "Melozone crissalis is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 36 times. It has been recorded."
+description: "Melozone crissalis is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 43 times. It has been photographed. It has been recorded."
 species_group: "New World Sparrows"
 species_code: "caltow"
 
 sidebar_position: 93
-sidebar_class_name: " has-audio"
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
   - Passerellidae (New World Sparrows)
   - New World Sparrows
-  - Needs Photo
+  - Has Photo
   - Has Audio
 ---
 
@@ -40,7 +40,8 @@ The taxonomy of this species has been debated. At the higher level, some authors
 * [11-11-2023 - California, United States](https://ebird.org/checklist/S154259403) (First Sighting)
 * [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (First Recording)
 * [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (Best Recording)
-* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Last Sighting)
+* [01-10-2025 - California, United States](https://ebird.org/checklist/S208779826) (First/Best Photo)
+* [01-15-2025 - California, United States](https://ebird.org/checklist/S209444881) (Last Sighting)
 
 ### Places Seen
 
@@ -50,7 +51,8 @@ The taxonomy of this species has been debated. At the higher level, some authors
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628924498/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629166831/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626557682/embed" frameBorder="0" allowFullScreen></iframe>

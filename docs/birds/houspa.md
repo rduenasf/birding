@@ -3,17 +3,17 @@ title: "House Sparrow"
 scientific_name: "Passer domesticus"
 order: "Passeriformes"
 family: "Passeridae (Old World Sparrows)"
-description: "Passer domesticus is a species of bird in the Passeridae (Old World Sparrows) family. It has been observed 23 times. It has been recorded."
+description: "Passer domesticus is a species of bird in the Passeridae (Old World Sparrows) family. It has been observed 24 times. It has been photographed. It has been recorded."
 species_group: "Old World Sparrows"
 species_code: "houspa"
 
 sidebar_position: 210
-sidebar_class_name: " has-audio"
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
   - Passeridae (Old World Sparrows)
   - Old World Sparrows
-  - Needs Photo
+  - Has Photo
   - Has Audio
 ---
 
@@ -39,7 +39,8 @@ Because of its numbers, ubiquity, and association with human settlements, the ho
 ### Relevant Sightings
 
 * [11-11-2023 - California, United States](https://ebird.org/checklist/S154259403) (First Sighting)
-* [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (Last Sighting / Only Recording)
+* [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (Only Recording)
+* [01-08-2025 - California, United States](https://ebird.org/checklist/S208562147) (Last Sighting / Only Photo)
 
 ### Places Seen
 
@@ -55,7 +56,8 @@ Because of its numbers, ubiquity, and association with human settlements, the ho
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628955434/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628955433/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626559381/embed" frameBorder="0" allowFullScreen></iframe>

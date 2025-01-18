@@ -3,17 +3,17 @@ title: "Yellow-rumped Warbler"
 scientific_name: "Setophaga coronata"
 order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
-description: "Setophaga coronata is a species of bird in the Parulidae (New World Warblers) family. It has been observed 42 times. It has been recorded."
+description: "Setophaga coronata is a species of bird in the Parulidae (New World Warblers) family. It has been observed 53 times. It has been photographed. It has been recorded."
 species_group: "Wood-Warblers"
 species_code: "yerwar"
 
 sidebar_position: 432
-sidebar_class_name: " has-audio"
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
   - Parulidae (New World Warblers)
   - Wood-Warblers
-  - Needs Photo
+  - Has Photo
   - Has Audio
 ---
 
@@ -41,7 +41,9 @@ The species combines four closely related forms: the eastern myrtle warbler (spp
 
 * [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
 * [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (First/Best Recording)
-* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+* [01-02-2025 - California, United States](https://ebird.org/checklist/S207761995) (First Photo)
+* [01-12-2025 - California, United States](https://ebird.org/checklist/S209042786) (Best Photo)
+* [01-15-2025 - California, United States](https://ebird.org/checklist/S209444881) (Last Sighting)
 
 ### Places Seen
 
@@ -54,7 +56,12 @@ The species combines four closely related forms: the eastern myrtle warbler (spp
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629095523/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628955468/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628458502/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629106199/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629134923/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629166872/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626557552/embed" frameBorder="0" allowFullScreen></iframe>

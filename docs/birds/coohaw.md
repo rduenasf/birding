@@ -3,7 +3,7 @@ title: "Cooper's Hawk"
 scientific_name: "Astur cooperii"
 order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
-description: "Astur cooperii is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 10 times. It has been photographed."
+description: "Astur cooperii is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 11 times. It has been photographed."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "coohaw"
 
@@ -39,8 +39,8 @@ Like most related hawks, Cooper's hawks prefer to nest in tall trees with extens
 ### Relevant Sightings
 
 * [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
-* [07-04-2024 - Florida, United States](https://ebird.org/checklist/S185288581) (Only Photo)
-* [11-23-2024 - California, United States](https://ebird.org/checklist/S203368565) (Last Sighting)
+* [07-04-2024 - Florida, United States](https://ebird.org/checklist/S185288581) (First Photo)
+* [01-11-2025 - California, United States](https://ebird.org/checklist/S208851041) (Last Sighting / Last and Best Photo)
 
 ### Places Seen
 
@@ -53,6 +53,7 @@ Like most related hawks, Cooper's hawks prefer to nest in tall trees with extens
 
 ## Media
 ### Photographs
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628923784/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/627868716/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings

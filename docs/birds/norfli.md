@@ -3,7 +3,7 @@ title: "Northern Flicker"
 scientific_name: "Colaptes auratus"
 order: "Piciformes"
 family: "Picidae (Woodpeckers)"
-description: "Colaptes auratus is a species of bird in the Picidae (Woodpeckers) family. It has been observed 14 times. It has been photographed. It has been recorded."
+description: "Colaptes auratus is a species of bird in the Picidae (Woodpeckers) family. It has been observed 16 times. It has been photographed. It has been recorded."
 species_group: "Woodpeckers"
 species_code: "norfli"
 
@@ -39,9 +39,10 @@ The northern flicker or common flicker (Colaptes auratus) is a medium-sized bird
 ### Relevant Sightings
 
 * [12-02-2023 - California, United States](https://ebird.org/checklist/S155611564) (First Sighting)
-* [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (Only Photo)
+* [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (First Photo)
 * [12-15-2024 - California, United States](https://ebird.org/checklist/S205487068) (Only Recording)
-* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+* [01-10-2025 - California, United States](https://ebird.org/checklist/S208779826) (Best Photo)
+* [01-11-2025 - California, United States](https://ebird.org/checklist/S208851041) (Last Sighting)
 
 ### Places Seen
 
@@ -56,6 +57,8 @@ The northern flicker or common flicker (Colaptes auratus) is a medium-sized bird
 
 ## Media
 ### Photographs
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628924678/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628922279/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe vertical" src="https://macaulaylibrary.org/asset/626996238/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings

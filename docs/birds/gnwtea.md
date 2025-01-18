@@ -3,7 +3,7 @@ title: "Green-winged Teal"
 scientific_name: "Anas crecca"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
-description: "Anas crecca is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 13 times."
+description: "Anas crecca is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 14 times."
 species_group: "Waterfowl"
 species_code: "gnwtea"
 
@@ -40,7 +40,7 @@ It is a highly gregarious duck outside the breeding season and can form large fl
 ### Relevant Sightings
 
 * [12-23-2023 - California, United States](https://ebird.org/checklist/S157058117) (First Sighting)
-* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+* [01-12-2025 - California, United States](https://ebird.org/checklist/S209042786) (Last Sighting)
 
 ### Places Seen
 

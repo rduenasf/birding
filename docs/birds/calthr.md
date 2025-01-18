@@ -3,17 +3,17 @@ title: "California Thrasher"
 scientific_name: "Toxostoma redivivum"
 order: "Passeriformes"
 family: "Mimidae (Mockingbirds and Thrashers)"
-description: "Toxostoma redivivum is a species of bird in the Mimidae (Mockingbirds and Thrashers) family. It has been observed 3 times. It has been recorded."
+description: "Toxostoma redivivum is a species of bird in the Mimidae (Mockingbirds and Thrashers) family. It has been observed 5 times. It has been photographed. It has been recorded."
 species_group: "Catbirds, Mockingbirds, and Thrashers"
 species_code: "calthr"
 
 sidebar_position: 92
-sidebar_class_name: " has-audio"
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
   - Mimidae (Mockingbirds and Thrashers)
   - Catbirds, Mockingbirds, and Thrashers
-  - Needs Photo
+  - Has Photo
   - Has Audio
 ---
 
@@ -37,7 +37,8 @@ The California thrasher (Toxostoma redivivum) is a large member of family Mimida
 ### Relevant Sightings
 
 * [01-28-2024 - California, United States](https://ebird.org/checklist/S160073236) (First Sighting)
-* [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (Last Sighting / Only Recording)
+* [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (Only Recording)
+* [01-11-2025 - California, United States](https://ebird.org/checklist/S208851041) (Last Sighting / Only Photo)
 
 ### Places Seen
 
@@ -47,7 +48,7 @@ The California thrasher (Toxostoma redivivum) is a large member of family Mimida
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628922272/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626995460/embed" frameBorder="0" allowFullScreen></iframe>

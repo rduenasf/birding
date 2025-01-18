@@ -3,7 +3,7 @@ title: "Dark-eyed Junco"
 scientific_name: "Junco hyemalis"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
-description: "Junco hyemalis is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 22 times. It has been photographed. It has been recorded."
+description: "Junco hyemalis is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 23 times. It has been photographed. It has been recorded."
 species_group: "New World Sparrows"
 species_code: "daejun"
 
@@ -42,7 +42,8 @@ The dark-eyed junco (Junco hyemalis) is a species of junco, a group of small, gr
 * [01-29-2024 - California, United States](https://ebird.org/checklist/S160285558) (First Photo)
 * [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (First Recording)
 * [12-08-2024 - California, United States](https://ebird.org/checklist/S204849205) (Best Recording)
-* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Last Sighting / Last and Best Photo)
+* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Best Photo)
+* [01-06-2025 - California, United States](https://ebird.org/checklist/S208277867) (Last Sighting)
 
 ### Places Seen
 
@@ -54,8 +55,8 @@ The dark-eyed junco (Junco hyemalis) is a species of junco, a group of small, gr
 
 ## Media
 ### Photographs
-<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628169392/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628169423/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628169392/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628169424/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628169432/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628169477/embed" frameBorder="0" allowFullScreen></iframe>

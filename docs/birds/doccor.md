@@ -3,17 +3,17 @@ title: "Double-crested Cormorant"
 scientific_name: "Nannopterum auritum"
 order: "Suliformes"
 family: "Phalacrocoracidae (Cormorants and Shags)"
-description: "Nannopterum auritum is a species of bird in the Phalacrocoracidae (Cormorants and Shags) family. It has been observed 39 times."
+description: "Nannopterum auritum is a species of bird in the Phalacrocoracidae (Cormorants and Shags) family. It has been observed 44 times. It has been photographed."
 species_group: "Cormorants and Anhingas"
 species_code: "doccor"
 
 sidebar_position: 139
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Suliformes
   - Phalacrocoracidae (Cormorants and Shags)
   - Cormorants and Anhingas
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -37,7 +37,8 @@ The double-crested cormorant (Nannopterum auritum) is a member of the cormorant 
 ### Relevant Sightings
 
 * [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
-* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Last Sighting)
+* [01-02-2025 - California, United States](https://ebird.org/checklist/S207761995) (Only Photo)
+* [01-15-2025 - California, United States](https://ebird.org/checklist/S209444881) (Last Sighting)
 
 ### Places Seen
 
@@ -49,7 +50,7 @@ The double-crested cormorant (Nannopterum auritum) is a member of the cormorant 
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628458453/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

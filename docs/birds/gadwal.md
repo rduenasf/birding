@@ -3,7 +3,7 @@ title: "Gadwall"
 scientific_name: "Mareca strepera"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
-description: "Mareca strepera is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 19 times."
+description: "Mareca strepera is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 20 times."
 species_group: "Waterfowl"
 species_code: "gadwal"
 
@@ -39,7 +39,7 @@ The gadwall (Mareca strepera) is a common and widespread dabbling duck in the fa
 ### Relevant Sightings
 
 * [11-11-2023 - California, United States](https://ebird.org/checklist/S154259403) (First Sighting)
-* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+* [01-02-2025 - California, United States](https://ebird.org/checklist/S207761995) (Last Sighting)
 
 ### Places Seen
 

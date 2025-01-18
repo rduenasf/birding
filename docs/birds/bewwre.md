@@ -3,7 +3,7 @@ title: "Bewick's Wren"
 scientific_name: "Thryomanes bewickii"
 order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
-description: "Thryomanes bewickii is a species of bird in the Troglodytidae (Wrens) family. It has been observed 32 times. It has been recorded."
+description: "Thryomanes bewickii is a species of bird in the Troglodytidae (Wrens) family. It has been observed 34 times. It has been recorded."
 species_group: "Wrens"
 species_code: "bewwre"
 
@@ -42,7 +42,7 @@ Its historic range was from southern British Columbia, Nebraska, southern Ontari
 * [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
 * [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (First Recording)
 * [11-28-2024 - California, United States](https://ebird.org/checklist/S203889552) (Best Recording)
-* [12-15-2024 - California, United States](https://ebird.org/checklist/S205487068) (Last Sighting)
+* [01-06-2025 - California, United States](https://ebird.org/checklist/S208277867) (Last Sighting)
 
 ### Places Seen
 

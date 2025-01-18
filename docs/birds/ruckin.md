@@ -3,17 +3,17 @@ title: "Ruby-crowned Kinglet"
 scientific_name: "Corthylio calendula"
 order: "Passeriformes"
 family: "Regulidae (Kinglets)"
-description: "Corthylio calendula is a species of bird in the Regulidae (Kinglets) family. It has been observed 16 times. It has been recorded."
+description: "Corthylio calendula is a species of bird in the Regulidae (Kinglets) family. It has been observed 22 times. It has been photographed. It has been recorded."
 species_group: "Kinglets"
 species_code: "ruckin"
 
 sidebar_position: 317
-sidebar_class_name: " has-audio"
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
   - Regulidae (Kinglets)
   - Kinglets
-  - Needs Photo
+  - Has Photo
   - Has Audio
 ---
 
@@ -40,7 +40,8 @@ The kinglet is mostly migratory, and its range extends from northwest Canada and
 * [11-11-2023 - California, United States](https://ebird.org/checklist/S154259403) (First Sighting)
 * [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (First Recording)
 * [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (Best Recording)
-* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Last Sighting)
+* [01-12-2025 - California, United States](https://ebird.org/checklist/S209042786) (Only Photo)
+* [01-13-2025 - California, United States](https://ebird.org/checklist/S209208311) (Last Sighting)
 
 ### Places Seen
 
@@ -51,7 +52,7 @@ The kinglet is mostly migratory, and its range extends from northwest Canada and
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629095571/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626559382/embed" frameBorder="0" allowFullScreen></iframe>

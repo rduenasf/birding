@@ -3,7 +3,7 @@ title: "House Finch"
 scientific_name: "Haemorhous mexicanus"
 order: "Passeriformes"
 family: "Fringillidae (Finches, Euphonias, and Allies)"
-description: "Haemorhous mexicanus is a species of bird in the Fringillidae (Finches, Euphonias, and Allies) family. It has been observed 54 times. It has been recorded."
+description: "Haemorhous mexicanus is a species of bird in the Fringillidae (Finches, Euphonias, and Allies) family. It has been observed 55 times. It has been recorded."
 species_group: "Finches, Euphonias, and Allies"
 species_code: "houfin"
 
@@ -41,7 +41,7 @@ The house finch (Haemorhous mexicanus) is a North American bird in the finch fam
 * [10-18-2023 - California, United States](https://ebird.org/checklist/S152559402) (First Sighting)
 * [11-07-2024 - California, United States](https://ebird.org/checklist/S203227167) (First Recording)
 * [11-17-2024 - California, United States](https://ebird.org/checklist/S202811385) (Best Recording)
-* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Last Sighting)
+* [01-13-2025 - California, United States](https://ebird.org/checklist/S209208311) (Last Sighting)
 
 ### Places Seen
 

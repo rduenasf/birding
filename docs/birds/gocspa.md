@@ -3,17 +3,17 @@ title: "Golden-crowned Sparrow"
 scientific_name: "Zonotrichia atricapilla"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
-description: "Zonotrichia atricapilla is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 19 times. It has been recorded."
+description: "Zonotrichia atricapilla is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 21 times. It has been photographed. It has been recorded."
 species_group: "New World Sparrows"
 species_code: "gocspa"
 
 sidebar_position: 167
-sidebar_class_name: " has-audio"
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
   - Passerellidae (New World Sparrows)
   - New World Sparrows
-  - Needs Photo
+  - Has Photo
   - Has Audio
 ---
 
@@ -39,7 +39,8 @@ The golden-crowned sparrow (Zonotrichia atricapilla) is a large New World sparro
 * [12-02-2023 - California, United States](https://ebird.org/checklist/S155611564) (First Sighting)
 * [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (First Recording)
 * [11-17-2024 - California, United States](https://ebird.org/checklist/S202811385) (Best Recording)
-* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Last Sighting)
+* [01-11-2025 - California, United States](https://ebird.org/checklist/S208851041) (First/Best Photo)
+* [01-15-2025 - California, United States](https://ebird.org/checklist/S209444881) (Last Sighting)
 
 ### Places Seen
 
@@ -49,7 +50,12 @@ The golden-crowned sparrow (Zonotrichia atricapilla) is a large New World sparro
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628924008/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628924010/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629166857/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628924005/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628924087/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629166854/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626583978/embed" frameBorder="0" allowFullScreen></iframe>
