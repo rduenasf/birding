@@ -71,6 +71,23 @@ import BirdCard from '@site/src/components/BirdCard';
     <div className="row">
 
 
+      </div></div>
+      ### Tanzania and Netherlands
+      <div className="container tripReport">
+       :::tip[Trip Report Summary]
+
+* Regions Visited: [FR-NAQ](https://ebird.org/region/FR-NAQ), [NL-FL](https://ebird.org/region/NL-FL), [NL-NH](https://ebird.org/region/NL-NH), [TZ-09](https://ebird.org/region/TZ-09)
+* Dates: 2025-01-24 - 2025-02-16
+* <FAIcon icon="fa-solid fa-eye"/> Lifers: 102
+* <FAIcon icon="fa-solid fa-camera"/> Lifers: 67
+
+
+See details at [eBird](https://ebird.org/tripreport/337526) 
+
+:::
+
+      <div className="row">
+
     <BirdCard
       index="536"
       name="Eurasian Wigeon"
@@ -1027,6 +1044,10 @@ import BirdCard from '@site/src/components/BirdCard';
       <div className="row">
 
 
+
+        </div></div>
+        <div className="container ">
+        <div className="row">
 
     <BirdCard
       index="434"
