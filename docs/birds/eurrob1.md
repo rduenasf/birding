@@ -3,17 +3,17 @@ title: "European Robin"
 scientific_name: "Erithacus rubecula"
 order: "Passeriformes"
 family: "Muscicapidae (Old World Flycatchers)"
-description: "Erithacus rubecula is a species of bird in the Muscicapidae (Old World Flycatchers) family. It has been observed 1 times."
+description: "Erithacus rubecula is a species of bird in the Muscicapidae (Old World Flycatchers) family. It has been observed 1 times. It has been photographed."
 species_group: "Old World Flycatchers"
 species_code: "eurrob1"
 
 sidebar_position: 196
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Muscicapidae (Old World Flycatchers)
   - Old World Flycatchers
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -37,7 +37,7 @@ It is 12.5–14.0 cm (4.9–5.5 in) in length; the male and female are identical
 
 ### Relevant Sightings
 
-* [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213397788) (Only Sighting)
+* [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213397788) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -47,7 +47,7 @@ It is 12.5–14.0 cm (4.9–5.5 in) in length; the male and female are identical
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631547147/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

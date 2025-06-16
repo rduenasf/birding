@@ -3,17 +3,17 @@ title: "Gray Heron"
 scientific_name: "Ardea cinerea"
 order: "Pelecaniformes"
 family: "Ardeidae (Herons, Egrets, and Bitterns)"
-description: "Ardea cinerea is a species of bird in the Ardeidae (Herons, Egrets, and Bitterns) family. It has been observed 2 times."
+description: "Ardea cinerea is a species of bird in the Ardeidae (Herons, Egrets, and Bitterns) family. It has been observed 2 times. It has been photographed."
 species_group: "Herons, Ibis, and Allies"
 species_code: "graher1"
 
 sidebar_position: 220
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Pelecaniformes
   - Ardeidae (Herons, Egrets, and Bitterns)
   - Herons, Ibis, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -39,7 +39,7 @@ In Ancient Egypt, the deity Bennu was depicted as a heron in New Kingdom artwork
 
 ### Relevant Sightings
 
-* [01-26-2025 - Noord-Holland, Netherlands](https://ebird.org/checklist/S210727534) (First Sighting)
+* [01-26-2025 - Noord-Holland, Netherlands](https://ebird.org/checklist/S210727534) (First Sighting / Only Photo)
 * [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213467942) (Last Sighting)
 
 ### Places Seen
@@ -51,7 +51,7 @@ In Ancient Egypt, the deity Bennu was depicted as a heron in New Kingdom artwork
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631536613/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

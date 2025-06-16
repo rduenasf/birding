@@ -38,7 +38,7 @@ Steller's jay (Cyanocitta stelleri) is a bird native to western North America an
 
 ### Relevant Sightings
 
-* [08-31-2019 - California, United States](https://ebird.org/checklist/S206238527) (First Sighting / Only Photo)
+* [08-31-2019 - California, United States](https://ebird.org/checklist/S206238527) (First Sighting / First and Best Photo)
 * [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (First/Best Recording)
 * [05-26-2025 - California, United States](https://ebird.org/checklist/S243020079) (Last Sighting)
 
@@ -52,6 +52,7 @@ Steller's jay (Cyanocitta stelleri) is a bird native to western North America an
 ## Media
 ### Photographs
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/627874239/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/636977042/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626995552/embed" frameBorder="0" allowFullScreen></iframe>

@@ -39,7 +39,7 @@ The golden-crowned sparrow (Zonotrichia atricapilla) is a large New World sparro
 * [12-02-2023 - California, United States](https://ebird.org/checklist/S155611564) (First Sighting)
 * [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (First Recording)
 * [11-17-2024 - California, United States](https://ebird.org/checklist/S202811385) (Best Recording)
-* [01-15-2025 - California, United States](https://ebird.org/checklist/S209444881) (Only Photo)
+* [01-15-2025 - California, United States](https://ebird.org/checklist/S209444881) (First/Best Photo)
 * [04-20-2025 - California, United States](https://ebird.org/checklist/S227452484) (Last Sighting)
 
 ### Places Seen
@@ -52,6 +52,7 @@ The golden-crowned sparrow (Zonotrichia atricapilla) is a large New World sparro
 ### Photographs
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629166857/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629166854/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/632869360/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626583978/embed" frameBorder="0" allowFullScreen></iframe>

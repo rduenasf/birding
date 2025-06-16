@@ -3,17 +3,17 @@ title: "White Stork"
 scientific_name: "Ciconia ciconia"
 order: "Ciconiiformes"
 family: "Ciconiidae (Storks)"
-description: "Ciconia ciconia is a species of bird in the Ciconiidae (Storks) family. It has been observed 2 times."
+description: "Ciconia ciconia is a species of bird in the Ciconiidae (Storks) family. It has been observed 2 times. It has been photographed."
 species_group: "Storks"
 species_code: "whisto1"
 
 sidebar_position: 499
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Ciconiiformes
   - Ciconiidae (Storks)
   - Storks
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -38,7 +38,7 @@ The white stork has been rated as least concern by the International Union for C
 
 ### Relevant Sightings
 
-* [01-26-2025 - Noord-Holland, Netherlands](https://ebird.org/checklist/S210727534) (First Sighting)
+* [01-26-2025 - Noord-Holland, Netherlands](https://ebird.org/checklist/S210727534) (First Sighting / Only Photo)
 * [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213467942) (Last Sighting)
 
 ### Places Seen
@@ -50,7 +50,7 @@ The white stork has been rated as least concern by the International Union for C
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631536457/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

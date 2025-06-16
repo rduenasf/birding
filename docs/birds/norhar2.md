@@ -38,7 +38,7 @@ The northern harrier migrates south in winter, with breeding birds in Canada and
 ### Relevant Sightings
 
 * [12-23-2023 - California, United States](https://ebird.org/checklist/S157058117) (First Sighting)
-* [01-05-2025 - California, United States](https://ebird.org/checklist/S208150408) (Only Photo)
+* [01-05-2025 - California, United States](https://ebird.org/checklist/S208150408) (First/Best Photo)
 * [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Last Sighting)
 
 ### Places Seen
@@ -51,6 +51,7 @@ The northern harrier migrates south in winter, with breeding birds in Canada and
 ### Photographs
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629201515/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629201603/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637296884/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

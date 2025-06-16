@@ -3,17 +3,17 @@ title: "Collared Sunbird"
 scientific_name: "Hedydipna collaris"
 order: "Passeriformes"
 family: "Nectariniidae (Sunbirds and Spiderhunters)"
-description: "Hedydipna collaris is a species of bird in the Nectariniidae (Sunbirds and Spiderhunters) family. It has been observed 1 times."
+description: "Hedydipna collaris is a species of bird in the Nectariniidae (Sunbirds and Spiderhunters) family. It has been observed 1 times. It has been photographed."
 species_group: "Sunbirds and Spiderhunters"
 species_code: "colsun2"
 
 sidebar_position: 140
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Nectariniidae (Sunbirds and Spiderhunters)
   - Sunbirds and Spiderhunters
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -42,7 +42,7 @@ This species inhabits forests near water.[^1]
 
 ### Relevant Sightings
 
-* [02-02-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216358669) (Only Sighting)
+* [02-02-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216358669) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -52,7 +52,7 @@ This species inhabits forests near water.[^1]
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631538790/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

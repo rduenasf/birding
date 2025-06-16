@@ -3,17 +3,17 @@ title: "Fan-tailed Widowbird"
 scientific_name: "Euplectes axillaris"
 order: "Passeriformes"
 family: "Ploceidae (Weavers and Allies)"
-description: "Euplectes axillaris is a species of bird in the Ploceidae (Weavers and Allies) family. It has been observed 1 times."
+description: "Euplectes axillaris is a species of bird in the Ploceidae (Weavers and Allies) family. It has been observed 1 times. It has been photographed."
 species_group: "Weavers and Allies"
 species_code: "fatwid1"
 
 sidebar_position: 198
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Ploceidae (Weavers and Allies)
   - Weavers and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -36,7 +36,7 @@ The fan-tailed widowbird (Euplectes axillaris), also known as the red-shouldered
 
 ### Relevant Sightings
 
-* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216379500) (Only Sighting)
+* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216379500) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -46,7 +46,7 @@ The fan-tailed widowbird (Euplectes axillaris), also known as the red-shouldered
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631567708/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

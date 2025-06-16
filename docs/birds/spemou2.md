@@ -3,17 +3,17 @@ title: "Speckled Mousebird"
 scientific_name: "Colius striatus"
 order: "Coliiformes"
 family: "Coliidae (Mousebirds)"
-description: "Colius striatus is a species of bird in the Coliidae (Mousebirds) family. It has been observed 3 times."
+description: "Colius striatus is a species of bird in the Coliidae (Mousebirds) family. It has been observed 3 times. It has been photographed."
 species_group: "Mousebirds"
 species_code: "spemou2"
 
 sidebar_position: 437
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Coliiformes
   - Coliidae (Mousebirds)
   - Mousebirds
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -36,7 +36,7 @@ The speckled mousebird (Colius striatus) is the largest species of mousebird, as
 
 ### Relevant Sightings
 
-* [02-03-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216362116) (First Sighting)
+* [02-03-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216362116) (First Sighting / First and Best Photo)
 * [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216443488) (Last Sighting)
 
 ### Places Seen
@@ -47,7 +47,8 @@ The speckled mousebird (Colius striatus) is the largest species of mousebird, as
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631540544/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631543769/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

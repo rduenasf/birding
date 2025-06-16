@@ -3,17 +3,17 @@ title: "Ring-necked Dove"
 scientific_name: "Streptopelia capicola"
 order: "Columbiformes"
 family: "Columbidae (Pigeons and Doves)"
-description: "Streptopelia capicola is a species of bird in the Columbidae (Pigeons and Doves) family. It has been observed 1 times."
+description: "Streptopelia capicola is a species of bird in the Columbidae (Pigeons and Doves) family. It has been observed 1 times. It has been photographed."
 species_group: "Pigeons and Doves"
 species_code: "rindov"
 
 sidebar_position: 390
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Columbiformes
   - Columbidae (Pigeons and Doves)
   - Pigeons and Doves
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -36,7 +36,7 @@ The ring-necked dove (Streptopelia capicola), also known as the Cape turtle dove
 
 ### Relevant Sightings
 
-* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216294004) (Only Sighting)
+* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216294004) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -46,7 +46,7 @@ The ring-necked dove (Streptopelia capicola), also known as the Cape turtle dove
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631549802/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

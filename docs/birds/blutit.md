@@ -3,17 +3,17 @@ title: "Eurasian Blue Tit"
 scientific_name: "Cyanistes caeruleus"
 order: "Passeriformes"
 family: "Paridae (Tits, Chickadees, and Titmice)"
-description: "Cyanistes caeruleus is a species of bird in the Paridae (Tits, Chickadees, and Titmice) family. It has been observed 2 times."
+description: "Cyanistes caeruleus is a species of bird in the Paridae (Tits, Chickadees, and Titmice) family. It has been observed 2 times. It has been photographed."
 species_group: "Tits, Chickadees, and Titmice"
 species_code: "blutit"
 
 sidebar_position: 183
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Paridae (Tits, Chickadees, and Titmice)
   - Tits, Chickadees, and Titmice
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -38,7 +38,7 @@ The Eurasian blue tit prefers insects and spiders for its diet. Outside the bree
 
 ### Relevant Sightings
 
-* [01-26-2025 - Noord-Holland, Netherlands](https://ebird.org/checklist/S210727534) (First Sighting)
+* [01-26-2025 - Noord-Holland, Netherlands](https://ebird.org/checklist/S210727534) (First Sighting / Only Photo)
 * [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213434174) (Last Sighting)
 
 ### Places Seen
@@ -50,7 +50,7 @@ The Eurasian blue tit prefers insects and spiders for its diet. Outside the bree
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631536373/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

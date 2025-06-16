@@ -3,17 +3,17 @@ title: "Marabou Stork"
 scientific_name: "Leptoptilos crumenifer"
 order: "Ciconiiformes"
 family: "Ciconiidae (Storks)"
-description: "Leptoptilos crumenifer is a species of bird in the Ciconiidae (Storks) family. It has been observed 1 times."
+description: "Leptoptilos crumenifer is a species of bird in the Ciconiidae (Storks) family. It has been observed 1 times. It has been photographed."
 species_group: "Storks"
 species_code: "marsto1"
 
 sidebar_position: 308
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Ciconiiformes
   - Ciconiidae (Storks)
   - Storks
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -36,7 +36,7 @@ The marabou stork (Leptoptilos crumenifer) is a large wading bird in the stork f
 
 ### Relevant Sightings
 
-* [02-02-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216360382) (Only Sighting)
+* [02-02-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216360382) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -46,7 +46,7 @@ The marabou stork (Leptoptilos crumenifer) is a large wading bird in the stork f
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631539498/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

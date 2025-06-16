@@ -3,17 +3,17 @@ title: "Streaky Seedeater"
 scientific_name: "Crithagra striolata"
 order: "Passeriformes"
 family: "Fringillidae (Finches, Euphonias, and Allies)"
-description: "Crithagra striolata is a species of bird in the Fringillidae (Finches, Euphonias, and Allies) family. It has been observed 2 times."
+description: "Crithagra striolata is a species of bird in the Fringillidae (Finches, Euphonias, and Allies) family. It has been observed 2 times. It has been photographed."
 species_group: "Finches, Euphonias, and Allies"
 species_code: "strsee1"
 
 sidebar_position: 447
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Fringillidae (Finches, Euphonias, and Allies)
   - Finches, Euphonias, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -36,7 +36,7 @@ The streaky seedeater (Crithagra striolata) is a species of finch in the family 
 
 ### Relevant Sightings
 
-* [02-06-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216483273) (First Sighting)
+* [02-06-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216483273) (First Sighting / Only Photo)
 * [02-10-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216379768) (Last Sighting)
 
 ### Places Seen
@@ -47,7 +47,7 @@ The streaky seedeater (Crithagra striolata) is a species of finch in the family 
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631579597/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

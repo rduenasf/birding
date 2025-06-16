@@ -37,7 +37,8 @@ The double-crested cormorant (Nannopterum auritum) is a member of the cormorant 
 ### Relevant Sightings
 
 * [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
-* [01-02-2025 - California, United States](https://ebird.org/checklist/S207761995) (Only Photo)
+* [01-02-2025 - California, United States](https://ebird.org/checklist/S207761995) (First Photo)
+* [03-29-2025 - California, United States](https://ebird.org/checklist/S221633632) (Best Photo)
 * [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Last Sighting)
 
 ### Places Seen
@@ -50,7 +51,10 @@ The double-crested cormorant (Nannopterum auritum) is a member of the cormorant 
 
 ## Media
 ### Photographs
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/632869229/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628458453/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/632224719/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/632226220/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

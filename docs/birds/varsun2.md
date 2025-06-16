@@ -3,17 +3,17 @@ title: "Variable Sunbird"
 scientific_name: "Cinnyris venustus"
 order: "Passeriformes"
 family: "Nectariniidae (Sunbirds and Spiderhunters)"
-description: "Cinnyris venustus is a species of bird in the Nectariniidae (Sunbirds and Spiderhunters) family. It has been observed 2 times."
+description: "Cinnyris venustus is a species of bird in the Nectariniidae (Sunbirds and Spiderhunters) family. It has been observed 2 times. It has been photographed."
 species_group: "Sunbirds and Spiderhunters"
 species_code: "varsun2"
 
 sidebar_position: 473
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Nectariniidae (Sunbirds and Spiderhunters)
   - Sunbirds and Spiderhunters
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -40,7 +40,7 @@ The adult male has a glossy green head, throat and nape, and a maroon breast ban
 ### Relevant Sightings
 
 * [02-02-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216361343) (First Sighting)
-* [02-04-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216367519) (Last Sighting)
+* [02-04-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216367519) (Last Sighting / Only Photo)
 
 ### Places Seen
 
@@ -50,7 +50,7 @@ The adult male has a glossy green head, throat and nape, and a maroon breast ban
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631543758/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

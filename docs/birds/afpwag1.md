@@ -3,17 +3,17 @@ title: "African Pied Wagtail"
 scientific_name: "Motacilla aguimp"
 order: "Passeriformes"
 family: "Motacillidae (Wagtails and Pipits)"
-description: "Motacilla aguimp is a species of bird in the Motacillidae (Wagtails and Pipits) family. It has been observed 1 times."
+description: "Motacilla aguimp is a species of bird in the Motacillidae (Wagtails and Pipits) family. It has been observed 1 times. It has been photographed."
 species_group: "Wagtails and Pipits"
 species_code: "afpwag1"
 
 sidebar_position: 5
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Motacillidae (Wagtails and Pipits)
   - Wagtails and Pipits
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -36,7 +36,7 @@ The African pied wagtail, or African wagtail, (Motacilla aguimp) is a species of
 
 ### Relevant Sightings
 
-* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216294004) (Only Sighting)
+* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216294004) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -46,7 +46,7 @@ The African pied wagtail, or African wagtail, (Motacilla aguimp) is a species of
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631549504/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

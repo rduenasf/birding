@@ -3,18 +3,18 @@ title: "Hamerkop"
 scientific_name: "Scopus umbretta"
 order: "Pelecaniformes"
 family: "Scopidae (Hamerkop)"
-description: "Scopus umbretta is a species of bird in the Scopidae (Hamerkop) family. It has been observed 2 times."
+description: "Scopus umbretta is a species of bird in the Scopidae (Hamerkop) family. It has been observed 2 times. It has been photographed. It has been recorded."
 species_group: "Shoebill and Hammerkop"
 species_code: "hamerk1"
 
 sidebar_position: 253
-sidebar_class_name: " "
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Pelecaniformes
   - Scopidae (Hamerkop)
   - Shoebill and Hammerkop
-  - Needs Photo
-  - Needs Audio
+  - Has Photo
+  - Has Audio
 ---
 
 # Hamerkop <span className='sci_name'>Scopus umbretta</span>
@@ -38,7 +38,7 @@ The species is not globally threatened and is locally abundant in mainland Afric
 
 ### Relevant Sightings
 
-* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216375993) (First Sighting)
+* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216375993) (First Sighting / First and Best Photo / Only Recording)
 * [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216440768) (Last Sighting)
 
 ### Places Seen
@@ -49,10 +49,13 @@ The species is not globally threatened and is locally abundant in mainland Afric
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631603924/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631604154/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631568397/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631568458/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
-No audio recordings available.
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/631603087/embed" frameBorder="0" allowFullScreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/hamerk1) 

@@ -3,17 +3,17 @@ title: "Mute Swan"
 scientific_name: "Cygnus olor"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
-description: "Cygnus olor is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 5 times."
+description: "Cygnus olor is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 5 times. It has been photographed."
 species_group: "Waterfowl"
 species_code: "mutswa"
 
 sidebar_position: 325
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Anseriformes
   - Anatidae (Ducks, Geese, and Waterfowl)
   - Waterfowl
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -37,6 +37,7 @@ The mute swan (Cygnus olor) is a species of swan and a member of the waterfowl f
 ### Relevant Sightings
 
 * [04-10-2024 - Ontario, Canada](https://ebird.org/checklist/S167992532) (First Sighting)
+* [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213467942) (Only Photo)
 * [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213563164) (Last Sighting)
 
 ### Places Seen
@@ -48,7 +49,7 @@ The mute swan (Cygnus olor) is a species of swan and a member of the waterfowl f
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631548791/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

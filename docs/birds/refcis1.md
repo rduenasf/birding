@@ -3,17 +3,17 @@ title: "Red-faced Cisticola"
 scientific_name: "Cisticola erythrops"
 order: "Passeriformes"
 family: "Cisticolidae (Cisticolas and Allies)"
-description: "Cisticola erythrops is a species of bird in the Cisticolidae (Cisticolas and Allies) family. It has been observed 1 times."
+description: "Cisticola erythrops is a species of bird in the Cisticolidae (Cisticolas and Allies) family. It has been observed 1 times. It has been photographed."
 species_group: "Cisticolas and Allies"
 species_code: "refcis1"
 
 sidebar_position: 376
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Cisticolidae (Cisticolas and Allies)
   - Cisticolas and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -37,7 +37,7 @@ The race C. e. lepe, found in Angola and possibly the southeast of the Democrati
 
 ### Relevant Sightings
 
-* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216294004) (Only Sighting)
+* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216294004) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -47,7 +47,7 @@ The race C. e. lepe, found in Angola and possibly the southeast of the Democrati
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631644592/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

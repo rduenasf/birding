@@ -3,18 +3,18 @@ title: "Yellow-breasted Apalis"
 scientific_name: "Apalis flavida"
 order: "Passeriformes"
 family: "Cisticolidae (Cisticolas and Allies)"
-description: "Apalis flavida is a species of bird in the Cisticolidae (Cisticolas and Allies) family. It has been observed 1 times."
+description: "Apalis flavida is a species of bird in the Cisticolidae (Cisticolas and Allies) family. It has been observed 1 times. It has been recorded."
 species_group: "Cisticolas and Allies"
 species_code: "yebapa1"
 
 sidebar_position: 536
-sidebar_class_name: " "
+sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
   - Cisticolidae (Cisticolas and Allies)
   - Cisticolas and Allies
   - Needs Photo
-  - Needs Audio
+  - Has Audio
 ---
 
 # Yellow-breasted Apalis <span className='sci_name'>Apalis flavida</span>
@@ -36,7 +36,7 @@ The yellow-breasted apalis (Apalis flavida) is a species of bird in the family C
 
 ### Relevant Sightings
 
-* [02-04-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216367519) (Only Sighting)
+* [02-04-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216367519) (Only Sighting / Recording)
 
 ### Places Seen
 
@@ -49,7 +49,7 @@ The yellow-breasted apalis (Apalis flavida) is a species of bird in the family C
 No photographs available.
 
 ### Audio Recordings
-No audio recordings available.
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/631602935/embed" frameBorder="0" allowFullScreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/yebapa1) 

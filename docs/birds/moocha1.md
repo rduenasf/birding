@@ -3,17 +3,17 @@ title: "Moorland Chat"
 scientific_name: "Pinarochroa sordida"
 order: "Passeriformes"
 family: "Muscicapidae (Old World Flycatchers)"
-description: "Pinarochroa sordida is a species of bird in the Muscicapidae (Old World Flycatchers) family. It has been observed 2 times."
+description: "Pinarochroa sordida is a species of bird in the Muscicapidae (Old World Flycatchers) family. It has been observed 2 times. It has been photographed."
 species_group: "Old World Flycatchers"
 species_code: "moocha1"
 
 sidebar_position: 316
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Muscicapidae (Old World Flycatchers)
   - Old World Flycatchers
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -39,7 +39,7 @@ The moorland chat (Pinarochroa sordida), also known as the alpine chat or hill c
 ### Relevant Sightings
 
 * [02-06-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216483273) (First Sighting)
-* [02-07-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216480577) (Last Sighting)
+* [02-07-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216480577) (Last Sighting / Only Photo)
 
 ### Places Seen
 
@@ -49,7 +49,7 @@ The moorland chat (Pinarochroa sordida), also known as the alpine chat or hill c
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe vertical" src="https://macaulaylibrary.org/asset/631578706/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

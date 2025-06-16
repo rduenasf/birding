@@ -3,17 +3,17 @@ title: "Western Cattle-Egret"
 scientific_name: "Ardea ibis"
 order: "Pelecaniformes"
 family: "Ardeidae (Herons, Egrets, and Bitterns)"
-description: "Ardea ibis is a species of bird in the Ardeidae (Herons, Egrets, and Bitterns) family. It has been observed 3 times."
+description: "Ardea ibis is a species of bird in the Ardeidae (Herons, Egrets, and Bitterns) family. It has been observed 3 times. It has been photographed."
 species_group: "Herons, Ibis, and Allies"
 species_code: "categr1"
 
 sidebar_position: 488
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Pelecaniformes
   - Ardeidae (Herons, Egrets, and Bitterns)
   - Herons, Ibis, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -39,6 +39,7 @@ The adult cattle egret has few predators, but birds or mammals may raid its nest
 ### Relevant Sightings
 
 * [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216375993) (First Sighting)
+* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216440768) (Only Photo)
 * [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216379500) (Last Sighting)
 
 ### Places Seen
@@ -49,7 +50,7 @@ The adult cattle egret has few predators, but birds or mammals may raid its nest
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631568558/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

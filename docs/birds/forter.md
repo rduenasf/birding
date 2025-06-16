@@ -3,17 +3,17 @@ title: "Forster's Tern"
 scientific_name: "Sterna forsteri"
 order: "Charadriiformes"
 family: "Laridae (Gulls, Terns, and Skimmers)"
-description: "Sterna forsteri is a species of bird in the Laridae (Gulls, Terns, and Skimmers) family. It has been observed 19 times. It has been recorded."
+description: "Sterna forsteri is a species of bird in the Laridae (Gulls, Terns, and Skimmers) family. It has been observed 19 times. It has been photographed. It has been recorded."
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "forter"
 
 sidebar_position: 202
-sidebar_class_name: " has-audio"
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Charadriiformes
   - Laridae (Gulls, Terns, and Skimmers)
   - Gulls, Terns, and Skimmers
-  - Needs Photo
+  - Has Photo
   - Has Audio
 ---
 
@@ -43,7 +43,7 @@ This species is unlikely to be confused with the common tern in winter because o
 
 * [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
 * [11-24-2024 - California, United States](https://ebird.org/checklist/S203486069) (Only Recording)
-* [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Last Sighting)
+* [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Last Sighting / Only Photo)
 
 ### Places Seen
 
@@ -54,7 +54,7 @@ This species is unlikely to be confused with the common tern in winter because o
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637296849/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626684646/embed" frameBorder="0" allowFullScreen></iframe>

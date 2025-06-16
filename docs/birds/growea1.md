@@ -3,17 +3,17 @@ title: "Grosbeak Weaver"
 scientific_name: "Amblyospiza albifrons"
 order: "Passeriformes"
 family: "Ploceidae (Weavers and Allies)"
-description: "Amblyospiza albifrons is a species of bird in the Ploceidae (Weavers and Allies) family. It has been observed 1 times."
+description: "Amblyospiza albifrons is a species of bird in the Ploceidae (Weavers and Allies) family. It has been observed 1 times. It has been photographed."
 species_group: "Weavers and Allies"
 species_code: "growea1"
 
 sidebar_position: 249
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Ploceidae (Weavers and Allies)
   - Weavers and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -38,7 +38,7 @@ They habitually fan and flick their tails.[^1]
 
 ### Relevant Sightings
 
-* [02-04-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216367519) (Only Sighting)
+* [02-04-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216367519) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -48,7 +48,7 @@ They habitually fan and flick their tails.[^1]
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631548563/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

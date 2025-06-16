@@ -3,17 +3,17 @@ title: "Isabelline Shrike"
 scientific_name: "Lanius isabellinus"
 order: "Passeriformes"
 family: "Laniidae (Shrikes)"
-description: "Lanius isabellinus is a species of bird in the Laniidae (Shrikes) family. It has been observed 1 times."
+description: "Lanius isabellinus is a species of bird in the Laniidae (Shrikes) family. It has been observed 1 times. It has been photographed."
 species_group: "Shrikes"
 species_code: "isashr1"
 
 sidebar_position: 275
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Laniidae (Shrikes)
   - Shrikes
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -36,7 +36,7 @@ The isabelline shrike or Daurian shrike (Lanius isabellinus) is a member of the 
 
 ### Relevant Sightings
 
-* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216443488) (Only Sighting)
+* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216443488) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -46,7 +46,7 @@ The isabelline shrike or Daurian shrike (Lanius isabellinus) is a member of the 
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631603674/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

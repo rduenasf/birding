@@ -3,17 +3,17 @@ title: "Pied Crow"
 scientific_name: "Corvus albus"
 order: "Passeriformes"
 family: "Corvidae (Crows, Jays, and Magpies)"
-description: "Corvus albus is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 1 times."
+description: "Corvus albus is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 1 times. It has been photographed."
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "piecro1"
 
 sidebar_position: 356
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Corvidae (Crows, Jays, and Magpies)
   - Jays, Magpies, Crows, and Ravens
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -37,7 +37,7 @@ Structurally, the pied crow is better thought of as a small crow-sized raven, es
 
 ### Relevant Sightings
 
-* [02-02-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216358669) (Only Sighting)
+* [02-02-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216358669) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -47,7 +47,8 @@ Structurally, the pied crow is better thought of as a small crow-sized raven, es
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631538767/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631538766/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

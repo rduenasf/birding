@@ -55,6 +55,7 @@ The red-shouldered hawk (Buteo lineatus) is a medium-sized buteo. Its breeding r
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628955110/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628955111/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe vertical" src="https://macaulaylibrary.org/asset/627868402/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637618889/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

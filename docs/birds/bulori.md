@@ -3,17 +3,17 @@ title: "Bullock's Oriole"
 scientific_name: "Icterus bullockii"
 order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
-description: "Icterus bullockii is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 5 times."
+description: "Icterus bullockii is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 5 times. It has been photographed."
 species_group: "Blackbirds"
 species_code: "bulori"
 
 sidebar_position: 99
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Icteridae (Troupials and Allies)
   - Blackbirds
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -37,6 +37,7 @@ Bullock's oriole (Icterus bullockii) is a small New World blackbird. At one time
 ### Relevant Sightings
 
 * [05-11-2024 - California, United States](https://ebird.org/checklist/S173585635) (First Sighting)
+* [05-26-2025 - California, United States](https://ebird.org/checklist/S243020079) (Only Photo)
 * [06-01-2025 - California, United States](https://ebird.org/checklist/S245649846) (Last Sighting)
 
 ### Places Seen
@@ -47,7 +48,7 @@ Bullock's oriole (Icterus bullockii) is a small New World blackbird. At one time
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637299296/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

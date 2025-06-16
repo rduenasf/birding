@@ -3,17 +3,17 @@ title: "Black Kite"
 scientific_name: "Milvus migrans"
 order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
-description: "Milvus migrans is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 2 times."
+description: "Milvus migrans is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 2 times. It has been photographed."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "blakit1"
 
 sidebar_position: 47
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Accipitriformes
   - Accipitridae (Hawks, Eagles, and Kites)
   - Vultures, Hawks, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -38,8 +38,8 @@ The black kite is widely distributed through the temperate and tropical parts of
 
 ### Relevant Sightings
 
-* [02-02-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216358669) (First Sighting)
-* [02-02-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216361486) (Last Sighting)
+* [02-02-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216358669) (First Sighting / First Photo)
+* [02-02-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216361486) (Last Sighting / Last and Best Photo)
 
 ### Places Seen
 
@@ -49,7 +49,9 @@ The black kite is widely distributed through the temperate and tropical parts of
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631540142/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631540140/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631538744/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

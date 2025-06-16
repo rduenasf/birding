@@ -37,7 +37,7 @@ Brewer's blackbird (Euphagus cyanocephalus) is a medium-sized New World blackbir
 ### Relevant Sightings
 
 * [11-26-2023 - California, United States](https://ebird.org/checklist/S155251280) (First Sighting / First Photo)
-* [01-07-2024 - California, United States](https://ebird.org/checklist/S158367947) (Best Photo)
+* [05-24-2025 - California, United States](https://ebird.org/checklist/S241928811) (Best Photo)
 * [06-04-2025 - California, United States](https://ebird.org/checklist/S246638509) (Last Sighting)
 
 ### Places Seen
@@ -48,8 +48,11 @@ Brewer's blackbird (Euphagus cyanocephalus) is a medium-sized New World blackbir
 
 ## Media
 ### Photographs
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/636976573/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/614231410/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/627869509/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/636976572/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637299941/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

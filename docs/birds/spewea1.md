@@ -3,17 +3,17 @@ title: "Spectacled Weaver"
 scientific_name: "Ploceus ocularis"
 order: "Passeriformes"
 family: "Ploceidae (Weavers and Allies)"
-description: "Ploceus ocularis is a species of bird in the Ploceidae (Weavers and Allies) family. It has been observed 1 times."
+description: "Ploceus ocularis is a species of bird in the Ploceidae (Weavers and Allies) family. It has been observed 1 times. It has been photographed."
 species_group: "Weavers and Allies"
 species_code: "spewea1"
 
 sidebar_position: 439
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Ploceidae (Weavers and Allies)
   - Weavers and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -36,7 +36,7 @@ The spectacled weaver (Ploceus ocularis) is a species of bird in the family Ploc
 
 ### Relevant Sightings
 
-* [02-04-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216367519) (Only Sighting)
+* [02-04-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216367519) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -46,7 +46,8 @@ The spectacled weaver (Ploceus ocularis) is a species of bird in the family Ploc
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631543755/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631543756/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

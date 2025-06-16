@@ -19,7 +19,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="542"
       name="American Bittern"
       speciesCode="amebit"
-       
+      photo="637297003" 
       />
 
 
@@ -84,7 +84,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="535"
       name="Long-tailed Tit"
       speciesCode="lottit1"
-       
+      photo="631546401" 
       />
 
 
@@ -93,7 +93,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="534"
       name="White-tailed Eagle"
       speciesCode="whteag"
-       
+      photo="631548943" 
       />
 </div>
     <div className="row">
@@ -121,7 +121,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="531"
       name="Whooper Swan"
       speciesCode="whoswa"
-       
+      photo="631548899" 
       />
 </div>
     <div className="row">
@@ -177,7 +177,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="525"
       name="European Robin"
       speciesCode="eurrob1"
-       
+      photo="631547147" 
       />
 </div>
     <div className="row">
@@ -261,7 +261,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="516"
       name="European Herring Gull"
       speciesCode="euhgul1"
-       
+      photo="631546941" 
       />
 </div>
     <div className="row">
@@ -271,7 +271,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="515"
       name="Northern Lapwing"
       speciesCode="norlap"
-       
+      photo="631546833" 
       />
 
 
@@ -299,7 +299,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="512"
       name="Great Cormorant"
       speciesCode="grecor"
-       
+      photo="631546722" 
       />
 
 
@@ -317,7 +317,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="510"
       name="Caspian Gull"
       speciesCode="casgul2"
-       
+      photo="631546796" 
       />
 </div>
     <div className="row">
@@ -345,7 +345,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="507"
       name="Great Crested Grebe"
       speciesCode="grcgre1"
-       
+      photo="631546905" 
       />
 </div>
     <div className="row">
@@ -364,7 +364,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="505"
       name="Fan-tailed Widowbird"
       speciesCode="fatwid1"
-       
+      photo="631567708" 
       />
 
 
@@ -373,7 +373,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="504"
       name="Hadada Ibis"
       speciesCode="hadibi1"
-       
+      photo="631567646" 
       />
 </div>
     <div className="row">
@@ -383,7 +383,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="503"
       name="African Sacred Ibis"
       speciesCode="sacibi2"
-       
+      photo="631567825" 
       />
 
 
@@ -392,7 +392,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="502"
       name="Wood Sandpiper"
       speciesCode="woosan"
-       
+      photo="631567757" 
       />
 
 
@@ -401,7 +401,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="501"
       name="Black-winged Stilt"
       speciesCode="bkwsti"
-       
+      photo="631567892" 
       />
 </div>
     <div className="row">
@@ -411,7 +411,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="500"
       name="Spotted Flycatcher"
       speciesCode="spofly1"
-       
+      photo="631568274" 
       />
 
 
@@ -420,7 +420,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="499"
       name="Palm-nut Vulture"
       speciesCode="panvul1"
-       
+      photo="631568628" 
       />
 
 
@@ -429,7 +429,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="498"
       name="Blacksmith Lapwing"
       speciesCode="blaplo1"
-       
+      photo="631568581" 
       />
 </div>
     <div className="row">
@@ -439,7 +439,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="497"
       name="Red-billed Quelea"
       speciesCode="rebque1"
-       
+      photo="631572812" 
       />
 
 
@@ -448,7 +448,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="496"
       name="White-browed Sparrow-Weaver"
       speciesCode="wbswea1"
-       
+      photo="631603575" 
       />
 
 
@@ -457,7 +457,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="495"
       name="Superb Starling"
       speciesCode="supsta1"
-       
+      photo="631573080" 
       />
 </div>
     <div className="row">
@@ -467,7 +467,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="494"
       name="Isabelline Shrike"
       speciesCode="isashr1"
-       
+      photo="631603674" 
       />
 
 
@@ -476,8 +476,8 @@ import BirdCard from '@site/src/components/BirdCard';
       index="493"
       name="African Gray Hornbill"
       speciesCode="afghor1"
-       
-      />
+      photo="631573339" 
+      recording="631603169"/>
 
 
 
@@ -495,7 +495,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="491"
       name="Zanzibar Red Bishop"
       speciesCode="zanbis1"
-       
+      photo="631572176" 
       />
 
 
@@ -504,7 +504,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="490"
       name="Taveta Golden-Weaver"
       speciesCode="tagwea1"
-       
+      photo="631571515" 
       />
 
 
@@ -513,8 +513,8 @@ import BirdCard from '@site/src/components/BirdCard';
       index="489"
       name="Hamerkop"
       speciesCode="hamerk1"
-       
-      />
+      photo="631603924" 
+      recording="631603087"/>
 </div>
     <div className="row">
 
@@ -523,7 +523,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="488"
       name="Western Cattle-Egret"
       speciesCode="categr1"
-       
+      photo="631568558" 
       />
 
 
@@ -532,7 +532,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="487"
       name="African Jacana"
       speciesCode="afrjac1"
-       
+      photo="631551587" 
       />
 
 
@@ -541,7 +541,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="486"
       name="African Pied Wagtail"
       speciesCode="afpwag1"
-       
+      photo="631549504" 
       />
 </div>
     <div className="row">
@@ -551,7 +551,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="485"
       name="Pin-tailed Whydah"
       speciesCode="pitwhy"
-       
+      photo="631550714" 
       />
 
 
@@ -560,7 +560,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="484"
       name="Red-faced Cisticola"
       speciesCode="refcis1"
-       
+      photo="631644592" 
       />
 
 
@@ -569,7 +569,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="483"
       name="Lilac-breasted Roller"
       speciesCode="librol2"
-       
+      photo="631549348" 
       />
 </div>
     <div className="row">
@@ -579,7 +579,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="482"
       name="Gray-headed Kingfisher"
       speciesCode="gyhkin1"
-       
+      photo="631550230" 
       />
 
 
@@ -588,7 +588,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="481"
       name="Black-headed Heron"
       speciesCode="blhher1"
-       
+      photo="631550182" 
       />
 
 
@@ -597,7 +597,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="480"
       name="Laughing Dove"
       speciesCode="laudov1"
-       
+      photo="631549805" 
       />
 </div>
     <div className="row">
@@ -607,7 +607,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="479"
       name="Ring-necked Dove"
       speciesCode="rindov"
-       
+      photo="631549802" 
       />
 
 
@@ -644,7 +644,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="475"
       name="Streaky Seedeater"
       speciesCode="strsee1"
-       
+      photo="631579597" 
       />
 
 
@@ -653,7 +653,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="474"
       name="Moorland Chat"
       speciesCode="moocha1"
-       
+      photo="631578706" 
       />
 </div>
     <div className="row">
@@ -663,7 +663,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="473"
       name="African Stonechat"
       speciesCode="afrsto1"
-       
+      photo="631580009" 
       />
 
 
@@ -672,7 +672,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="472"
       name="Hunter's Cisticola"
       speciesCode="huncis1"
-       
+      photo="631579934" 
       />
 
 
@@ -681,7 +681,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="471"
       name="White-necked Raven"
       speciesCode="whnrav1"
-       
+      photo="631578224" 
       />
 </div>
     <div className="row">
@@ -691,7 +691,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="470"
       name="Dusky Turtle-Dove"
       speciesCode="dutdov1"
-       
+      photo="631579671" 
       />
 
 
@@ -701,7 +701,7 @@ import BirdCard from '@site/src/components/BirdCard';
       name="Cinnamon Bracken-Warbler"
       speciesCode="cibwar1"
        
-      />
+      recording="631601689"/>
 
 
 
@@ -710,7 +710,7 @@ import BirdCard from '@site/src/components/BirdCard';
       name="Eurasian Golden Oriole"
       speciesCode="eugori2"
        
-      />
+      recording="631603380"/>
 </div>
     <div className="row">
 
@@ -737,7 +737,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="465"
       name="Grosbeak Weaver"
       speciesCode="growea1"
-       
+      photo="631548563" 
       />
 </div>
     <div className="row">
@@ -747,7 +747,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="464"
       name="Spectacled Weaver"
       speciesCode="spewea1"
-       
+      photo="631543755" 
       />
 
 
@@ -757,7 +757,7 @@ import BirdCard from '@site/src/components/BirdCard';
       name="Yellow-breasted Apalis"
       speciesCode="yebapa1"
        
-      />
+      recording="631602935"/>
 
 
 
@@ -765,7 +765,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="462"
       name="Northern Fiscal"
       speciesCode="norfis1"
-       
+      photo="631542271" 
       />
 </div>
     <div className="row">
@@ -775,7 +775,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="461"
       name="Tropical Boubou"
       speciesCode="trobou1"
-       
+      photo="631615116" 
       />
 
 
@@ -784,7 +784,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="460"
       name="Speckled Mousebird"
       speciesCode="spemou2"
-       
+      photo="631540544" 
       />
 
 
@@ -793,7 +793,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="459"
       name="Variable Sunbird"
       speciesCode="varsun2"
-       
+      photo="631543758" 
       />
 </div>
     <div className="row">
@@ -803,7 +803,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="458"
       name="Marabou Stork"
       speciesCode="marsto1"
-       
+      photo="631539498" 
       />
 
 
@@ -831,7 +831,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="455"
       name="Baglafecht Weaver"
       speciesCode="bagwea1"
-       
+      photo="631538788" 
       />
 
 
@@ -840,7 +840,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="454"
       name="Collared Sunbird"
       speciesCode="colsun2"
-       
+      photo="631538790" 
       />
 
 
@@ -849,7 +849,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="453"
       name="Common Bulbul"
       speciesCode="combul2"
-       
+      photo="631538752" 
       />
 </div>
     <div className="row">
@@ -859,7 +859,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="452"
       name="Pied Crow"
       speciesCode="piecro1"
-       
+      photo="631538767" 
       />
 
 
@@ -868,7 +868,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="451"
       name="Black Kite"
       speciesCode="blakit1"
-       
+      photo="631540142" 
       />
 
 
@@ -905,7 +905,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="447"
       name="Eurasian Blue Tit"
       speciesCode="blutit"
-       
+      photo="631536373" 
       />
 </div>
     <div className="row">
@@ -915,7 +915,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="446"
       name="Carrion Crow"
       speciesCode="carcro1"
-       
+      photo="631524785" 
       />
 
 
@@ -933,7 +933,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="444"
       name="Eurasian Magpie"
       speciesCode="eurmag1"
-       
+      photo="631536074" 
       />
 </div>
     <div className="row">
@@ -943,7 +943,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="443"
       name="Rose-ringed Parakeet"
       speciesCode="rorpar"
-       
+      photo="631536135" 
       />
 
 
@@ -952,7 +952,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="442"
       name="Gray Heron"
       speciesCode="graher1"
-       
+      photo="631536613" 
       />
 
 
@@ -961,7 +961,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="441"
       name="White Stork"
       speciesCode="whisto1"
-       
+      photo="631536457" 
       />
 </div>
     <div className="row">
@@ -971,7 +971,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="440"
       name="Eurasian Moorhen"
       speciesCode="commoo3"
-       
+      photo="631524328" 
       />
 
 
@@ -980,7 +980,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="439"
       name="Graylag Goose"
       speciesCode="gragoo"
-       
+      photo="631536574" 
       />
 
 
@@ -999,7 +999,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="437"
       name="Black-headed Gull"
       speciesCode="bkhgul"
-       
+      photo="631522300" 
       />
 
 
@@ -1008,7 +1008,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="436"
       name="Eurasian Coot"
       speciesCode="eurcoo"
-       
+      photo="631524339" 
       />
 
 
@@ -1017,7 +1017,7 @@ import BirdCard from '@site/src/components/BirdCard';
       index="435"
       name="Egyptian Goose"
       speciesCode="egygoo"
-       
+      photo="631522295" 
       />
 </div>
     <div className="row">
@@ -2175,7 +2175,7 @@ See details at [eBird](https://ebird.org/tripreport/254647)
       index="318"
       name="Bullock's Oriole"
       speciesCode="bulori"
-       
+      photo="637299296" 
       />
 
 
@@ -2193,7 +2193,7 @@ See details at [eBird](https://ebird.org/tripreport/254647)
       index="316"
       name="California Quail"
       speciesCode="calqua"
-       
+      photo="636974464" 
       recording="626995524"/>
 </div>
     <div className="row">
@@ -2677,7 +2677,7 @@ See details at [eBird](https://ebird.org/tripreport/230939/320416)
       index="266"
       name="Cliff Swallow"
       speciesCode="cliswa"
-       
+      photo="636974649" 
       />
 
 
@@ -2696,7 +2696,7 @@ See details at [eBird](https://ebird.org/tripreport/230939/320416)
       index="264"
       name="Western Kingbird"
       speciesCode="weskin"
-       
+      photo="636974438" 
       />
 
 
@@ -2909,7 +2909,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="243"
       name="Rufous-crowned Sparrow"
       speciesCode="rucspa"
-       
+      photo="636974672" 
       />
 
 
@@ -3273,7 +3273,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="204"
       name="Phainopepla"
       speciesCode="phaino"
-       
+      photo="632868549" 
       />
 
 
@@ -3500,7 +3500,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="180"
       name="Mute Swan"
       speciesCode="mutswa"
-       
+      photo="631548791" 
       />
 
 
@@ -3761,8 +3761,8 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="152"
       name="Wilson's Warbler"
       speciesCode="wlswar"
-       
-      />
+      photo="637618903" 
+      recording="637618028"/>
 </div>
     <div className="row">
 
@@ -3873,7 +3873,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="140"
       name="Brown-headed Cowbird"
       speciesCode="bnhcow"
-       
+      photo="636974678" 
       />
 </div>
     <div className="row">
@@ -3892,7 +3892,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="138"
       name="Red-throated Loon"
       speciesCode="retloo"
-       
+      photo="615593072" 
       />
 
 
@@ -3911,7 +3911,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="136"
       name="Red-breasted Merganser"
       speciesCode="rebmer"
-       
+      photo="631548681" 
       />
 
 
@@ -3958,7 +3958,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       name="Allen's Hummingbird"
       speciesCode="allhum"
        
-      />
+      recording="637617831"/>
 </div>
     <div className="row">
 
@@ -3995,7 +3995,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="127"
       name="Wood Duck"
       speciesCode="wooduc"
-       
+      photo="637299526" 
       />
 
 
@@ -4005,7 +4005,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       name="European Starling"
       speciesCode="eursta"
        
-      recording="626843430"/>
+      recording="626843433"/>
 
 
 
@@ -4023,7 +4023,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="124"
       name="Fox Sparrow"
       speciesCode="foxspa"
-       
+      photo="636987363" 
       />
 
 
@@ -4061,7 +4061,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       name="Wrentit"
       speciesCode="wrenti"
        
-      recording="626995507"/>
+      recording="637617850"/>
 
 
 
@@ -4125,7 +4125,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="113"
       name="Western Grebe"
       speciesCode="wesgre"
-       
+      photo="632226183" 
       />
 </div>
     <div className="row">
@@ -4136,7 +4136,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       name="Cedar Waxwing"
       speciesCode="cedwax"
        
-      />
+      recording="632871282"/>
 
 
 
@@ -4153,7 +4153,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="110"
       name="American Pipit"
       speciesCode="amepip"
-       
+      photo="632226271" 
       recording="626684926"/>
 </div>
     <div className="row">
@@ -4163,7 +4163,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="109"
       name="Barn Swallow"
       speciesCode="barswa"
-       
+      photo="631550329" 
       />
 
 
@@ -4172,7 +4172,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="108"
       name="Tree Swallow"
       speciesCode="treswa"
-       
+      photo="634107853" 
       />
 
 
@@ -4228,7 +4228,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="102"
       name="Red-winged Blackbird"
       speciesCode="rewbla"
-       
+      photo="637299483" 
       />
 
   </div></div>
@@ -4242,7 +4242,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="101"
       name="Spotted Towhee"
       speciesCode="spotow"
-       
+      photo="636986899" 
       recording="626995488"/>
 
 
@@ -4251,7 +4251,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="100"
       name="Red-breasted Nuthatch"
       speciesCode="rebnut"
-       
+      photo="636986939" 
       />
 
 
@@ -4260,7 +4260,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="99"
       name="Common Yellowthroat"
       speciesCode="comyel"
-       
+      photo="637296897" 
       recording="626557707"/>
 </div>
     <div className="row">
@@ -4288,7 +4288,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="96"
       name="Greater Yellowlegs"
       speciesCode="greyel"
-       
+      photo="632224690" 
       recording="626684975"/>
 </div>
     <div className="row">
@@ -4344,7 +4344,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="90"
       name="American Robin"
       speciesCode="amerob"
-       
+      photo="637299790" 
       />
 </div>
     <div className="row">
@@ -4382,7 +4382,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="86"
       name="Nuttall's Woodpecker"
       speciesCode="nutwoo"
-       
+      photo="632869260" 
       recording="627219491"/>
 
 
@@ -4419,7 +4419,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="82"
       name="Willet"
       speciesCode="willet1"
-       
+      photo="632226477" 
       recording="626915526"/>
 
 
@@ -4456,7 +4456,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="78"
       name="Acorn Woodpecker"
       speciesCode="acowoo"
-      photo="629072007" 
+      photo="636974446" 
       recording="627219355"/>
 </div>
     <div className="row">
@@ -4475,7 +4475,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="76"
       name="Brewer's Blackbird"
       speciesCode="brebla"
-      photo="614231410" 
+      photo="636976573" 
       />
 
 
@@ -4494,8 +4494,8 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="74"
       name="Common Raven"
       speciesCode="comrav"
-       
-      recording="626447257"/>
+      photo="637618874" 
+      recording="637618258"/>
 
 
 
@@ -4531,7 +4531,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="70"
       name="Lesser Goldfinch"
       speciesCode="lesgol"
-       
+      photo="632869300" 
       recording="626684938"/>
 
 
@@ -4540,7 +4540,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="69"
       name="House Sparrow"
       speciesCode="houspa"
-      photo="628955434" 
+      photo="631540007" 
       recording="626559381"/>
 </div>
     <div className="row">
@@ -4551,7 +4551,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       name="Ruby-crowned Kinglet"
       speciesCode="ruckin"
       photo="629095571" 
-      recording="626995435"/>
+      recording="627593188"/>
 
 
 
@@ -4560,7 +4560,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       name="Bushtit"
       speciesCode="bushti"
        
-      recording="626557575"/>
+      recording="632871276"/>
 
 
 
@@ -4578,8 +4578,8 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="65"
       name="Hairy Woodpecker"
       speciesCode="haiwoo"
-       
-      recording="627219348"/>
+      photo="636987309" 
+      recording="632871267"/>
 
 
 
@@ -4587,7 +4587,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="64"
       name="Bald Eagle"
       speciesCode="baleag"
-       
+      photo="636974663" 
       />
 
 
@@ -4606,7 +4606,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="62"
       name="Spotted Sandpiper"
       speciesCode="sposan"
-       
+      photo="637299523" 
       />
 
 
@@ -4624,7 +4624,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="60"
       name="House Finch"
       speciesCode="houfin"
-       
+      photo="632224743" 
       recording="626447649"/>
 </div>
     <div className="row">
@@ -4662,8 +4662,8 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="56"
       name="Marsh Wren"
       speciesCode="marwre"
-       
-      recording="626447527"/>
+      photo="637296976" 
+      recording="626684671"/>
 
 
 
@@ -4709,7 +4709,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       name="Great Egret"
       speciesCode="greegr"
       photo="619242708" 
-      recording="626618062"/>
+      recording="626685068"/>
 </div>
     <div className="row">
 
@@ -4718,7 +4718,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="50"
       name="Forster's Tern"
       speciesCode="forter"
-       
+      photo="637296849" 
       recording="626684646"/>
 
 
@@ -4811,8 +4811,8 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="40"
       name="Northern Shoveler"
       speciesCode="norsho"
-       
-      recording="626915520"/>
+      photo="632224574" 
+      recording="627593359"/>
 
 
 
@@ -4848,7 +4848,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="36"
       name="Song Sparrow"
       speciesCode="sonspa"
-       
+      photo="629341834" 
       recording="626617940"/>
 </div>
     <div className="row">
@@ -4867,7 +4867,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="34"
       name="Western Bluebird"
       speciesCode="wesblu"
-      photo="627114479" 
+      photo="629343062" 
       />
 
 
@@ -4876,7 +4876,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="33"
       name="Northern House Wren"
       speciesCode="houwre"
-       
+      photo="634107892" 
       />
 </div>
     <div className="row">
@@ -4886,7 +4886,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="32"
       name="White-breasted Nuthatch"
       speciesCode="whbnut"
-       
+      photo="632869317" 
       recording="627219259"/>
 
 
@@ -4895,7 +4895,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="31"
       name="Oak Titmouse"
       speciesCode="oaktit"
-       
+      photo="629344203" 
       recording="626995519"/>
 
 
@@ -4904,7 +4904,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="30"
       name="American Crow"
       speciesCode="amecro"
-      photo="627868551" 
+      photo="628169384" 
       recording="626557692"/>
 </div>
     <div className="row">
@@ -4970,7 +4970,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="23"
       name="Green Heron"
       speciesCode="grnher"
-       
+      photo="629343190" 
       />
 
 
@@ -4998,7 +4998,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="20"
       name="Double-crested Cormorant"
       speciesCode="doccor"
-      photo="628458453" 
+      photo="632869229" 
       />
 
 
@@ -5026,7 +5026,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="17"
       name="American Coot"
       speciesCode="y00475"
-      photo="629095513" 
+      photo="629341773" 
       recording="626485749"/>
 
 
@@ -5054,8 +5054,8 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="14"
       name="Canada Goose"
       speciesCode="cangoo"
-      photo="628955631" 
-      recording="626915514"/>
+      photo="629341105" 
+      recording="627593364"/>
 
 
 
@@ -5166,7 +5166,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="4"
       name="Rock Pigeon"
       speciesCode="rocpig"
-      photo="627873749" 
+      photo="631522293" 
       />
 
   </div></div>
@@ -5189,7 +5189,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="2"
       name="Warbling White-eye"
       speciesCode="warwhe1"
-      photo="627873396" 
+      photo="627873395" 
       />
 
   </div></div>

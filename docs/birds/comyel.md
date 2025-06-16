@@ -3,17 +3,17 @@ title: "Common Yellowthroat"
 scientific_name: "Geothlypis trichas"
 order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
-description: "Geothlypis trichas is a species of bird in the Parulidae (New World Warblers) family. It has been observed 15 times. It has been recorded."
+description: "Geothlypis trichas is a species of bird in the Parulidae (New World Warblers) family. It has been observed 15 times. It has been photographed. It has been recorded."
 species_group: "Wood-Warblers"
 species_code: "comyel"
 
 sidebar_position: 158
-sidebar_class_name: " has-audio"
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
   - Parulidae (New World Warblers)
   - Wood-Warblers
-  - Needs Photo
+  - Has Photo
   - Has Audio
 ---
 
@@ -38,7 +38,7 @@ The common yellowthroat (Geothlypis trichas), also known as the yellow bandit or
 
 * [12-23-2023 - California, United States](https://ebird.org/checklist/S157058117) (First Sighting)
 * [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (First/Best Recording)
-* [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Last Sighting)
+* [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Last Sighting / Only Photo)
 
 ### Places Seen
 
@@ -49,7 +49,9 @@ The common yellowthroat (Geothlypis trichas), also known as the yellow bandit or
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637296897/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637296911/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637296958/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626557707/embed" frameBorder="0" allowFullScreen></iframe>

@@ -3,17 +3,17 @@ title: "American Bittern"
 scientific_name: "Botaurus lentiginosus"
 order: "Pelecaniformes"
 family: "Ardeidae (Herons, Egrets, and Bitterns)"
-description: "Botaurus lentiginosus is a species of bird in the Ardeidae (Herons, Egrets, and Bitterns) family. It has been observed 1 times."
+description: "Botaurus lentiginosus is a species of bird in the Ardeidae (Herons, Egrets, and Bitterns) family. It has been observed 1 times. It has been photographed."
 species_group: "Herons, Ibis, and Allies"
 species_code: "amebit"
 
 sidebar_position: 11
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Pelecaniformes
   - Ardeidae (Herons, Egrets, and Bitterns)
   - Herons, Ibis, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -38,7 +38,7 @@ The American bittern feeds mostly on fish but also eats other small vertebrates 
 
 ### Relevant Sightings
 
-* [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Only Sighting)
+* [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -48,7 +48,7 @@ The American bittern feeds mostly on fish but also eats other small vertebrates 
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637297003/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

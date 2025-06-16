@@ -3,17 +3,17 @@ title: "Great Crested Grebe"
 scientific_name: "Podiceps cristatus"
 order: "Podicipediformes"
 family: "Podicipedidae (Grebes)"
-description: "Podiceps cristatus is a species of bird in the Podicipedidae (Grebes) family. It has been observed 2 times."
+description: "Podiceps cristatus is a species of bird in the Podicipedidae (Grebes) family. It has been observed 2 times. It has been photographed."
 species_group: "Grebes"
 species_code: "grcgre1"
 
 sidebar_position: 230
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Podicipediformes
   - Podicipedidae (Grebes)
   - Grebes
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -37,7 +37,7 @@ The great crested grebe (Podiceps cristatus) is a member of the grebe family of 
 ### Relevant Sightings
 
 * [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213379009) (First Sighting)
-* [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213385263) (Last Sighting)
+* [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213385263) (Last Sighting / Only Photo)
 
 ### Places Seen
 
@@ -47,7 +47,7 @@ The great crested grebe (Podiceps cristatus) is a member of the grebe family of 
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631546905/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

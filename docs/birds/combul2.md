@@ -3,17 +3,17 @@ title: "Common Bulbul"
 scientific_name: "Pycnonotus barbatus"
 order: "Passeriformes"
 family: "Pycnonotidae (Bulbuls)"
-description: "Pycnonotus barbatus is a species of bird in the Pycnonotidae (Bulbuls) family. It has been observed 4 times."
+description: "Pycnonotus barbatus is a species of bird in the Pycnonotidae (Bulbuls) family. It has been observed 4 times. It has been photographed."
 species_group: "Bulbuls"
 species_code: "combul2"
 
 sidebar_position: 141
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Pycnonotidae (Bulbuls)
   - Bulbuls
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -38,7 +38,7 @@ The common bulbul (Pycnonotus barbatus) is a member of the bulbul family of pass
 
 ### Relevant Sightings
 
-* [02-02-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216358669) (First Sighting)
+* [02-02-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216358669) (First Sighting / First and Best Photo)
 * [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216443488) (Last Sighting)
 
 ### Places Seen
@@ -49,7 +49,9 @@ The common bulbul (Pycnonotus barbatus) is a member of the bulbul family of pass
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631538752/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631538753/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631550711/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

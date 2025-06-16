@@ -37,7 +37,7 @@ The cinnamon teal (Spatula cyanoptera) is a species of duck found in western Nor
 ### Relevant Sightings
 
 * [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
-* [10-11-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398135) (Only Photo)
+* [10-11-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398135) (First/Best Photo)
 * [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Last Sighting)
 
 ### Places Seen
@@ -51,6 +51,7 @@ The cinnamon teal (Spatula cyanoptera) is a species of duck found in western Nor
 ## Media
 ### Photographs
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/627867335/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/632226346/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

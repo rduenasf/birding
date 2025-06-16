@@ -37,7 +37,8 @@ The western bluebird (Sialia mexicana) is a small North American thrush.[^1]
 ### Relevant Sightings
 
 * [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
-* [12-04-2024 - California, United States](https://ebird.org/checklist/S204487401) (Only Photo)
+* [12-04-2024 - California, United States](https://ebird.org/checklist/S204487401) (First Photo)
+* [01-18-2025 - California, United States](https://ebird.org/checklist/S209827765) (Best Photo)
 * [06-01-2025 - California, United States](https://ebird.org/checklist/S245649846) (Last Sighting)
 
 ### Places Seen
@@ -50,7 +51,12 @@ The western bluebird (Sialia mexicana) is a small North American thrush.[^1]
 
 ## Media
 ### Photographs
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629343062/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/636974620/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/627114479/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/632226406/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/636974624/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/636974628/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

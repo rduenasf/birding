@@ -3,17 +3,17 @@ title: "Palm-nut Vulture"
 scientific_name: "Gypohierax angolensis"
 order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
-description: "Gypohierax angolensis is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 1 times."
+description: "Gypohierax angolensis is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 1 times. It has been photographed."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "panvul1"
 
 sidebar_position: 348
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Accipitriformes
   - Accipitridae (Hawks, Eagles, and Kites)
   - Vultures, Hawks, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -38,7 +38,7 @@ It breeds in forest and savannah across sub-Saharan Africa, usually near water, 
 
 ### Relevant Sightings
 
-* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216440768) (Only Sighting)
+* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216440768) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -48,7 +48,7 @@ It breeds in forest and savannah across sub-Saharan Africa, usually near water, 
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631568628/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

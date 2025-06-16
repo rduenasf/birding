@@ -3,17 +3,17 @@ title: "Tree Swallow"
 scientific_name: "Tachycineta bicolor"
 order: "Passeriformes"
 family: "Hirundinidae (Swallows)"
-description: "Tachycineta bicolor is a species of bird in the Hirundinidae (Swallows) family. It has been observed 18 times."
+description: "Tachycineta bicolor is a species of bird in the Hirundinidae (Swallows) family. It has been observed 18 times. It has been photographed."
 species_group: "Martins and Swallows"
 species_code: "treswa"
 
 sidebar_position: 463
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Hirundinidae (Swallows)
   - Martins and Swallows
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -39,6 +39,8 @@ An aerial insectivore, the tree swallow forages both alone and in groups, eating
 ### Relevant Sightings
 
 * [01-15-2024 - California, United States](https://ebird.org/checklist/S159001730) (First Sighting)
+* [03-29-2025 - California, United States](https://ebird.org/checklist/S221633632) (First Photo)
+* [04-20-2025 - California, United States](https://ebird.org/checklist/S227452484) (Best Photo)
 * [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Last Sighting)
 
 ### Places Seen
@@ -50,7 +52,10 @@ An aerial insectivore, the tree swallow forages both alone and in groups, eating
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/634107853/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/632868584/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/634107851/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637297060/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

@@ -3,17 +3,17 @@ title: "Wood Sandpiper"
 scientific_name: "Tringa glareola"
 order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
-description: "Tringa glareola is a species of bird in the Scolopacidae (Sandpipers and Allies) family. It has been observed 1 times."
+description: "Tringa glareola is a species of bird in the Scolopacidae (Sandpipers and Allies) family. It has been observed 1 times. It has been photographed."
 species_group: "Shorebirds"
 species_code: "woosan"
 
 sidebar_position: 529
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Charadriiformes
   - Scolopacidae (Sandpipers and Allies)
   - Shorebirds
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -36,7 +36,7 @@ The wood sandpiper (Tringa glareola) is a small wader belonging to the sandpiper
 
 ### Relevant Sightings
 
-* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216379500) (Only Sighting)
+* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216379500) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -46,7 +46,7 @@ The wood sandpiper (Tringa glareola) is a small wader belonging to the sandpiper
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631567757/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

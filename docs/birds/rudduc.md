@@ -38,7 +38,7 @@ The genus name is derived from Ancient Greek oxus, "sharp", and oura, "tail", an
 ### Relevant Sightings
 
 * [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
-* [01-02-2025 - California, United States](https://ebird.org/checklist/S207761995) (Only Photo)
+* [01-02-2025 - California, United States](https://ebird.org/checklist/S207761995) (First/Best Photo)
 * [06-01-2025 - California, United States](https://ebird.org/checklist/S245649846) (Last Sighting)
 
 ### Places Seen
@@ -53,6 +53,7 @@ The genus name is derived from Ancient Greek oxus, "sharp", and oura, "tail", an
 ## Media
 ### Photographs
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628458514/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/632226158/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

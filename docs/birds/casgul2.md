@@ -3,17 +3,17 @@ title: "Caspian Gull"
 scientific_name: "Larus cachinnans"
 order: "Charadriiformes"
 family: "Laridae (Gulls, Terns, and Skimmers)"
-description: "Larus cachinnans is a species of bird in the Laridae (Gulls, Terns, and Skimmers) family. It has been observed 2 times."
+description: "Larus cachinnans is a species of bird in the Laridae (Gulls, Terns, and Skimmers) family. It has been observed 2 times. It has been photographed."
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "casgul2"
 
 sidebar_position: 116
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Charadriiformes
   - Laridae (Gulls, Terns, and Skimmers)
   - Gulls, Terns, and Skimmers
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -36,7 +36,7 @@ The Caspian gull (Larus cachinnans) is a large gull and a member of the herring 
 
 ### Relevant Sightings
 
-* [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213381167) (First Sighting)
+* [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213381167) (First Sighting / First and Best Photo)
 * [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213387815) (Last Sighting)
 
 ### Places Seen
@@ -47,7 +47,8 @@ The Caspian gull (Larus cachinnans) is a large gull and a member of the herring 
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631546796/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631547084/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

@@ -40,7 +40,8 @@ Because of its numbers, ubiquity, and association with human settlements, the ho
 
 * [11-11-2023 - California, United States](https://ebird.org/checklist/S154259403) (First Sighting)
 * [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (Only Recording)
-* [01-08-2025 - California, United States](https://ebird.org/checklist/S208562147) (Only Photo)
+* [01-08-2025 - California, United States](https://ebird.org/checklist/S208562147) (First Photo)
+* [02-02-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216361343) (Best Photo)
 * [06-04-2025 - California, United States](https://ebird.org/checklist/S246638509) (Last Sighting)
 
 ### Places Seen
@@ -58,6 +59,8 @@ Because of its numbers, ubiquity, and association with human settlements, the ho
 
 ## Media
 ### Photographs
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631540007/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631540006/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628955434/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628955433/embed" frameBorder="0" allowFullScreen></iframe>
 

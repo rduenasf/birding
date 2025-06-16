@@ -3,17 +3,17 @@ title: "Red-breasted Nuthatch"
 scientific_name: "Sitta canadensis"
 order: "Passeriformes"
 family: "Sittidae (Nuthatches)"
-description: "Sitta canadensis is a species of bird in the Sittidae (Nuthatches) family. It has been observed 8 times."
+description: "Sitta canadensis is a species of bird in the Sittidae (Nuthatches) family. It has been observed 8 times. It has been photographed."
 species_group: "Nuthatches"
 species_code: "rebnut"
 
 sidebar_position: 374
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Sittidae (Nuthatches)
   - Nuthatches
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -37,7 +37,7 @@ The red-breasted nuthatch (Sitta canadensis) is a small songbird. The adult has 
 ### Relevant Sightings
 
 * [12-24-2023 - California, United States](https://ebird.org/checklist/S157049893) (First Sighting)
-* [05-24-2025 - California, United States](https://ebird.org/checklist/S242103525) (Last Sighting)
+* [05-24-2025 - California, United States](https://ebird.org/checklist/S242103525) (Last Sighting / Only Photo)
 
 ### Places Seen
 
@@ -48,7 +48,7 @@ The red-breasted nuthatch (Sitta canadensis) is a small songbird. The adult has 
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/636986939/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

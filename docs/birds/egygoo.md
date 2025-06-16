@@ -3,17 +3,17 @@ title: "Egyptian Goose"
 scientific_name: "Alopochen aegyptiaca"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
-description: "Alopochen aegyptiaca is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 2 times."
+description: "Alopochen aegyptiaca is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 2 times. It has been photographed."
 species_group: "Waterfowl"
 species_code: "egygoo"
 
 sidebar_position: 178
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Anseriformes
   - Anatidae (Ducks, Geese, and Waterfowl)
   - Waterfowl
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -36,7 +36,7 @@ The Egyptian goose (Alopochen aegyptiaca) is an African member of the Anatidae f
 
 ### Relevant Sightings
 
-* [01-26-2025 - Noord-Holland, Netherlands](https://ebird.org/checklist/S210717538) (First Sighting)
+* [01-26-2025 - Noord-Holland, Netherlands](https://ebird.org/checklist/S210717538) (First Sighting / First and Best Photo)
 * [01-26-2025 - Noord-Holland, Netherlands](https://ebird.org/checklist/S210727534) (Last Sighting)
 
 ### Places Seen
@@ -47,7 +47,9 @@ The Egyptian goose (Alopochen aegyptiaca) is an African member of the Anatidae f
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631522295/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631524473/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631524527/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

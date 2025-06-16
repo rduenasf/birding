@@ -3,17 +3,17 @@ title: "Graylag Goose"
 scientific_name: "Anser anser"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
-description: "Anser anser is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 3 times."
+description: "Anser anser is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 3 times. It has been photographed."
 species_group: "Waterfowl"
 species_code: "gragoo"
 
 sidebar_position: 227
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Anseriformes
   - Anatidae (Ducks, Geese, and Waterfowl)
   - Waterfowl
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -39,7 +39,7 @@ Greylag geese travel to their northerly breeding grounds in spring, nesting on m
 
 ### Relevant Sightings
 
-* [01-26-2025 - Noord-Holland, Netherlands](https://ebird.org/checklist/S210727534) (First Sighting)
+* [01-26-2025 - Noord-Holland, Netherlands](https://ebird.org/checklist/S210727534) (First Sighting / Only Photo)
 * [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213467942) (Last Sighting)
 
 ### Places Seen
@@ -51,7 +51,8 @@ Greylag geese travel to their northerly breeding grounds in spring, nesting on m
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631536574/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631536575/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

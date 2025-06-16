@@ -3,18 +3,18 @@ title: "African Gray Hornbill"
 scientific_name: "Lophoceros nasutus"
 order: "Bucerotiformes"
 family: "Bucerotidae (Hornbills)"
-description: "Lophoceros nasutus is a species of bird in the Bucerotidae (Hornbills) family. It has been observed 1 times."
+description: "Lophoceros nasutus is a species of bird in the Bucerotidae (Hornbills) family. It has been observed 1 times. It has been photographed. It has been recorded."
 species_group: "Hornbills"
 species_code: "afghor1"
 
 sidebar_position: 3
-sidebar_class_name: " "
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Bucerotiformes
   - Bucerotidae (Hornbills)
   - Hornbills
-  - Needs Photo
-  - Needs Audio
+  - Has Photo
+  - Has Audio
 ---
 
 # African Gray Hornbill <span className='sci_name'>Lophoceros nasutus</span>
@@ -36,7 +36,7 @@ The African grey hornbill (Lophoceros nasutus) is a member of the hornbill famil
 
 ### Relevant Sightings
 
-* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216443488) (Only Sighting)
+* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216443488) (Only Sighting / Photo / Recording)
 
 ### Places Seen
 
@@ -46,10 +46,11 @@ The African grey hornbill (Lophoceros nasutus) is a member of the hornbill famil
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631573339/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631573414/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
-No audio recordings available.
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/631603169/embed" frameBorder="0" allowFullScreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/afghor1) 

@@ -3,17 +3,17 @@ title: "House Finch"
 scientific_name: "Haemorhous mexicanus"
 order: "Passeriformes"
 family: "Fringillidae (Finches, Euphonias, and Allies)"
-description: "Haemorhous mexicanus is a species of bird in the Fringillidae (Finches, Euphonias, and Allies) family. It has been observed 65 times. It has been recorded."
+description: "Haemorhous mexicanus is a species of bird in the Fringillidae (Finches, Euphonias, and Allies) family. It has been observed 65 times. It has been photographed. It has been recorded."
 species_group: "Finches, Euphonias, and Allies"
 species_code: "houfin"
 
 sidebar_position: 268
-sidebar_class_name: " has-audio"
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
   - Fringillidae (Finches, Euphonias, and Allies)
   - Finches, Euphonias, and Allies
-  - Needs Photo
+  - Has Photo
   - Has Audio
 ---
 
@@ -41,6 +41,7 @@ The house finch (Haemorhous mexicanus) is a North American bird in the finch fam
 * [10-18-2023 - California, United States](https://ebird.org/checklist/S152559402) (First Sighting)
 * [11-07-2024 - California, United States](https://ebird.org/checklist/S203227167) (First Recording)
 * [11-17-2024 - California, United States](https://ebird.org/checklist/S202811385) (Best Recording)
+* [03-15-2025 - California, United States](https://ebird.org/checklist/S218683432) (First/Best Photo)
 * [06-12-2025 - California, United States](https://ebird.org/checklist/S249707687) (Last Sighting)
 
 ### Places Seen
@@ -55,7 +56,9 @@ The house finch (Haemorhous mexicanus) is a North American bird in the finch fam
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/632224743/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/636974445/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637299057/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626559480/embed" frameBorder="0" allowFullScreen></iframe>

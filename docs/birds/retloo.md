@@ -3,17 +3,17 @@ title: "Red-throated Loon"
 scientific_name: "Gavia stellata"
 order: "Gaviiformes"
 family: "Gaviidae (Loons)"
-description: "Gavia stellata is a species of bird in the Gaviidae (Loons) family. It has been observed 4 times."
+description: "Gavia stellata is a species of bird in the Gaviidae (Loons) family. It has been observed 4 times. It has been photographed."
 species_group: "Loons"
 species_code: "retloo"
 
 sidebar_position: 384
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Gaviiformes
   - Gaviidae (Loons)
   - Loons
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -38,6 +38,7 @@ The red-throated loon has a large global population and a significant global ran
 ### Relevant Sightings
 
 * [02-24-2024 - California, United States](https://ebird.org/checklist/S162799737) (First Sighting)
+* [03-03-2024 - California, United States](https://ebird.org/checklist/S163599858) (Only Photo)
 * [03-30-2024 - California, United States](https://ebird.org/checklist/S166535028) (Last Sighting)
 
 ### Places Seen
@@ -48,7 +49,8 @@ The red-throated loon has a large global population and a significant global ran
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/615593072/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/615593073/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

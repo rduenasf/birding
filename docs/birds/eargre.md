@@ -39,7 +39,7 @@ Although it generally avoids flight, the black-necked grebe travels as far as 6,
 ### Relevant Sightings
 
 * [12-02-2023 - California, United States](https://ebird.org/checklist/S155611564) (First Sighting)
-* [01-12-2025 - California, United States](https://ebird.org/checklist/S209042786) (Only Photo)
+* [01-12-2025 - California, United States](https://ebird.org/checklist/S209042786) (First/Best Photo)
 * [03-16-2025 - California, United States](https://ebird.org/checklist/S218905671) (Last Sighting)
 
 ### Places Seen
@@ -52,6 +52,7 @@ Although it generally avoids flight, the black-necked grebe travels as far as 6,
 ### Photographs
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629120797/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629120657/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/632226170/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

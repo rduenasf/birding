@@ -39,7 +39,8 @@ Habitats include various open and semi-open environments where they are able to 
 
 ### Relevant Sightings
 
-* [07-06-2013 - California, United States](https://ebird.org/checklist/S206237541) (First Sighting / Only Photo)
+* [07-06-2013 - California, United States](https://ebird.org/checklist/S206237541) (First Sighting / First Photo)
+* [01-26-2025 - Noord-Holland, Netherlands](https://ebird.org/checklist/S210717538) (Best Photo)
 * [03-16-2025 - California, United States](https://ebird.org/checklist/S218905671) (Last Sighting)
 
 ### Places Seen
@@ -57,6 +58,7 @@ Habitats include various open and semi-open environments where they are able to 
 
 ## Media
 ### Photographs
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631522293/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/627873749/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/627873750/embed" frameBorder="0" allowFullScreen></iframe>
 

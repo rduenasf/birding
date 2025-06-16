@@ -40,7 +40,8 @@ The great egret (Ardea alba), also known as the common egret, large egret, or (i
 
 * [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
 * [05-18-2024 - California, United States](https://ebird.org/checklist/S175399797) (First/Best Photo)
-* [11-23-2024 - California, United States](https://ebird.org/checklist/S203364471) (First/Best Recording)
+* [11-23-2024 - California, United States](https://ebird.org/checklist/S203364471) (First Recording)
+* [11-24-2024 - California, United States](https://ebird.org/checklist/S203486069) (Best Recording)
 * [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Last Sighting)
 
 ### Places Seen
@@ -58,6 +59,7 @@ The great egret (Ardea alba), also known as the common egret, large egret, or (i
 ### Photographs
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/619242708/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629166793/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637296940/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626618062/embed" frameBorder="0" allowFullScreen></iframe>

@@ -41,7 +41,8 @@ The sharp-shinned hawk and other birds prey upon American bushtits. Bushtits liv
 ### Relevant Sightings
 
 * [11-11-2023 - California, United States](https://ebird.org/checklist/S154259403) (First Sighting)
-* [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (First/Best Recording)
+* [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (First Recording)
+* [03-29-2025 - California, United States](https://ebird.org/checklist/S221633732) (Best Recording)
 * [06-14-2025 - California, United States](https://ebird.org/checklist/S250753679) (Last Sighting)
 
 ### Places Seen
@@ -60,6 +61,8 @@ No photographs available.
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626995415/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626995416/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/627628689/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/632871276/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/637617927/embed" frameBorder="0" allowFullScreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/bushti) 

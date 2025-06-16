@@ -3,17 +3,17 @@ title: "Carrion Crow"
 scientific_name: "Corvus corone"
 order: "Passeriformes"
 family: "Corvidae (Crows, Jays, and Magpies)"
-description: "Corvus corone is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 3 times."
+description: "Corvus corone is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 3 times. It has been photographed."
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "carcro1"
 
 sidebar_position: 115
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Corvidae (Crows, Jays, and Magpies)
   - Jays, Magpies, Crows, and Ravens
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -36,7 +36,7 @@ The carrion crow (Corvus corone) is a passerine bird of the family Corvidae, nat
 
 ### Relevant Sightings
 
-* [01-26-2025 - Noord-Holland, Netherlands](https://ebird.org/checklist/S210727534) (First Sighting)
+* [01-26-2025 - Noord-Holland, Netherlands](https://ebird.org/checklist/S210727534) (First Sighting / Only Photo)
 * [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213467942) (Last Sighting)
 
 ### Places Seen
@@ -48,7 +48,8 @@ The carrion crow (Corvus corone) is a passerine bird of the family Corvidae, nat
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631524785/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631524796/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

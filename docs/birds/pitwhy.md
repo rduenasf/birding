@@ -3,17 +3,17 @@ title: "Pin-tailed Whydah"
 scientific_name: "Vidua macroura"
 order: "Passeriformes"
 family: "Viduidae (Indigobirds)"
-description: "Vidua macroura is a species of bird in the Viduidae (Indigobirds) family. It has been observed 1 times."
+description: "Vidua macroura is a species of bird in the Viduidae (Indigobirds) family. It has been observed 1 times. It has been photographed."
 species_group: "Indigobirds and Whydahs"
 species_code: "pitwhy"
 
 sidebar_position: 360
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Viduidae (Indigobirds)
   - Indigobirds and Whydahs
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -36,7 +36,7 @@ The pin-tailed whydah (Vidua macroura) is a small songbird with a conspicuous pe
 
 ### Relevant Sightings
 
-* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216294004) (Only Sighting)
+* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216294004) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -46,7 +46,7 @@ The pin-tailed whydah (Vidua macroura) is a small songbird with a conspicuous pe
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631550714/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

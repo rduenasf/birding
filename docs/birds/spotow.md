@@ -3,17 +3,17 @@ title: "Spotted Towhee"
 scientific_name: "Pipilo maculatus"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
-description: "Pipilo maculatus is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 30 times. It has been recorded."
+description: "Pipilo maculatus is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 30 times. It has been photographed. It has been recorded."
 species_group: "New World Sparrows"
 species_code: "spotow"
 
 sidebar_position: 443
-sidebar_class_name: " has-audio"
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
   - Passerellidae (New World Sparrows)
   - New World Sparrows
-  - Needs Photo
+  - Has Photo
   - Has Audio
 ---
 
@@ -42,6 +42,7 @@ Individuals in the Socorro Island population are much smaller than other spotted
 * [12-24-2023 - California, United States](https://ebird.org/checklist/S157049893) (First Sighting)
 * [11-23-2024 - California, United States](https://ebird.org/checklist/S203364471) (First Recording)
 * [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (Best Recording)
+* [05-24-2025 - California, United States](https://ebird.org/checklist/S242103525) (First/Best Photo)
 * [06-14-2025 - California, United States](https://ebird.org/checklist/S250753679) (Last Sighting)
 
 ### Places Seen
@@ -55,7 +56,8 @@ Individuals in the Socorro Island population are much smaller than other spotted
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/636986899/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637618909/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626618120/embed" frameBorder="0" allowFullScreen></iframe>
@@ -63,6 +65,8 @@ No photographs available.
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626995488/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/627219278/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/627219279/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/637617931/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/637618078/embed" frameBorder="0" allowFullScreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/spotow) 

@@ -3,17 +3,17 @@ title: "Hairy Woodpecker"
 scientific_name: "Dryobates villosus"
 order: "Piciformes"
 family: "Picidae (Woodpeckers)"
-description: "Dryobates villosus is a species of bird in the Picidae (Woodpeckers) family. It has been observed 19 times. It has been recorded."
+description: "Dryobates villosus is a species of bird in the Picidae (Woodpeckers) family. It has been observed 19 times. It has been photographed. It has been recorded."
 species_group: "Woodpeckers"
 species_code: "haiwoo"
 
 sidebar_position: 252
-sidebar_class_name: " has-audio"
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Piciformes
   - Picidae (Woodpeckers)
   - Woodpeckers
-  - Needs Photo
+  - Has Photo
   - Has Audio
 ---
 
@@ -39,7 +39,9 @@ The hairy woodpecker (Leuconotopicus villosus) is a medium-sized woodpecker that
 ### Relevant Sightings
 
 * [11-11-2023 - California, United States](https://ebird.org/checklist/S154259403) (First Sighting)
-* [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (Only Recording)
+* [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (First Recording)
+* [03-29-2025 - California, United States](https://ebird.org/checklist/S221633732) (Best Recording)
+* [05-24-2025 - California, United States](https://ebird.org/checklist/S242103525) (Only Photo)
 * [06-14-2025 - California, United States](https://ebird.org/checklist/S250753344) (Last Sighting)
 
 ### Places Seen
@@ -54,10 +56,11 @@ The hairy woodpecker (Leuconotopicus villosus) is a medium-sized woodpecker that
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/636987309/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/627219348/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/632871267/embed" frameBorder="0" allowFullScreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/haiwoo) 

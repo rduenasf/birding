@@ -3,17 +3,17 @@ title: "Lilac-breasted Roller"
 scientific_name: "Coracias caudatus"
 order: "Coraciiformes"
 family: "Coraciidae (Rollers)"
-description: "Coracias caudatus is a species of bird in the Coraciidae (Rollers) family. It has been observed 1 times."
+description: "Coracias caudatus is a species of bird in the Coraciidae (Rollers) family. It has been observed 1 times. It has been photographed."
 species_group: "Rollers and Allies"
 species_code: "librol2"
 
 sidebar_position: 292
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Coraciiformes
   - Coraciidae (Rollers)
   - Rollers and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -36,7 +36,7 @@ The lilac-breasted roller (Coracias caudatus) is an African bird of the roller f
 
 ### Relevant Sightings
 
-* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216294004) (Only Sighting)
+* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216294004) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -46,7 +46,8 @@ The lilac-breasted roller (Coracias caudatus) is an African bird of the roller f
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631549348/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631549702/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

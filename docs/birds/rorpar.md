@@ -3,17 +3,17 @@ title: "Rose-ringed Parakeet"
 scientific_name: "Psittacula krameri"
 order: "Psittaciformes"
 family: "Psittaculidae (Old World Parrots)"
-description: "Psittacula krameri is a species of bird in the Psittaculidae (Old World Parrots) family. It has been observed 1 times."
+description: "Psittacula krameri is a species of bird in the Psittaculidae (Old World Parrots) family. It has been observed 1 times. It has been photographed."
 species_group: "Parrots, Parakeets, and Allies"
 species_code: "rorpar"
 
 sidebar_position: 396
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Psittaciformes
   - Psittaculidae (Old World Parrots)
   - Parrots, Parakeets, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -38,7 +38,7 @@ The species is listed as least concern by the International Union for Conservati
 
 ### Relevant Sightings
 
-* [01-26-2025 - Noord-Holland, Netherlands](https://ebird.org/checklist/S210727534) (Only Sighting)
+* [01-26-2025 - Noord-Holland, Netherlands](https://ebird.org/checklist/S210727534) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -48,7 +48,11 @@ The species is listed as least concern by the International Union for Conservati
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631536135/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631536190/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631536684/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631536697/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631536137/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

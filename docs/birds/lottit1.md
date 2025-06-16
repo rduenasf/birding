@@ -3,17 +3,17 @@ title: "Long-tailed Tit"
 scientific_name: "Aegithalos caudatus"
 order: "Passeriformes"
 family: "Aegithalidae (Long-tailed Tits)"
-description: "Aegithalos caudatus is a species of bird in the Aegithalidae (Long-tailed Tits) family. It has been observed 1 times."
+description: "Aegithalos caudatus is a species of bird in the Aegithalidae (Long-tailed Tits) family. It has been observed 1 times. It has been photographed."
 species_group: "Long-tailed Tits and Bushtit"
 species_code: "lottit1"
 
 sidebar_position: 301
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Aegithalidae (Long-tailed Tits)
   - Long-tailed Tits and Bushtit
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -36,7 +36,7 @@ The long-tailed tit (Aegithalos caudatus), also named long-tailed bushtit, is a 
 
 ### Relevant Sightings
 
-* [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213467942) (Only Sighting)
+* [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213467942) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -46,7 +46,7 @@ The long-tailed tit (Aegithalos caudatus), also named long-tailed bushtit, is a 
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631546401/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

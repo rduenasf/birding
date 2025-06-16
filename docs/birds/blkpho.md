@@ -59,6 +59,7 @@ The black phoebe has predominantly black plumage, with a white belly and underta
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628924626/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628955178/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629202024/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637297068/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626559390/embed" frameBorder="0" allowFullScreen></iframe>

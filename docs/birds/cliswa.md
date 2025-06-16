@@ -3,17 +3,17 @@ title: "Cliff Swallow"
 scientific_name: "Petrochelidon pyrrhonota"
 order: "Passeriformes"
 family: "Hirundinidae (Swallows)"
-description: "Petrochelidon pyrrhonota is a species of bird in the Hirundinidae (Swallows) family. It has been observed 5 times."
+description: "Petrochelidon pyrrhonota is a species of bird in the Hirundinidae (Swallows) family. It has been observed 5 times. It has been photographed."
 species_group: "Martins and Swallows"
 species_code: "cliswa"
 
 sidebar_position: 137
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Hirundinidae (Swallows)
   - Martins and Swallows
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -39,7 +39,7 @@ Cliff swallows build gourd-shaped nests made from mud with small entrance holes.
 ### Relevant Sightings
 
 * [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768235) (First Sighting)
-* [06-01-2025 - California, United States](https://ebird.org/checklist/S245649846) (Last Sighting)
+* [06-01-2025 - California, United States](https://ebird.org/checklist/S245649846) (Last Sighting / Only Photo)
 
 ### Places Seen
 
@@ -51,7 +51,9 @@ Cliff swallows build gourd-shaped nests made from mud with small entrance holes.
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/636974649/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/636974648/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/636974650/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

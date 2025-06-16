@@ -3,17 +3,17 @@ title: "African Sacred Ibis"
 scientific_name: "Threskiornis aethiopicus"
 order: "Pelecaniformes"
 family: "Threskiornithidae (Ibises and Spoonbills)"
-description: "Threskiornis aethiopicus is a species of bird in the Threskiornithidae (Ibises and Spoonbills) family. It has been observed 1 times."
+description: "Threskiornis aethiopicus is a species of bird in the Threskiornithidae (Ibises and Spoonbills) family. It has been observed 1 times. It has been photographed."
 species_group: "Herons, Ibis, and Allies"
 species_code: "sacibi2"
 
 sidebar_position: 6
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Pelecaniformes
   - Threskiornithidae (Ibises and Spoonbills)
   - Herons, Ibis, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -36,7 +36,7 @@ The African sacred ibis (Threskiornis aethiopicus) is a species of ibis, a wadin
 
 ### Relevant Sightings
 
-* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216379500) (Only Sighting)
+* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216379500) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -46,7 +46,7 @@ The African sacred ibis (Threskiornis aethiopicus) is a species of ibis, a wadin
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631567825/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

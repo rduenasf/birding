@@ -41,7 +41,7 @@ The turkey vulture is a scavenger and feeds almost exclusively on carrion. It fi
 ### Relevant Sightings
 
 * [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
-* [11-30-2024 - California, United States](https://ebird.org/checklist/S204074627) (Only Photo)
+* [11-30-2024 - California, United States](https://ebird.org/checklist/S204074627) (First/Best Photo)
 * [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Last Sighting)
 
 ### Places Seen
@@ -58,6 +58,7 @@ The turkey vulture is a scavenger and feeds almost exclusively on carrion. It fi
 ### Photographs
 <iframe className="photo_iframe vertical" src="https://macaulaylibrary.org/asset/626996407/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/626996413/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637299787/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

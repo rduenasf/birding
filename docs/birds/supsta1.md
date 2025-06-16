@@ -3,17 +3,17 @@ title: "Superb Starling"
 scientific_name: "Lamprotornis superbus"
 order: "Passeriformes"
 family: "Sturnidae (Starlings)"
-description: "Lamprotornis superbus is a species of bird in the Sturnidae (Starlings) family. It has been observed 1 times."
+description: "Lamprotornis superbus is a species of bird in the Sturnidae (Starlings) family. It has been observed 1 times. It has been photographed."
 species_group: "Starlings and Mynas"
 species_code: "supsta1"
 
 sidebar_position: 454
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Sturnidae (Starlings)
   - Starlings and Mynas
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -36,7 +36,7 @@ The superb starling (Lamprotornis superbus) is a member of the starling family o
 
 ### Relevant Sightings
 
-* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216443488) (Only Sighting)
+* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216443488) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -46,7 +46,7 @@ The superb starling (Lamprotornis superbus) is a member of the starling family o
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631573080/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

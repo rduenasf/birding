@@ -39,7 +39,7 @@ The kinglet is mostly migratory, and its range extends from northwest Canada and
 
 * [11-11-2023 - California, United States](https://ebird.org/checklist/S154259403) (First Sighting)
 * [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (First Recording)
-* [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (Best Recording)
+* [12-15-2024 - California, United States](https://ebird.org/checklist/S205487068) (Best Recording)
 * [01-12-2025 - California, United States](https://ebird.org/checklist/S209042786) (Only Photo)
 * [03-29-2025 - California, United States](https://ebird.org/checklist/S221633732) (Last Sighting)
 

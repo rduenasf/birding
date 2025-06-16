@@ -3,17 +3,17 @@ title: "Hunter's Cisticola"
 scientific_name: "Cisticola hunteri"
 order: "Passeriformes"
 family: "Cisticolidae (Cisticolas and Allies)"
-description: "Cisticola hunteri is a species of bird in the Cisticolidae (Cisticolas and Allies) family. It has been observed 1 times."
+description: "Cisticola hunteri is a species of bird in the Cisticolidae (Cisticolas and Allies) family. It has been observed 1 times. It has been photographed."
 species_group: "Cisticolas and Allies"
 species_code: "huncis1"
 
 sidebar_position: 271
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Cisticolidae (Cisticolas and Allies)
   - Cisticolas and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -38,7 +38,7 @@ Its natural habitats are tropical moist montane and high-elevation shrubland.  I
 
 ### Relevant Sightings
 
-* [02-06-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216483273) (Only Sighting)
+* [02-06-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216483273) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -48,7 +48,7 @@ Its natural habitats are tropical moist montane and high-elevation shrubland.  I
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe vertical" src="https://macaulaylibrary.org/asset/631579934/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

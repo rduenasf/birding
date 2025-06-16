@@ -3,17 +3,17 @@ title: "Whooper Swan"
 scientific_name: "Cygnus cygnus"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
-description: "Cygnus cygnus is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 2 times."
+description: "Cygnus cygnus is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 2 times. It has been photographed."
 species_group: "Waterfowl"
 species_code: "whoswa"
 
 sidebar_position: 522
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Anseriformes
   - Anatidae (Ducks, Geese, and Waterfowl)
   - Waterfowl
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -36,7 +36,7 @@ The whooper swan (/ˈhuːpə(ɹ) swɒn/ "hooper swan"; Cygnus cygnus), also know
 
 ### Relevant Sightings
 
-* [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213467942) (First Sighting)
+* [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213467942) (First Sighting / Only Photo)
 * [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213563164) (Last Sighting)
 
 ### Places Seen
@@ -47,7 +47,7 @@ The whooper swan (/ˈhuːpə(ɹ) swɒn/ "hooper swan"; Cygnus cygnus), also know
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631548899/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

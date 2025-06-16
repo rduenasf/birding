@@ -3,18 +3,18 @@ title: "Wilson's Warbler"
 scientific_name: "Cardellina pusilla"
 order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
-description: "Cardellina pusilla is a species of bird in the Parulidae (New World Warblers) family. It has been observed 9 times."
+description: "Cardellina pusilla is a species of bird in the Parulidae (New World Warblers) family. It has been observed 9 times. It has been photographed. It has been recorded."
 species_group: "Wood-Warblers"
 species_code: "wlswar"
 
 sidebar_position: 526
-sidebar_class_name: " "
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
   - Parulidae (New World Warblers)
   - Wood-Warblers
-  - Needs Photo
-  - Needs Audio
+  - Has Photo
+  - Has Audio
 ---
 
 # Wilson's Warbler <span className='sci_name'>Cardellina pusilla</span>
@@ -37,7 +37,8 @@ Wilson's warbler (Cardellina pusilla) is a small New World warbler. It is greeni
 ### Relevant Sightings
 
 * [03-23-2024 - California, United States](https://ebird.org/checklist/S165759832) (First Sighting)
-* [06-14-2025 - California, United States](https://ebird.org/checklist/S250753679) (Last Sighting)
+* [06-14-2025 - California, United States](https://ebird.org/checklist/S250753344) (Only Recording)
+* [06-14-2025 - California, United States](https://ebird.org/checklist/S250753679) (Last Sighting / Only Photo)
 
 ### Places Seen
 
@@ -49,10 +50,10 @@ Wilson's warbler (Cardellina pusilla) is a small New World warbler. It is greeni
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637618903/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
-No audio recordings available.
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/637618028/embed" frameBorder="0" allowFullScreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/wlswar) 

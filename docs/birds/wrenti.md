@@ -38,7 +38,8 @@ Its systematics have been the subject of much debate, the wrentit having been pl
 ### Relevant Sightings
 
 * [01-28-2024 - California, United States](https://ebird.org/checklist/S160073236) (First Sighting)
-* [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (Only Recording)
+* [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (First Recording)
+* [06-14-2025 - California, United States](https://ebird.org/checklist/S250753344) (Best Recording)
 * [06-14-2025 - California, United States](https://ebird.org/checklist/S250753679) (Last Sighting)
 
 ### Places Seen
@@ -53,6 +54,8 @@ No photographs available.
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626995507/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/637617850/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/637617854/embed" frameBorder="0" allowFullScreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/wrenti) 

@@ -3,17 +3,17 @@ title: "Black-headed Gull"
 scientific_name: "Chroicocephalus ridibundus"
 order: "Charadriiformes"
 family: "Laridae (Gulls, Terns, and Skimmers)"
-description: "Chroicocephalus ridibundus is a species of bird in the Laridae (Gulls, Terns, and Skimmers) family. It has been observed 4 times."
+description: "Chroicocephalus ridibundus is a species of bird in the Laridae (Gulls, Terns, and Skimmers) family. It has been observed 4 times. It has been photographed."
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "bkhgul"
 
 sidebar_position: 64
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Charadriiformes
   - Laridae (Gulls, Terns, and Skimmers)
   - Gulls, Terns, and Skimmers
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -37,7 +37,7 @@ The genus name Chroicocephalus is from the Ancient Greek words khroizo, "to colo
 
 ### Relevant Sightings
 
-* [01-26-2025 - Noord-Holland, Netherlands](https://ebird.org/checklist/S210717538) (First Sighting)
+* [01-26-2025 - Noord-Holland, Netherlands](https://ebird.org/checklist/S210717538) (First Sighting / First and Best Photo)
 * [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213387815) (Last Sighting)
 
 ### Places Seen
@@ -49,7 +49,9 @@ The genus name Chroicocephalus is from the Ancient Greek words khroizo, "to colo
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631522300/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631524774/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631525104/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

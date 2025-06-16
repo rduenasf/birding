@@ -3,17 +3,17 @@ title: "Great Cormorant"
 scientific_name: "Phalacrocorax carbo"
 order: "Suliformes"
 family: "Phalacrocoracidae (Cormorants and Shags)"
-description: "Phalacrocorax carbo is a species of bird in the Phalacrocoracidae (Cormorants and Shags) family. It has been observed 1 times."
+description: "Phalacrocorax carbo is a species of bird in the Phalacrocoracidae (Cormorants and Shags) family. It has been observed 1 times. It has been photographed."
 species_group: "Cormorants and Anhingas"
 species_code: "grecor"
 
 sidebar_position: 229
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Suliformes
   - Phalacrocoracidae (Cormorants and Shags)
   - Cormorants and Anhingas
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -38,7 +38,7 @@ The great cormorant (Phalacrocorax carbo), also known as just cormorant in Brita
 
 ### Relevant Sightings
 
-* [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213381167) (Only Sighting)
+* [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213381167) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -48,7 +48,7 @@ The great cormorant (Phalacrocorax carbo), also known as just cormorant in Brita
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631546722/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

@@ -3,17 +3,17 @@ title: "Song Sparrow"
 scientific_name: "Melospiza melodia"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
-description: "Melospiza melodia is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 66 times. It has been recorded."
+description: "Melospiza melodia is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 66 times. It has been photographed. It has been recorded."
 species_group: "New World Sparrows"
 species_code: "sonspa"
 
 sidebar_position: 431
-sidebar_class_name: " has-audio"
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
   - Passerellidae (New World Sparrows)
   - New World Sparrows
-  - Needs Photo
+  - Has Photo
   - Has Audio
 ---
 
@@ -41,6 +41,7 @@ The song sparrow (Melospiza melodia) is a medium-sized New World sparrow. Among 
 * [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
 * [11-17-2024 - California, United States](https://ebird.org/checklist/S202811385) (First Recording)
 * [11-23-2024 - California, United States](https://ebird.org/checklist/S203368565) (Best Recording)
+* [01-18-2025 - California, United States](https://ebird.org/checklist/S209827765) (First/Best Photo)
 * [06-14-2025 - California, United States](https://ebird.org/checklist/S250753679) (Last Sighting)
 
 ### Places Seen
@@ -55,7 +56,13 @@ The song sparrow (Melospiza melodia) is a medium-sized New World sparrow. Among 
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629341834/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/632224754/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637298712/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637298969/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637296986/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637296989/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637297057/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626447800/embed" frameBorder="0" allowFullScreen></iframe>
@@ -69,6 +76,8 @@ No photographs available.
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/627593378/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/627593382/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/627926528/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/637618185/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/637618186/embed" frameBorder="0" allowFullScreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/sonspa) 

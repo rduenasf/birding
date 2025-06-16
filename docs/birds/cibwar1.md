@@ -3,18 +3,18 @@ title: "Cinnamon Bracken-Warbler"
 scientific_name: "Bradypterus cinnamomeus"
 order: "Passeriformes"
 family: "Locustellidae (Grassbirds and Allies)"
-description: "Bradypterus cinnamomeus is a species of bird in the Locustellidae (Grassbirds and Allies) family. It has been observed 1 times."
+description: "Bradypterus cinnamomeus is a species of bird in the Locustellidae (Grassbirds and Allies) family. It has been observed 1 times. It has been recorded."
 species_group: "Grassbirds and Allies"
 species_code: "cibwar1"
 
 sidebar_position: 133
-sidebar_class_name: " "
+sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
   - Locustellidae (Grassbirds and Allies)
   - Grassbirds and Allies
   - Needs Photo
-  - Needs Audio
+  - Has Audio
 ---
 
 # Cinnamon Bracken-Warbler <span className='sci_name'>Bradypterus cinnamomeus</span>
@@ -38,7 +38,7 @@ Its natural habitats are subtropical or tropical moist montane forests and subtr
 
 ### Relevant Sightings
 
-* [02-05-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216534099) (Only Sighting)
+* [02-05-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216534099) (Only Sighting / Recording)
 
 ### Places Seen
 
@@ -51,7 +51,7 @@ Its natural habitats are subtropical or tropical moist montane forests and subtr
 No photographs available.
 
 ### Audio Recordings
-No audio recordings available.
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/631601689/embed" frameBorder="0" allowFullScreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/cibwar1) 

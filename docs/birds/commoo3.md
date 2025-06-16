@@ -3,17 +3,17 @@ title: "Eurasian Moorhen"
 scientific_name: "Gallinula chloropus"
 order: "Gruiformes"
 family: "Rallidae (Rails, Gallinules, and Coots)"
-description: "Gallinula chloropus is a species of bird in the Rallidae (Rails, Gallinules, and Coots) family. It has been observed 2 times."
+description: "Gallinula chloropus is a species of bird in the Rallidae (Rails, Gallinules, and Coots) family. It has been observed 2 times. It has been photographed."
 species_group: "Rails, Gallinules, and Allies"
 species_code: "commoo3"
 
 sidebar_position: 190
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Gruiformes
   - Rallidae (Rails, Gallinules, and Coots)
   - Rails, Gallinules, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -36,7 +36,7 @@ The common moorhen (Gallinula chloropus), also known as the waterhen, is a bird 
 
 ### Relevant Sightings
 
-* [01-26-2025 - Noord-Holland, Netherlands](https://ebird.org/checklist/S210727534) (First Sighting)
+* [01-26-2025 - Noord-Holland, Netherlands](https://ebird.org/checklist/S210727534) (First Sighting / Only Photo)
 * [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213434174) (Last Sighting)
 
 ### Places Seen
@@ -48,7 +48,9 @@ The common moorhen (Gallinula chloropus), also known as the waterhen, is a bird 
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631524328/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631524327/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631525176/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

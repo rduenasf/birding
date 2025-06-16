@@ -3,17 +3,17 @@ title: "Brown-headed Cowbird"
 scientific_name: "Molothrus ater"
 order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
-description: "Molothrus ater is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 14 times."
+description: "Molothrus ater is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 14 times. It has been photographed."
 species_group: "Blackbirds"
 species_code: "bnhcow"
 
 sidebar_position: 94
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Icteridae (Troupials and Allies)
   - Blackbirds
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -37,6 +37,7 @@ The brown-headed cowbird (Molothrus ater) is a small, obligate brood parasitic i
 ### Relevant Sightings
 
 * [02-24-2024 - California, United States](https://ebird.org/checklist/S162799737) (First Sighting)
+* [06-01-2025 - California, United States](https://ebird.org/checklist/S245649846) (First/Best Photo)
 * [06-07-2025 - California, United States](https://ebird.org/checklist/S247779356) (Last Sighting)
 
 ### Places Seen
@@ -48,7 +49,8 @@ The brown-headed cowbird (Molothrus ater) is a small, obligate brood parasitic i
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/636974678/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637298736/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

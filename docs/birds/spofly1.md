@@ -3,17 +3,17 @@ title: "Spotted Flycatcher"
 scientific_name: "Muscicapa striata"
 order: "Passeriformes"
 family: "Muscicapidae (Old World Flycatchers)"
-description: "Muscicapa striata is a species of bird in the Muscicapidae (Old World Flycatchers) family. It has been observed 1 times."
+description: "Muscicapa striata is a species of bird in the Muscicapidae (Old World Flycatchers) family. It has been observed 1 times. It has been photographed."
 species_group: "Old World Flycatchers"
 species_code: "spofly1"
 
 sidebar_position: 441
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Muscicapidae (Old World Flycatchers)
   - Old World Flycatchers
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -39,7 +39,7 @@ This is an undistinguished looking bird with long wings and tail. The adults hav
 
 ### Relevant Sightings
 
-* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216440768) (Only Sighting)
+* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216440768) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -49,7 +49,7 @@ This is an undistinguished looking bird with long wings and tail. The adults hav
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631568274/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

@@ -3,17 +3,17 @@ title: "Northern Lapwing"
 scientific_name: "Vanellus vanellus"
 order: "Charadriiformes"
 family: "Charadriidae (Plovers and Lapwings)"
-description: "Vanellus vanellus is a species of bird in the Charadriidae (Plovers and Lapwings) family. It has been observed 3 times."
+description: "Vanellus vanellus is a species of bird in the Charadriidae (Plovers and Lapwings) family. It has been observed 3 times. It has been photographed."
 species_group: "Shorebirds"
 species_code: "norlap"
 
 sidebar_position: 334
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Charadriiformes
   - Charadriidae (Plovers and Lapwings)
   - Shorebirds
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -36,7 +36,7 @@ The northern lapwing (Vanellus vanellus), also known as the peewit or pewit, tui
 
 ### Relevant Sightings
 
-* [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213385263) (First Sighting)
+* [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213385263) (First Sighting / Only Photo)
 * [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213563164) (Last Sighting)
 
 ### Places Seen
@@ -47,7 +47,7 @@ The northern lapwing (Vanellus vanellus), also known as the peewit or pewit, tui
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631546833/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

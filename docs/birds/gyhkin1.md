@@ -3,17 +3,17 @@ title: "Gray-headed Kingfisher"
 scientific_name: "Halcyon leucocephala"
 order: "Coraciiformes"
 family: "Alcedinidae (Kingfishers)"
-description: "Halcyon leucocephala is a species of bird in the Alcedinidae (Kingfishers) family. It has been observed 1 times."
+description: "Halcyon leucocephala is a species of bird in the Alcedinidae (Kingfishers) family. It has been observed 1 times. It has been photographed."
 species_group: "Kingfishers"
 species_code: "gyhkin1"
 
 sidebar_position: 225
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Coraciiformes
   - Alcedinidae (Kingfishers)
   - Kingfishers
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -36,7 +36,7 @@ The grey-headed kingfisher (Halcyon leucocephala) is a species of kingfisher tha
 
 ### Relevant Sightings
 
-* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216294004) (Only Sighting)
+* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216294004) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -46,7 +46,7 @@ The grey-headed kingfisher (Halcyon leucocephala) is a species of kingfisher tha
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631550230/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

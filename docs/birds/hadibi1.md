@@ -3,17 +3,17 @@ title: "Hadada Ibis"
 scientific_name: "Bostrychia hagedash"
 order: "Pelecaniformes"
 family: "Threskiornithidae (Ibises and Spoonbills)"
-description: "Bostrychia hagedash is a species of bird in the Threskiornithidae (Ibises and Spoonbills) family. It has been observed 1 times."
+description: "Bostrychia hagedash is a species of bird in the Threskiornithidae (Ibises and Spoonbills) family. It has been observed 1 times. It has been photographed."
 species_group: "Herons, Ibis, and Allies"
 species_code: "hadibi1"
 
 sidebar_position: 251
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Pelecaniformes
   - Threskiornithidae (Ibises and Spoonbills)
   - Herons, Ibis, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -36,7 +36,7 @@ The hadada ibis (Bostrychia hagedash) or hadeda () is an ibis native to Sub-Saha
 
 ### Relevant Sightings
 
-* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216379500) (Only Sighting)
+* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216379500) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -46,7 +46,7 @@ The hadada ibis (Bostrychia hagedash) or hadeda () is an ibis native to Sub-Saha
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631567646/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

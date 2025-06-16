@@ -37,7 +37,7 @@ The common gallinule (Gallinula galeata) is a bird in the family Rallidae. It wa
 ### Relevant Sightings
 
 * [02-24-2024 - California, United States](https://ebird.org/checklist/S162799737) (First Sighting)
-* [11-28-2024 - California, United States](https://ebird.org/checklist/S203889552) (Only Photo)
+* [11-28-2024 - California, United States](https://ebird.org/checklist/S203889552) (First/Best Photo)
 * [11-28-2024 - California, United States](https://ebird.org/checklist/S203889552) (Only Recording)
 * [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Last Sighting)
 
@@ -51,6 +51,7 @@ The common gallinule (Gallinula galeata) is a bird in the family Rallidae. It wa
 ## Media
 ### Photographs
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/626996488/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637296856/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626843308/embed" frameBorder="0" allowFullScreen></iframe>

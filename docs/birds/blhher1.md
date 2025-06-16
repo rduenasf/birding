@@ -3,17 +3,17 @@ title: "Black-headed Heron"
 scientific_name: "Ardea melanocephala"
 order: "Pelecaniformes"
 family: "Ardeidae (Herons, Egrets, and Bitterns)"
-description: "Ardea melanocephala is a species of bird in the Ardeidae (Herons, Egrets, and Bitterns) family. It has been observed 2 times."
+description: "Ardea melanocephala is a species of bird in the Ardeidae (Herons, Egrets, and Bitterns) family. It has been observed 2 times. It has been photographed."
 species_group: "Herons, Ibis, and Allies"
 species_code: "blhher1"
 
 sidebar_position: 65
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Pelecaniformes
   - Ardeidae (Herons, Egrets, and Bitterns)
   - Herons, Ibis, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -41,7 +41,7 @@ The call is a loud croaking.[^1]
 
 ### Relevant Sightings
 
-* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216294004) (First Sighting)
+* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216294004) (First Sighting / First and Best Photo)
 * [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216440768) (Last Sighting)
 
 ### Places Seen
@@ -52,7 +52,8 @@ The call is a loud croaking.[^1]
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631550182/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631568606/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

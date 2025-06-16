@@ -3,17 +3,17 @@ title: "Lesser Goldfinch"
 scientific_name: "Spinus psaltria"
 order: "Passeriformes"
 family: "Fringillidae (Finches, Euphonias, and Allies)"
-description: "Spinus psaltria is a species of bird in the Fringillidae (Finches, Euphonias, and Allies) family. It has been observed 30 times. It has been recorded."
+description: "Spinus psaltria is a species of bird in the Fringillidae (Finches, Euphonias, and Allies) family. It has been observed 30 times. It has been photographed. It has been recorded."
 species_group: "Finches, Euphonias, and Allies"
 species_code: "lesgol"
 
 sidebar_position: 288
-sidebar_class_name: " has-audio"
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
   - Fringillidae (Finches, Euphonias, and Allies)
   - Finches, Euphonias, and Allies
-  - Needs Photo
+  - Has Photo
   - Has Audio
 ---
 
@@ -39,6 +39,7 @@ As is the case for most species in the genus Spinus, lesser goldfinch males have
 
 * [11-11-2023 - California, United States](https://ebird.org/checklist/S154259403) (First Sighting)
 * [11-24-2024 - California, United States](https://ebird.org/checklist/S203486069) (Only Recording)
+* [03-29-2025 - California, United States](https://ebird.org/checklist/S221633632) (Only Photo)
 * [06-14-2025 - California, United States](https://ebird.org/checklist/S250753344) (Last Sighting)
 
 ### Places Seen
@@ -51,7 +52,7 @@ As is the case for most species in the genus Spinus, lesser goldfinch males have
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/632869300/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626684938/embed" frameBorder="0" allowFullScreen></iframe>

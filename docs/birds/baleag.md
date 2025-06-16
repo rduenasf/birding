@@ -3,17 +3,17 @@ title: "Bald Eagle"
 scientific_name: "Haliaeetus leucocephalus"
 order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
-description: "Haliaeetus leucocephalus is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 3 times."
+description: "Haliaeetus leucocephalus is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 3 times. It has been photographed."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "baleag"
 
 sidebar_position: 35
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Accipitriformes
   - Accipitridae (Hawks, Eagles, and Kites)
   - Vultures, Hawks, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -40,7 +40,7 @@ The bald eagle is the national symbol of the United States and appears on its se
 ### Relevant Sightings
 
 * [11-11-2023 - California, United States](https://ebird.org/checklist/S154259403) (First Sighting)
-* [06-01-2025 - California, United States](https://ebird.org/checklist/S245649846) (Last Sighting)
+* [06-01-2025 - California, United States](https://ebird.org/checklist/S245649846) (Last Sighting / Only Photo)
 
 ### Places Seen
 
@@ -51,7 +51,7 @@ The bald eagle is the national symbol of the United States and appears on its se
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/636974663/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

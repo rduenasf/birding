@@ -3,17 +3,17 @@ title: "Oak Titmouse"
 scientific_name: "Baeolophus inornatus"
 order: "Passeriformes"
 family: "Paridae (Tits, Chickadees, and Titmice)"
-description: "Baeolophus inornatus is a species of bird in the Paridae (Tits, Chickadees, and Titmice) family. It has been observed 20 times. It has been recorded."
+description: "Baeolophus inornatus is a species of bird in the Paridae (Tits, Chickadees, and Titmice) family. It has been observed 20 times. It has been photographed. It has been recorded."
 species_group: "Tits, Chickadees, and Titmice"
 species_code: "oaktit"
 
 sidebar_position: 341
-sidebar_class_name: " has-audio"
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
   - Paridae (Tits, Chickadees, and Titmice)
   - Tits, Chickadees, and Titmice
-  - Needs Photo
+  - Has Photo
   - Has Audio
 ---
 
@@ -45,6 +45,7 @@ The oak titmouse and juniper titmouse appear almost identical, but differ in voi
 
 * [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
 * [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (First/Best Recording)
+* [01-18-2025 - California, United States](https://ebird.org/checklist/S209827765) (Only Photo)
 * [06-14-2025 - California, United States](https://ebird.org/checklist/S250753679) (Last Sighting)
 
 ### Places Seen
@@ -55,7 +56,7 @@ The oak titmouse and juniper titmouse appear almost identical, but differ in voi
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629344203/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626995518/embed" frameBorder="0" allowFullScreen></iframe>

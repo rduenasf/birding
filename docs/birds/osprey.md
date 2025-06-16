@@ -41,7 +41,7 @@ As its other common names suggest, the osprey's diet consists almost exclusively
 ### Relevant Sightings
 
 * [05-03-2024 - Ciudad de México, Mexico](https://ebird.org/checklist/S171944260) (First Sighting)
-* [11-02-2024 - California, United States](https://ebird.org/checklist/S201177048) (Only Photo)
+* [11-02-2024 - California, United States](https://ebird.org/checklist/S201177048) (First/Best Photo)
 * [05-25-2025 - California, United States](https://ebird.org/checklist/S242790094) (Last Sighting)
 
 ### Places Seen
@@ -56,6 +56,7 @@ As its other common names suggest, the osprey's diet consists almost exclusively
 ### Photographs
 <iframe className="photo_iframe vertical" src="https://macaulaylibrary.org/asset/625745134/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe vertical" src="https://macaulaylibrary.org/asset/625745135/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637299779/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

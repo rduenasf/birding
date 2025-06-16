@@ -3,17 +3,17 @@ title: "Eurasian Magpie"
 scientific_name: "Pica pica"
 order: "Passeriformes"
 family: "Corvidae (Crows, Jays, and Magpies)"
-description: "Pica pica is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 2 times."
+description: "Pica pica is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 2 times. It has been photographed."
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "eurmag1"
 
 sidebar_position: 189
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Corvidae (Crows, Jays, and Magpies)
   - Jays, Magpies, Crows, and Ravens
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -39,7 +39,7 @@ The Eurasian magpie is one of the most intelligent birds. The expansion of its n
 
 ### Relevant Sightings
 
-* [01-26-2025 - Noord-Holland, Netherlands](https://ebird.org/checklist/S210727534) (First Sighting)
+* [01-26-2025 - Noord-Holland, Netherlands](https://ebird.org/checklist/S210727534) (First Sighting / Only Photo)
 * [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213467942) (Last Sighting)
 
 ### Places Seen
@@ -51,7 +51,8 @@ The Eurasian magpie is one of the most intelligent birds. The expansion of its n
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631536074/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631536075/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

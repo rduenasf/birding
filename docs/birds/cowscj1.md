@@ -39,7 +39,7 @@ The California scrub jay (Aphelocoma californica) is a species of scrub jay nati
 * [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
 * [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (First Recording)
 * [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (Best Recording)
-* [01-05-2025 - California, United States](https://ebird.org/checklist/S208150408) (Only Photo)
+* [01-05-2025 - California, United States](https://ebird.org/checklist/S208150408) (First/Best Photo)
 * [06-14-2025 - California, United States](https://ebird.org/checklist/S250753344) (Last Sighting)
 
 ### Places Seen
@@ -51,6 +51,7 @@ The California scrub jay (Aphelocoma californica) is a species of scrub jay nati
 ## Media
 ### Photographs
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629201803/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/636974421/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629201488/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
@@ -60,6 +61,7 @@ The California scrub jay (Aphelocoma californica) is a species of scrub jay nati
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626447081/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/627274788/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/627593195/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/632871261/embed" frameBorder="0" allowFullScreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/cowscj1) 

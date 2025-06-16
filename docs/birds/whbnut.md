@@ -3,17 +3,17 @@ title: "White-breasted Nuthatch"
 scientific_name: "Sitta carolinensis"
 order: "Passeriformes"
 family: "Sittidae (Nuthatches)"
-description: "Sitta carolinensis is a species of bird in the Sittidae (Nuthatches) family. It has been observed 19 times. It has been recorded."
+description: "Sitta carolinensis is a species of bird in the Sittidae (Nuthatches) family. It has been observed 19 times. It has been photographed. It has been recorded."
 species_group: "Nuthatches"
 species_code: "whbnut"
 
 sidebar_position: 501
-sidebar_class_name: " has-audio"
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
   - Sittidae (Nuthatches)
   - Nuthatches
-  - Needs Photo
+  - Has Photo
   - Has Audio
 ---
 
@@ -41,6 +41,7 @@ The white-breasted nuthatch breeds throughout much of North America, except in t
 
 * [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
 * [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (Only Recording)
+* [03-29-2025 - California, United States](https://ebird.org/checklist/S221633632) (First/Best Photo)
 * [06-01-2025 - California, United States](https://ebird.org/checklist/S245649846) (Last Sighting)
 
 ### Places Seen
@@ -54,7 +55,8 @@ The white-breasted nuthatch breeds throughout much of North America, except in t
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/632869317/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/636974655/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/627219259/embed" frameBorder="0" allowFullScreen></iframe>

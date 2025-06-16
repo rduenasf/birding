@@ -3,17 +3,17 @@ title: "Red-winged Blackbird"
 scientific_name: "Agelaius phoeniceus"
 order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
-description: "Agelaius phoeniceus is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 30 times."
+description: "Agelaius phoeniceus is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 30 times. It has been photographed."
 species_group: "Blackbirds"
 species_code: "rewbla"
 
 sidebar_position: 385
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Icteridae (Troupials and Allies)
   - Blackbirds
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -39,6 +39,7 @@ The red-winged blackbird (Agelaius phoeniceus) is a passerine bird of the family
 ### Relevant Sightings
 
 * [01-07-2024 - California, United States](https://ebird.org/checklist/S158367947) (First Sighting)
+* [05-25-2025 - California, United States](https://ebird.org/checklist/S242790275) (First/Best Photo)
 * [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Last Sighting)
 
 ### Places Seen
@@ -53,7 +54,9 @@ The red-winged blackbird (Agelaius phoeniceus) is a passerine bird of the family
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637299483/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637299484/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/636974456/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

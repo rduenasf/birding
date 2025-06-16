@@ -3,17 +3,17 @@ title: "Common Raven"
 scientific_name: "Corvus corax"
 order: "Passeriformes"
 family: "Corvidae (Crows, Jays, and Magpies)"
-description: "Corvus corax is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 37 times. It has been recorded."
+description: "Corvus corax is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 37 times. It has been photographed. It has been recorded."
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "comrav"
 
 sidebar_position: 154
-sidebar_class_name: " has-audio"
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
   - Corvidae (Crows, Jays, and Magpies)
   - Jays, Magpies, Crows, and Ravens
-  - Needs Photo
+  - Has Photo
   - Has Audio
 ---
 
@@ -39,8 +39,8 @@ Over the centuries, the raven has been the subject of mythology, folklore, art, 
 ### Relevant Sightings
 
 * [11-24-2023 - California, United States](https://ebird.org/checklist/S155126951) (First Sighting)
-* [11-17-2024 - California, United States](https://ebird.org/checklist/S202811385) (Only Recording)
-* [06-14-2025 - California, United States](https://ebird.org/checklist/S250753679) (Last Sighting)
+* [11-17-2024 - California, United States](https://ebird.org/checklist/S202811385) (First Recording)
+* [06-14-2025 - California, United States](https://ebird.org/checklist/S250753679) (Last Sighting / Only Photo / Last and Best Recording)
 
 ### Places Seen
 
@@ -52,10 +52,11 @@ Over the centuries, the raven has been the subject of mythology, folklore, art, 
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637618874/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626447257/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/637618258/embed" frameBorder="0" allowFullScreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/comrav) 

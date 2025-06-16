@@ -3,18 +3,18 @@ title: "Eurasian Golden Oriole"
 scientific_name: "Oriolus oriolus"
 order: "Passeriformes"
 family: "Oriolidae (Old World Orioles)"
-description: "Oriolus oriolus is a species of bird in the Oriolidae (Old World Orioles) family. It has been observed 1 times."
+description: "Oriolus oriolus is a species of bird in the Oriolidae (Old World Orioles) family. It has been observed 1 times. It has been recorded."
 species_group: "Old World Orioles"
 species_code: "eugori2"
 
 sidebar_position: 186
-sidebar_class_name: " "
+sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
   - Oriolidae (Old World Orioles)
   - Old World Orioles
   - Needs Photo
-  - Needs Audio
+  - Has Audio
 ---
 
 # Eurasian Golden Oriole <span className='sci_name'>Oriolus oriolus</span>
@@ -36,7 +36,7 @@ The Eurasian golden oriole (Oriolus oriolus), also called the common golden orio
 
 ### Relevant Sightings
 
-* [02-05-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216534099) (Only Sighting)
+* [02-05-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216534099) (Only Sighting / Recording)
 
 ### Places Seen
 
@@ -49,7 +49,7 @@ The Eurasian golden oriole (Oriolus oriolus), also called the common golden orio
 No photographs available.
 
 ### Audio Recordings
-No audio recordings available.
+<iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/631603380/embed" frameBorder="0" allowFullScreen></iframe>
 
 ## Links
 * [eBird](https://ebird.org/species/eugori2) 

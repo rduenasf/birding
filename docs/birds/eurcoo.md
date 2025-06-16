@@ -3,17 +3,17 @@ title: "Eurasian Coot"
 scientific_name: "Fulica atra"
 order: "Gruiformes"
 family: "Rallidae (Rails, Gallinules, and Coots)"
-description: "Fulica atra is a species of bird in the Rallidae (Rails, Gallinules, and Coots) family. It has been observed 3 times."
+description: "Fulica atra is a species of bird in the Rallidae (Rails, Gallinules, and Coots) family. It has been observed 3 times. It has been photographed."
 species_group: "Rails, Gallinules, and Allies"
 species_code: "eurcoo"
 
 sidebar_position: 185
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Gruiformes
   - Rallidae (Rails, Gallinules, and Coots)
   - Rails, Gallinules, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -37,6 +37,7 @@ The Eurasian coot (Fulica atra), also known as the common coot, or Australian co
 ### Relevant Sightings
 
 * [01-26-2025 - Noord-Holland, Netherlands](https://ebird.org/checklist/S210717538) (First Sighting)
+* [01-26-2025 - Noord-Holland, Netherlands](https://ebird.org/checklist/S210727534) (Only Photo)
 * [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213379009) (Last Sighting)
 
 ### Places Seen
@@ -48,7 +49,8 @@ The Eurasian coot (Fulica atra), also known as the common coot, or Australian co
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631524339/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631524338/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

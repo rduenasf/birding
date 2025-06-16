@@ -3,17 +3,17 @@ title: "Willet"
 scientific_name: "Tringa semipalmata"
 order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
-description: "Tringa semipalmata is a species of bird in the Scolopacidae (Sandpipers and Allies) family. It has been observed 10 times. It has been recorded."
+description: "Tringa semipalmata is a species of bird in the Scolopacidae (Sandpipers and Allies) family. It has been observed 10 times. It has been photographed. It has been recorded."
 species_group: "Shorebirds"
 species_code: "willet1"
 
 sidebar_position: 524
-sidebar_class_name: " has-audio"
+sidebar_class_name: "has-photo has-audio"
 tags: 
   - Charadriiformes
   - Scolopacidae (Sandpipers and Allies)
   - Shorebirds
-  - Needs Photo
+  - Has Photo
   - Has Audio
 ---
 
@@ -39,7 +39,7 @@ The willet (Tringa semipalmata) is a large shorebird in the family Scolopacidae.
 * [12-02-2023 - California, United States](https://ebird.org/checklist/S155611564) (First Sighting)
 * [11-24-2024 - California, United States](https://ebird.org/checklist/S203486069) (First Recording)
 * [11-30-2024 - California, United States](https://ebird.org/checklist/S204068913) (Best Recording)
-* [03-15-2025 - California, United States](https://ebird.org/checklist/S218683432) (Last Sighting)
+* [03-15-2025 - California, United States](https://ebird.org/checklist/S218683432) (Last Sighting / Only Photo)
 
 ### Places Seen
 
@@ -49,7 +49,7 @@ The willet (Tringa semipalmata) is a large shorebird in the family Scolopacidae.
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/632226477/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626684790/embed" frameBorder="0" allowFullScreen></iframe>

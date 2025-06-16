@@ -3,17 +3,17 @@ title: "Northern Fiscal"
 scientific_name: "Lanius humeralis"
 order: "Passeriformes"
 family: "Laniidae (Shrikes)"
-description: "Lanius humeralis is a species of bird in the Laniidae (Shrikes) family. It has been observed 1 times."
+description: "Lanius humeralis is a species of bird in the Laniidae (Shrikes) family. It has been observed 1 times. It has been photographed."
 species_group: "Shrikes"
 species_code: "norfis1"
 
 sidebar_position: 329
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Laniidae (Shrikes)
   - Shrikes
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -36,7 +36,7 @@ The northern fiscal (Lanius humeralis) is a member of the shrike family found th
 
 ### Relevant Sightings
 
-* [02-04-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216364993) (Only Sighting)
+* [02-04-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216364993) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -46,7 +46,7 @@ The northern fiscal (Lanius humeralis) is a member of the shrike family found th
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631542271/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

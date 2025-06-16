@@ -3,17 +3,17 @@ title: "White-necked Raven"
 scientific_name: "Corvus albicollis"
 order: "Passeriformes"
 family: "Corvidae (Crows, Jays, and Magpies)"
-description: "Corvus albicollis is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 3 times."
+description: "Corvus albicollis is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 3 times. It has been photographed."
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "whnrav1"
 
 sidebar_position: 512
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Corvidae (Crows, Jays, and Magpies)
   - Jays, Magpies, Crows, and Ravens
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -36,7 +36,8 @@ The white-necked raven (Corvus albicollis) is a species of raven native to easte
 
 ### Relevant Sightings
 
-* [02-06-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216483273) (First Sighting)
+* [02-06-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216483273) (First Sighting / First Photo)
+* [02-07-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216479252) (Best Photo)
 * [02-10-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216379768) (Last Sighting)
 
 ### Places Seen
@@ -47,7 +48,8 @@ The white-necked raven (Corvus albicollis) is a species of raven native to easte
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631578224/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe vertical" src="https://macaulaylibrary.org/asset/631579642/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

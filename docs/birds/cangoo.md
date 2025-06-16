@@ -42,8 +42,8 @@ Extremely adept at living in human-altered areas, Canada geese have established 
 * [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
 * [01-30-2024 - California, United States](https://ebird.org/checklist/S160232235) (First Photo)
 * [11-23-2024 - California, United States](https://ebird.org/checklist/S203364471) (First Recording)
-* [11-30-2024 - California, United States](https://ebird.org/checklist/S204068913) (Best Recording)
-* [01-08-2025 - California, United States](https://ebird.org/checklist/S208562147) (Best Photo)
+* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Best Recording)
+* [01-18-2025 - California, United States](https://ebird.org/checklist/S209827765) (Best Photo)
 * [06-14-2025 - California, United States](https://ebird.org/checklist/S250753344) (Last Sighting)
 
 ### Places Seen
@@ -56,9 +56,12 @@ Extremely adept at living in human-altered areas, Canada geese have established 
 
 ## Media
 ### Photographs
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629341105/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/628955631/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/627928244/embed" frameBorder="0" allowFullScreen></iframe>
 <iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/629071929/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/632226206/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637299607/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 <iframe className="audio_iframe" src="https://macaulaylibrary.org/asset/626617689/embed" frameBorder="0" allowFullScreen></iframe>

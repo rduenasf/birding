@@ -3,17 +3,17 @@ title: "White-tailed Eagle"
 scientific_name: "Haliaeetus albicilla"
 order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
-description: "Haliaeetus albicilla is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 1 times."
+description: "Haliaeetus albicilla is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 1 times. It has been photographed."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "whteag"
 
 sidebar_position: 513
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Accipitriformes
   - Accipitridae (Hawks, Eagles, and Kites)
   - Vultures, Hawks, and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -38,7 +38,7 @@ White-tailed eagles usually live most of the year near large bodies of open wate
 
 ### Relevant Sightings
 
-* [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213467942) (Only Sighting)
+* [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213467942) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -48,7 +48,8 @@ White-tailed eagles usually live most of the year near large bodies of open wate
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631548943/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe vertical" src="https://macaulaylibrary.org/asset/631548963/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

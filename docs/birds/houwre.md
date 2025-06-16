@@ -3,17 +3,17 @@ title: "Northern House Wren"
 scientific_name: "Troglodytes aedon"
 order: "Passeriformes"
 family: "Troglodytidae (Wrens)"
-description: "Troglodytes aedon is a species of bird in the Troglodytidae (Wrens) family. It has been observed 11 times."
+description: "Troglodytes aedon is a species of bird in the Troglodytidae (Wrens) family. It has been observed 11 times. It has been photographed."
 species_group: "Wrens"
 species_code: "houwre"
 
 sidebar_position: 333
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Troglodytidae (Wrens)
   - Wrens
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -39,6 +39,7 @@ The northern house wren (Troglodytes aedon) is a very small passerine in the wre
 ### Relevant Sightings
 
 * [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
+* [04-20-2025 - California, United States](https://ebird.org/checklist/S227452484) (Only Photo)
 * [05-16-2025 - California, United States](https://ebird.org/checklist/S238839617) (Last Sighting)
 
 ### Places Seen
@@ -52,7 +53,7 @@ The northern house wren (Troglodytes aedon) is a very small passerine in the wre
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/634107892/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

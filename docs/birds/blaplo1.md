@@ -3,17 +3,17 @@ title: "Blacksmith Lapwing"
 scientific_name: "Vanellus armatus"
 order: "Charadriiformes"
 family: "Charadriidae (Plovers and Lapwings)"
-description: "Vanellus armatus is a species of bird in the Charadriidae (Plovers and Lapwings) family. It has been observed 1 times."
+description: "Vanellus armatus is a species of bird in the Charadriidae (Plovers and Lapwings) family. It has been observed 1 times. It has been photographed."
 species_group: "Shorebirds"
 species_code: "blaplo1"
 
 sidebar_position: 74
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Charadriiformes
   - Charadriidae (Plovers and Lapwings)
   - Shorebirds
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -36,7 +36,7 @@ The blacksmith lapwing or blacksmith plover (Vanellus armatus) is a lapwing spec
 
 ### Relevant Sightings
 
-* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216440768) (Only Sighting)
+* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216440768) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -46,7 +46,7 @@ The blacksmith lapwing or blacksmith plover (Vanellus armatus) is a lapwing spec
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631568581/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

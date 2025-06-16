@@ -38,7 +38,7 @@ The common merganser (North American) or goosander (Eurasian) (Mergus merganser)
 
 ### Relevant Sightings
 
-* [02-11-2024 - California, United States](https://ebird.org/checklist/S161327433) (First Sighting / Only Photo)
+* [02-11-2024 - California, United States](https://ebird.org/checklist/S161327433) (First Sighting / First and Best Photo)
 * [05-25-2025 - California, United States](https://ebird.org/checklist/S242790094) (Last Sighting)
 
 ### Places Seen
@@ -52,6 +52,9 @@ The common merganser (North American) or goosander (Eurasian) (Mergus merganser)
 ## Media
 ### Photographs
 <iframe className="photo_iframe vertical" src="https://macaulaylibrary.org/asset/627869238/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631546621/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631546694/embed" frameBorder="0" allowFullScreen></iframe>
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/637299788/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

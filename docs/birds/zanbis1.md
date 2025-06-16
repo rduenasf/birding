@@ -3,17 +3,17 @@ title: "Zanzibar Red Bishop"
 scientific_name: "Euplectes nigroventris"
 order: "Passeriformes"
 family: "Ploceidae (Weavers and Allies)"
-description: "Euplectes nigroventris is a species of bird in the Ploceidae (Weavers and Allies) family. It has been observed 1 times."
+description: "Euplectes nigroventris is a species of bird in the Ploceidae (Weavers and Allies) family. It has been observed 1 times. It has been photographed."
 species_group: "Weavers and Allies"
 species_code: "zanbis1"
 
 sidebar_position: 541
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Ploceidae (Weavers and Allies)
   - Weavers and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -37,7 +37,7 @@ It is found in Kenya, Mozambique, and Tanzania.[^1]
 
 ### Relevant Sightings
 
-* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216375993) (Only Sighting)
+* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216375993) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -47,7 +47,7 @@ It is found in Kenya, Mozambique, and Tanzania.[^1]
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631572176/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

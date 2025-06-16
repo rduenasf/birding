@@ -3,17 +3,17 @@ title: "Tropical Boubou"
 scientific_name: "Laniarius major"
 order: "Passeriformes"
 family: "Malaconotidae (Bushshrikes and Allies)"
-description: "Laniarius major is a species of bird in the Malaconotidae (Bushshrikes and Allies) family. It has been observed 1 times."
+description: "Laniarius major is a species of bird in the Malaconotidae (Bushshrikes and Allies) family. It has been observed 1 times. It has been photographed."
 species_group: "Bushshrikes and Allies"
 species_code: "trobou1"
 
 sidebar_position: 464
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Malaconotidae (Bushshrikes and Allies)
   - Bushshrikes and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -36,7 +36,7 @@ The tropical boubou or bell shrike (Laniarius aethiopicus) is a medium-sized pas
 
 ### Relevant Sightings
 
-* [02-04-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216364993) (Only Sighting)
+* [02-04-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216364993) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -46,7 +46,7 @@ The tropical boubou or bell shrike (Laniarius aethiopicus) is a medium-sized pas
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631615116/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.

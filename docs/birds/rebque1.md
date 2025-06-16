@@ -3,17 +3,17 @@ title: "Red-billed Quelea"
 scientific_name: "Quelea quelea"
 order: "Passeriformes"
 family: "Ploceidae (Weavers and Allies)"
-description: "Quelea quelea is a species of bird in the Ploceidae (Weavers and Allies) family. It has been observed 1 times."
+description: "Quelea quelea is a species of bird in the Ploceidae (Weavers and Allies) family. It has been observed 1 times. It has been photographed."
 species_group: "Weavers and Allies"
 species_code: "rebque1"
 
 sidebar_position: 372
-sidebar_class_name: " "
+sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
   - Ploceidae (Weavers and Allies)
   - Weavers and Allies
-  - Needs Photo
+  - Has Photo
   - Needs Audio
 ---
 
@@ -38,7 +38,7 @@ The quelea feeds primarily on seeds of annual grasses, but also causes extensive
 
 ### Relevant Sightings
 
-* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216443488) (Only Sighting)
+* [02-14-2025 - Kilimanjaro, Tanzania](https://ebird.org/checklist/S216443488) (Only Sighting / Photo)
 
 ### Places Seen
 
@@ -48,7 +48,7 @@ The quelea feeds primarily on seeds of annual grasses, but also causes extensive
 
 ## Media
 ### Photographs
-No photographs available.
+<iframe className="photo_iframe horizontal" src="https://macaulaylibrary.org/asset/631572812/embed" frameBorder="0" allowFullScreen></iframe>
 
 ### Audio Recordings
 No audio recordings available.
