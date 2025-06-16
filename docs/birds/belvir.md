@@ -7,7 +7,7 @@ description: "Vireo bellii is a species of bird in the Vireonidae (Vireos, Shrik
 species_group: "Vireos"
 species_code: "belvir"
 
-sidebar_position: 32
+sidebar_position: 43
 sidebar_class_name: " "
 tags: 
   - Passeriformes

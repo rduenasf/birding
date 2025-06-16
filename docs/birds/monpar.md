@@ -7,7 +7,7 @@ description: "Myiopsitta monachus is a species of bird in the Psittacidae (New W
 species_group: "Parrots, Parakeets, and Allies"
 species_code: "monpar"
 
-sidebar_position: 245
+sidebar_position: 315
 sidebar_class_name: " "
 tags: 
   - Psittaciformes

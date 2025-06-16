@@ -7,7 +7,7 @@ description: "Diuca diuca is a species of bird in the Thraupidae (Tanagers and A
 species_group: "Tanagers and Allies"
 species_code: "codfin1"
 
-sidebar_position: 138
+sidebar_position: 166
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes

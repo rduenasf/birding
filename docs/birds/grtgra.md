@@ -3,11 +3,11 @@ title: "Great-tailed Grackle"
 scientific_name: "Quiscalus mexicanus"
 order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
-description: "Quiscalus mexicanus is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 10 times. It has been photographed."
+description: "Quiscalus mexicanus is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 12 times. It has been photographed."
 species_group: "Blackbirds"
 species_code: "grtgra"
 
-sidebar_position: 183
+sidebar_position: 236
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
@@ -38,7 +38,7 @@ In some parts of México, the grackle is sometimes referred to in Spanish as cue
 ### Relevant Sightings
 
 * [11-26-2023 - California, United States](https://ebird.org/checklist/S155290413) (First Sighting / First and Best Photo)
-* [01-12-2025 - California, United States](https://ebird.org/checklist/S209042786) (Last Sighting)
+* [06-01-2025 - California, United States](https://ebird.org/checklist/S245649846) (Last Sighting)
 
 ### Places Seen
 

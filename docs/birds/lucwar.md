@@ -7,7 +7,7 @@ description: "Leiothlypis luciae is a species of bird in the Parulidae (New Worl
 species_group: "Wood-Warblers"
 species_code: "lucwar"
 
-sidebar_position: 235
+sidebar_position: 303
 sidebar_class_name: " "
 tags: 
   - Passeriformes

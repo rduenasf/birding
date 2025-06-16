@@ -3,11 +3,11 @@ title: "American Wigeon"
 scientific_name: "Mareca americana"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
-description: "Mareca americana is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 10 times. It has been recorded."
+description: "Mareca americana is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 11 times. It has been recorded."
 species_group: "Waterfowl"
 species_code: "amewig"
 
-sidebar_position: 15
+sidebar_position: 22
 sidebar_class_name: " has-audio"
 tags: 
   - Anseriformes
@@ -37,7 +37,8 @@ The American wigeon (Mareca americana), also known as the baldpate, is a species
 ### Relevant Sightings
 
 * [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
-* [11-30-2024 - California, United States](https://ebird.org/checklist/S204068913) (Last Sighting / Only Recording)
+* [11-30-2024 - California, United States](https://ebird.org/checklist/S204068913) (Only Recording)
+* [03-15-2025 - California, United States](https://ebird.org/checklist/S218683432) (Last Sighting)
 
 ### Places Seen
 

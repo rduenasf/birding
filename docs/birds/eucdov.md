@@ -3,11 +3,11 @@ title: "Eurasian Collared-Dove"
 scientific_name: "Streptopelia decaocto"
 order: "Columbiformes"
 family: "Columbidae (Pigeons and Doves)"
-description: "Streptopelia decaocto is a species of bird in the Columbidae (Pigeons and Doves) family. It has been observed 9 times. It has been photographed."
+description: "Streptopelia decaocto is a species of bird in the Columbidae (Pigeons and Doves) family. It has been observed 13 times. It has been photographed."
 species_group: "Pigeons and Doves"
 species_code: "eucdov"
 
-sidebar_position: 151
+sidebar_position: 184
 sidebar_class_name: "has-photo "
 tags: 
   - Columbiformes
@@ -38,12 +38,13 @@ The Eurasian collared dove (Streptopelia decaocto), often simply just collared d
 
 * [03-16-2024 - California, United States](https://ebird.org/checklist/S165048752) (First Sighting)
 * [01-05-2025 - California, United States](https://ebird.org/checklist/S208150408) (Only Photo)
-* [01-08-2025 - California, United States](https://ebird.org/checklist/S208562147) (Last Sighting)
+* [06-01-2025 - California, United States](https://ebird.org/checklist/S245649846) (Last Sighting)
 
 ### Places Seen
 
 * California, United States
 * Florida, United States
+* Nouvelle-Aquitaine, France
 
 
 

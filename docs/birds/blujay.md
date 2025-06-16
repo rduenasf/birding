@@ -7,7 +7,7 @@ description: "Cyanocitta cristata is a species of bird in the Corvidae (Crows, J
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "blujay"
 
-sidebar_position: 60
+sidebar_position: 76
 sidebar_class_name: " "
 tags: 
   - Passeriformes

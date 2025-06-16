@@ -7,7 +7,7 @@ description: "Sula brewsteri is a species of bird in the Sulidae (Boobies and Ga
 species_group: "Frigatebirds, Boobies, and Gannets"
 species_code: "cocboo1"
 
-sidebar_position: 119
+sidebar_position: 139
 sidebar_class_name: " "
 tags: 
   - Suliformes

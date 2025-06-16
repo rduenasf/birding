@@ -3,11 +3,11 @@ title: "Nuttall's Woodpecker"
 scientific_name: "Dryobates nuttallii"
 order: "Piciformes"
 family: "Picidae (Woodpeckers)"
-description: "Dryobates nuttallii is a species of bird in the Picidae (Woodpeckers) family. It has been observed 12 times. It has been recorded."
+description: "Dryobates nuttallii is a species of bird in the Picidae (Woodpeckers) family. It has been observed 19 times. It has been recorded."
 species_group: "Woodpeckers"
 species_code: "nutwoo"
 
-sidebar_position: 267
+sidebar_position: 340
 sidebar_class_name: " has-audio"
 tags: 
   - Piciformes
@@ -39,7 +39,7 @@ Nuttall's woodpecker (Dryobates nuttallii) is a species of woodpecker named afte
 * [12-02-2023 - California, United States](https://ebird.org/checklist/S155611564) (First Sighting)
 * [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (First Recording)
 * [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (Best Recording)
-* [01-10-2025 - California, United States](https://ebird.org/checklist/S208779826) (Last Sighting)
+* [06-14-2025 - California, United States](https://ebird.org/checklist/S250753344) (Last Sighting)
 
 ### Places Seen
 

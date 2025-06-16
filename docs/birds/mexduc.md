@@ -7,7 +7,7 @@ description: "Anas diazi is a species of bird in the Anatidae (Ducks, Geese, and
 species_group: "Waterfowl"
 species_code: "mexduc"
 
-sidebar_position: 243
+sidebar_position: 313
 sidebar_class_name: " "
 tags: 
   - Anseriformes

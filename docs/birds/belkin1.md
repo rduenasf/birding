@@ -3,11 +3,11 @@ title: "Belted Kingfisher"
 scientific_name: "Megaceryle alcyon"
 order: "Coraciiformes"
 family: "Alcedinidae (Kingfishers)"
-description: "Megaceryle alcyon is a species of bird in the Alcedinidae (Kingfishers) family. It has been observed 6 times."
+description: "Megaceryle alcyon is a species of bird in the Alcedinidae (Kingfishers) family. It has been observed 7 times."
 species_group: "Kingfishers"
 species_code: "belkin1"
 
-sidebar_position: 33
+sidebar_position: 44
 sidebar_class_name: " "
 tags: 
   - Coraciiformes
@@ -37,7 +37,7 @@ The belted kingfisher (Megaceryle alcyon) is a large, conspicuous water kingfish
 ### Relevant Sightings
 
 * [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
-* [01-15-2025 - California, United States](https://ebird.org/checklist/S209444881) (Last Sighting)
+* [01-18-2025 - California, United States](https://ebird.org/checklist/S209827765) (Last Sighting)
 
 ### Places Seen
 

@@ -7,7 +7,7 @@ description: "Cinclodes fuscus is a species of bird in the Furnariidae (Ovenbird
 species_group: "Ovenbirds"
 species_code: "buwcin1"
 
-sidebar_position: 81
+sidebar_position: 97
 sidebar_class_name: " "
 tags: 
   - Passeriformes

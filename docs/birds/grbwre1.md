@@ -7,7 +7,7 @@ description: "Campylorhynchus megalopterus is a species of bird in the Troglodyt
 species_group: "Wrens"
 species_code: "grbwre1"
 
-sidebar_position: 174
+sidebar_position: 222
 sidebar_class_name: " "
 tags: 
   - Passeriformes

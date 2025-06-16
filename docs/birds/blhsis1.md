@@ -7,7 +7,7 @@ description: "Spinus notatus is a species of bird in the Fringillidae (Finches, 
 species_group: "Finches, Euphonias, and Allies"
 species_code: "blhsis1"
 
-sidebar_position: 52
+sidebar_position: 66
 sidebar_class_name: " "
 tags: 
   - Passeriformes

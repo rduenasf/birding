@@ -3,11 +3,11 @@ title: "Long-billed Dowitcher"
 scientific_name: "Limnodromus scolopaceus"
 order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
-description: "Limnodromus scolopaceus is a species of bird in the Scolopacidae (Sandpipers and Allies) family. It has been observed 7 times. It has been recorded."
+description: "Limnodromus scolopaceus is a species of bird in the Scolopacidae (Sandpipers and Allies) family. It has been observed 8 times. It has been recorded."
 species_group: "Shorebirds"
 species_code: "lobdow"
 
-sidebar_position: 231
+sidebar_position: 297
 sidebar_class_name: " has-audio"
 tags: 
   - Charadriiformes
@@ -38,7 +38,8 @@ The long-billed dowitcher is nearly identical in appearance to the short-billed 
 ### Relevant Sightings
 
 * [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
-* [11-24-2024 - California, United States](https://ebird.org/checklist/S203486069) (Last Sighting / Only Recording)
+* [11-24-2024 - California, United States](https://ebird.org/checklist/S203486069) (Only Recording)
+* [03-15-2025 - California, United States](https://ebird.org/checklist/S218683432) (Last Sighting)
 
 ### Places Seen
 

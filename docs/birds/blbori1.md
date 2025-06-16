@@ -7,7 +7,7 @@ description: "Icterus abeillei is a species of bird in the Icteridae (Troupials 
 species_group: "Blackbirds"
 species_code: "blbori1"
 
-sidebar_position: 41
+sidebar_position: 53
 sidebar_class_name: " "
 tags: 
   - Passeriformes

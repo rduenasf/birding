@@ -3,11 +3,11 @@ title: "Black-chinned Hummingbird"
 scientific_name: "Archilochus alexandri"
 order: "Apodiformes"
 family: "Trochilidae (Hummingbirds)"
-description: "Archilochus alexandri is a species of bird in the Trochilidae (Hummingbirds) family. It has been observed 2 times."
+description: "Archilochus alexandri is a species of bird in the Trochilidae (Hummingbirds) family. It has been observed 3 times."
 species_group: "Hummingbirds"
 species_code: "bkchum"
 
-sidebar_position: 46
+sidebar_position: 58
 sidebar_class_name: " "
 tags: 
   - Apodiformes
@@ -37,7 +37,7 @@ The black-chinned hummingbird (Archilochus alexandri) is a hummingbird occupying
 ### Relevant Sightings
 
 * [04-22-2024 - California, United States](https://ebird.org/checklist/S169885106) (First Sighting)
-* [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170587148) (Last Sighting)
+* [05-16-2025 - California, United States](https://ebird.org/checklist/S238839617) (Last Sighting)
 
 ### Places Seen
 

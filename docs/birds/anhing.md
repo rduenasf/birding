@@ -7,7 +7,7 @@ description: "Anhinga anhinga is a species of bird in the Anhingidae (Anhingas) 
 species_group: "Cormorants and Anhingas"
 species_code: "anhing"
 
-sidebar_position: 19
+sidebar_position: 26
 sidebar_class_name: " "
 tags: 
   - Suliformes

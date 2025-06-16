@@ -7,7 +7,7 @@ description: "Peucaea ruficauda is a species of bird in the Passerellidae (New W
 species_group: "New World Sparrows"
 species_code: "sthspa1"
 
-sidebar_position: 361
+sidebar_position: 449
 sidebar_class_name: " "
 tags: 
   - Passeriformes

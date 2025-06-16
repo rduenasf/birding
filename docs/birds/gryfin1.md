@@ -7,7 +7,7 @@ description: "Sicalis luteola is a species of bird in the Thraupidae (Tanagers a
 species_group: "Tanagers and Allies"
 species_code: "gryfin1"
 
-sidebar_position: 170
+sidebar_position: 217
 sidebar_class_name: " "
 tags: 
   - Passeriformes

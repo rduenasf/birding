@@ -7,7 +7,7 @@ description: "Psittacara erythrogenys is a species of bird in the Psittacidae (N
 species_group: "Parrots, Parakeets, and Allies"
 species_code: "rempar"
 
-sidebar_position: 301
+sidebar_position: 380
 sidebar_class_name: " "
 tags: 
   - Psittaciformes

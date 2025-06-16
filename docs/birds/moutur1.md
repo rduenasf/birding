@@ -7,7 +7,7 @@ description: "Pteroptochos megapodius is a species of bird in the Rhinocryptidae
 species_group: "Tapaculos"
 species_code: "moutur1"
 
-sidebar_position: 253
+sidebar_position: 324
 sidebar_class_name: " "
 tags: 
   - Passeriformes

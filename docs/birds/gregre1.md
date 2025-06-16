@@ -7,7 +7,7 @@ description: "Podiceps major is a species of bird in the Podicipedidae (Grebes) 
 species_group: "Grebes"
 species_code: "gregre1"
 
-sidebar_position: 180
+sidebar_position: 232
 sidebar_class_name: "has-photo "
 tags: 
   - Podicipediformes

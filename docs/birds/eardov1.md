@@ -7,7 +7,7 @@ description: "Zenaida auriculata is a species of bird in the Columbidae (Pigeons
 species_group: "Pigeons and Doves"
 species_code: "eardov1"
 
-sidebar_position: 145
+sidebar_position: 174
 sidebar_class_name: " "
 tags: 
   - Columbiformes

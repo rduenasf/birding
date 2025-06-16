@@ -3,11 +3,11 @@ title: "Black-headed Grosbeak"
 scientific_name: "Pheucticus melanocephalus"
 order: "Passeriformes"
 family: "Cardinalidae (Cardinals and Allies)"
-description: "Pheucticus melanocephalus is a species of bird in the Cardinalidae (Cardinals and Allies) family. It has been observed 13 times."
+description: "Pheucticus melanocephalus is a species of bird in the Cardinalidae (Cardinals and Allies) family. It has been observed 14 times."
 species_group: "Cardinals, Grosbeaks, and Allies"
 species_code: "bkhgro"
 
-sidebar_position: 51
+sidebar_position: 63
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -38,7 +38,7 @@ The 19 cm (7.5 in) long, 47 g (1.7 oz) black-headed grosbeak is a migratory bird
 ### Relevant Sightings
 
 * [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170587140) (First Sighting)
-* [05-26-2024 - California, United States](https://ebird.org/checklist/S177248811) (Last Sighting)
+* [05-24-2025 - California, United States](https://ebird.org/checklist/S241928811) (Last Sighting)
 
 ### Places Seen
 

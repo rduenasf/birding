@@ -7,7 +7,7 @@ description: "Dryobates scalaris is a species of bird in the Picidae (Woodpecker
 species_group: "Woodpeckers"
 species_code: "labwoo"
 
-sidebar_position: 217
+sidebar_position: 278
 sidebar_class_name: " "
 tags: 
   - Piciformes

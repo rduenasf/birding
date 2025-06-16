@@ -3,11 +3,11 @@ title: "Wild Turkey"
 scientific_name: "Meleagris gallopavo"
 order: "Galliformes"
 family: "Phasianidae (Pheasants, Grouse, and Allies)"
-description: "Meleagris gallopavo is a species of bird in the Phasianidae (Pheasants, Grouse, and Allies) family. It has been observed 14 times. It has been photographed. It has been recorded."
+description: "Meleagris gallopavo is a species of bird in the Phasianidae (Pheasants, Grouse, and Allies) family. It has been observed 16 times. It has been photographed. It has been recorded."
 species_group: "Grouse, Quail, and Allies"
 species_code: "wiltur"
 
-sidebar_position: 419
+sidebar_position: 523
 sidebar_class_name: "has-photo has-audio"
 tags: 
   - Galliformes
@@ -39,7 +39,7 @@ The wild turkey (Meleagris gallopavo) is an upland game bird native to North Ame
 * [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
 * [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (Only Recording)
 * [11-17-2024 - California, United States](https://ebird.org/checklist/S202811385) (Only Photo)
-* [01-05-2025 - California, United States](https://ebird.org/checklist/S208150408) (Last Sighting)
+* [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Last Sighting)
 
 ### Places Seen
 

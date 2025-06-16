@@ -7,7 +7,7 @@ description: "Contopus pertinax is a species of bird in the Tyrannidae (Tyrant F
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "grepew"
 
-sidebar_position: 184
+sidebar_position: 237
 sidebar_class_name: " "
 tags: 
   - Passeriformes

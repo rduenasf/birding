@@ -7,7 +7,7 @@ description: "Setophaga occidentalis is a species of bird in the Parulidae (New 
 species_group: "Wood-Warblers"
 species_code: "herwar"
 
-sidebar_position: 204
+sidebar_position: 263
 sidebar_class_name: " "
 tags: 
   - Passeriformes

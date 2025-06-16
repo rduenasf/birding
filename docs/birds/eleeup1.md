@@ -7,7 +7,7 @@ description: "Chlorophonia elegantissima is a species of bird in the Fringillida
 species_group: "Finches, Euphonias, and Allies"
 species_code: "eleeup1"
 
-sidebar_position: 149
+sidebar_position: 179
 sidebar_class_name: " "
 tags: 
   - Passeriformes

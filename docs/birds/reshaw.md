@@ -3,11 +3,11 @@ title: "Red-shouldered Hawk"
 scientific_name: "Buteo lineatus"
 order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
-description: "Buteo lineatus is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 10 times. It has been photographed."
+description: "Buteo lineatus is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 16 times. It has been photographed."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "reshaw"
 
-sidebar_position: 303
+sidebar_position: 382
 sidebar_class_name: "has-photo "
 tags: 
   - Accipitriformes
@@ -40,7 +40,8 @@ The red-shouldered hawk (Buteo lineatus) is a medium-sized buteo. Its breeding r
 
 * [02-18-2024 - California, United States](https://ebird.org/checklist/S162086255) (First Sighting)
 * [07-05-2024 - Florida, United States](https://ebird.org/checklist/S185489786) (First Photo)
-* [01-10-2025 - California, United States](https://ebird.org/checklist/S208779826) (Last Sighting / Last and Best Photo)
+* [01-10-2025 - California, United States](https://ebird.org/checklist/S208779826) (Best Photo)
+* [06-14-2025 - California, United States](https://ebird.org/checklist/S250753679) (Last Sighting)
 
 ### Places Seen
 

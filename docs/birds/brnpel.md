@@ -7,7 +7,7 @@ description: "Pelecanus occidentalis is a species of bird in the Pelecanidae (Pe
 species_group: "Pelicans"
 species_code: "brnpel"
 
-sidebar_position: 75
+sidebar_position: 91
 sidebar_class_name: "has-photo "
 tags: 
   - Pelecaniformes

@@ -7,7 +7,7 @@ description: "Rhopospina alaudina is a species of bird in the Thraupidae (Tanage
 species_group: "Tanagers and Allies"
 species_code: "btsfin1"
 
-sidebar_position: 29
+sidebar_position: 37
 sidebar_class_name: " "
 tags: 
   - Passeriformes

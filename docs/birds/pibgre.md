@@ -3,11 +3,11 @@ title: "Pied-billed Grebe"
 scientific_name: "Podilymbus podiceps"
 order: "Podicipediformes"
 family: "Podicipedidae (Grebes)"
-description: "Podilymbus podiceps is a species of bird in the Podicipedidae (Grebes) family. It has been observed 29 times. It has been photographed. It has been recorded."
+description: "Podilymbus podiceps is a species of bird in the Podicipedidae (Grebes) family. It has been observed 31 times. It has been photographed. It has been recorded."
 species_group: "Grebes"
 species_code: "pibgre"
 
-sidebar_position: 282
+sidebar_position: 357
 sidebar_class_name: "has-photo has-audio"
 tags: 
   - Podicipediformes
@@ -40,7 +40,7 @@ The pied-billed grebe (Podilymbus podiceps) is a species of the grebe family of 
 * [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (Only Recording)
 * [01-08-2025 - California, United States](https://ebird.org/checklist/S208562147) (First Photo)
 * [01-12-2025 - California, United States](https://ebird.org/checklist/S209042786) (Best Photo)
-* [01-15-2025 - California, United States](https://ebird.org/checklist/S209444881) (Last Sighting)
+* [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Last Sighting)
 
 ### Places Seen
 

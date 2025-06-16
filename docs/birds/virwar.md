@@ -7,7 +7,7 @@ description: "Leiothlypis virginiae is a species of bird in the Parulidae (New W
 species_group: "Wood-Warblers"
 species_code: "virwar"
 
-sidebar_position: 387
+sidebar_position: 482
 sidebar_class_name: " "
 tags: 
   - Passeriformes

@@ -7,7 +7,7 @@ description: "Haematopus bachmani is a species of bird in the Haematopodidae (Oy
 species_group: "Shorebirds"
 species_code: "blkoys"
 
-sidebar_position: 36
+sidebar_position: 48
 sidebar_class_name: "has-photo "
 tags: 
   - Charadriiformes

@@ -7,7 +7,7 @@ description: "Vanellus chilensis is a species of bird in the Charadriidae (Plove
 species_group: "Shorebirds"
 species_code: "soulap1"
 
-sidebar_position: 353
+sidebar_position: 436
 sidebar_class_name: "has-photo "
 tags: 
   - Charadriiformes

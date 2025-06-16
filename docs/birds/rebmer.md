@@ -3,11 +3,11 @@ title: "Red-breasted Merganser"
 scientific_name: "Mergus serrator"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
-description: "Mergus serrator is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 7 times."
+description: "Mergus serrator is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 8 times."
 species_group: "Waterfowl"
 species_code: "rebmer"
 
-sidebar_position: 296
+sidebar_position: 373
 sidebar_class_name: " "
 tags: 
   - Anseriformes
@@ -37,11 +37,12 @@ The red-breasted merganser (Mergus serrator) is a duck species that is native to
 ### Relevant Sightings
 
 * [02-24-2024 - California, United States](https://ebird.org/checklist/S162799737) (First Sighting)
-* [04-13-2024 - Ontario, Canada](https://ebird.org/checklist/S168448531) (Last Sighting)
+* [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213397788) (Last Sighting)
 
 ### Places Seen
 
 * California, United States
+* Flevoland, Netherlands
 * Ontario, Canada
 
 

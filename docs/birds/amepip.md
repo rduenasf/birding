@@ -3,11 +3,11 @@ title: "American Pipit"
 scientific_name: "Anthus rubescens"
 order: "Passeriformes"
 family: "Motacillidae (Wagtails and Pipits)"
-description: "Anthus rubescens is a species of bird in the Motacillidae (Wagtails and Pipits) family. It has been observed 9 times. It has been recorded."
+description: "Anthus rubescens is a species of bird in the Motacillidae (Wagtails and Pipits) family. It has been observed 10 times. It has been recorded."
 species_group: "Wagtails and Pipits"
 species_code: "amepip"
 
-sidebar_position: 12
+sidebar_position: 19
 sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
@@ -38,7 +38,7 @@ The American pipit (Anthus rubescens), formerly known as the Buff-bellied pipit,
 
 * [01-15-2024 - California, United States](https://ebird.org/checklist/S159001730) (First Sighting)
 * [11-24-2024 - California, United States](https://ebird.org/checklist/S203486069) (First/Best Recording)
-* [12-23-2024 - California, United States](https://ebird.org/checklist/S206318000) (Last Sighting)
+* [03-16-2025 - California, United States](https://ebird.org/checklist/S218905671) (Last Sighting)
 
 ### Places Seen
 

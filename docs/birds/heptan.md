@@ -7,7 +7,7 @@ description: "Piranga flava is a species of bird in the Cardinalidae (Cardinals 
 species_group: "Cardinals, Grosbeaks, and Allies"
 species_code: "heptan"
 
-sidebar_position: 202
+sidebar_position: 261
 sidebar_class_name: " "
 tags: 
   - Passeriformes

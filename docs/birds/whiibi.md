@@ -7,7 +7,7 @@ description: "Eudocimus albus is a species of bird in the Threskiornithidae (Ibi
 species_group: "Herons, Ibis, and Allies"
 species_code: "whiibi"
 
-sidebar_position: 402
+sidebar_position: 498
 sidebar_class_name: " "
 tags: 
   - Pelecaniformes

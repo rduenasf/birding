@@ -7,7 +7,7 @@ description: "Cygnus melancoryphus is a species of bird in the Anatidae (Ducks, 
 species_group: "Waterfowl"
 species_code: "blnswa2"
 
-sidebar_position: 54
+sidebar_position: 68
 sidebar_class_name: " "
 tags: 
   - Anseriformes

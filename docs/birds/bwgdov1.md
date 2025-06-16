@@ -7,7 +7,7 @@ description: "Metriopelia melanoptera is a species of bird in the Columbidae (Pi
 species_group: "Pigeons and Doves"
 species_code: "bwgdov1"
 
-sidebar_position: 58
+sidebar_position: 72
 sidebar_class_name: " "
 tags: 
   - Columbiformes

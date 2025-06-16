@@ -7,7 +7,7 @@ description: "Arenaria melanocephala is a species of bird in the Scolopacidae (S
 species_group: "Shorebirds"
 species_code: "blktur"
 
-sidebar_position: 39
+sidebar_position: 51
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

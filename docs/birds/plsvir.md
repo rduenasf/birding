@@ -7,7 +7,7 @@ description: "Vireo plumbeus is a species of bird in the Vireonidae (Vireos, Shr
 species_group: "Vireos"
 species_code: "plsvir"
 
-sidebar_position: 288
+sidebar_position: 364
 sidebar_class_name: " "
 tags: 
   - Passeriformes

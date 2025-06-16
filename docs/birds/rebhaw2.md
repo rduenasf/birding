@@ -7,7 +7,7 @@ description: "Geranoaetus polyosoma is a species of bird in the Accipitridae (Ha
 species_group: "Vultures, Hawks, and Allies"
 species_code: "rebhaw2"
 
-sidebar_position: 379
+sidebar_position: 472
 sidebar_class_name: " "
 tags: 
   - Accipitriformes

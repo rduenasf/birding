@@ -7,7 +7,7 @@ description: "Leistes loyca is a species of bird in the Icteridae (Troupials and
 species_group: "Blackbirds"
 species_code: "lotmea1"
 
-sidebar_position: 233
+sidebar_position: 300
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes

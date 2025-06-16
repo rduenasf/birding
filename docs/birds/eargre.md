@@ -3,11 +3,11 @@ title: "Eared Grebe"
 scientific_name: "Podiceps nigricollis"
 order: "Podicipediformes"
 family: "Podicipedidae (Grebes)"
-description: "Podiceps nigricollis is a species of bird in the Podicipedidae (Grebes) family. It has been observed 5 times. It has been photographed."
+description: "Podiceps nigricollis is a species of bird in the Podicipedidae (Grebes) family. It has been observed 6 times. It has been photographed."
 species_group: "Grebes"
 species_code: "eargre"
 
-sidebar_position: 146
+sidebar_position: 175
 sidebar_class_name: "has-photo "
 tags: 
   - Podicipediformes
@@ -39,7 +39,8 @@ Although it generally avoids flight, the black-necked grebe travels as far as 6,
 ### Relevant Sightings
 
 * [12-02-2023 - California, United States](https://ebird.org/checklist/S155611564) (First Sighting)
-* [01-12-2025 - California, United States](https://ebird.org/checklist/S209042786) (Last Sighting / Only Photo)
+* [01-12-2025 - California, United States](https://ebird.org/checklist/S209042786) (Only Photo)
+* [03-16-2025 - California, United States](https://ebird.org/checklist/S218905671) (Last Sighting)
 
 ### Places Seen
 

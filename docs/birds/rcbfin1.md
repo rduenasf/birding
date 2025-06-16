@@ -7,7 +7,7 @@ description: "Atlapetes pileatus is a species of bird in the Passerellidae (New 
 species_group: "New World Sparrows"
 species_code: "rcbfin1"
 
-sidebar_position: 324
+sidebar_position: 405
 sidebar_class_name: " "
 tags: 
   - Passeriformes

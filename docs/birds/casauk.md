@@ -7,7 +7,7 @@ description: "Ptychoramphus aleuticus is a species of bird in the Alcidae (Auks,
 species_group: "Alcids"
 species_code: "casauk"
 
-sidebar_position: 100
+sidebar_position: 118
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

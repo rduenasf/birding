@@ -7,7 +7,7 @@ description: "Morus bassanus is a species of bird in the Sulidae (Boobies and Ga
 species_group: "Frigatebirds, Boobies, and Gannets"
 species_code: "norgan"
 
-sidebar_position: 259
+sidebar_position: 331
 sidebar_class_name: " "
 tags: 
   - Suliformes

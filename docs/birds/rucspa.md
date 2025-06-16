@@ -3,11 +3,11 @@ title: "Rufous-crowned Sparrow"
 scientific_name: "Aimophila ruficeps"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
-description: "Aimophila ruficeps is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 1 times."
+description: "Aimophila ruficeps is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 2 times."
 species_group: "New World Sparrows"
 species_code: "rucspa"
 
-sidebar_position: 327
+sidebar_position: 408
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -37,11 +37,13 @@ These sparrows feed primarily on seeds in the winter and insects in the spring a
 
 ### Relevant Sightings
 
-* [04-28-2024 - Arizona, United States](https://ebird.org/checklist/S170824758) (Only Sighting)
+* [04-28-2024 - Arizona, United States](https://ebird.org/checklist/S170824758) (First Sighting)
+* [06-01-2025 - California, United States](https://ebird.org/checklist/S245649846) (Last Sighting)
 
 ### Places Seen
 
 * Arizona, United States
+* California, United States
 
 
 

@@ -7,7 +7,7 @@ description: "Numenius phaeopus is a species of bird in the Scolopacidae (Sandpi
 species_group: "Shorebirds"
 species_code: "whimbr"
 
-sidebar_position: 401
+sidebar_position: 497
 sidebar_class_name: "has-photo "
 tags: 
   - Charadriiformes

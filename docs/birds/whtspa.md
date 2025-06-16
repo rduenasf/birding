@@ -7,7 +7,7 @@ description: "Zonotrichia albicollis is a species of bird in the Passerellidae (
 species_group: "New World Sparrows"
 species_code: "whtspa"
 
-sidebar_position: 413
+sidebar_position: 516
 sidebar_class_name: " "
 tags: 
   - Passeriformes

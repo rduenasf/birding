@@ -7,7 +7,7 @@ description: "Pyrocephalus rubinus is a species of bird in the Tyrannidae (Tyran
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "verfly"
 
-sidebar_position: 383
+sidebar_position: 477
 sidebar_class_name: " "
 tags: 
   - Passeriformes

@@ -7,7 +7,7 @@ description: "Thryothorus ludovicianus is a species of bird in the Troglodytidae
 species_group: "Wrens"
 species_code: "carwre"
 
-sidebar_position: 98
+sidebar_position: 114
 sidebar_class_name: " "
 tags: 
   - Passeriformes

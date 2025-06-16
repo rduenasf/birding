@@ -7,7 +7,7 @@ description: "Daptrius chimango is a species of bird in the Falconidae (Falcons 
 species_group: "Falcons and Caracaras"
 species_code: "chicar1"
 
-sidebar_position: 112
+sidebar_position: 131
 sidebar_class_name: "has-photo "
 tags: 
   - Falconiformes

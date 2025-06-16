@@ -7,7 +7,7 @@ description: "Accipiter striatus is a species of bird in the Accipitridae (Hawks
 species_group: "Vultures, Hawks, and Allies"
 species_code: "shshaw"
 
-sidebar_position: 341
+sidebar_position: 422
 sidebar_class_name: " "
 tags: 
   - Accipitriformes

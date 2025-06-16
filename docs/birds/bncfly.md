@@ -7,7 +7,7 @@ description: "Myiarchus tyrannulus is a species of bird in the Tyrannidae (Tyran
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "bncfly"
 
-sidebar_position: 77
+sidebar_position: 93
 sidebar_class_name: " "
 tags: 
   - Passeriformes

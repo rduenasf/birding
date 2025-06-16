@@ -7,7 +7,7 @@ description: "Turdus falcklandii is a species of bird in the Turdidae (Thrushes 
 species_group: "Thrushes"
 species_code: "austhr1"
 
-sidebar_position: 25
+sidebar_position: 32
 sidebar_class_name: " "
 tags: 
   - Passeriformes

@@ -7,7 +7,7 @@ description: "Momotus mexicanus is a species of bird in the Momotidae (Motmots) 
 species_group: "Motmots"
 species_code: "rucmot1"
 
-sidebar_position: 331
+sidebar_position: 412
 sidebar_class_name: " "
 tags: 
   - Coraciiformes

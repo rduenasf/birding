@@ -7,7 +7,7 @@ description: "Lophodytes cucullatus is a species of bird in the Anatidae (Ducks,
 species_group: "Waterfowl"
 species_code: "hoomer"
 
-sidebar_position: 205
+sidebar_position: 264
 sidebar_class_name: " "
 tags: 
   - Anseriformes

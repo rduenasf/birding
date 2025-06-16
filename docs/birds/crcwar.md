@@ -7,7 +7,7 @@ description: "Oreothlypis superciliosa is a species of bird in the Parulidae (Ne
 species_group: "Wood-Warblers"
 species_code: "crcwar"
 
-sidebar_position: 135
+sidebar_position: 163
 sidebar_class_name: " "
 tags: 
   - Passeriformes

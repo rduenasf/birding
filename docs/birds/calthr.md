@@ -7,7 +7,7 @@ description: "Toxostoma redivivum is a species of bird in the Mimidae (Mockingbi
 species_group: "Catbirds, Mockingbirds, and Thrashers"
 species_code: "calthr"
 
-sidebar_position: 92
+sidebar_position: 108
 sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes

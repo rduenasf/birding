@@ -7,7 +7,7 @@ description: "Leucophaeus atricilla is a species of bird in the Laridae (Gulls, 
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "laugul"
 
-sidebar_position: 220
+sidebar_position: 282
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

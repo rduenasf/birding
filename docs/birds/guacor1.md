@@ -7,7 +7,7 @@ description: "Leucocarbo bougainvilliorum is a species of bird in the Phalacroco
 species_group: "Cormorants and Anhingas"
 species_code: "guacor1"
 
-sidebar_position: 195
+sidebar_position: 250
 sidebar_class_name: " "
 tags: 
   - Suliformes

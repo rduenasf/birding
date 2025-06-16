@@ -7,7 +7,7 @@ description: "Calidris mauri is a species of bird in the Scolopacidae (Sandpiper
 species_group: "Shorebirds"
 species_code: "wessan"
 
-sidebar_position: 398
+sidebar_position: 494
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

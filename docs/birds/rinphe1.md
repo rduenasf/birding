@@ -7,7 +7,7 @@ description: "Phasianus colchicus is a species of bird in the Phasianidae (Pheas
 species_group: "Grouse, Quail, and Allies"
 species_code: "rinphe1"
 
-sidebar_position: 312
+sidebar_position: 392
 sidebar_class_name: " "
 tags: 
   - Galliformes

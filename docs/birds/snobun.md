@@ -7,7 +7,7 @@ description: "Plectrophenax nivalis is a species of bird in the Calcariidae (Lon
 species_group: "Longspurs and Snow Buntings"
 species_code: "snobun"
 
-sidebar_position: 346
+sidebar_position: 429
 sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes

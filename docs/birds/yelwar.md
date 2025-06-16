@@ -7,7 +7,7 @@ description: "Setophaga petechia is a species of bird in the Parulidae (New Worl
 species_group: "Wood-Warblers"
 species_code: "yelwar"
 
-sidebar_position: 427
+sidebar_position: 532
 sidebar_class_name: " "
 tags: 
   - Passeriformes

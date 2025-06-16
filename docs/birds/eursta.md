@@ -3,11 +3,11 @@ title: "European Starling"
 scientific_name: "Sturnus vulgaris"
 order: "Passeriformes"
 family: "Sturnidae (Starlings)"
-description: "Sturnus vulgaris is a species of bird in the Sturnidae (Starlings) family. It has been observed 15 times. It has been recorded."
+description: "Sturnus vulgaris is a species of bird in the Sturnidae (Starlings) family. It has been observed 23 times. It has been recorded."
 species_group: "Starlings and Mynas"
 species_code: "eursta"
 
-sidebar_position: 152
+sidebar_position: 197
 sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
@@ -41,12 +41,15 @@ The species has declined in numbers in parts of northern and western Europe sinc
 
 * [01-28-2024 - California, United States](https://ebird.org/checklist/S160074927) (First Sighting)
 * [11-28-2024 - California, United States](https://ebird.org/checklist/S203889552) (Only Recording)
-* [01-13-2025 - California, United States](https://ebird.org/checklist/S209208311) (Last Sighting)
+* [06-04-2025 - California, United States](https://ebird.org/checklist/S246638509) (Last Sighting)
 
 ### Places Seen
 
 * Arizona, United States
 * California, United States
+* Flevoland, Netherlands
+* Noord-Holland, Netherlands
+* Nouvelle-Aquitaine, France
 * Ontario, Canada
 
 

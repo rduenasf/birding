@@ -7,7 +7,7 @@ description: "Ardenna creatopus is a species of bird in the Procellariidae (Shea
 species_group: "Petrels, Shearwaters, and Diving-Petrels"
 species_code: "pifshe"
 
-sidebar_position: 286
+sidebar_position: 362
 sidebar_class_name: " "
 tags: 
   - Procellariiformes

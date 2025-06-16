@@ -3,11 +3,11 @@ title: "American White Pelican"
 scientific_name: "Pelecanus erythrorhynchos"
 order: "Pelecaniformes"
 family: "Pelecanidae (Pelicans)"
-description: "Pelecanus erythrorhynchos is a species of bird in the Pelecanidae (Pelicans) family. It has been observed 13 times. It has been photographed."
+description: "Pelecanus erythrorhynchos is a species of bird in the Pelecanidae (Pelicans) family. It has been observed 14 times. It has been photographed."
 species_group: "Pelicans"
 species_code: "amwpel"
 
-sidebar_position: 14
+sidebar_position: 21
 sidebar_class_name: "has-photo "
 tags: 
   - Pelecaniformes
@@ -37,7 +37,8 @@ The American white pelican (Pelecanus erythrorhynchos) is a large aquatic soarin
 ### Relevant Sightings
 
 * [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
-* [01-12-2025 - California, United States](https://ebird.org/checklist/S209042786) (Last Sighting / Only Photo)
+* [01-12-2025 - California, United States](https://ebird.org/checklist/S209042786) (Only Photo)
+* [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Last Sighting)
 
 ### Places Seen
 

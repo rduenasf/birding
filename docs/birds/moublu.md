@@ -7,7 +7,7 @@ description: "Sialia currucoides is a species of bird in the Turdidae (Thrushes 
 species_group: "Thrushes"
 species_code: "moublu"
 
-sidebar_position: 246
+sidebar_position: 317
 sidebar_class_name: " "
 tags: 
   - Passeriformes

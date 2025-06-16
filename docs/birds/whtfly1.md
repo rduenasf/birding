@@ -7,7 +7,7 @@ description: "Empidonax albigularis is a species of bird in the Tyrannidae (Tyra
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "whtfly1"
 
-sidebar_position: 412
+sidebar_position: 515
 sidebar_class_name: " "
 tags: 
   - Passeriformes

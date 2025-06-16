@@ -7,7 +7,7 @@ description: "Spinus pinus is a species of bird in the Fringillidae (Finches, Eu
 species_group: "Finches, Euphonias, and Allies"
 species_code: "pinsis"
 
-sidebar_position: 285
+sidebar_position: 361
 sidebar_class_name: " "
 tags: 
   - Passeriformes

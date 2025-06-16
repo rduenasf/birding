@@ -3,11 +3,11 @@ title: "Northern Shoveler"
 scientific_name: "Spatula clypeata"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
-description: "Spatula clypeata is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 24 times. It has been recorded."
+description: "Spatula clypeata is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 29 times. It has been recorded."
 species_group: "Waterfowl"
 species_code: "norsho"
 
-sidebar_position: 265
+sidebar_position: 338
 sidebar_class_name: " has-audio"
 tags: 
   - Anseriformes
@@ -39,11 +39,12 @@ The northern shoveler is one of the species to which the Agreement on the Conser
 
 * [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
 * [11-30-2024 - California, United States](https://ebird.org/checklist/S204068913) (First/Best Recording)
-* [01-12-2025 - California, United States](https://ebird.org/checklist/S209042786) (Last Sighting)
+* [03-16-2025 - California, United States](https://ebird.org/checklist/S218905671) (Last Sighting)
 
 ### Places Seen
 
 * California, United States
+* Flevoland, Netherlands
 
 
 

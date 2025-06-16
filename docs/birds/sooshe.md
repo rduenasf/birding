@@ -7,7 +7,7 @@ description: "Ardenna grisea is a species of bird in the Procellariidae (Shearwa
 species_group: "Petrels, Shearwaters, and Diving-Petrels"
 species_code: "sooshe"
 
-sidebar_position: 350
+sidebar_position: 433
 sidebar_class_name: " "
 tags: 
   - Procellariiformes

@@ -7,7 +7,7 @@ description: "Nothoprocta perdicaria is a species of bird in the Tinamidae (Tina
 species_group: "Tinamous"
 species_code: "chitin1"
 
-sidebar_position: 110
+sidebar_position: 129
 sidebar_class_name: " "
 tags: 
   - Tinamiformes

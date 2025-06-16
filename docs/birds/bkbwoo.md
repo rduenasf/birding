@@ -7,7 +7,7 @@ description: "Picoides arcticus is a species of bird in the Picidae (Woodpeckers
 species_group: "Woodpeckers"
 species_code: "bkbwoo"
 
-sidebar_position: 42
+sidebar_position: 54
 sidebar_class_name: " "
 tags: 
   - Piciformes

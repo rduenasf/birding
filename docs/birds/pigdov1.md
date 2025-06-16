@@ -7,7 +7,7 @@ description: "Columbina picui is a species of bird in the Columbidae (Pigeons an
 species_group: "Pigeons and Doves"
 species_code: "pigdov1"
 
-sidebar_position: 281
+sidebar_position: 355
 sidebar_class_name: " "
 tags: 
   - Columbiformes

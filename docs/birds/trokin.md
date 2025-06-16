@@ -7,7 +7,7 @@ description: "Tyrannus melancholicus is a species of bird in the Tyrannidae (Tyr
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "trokin"
 
-sidebar_position: 374
+sidebar_position: 465
 sidebar_class_name: " "
 tags: 
   - Passeriformes

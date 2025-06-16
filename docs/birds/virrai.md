@@ -7,7 +7,7 @@ description: "Rallus limicola is a species of bird in the Rallidae (Rails, Galli
 species_group: "Rails, Gallinules, and Allies"
 species_code: "virrai"
 
-sidebar_position: 386
+sidebar_position: 481
 sidebar_class_name: " "
 tags: 
   - Gruiformes

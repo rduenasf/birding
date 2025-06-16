@@ -7,7 +7,7 @@ description: "Phrygilus gayi is a species of bird in the Thraupidae (Tanagers an
 species_group: "Tanagers and Allies"
 species_code: "gyhsif1"
 
-sidebar_position: 177
+sidebar_position: 226
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes

@@ -7,7 +7,7 @@ description: "Patagioenas araucana is a species of bird in the Columbidae (Pigeo
 species_group: "Pigeons and Doves"
 species_code: "chipig2"
 
-sidebar_position: 108
+sidebar_position: 127
 sidebar_class_name: "has-photo "
 tags: 
   - Columbiformes

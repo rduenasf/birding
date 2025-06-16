@@ -7,7 +7,7 @@ description: "Uria aalge is a species of bird in the Alcidae (Auks, Murres, and 
 species_group: "Alcids"
 species_code: "commur"
 
-sidebar_position: 126
+sidebar_position: 151
 sidebar_class_name: "has-photo "
 tags: 
   - Charadriiformes

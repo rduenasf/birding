@@ -3,11 +3,11 @@ title: "California Quail"
 scientific_name: "Callipepla californica"
 order: "Galliformes"
 family: "Odontophoridae (New World Quail)"
-description: "Callipepla californica is a species of bird in the Odontophoridae (New World Quail) family. It has been observed 9 times. It has been recorded."
+description: "Callipepla californica is a species of bird in the Odontophoridae (New World Quail) family. It has been observed 11 times. It has been recorded."
 species_group: "Grouse, Quail, and Allies"
 species_code: "calqua"
 
-sidebar_position: 90
+sidebar_position: 106
 sidebar_class_name: " has-audio"
 tags: 
   - Galliformes
@@ -39,7 +39,7 @@ Their closest relative is Gambel's quail, which has a more southerly distributio
 
 * [05-10-2024 - California, United States](https://ebird.org/checklist/S173221717) (First Sighting)
 * [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (First/Best Recording)
-* [12-08-2024 - California, United States](https://ebird.org/checklist/S204849205) (Last Sighting)
+* [06-01-2025 - California, United States](https://ebird.org/checklist/S245649846) (Last Sighting)
 
 ### Places Seen
 

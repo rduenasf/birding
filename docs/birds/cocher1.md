@@ -7,7 +7,7 @@ description: "Ardea cocoi is a species of bird in the Ardeidae (Herons, Egrets, 
 species_group: "Herons, Ibis, and Allies"
 species_code: "cocher1"
 
-sidebar_position: 118
+sidebar_position: 138
 sidebar_class_name: " "
 tags: 
   - Pelecaniformes

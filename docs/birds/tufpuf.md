@@ -7,7 +7,7 @@ description: "Fratercula cirrhata is a species of bird in the Alcidae (Auks, Mur
 species_group: "Alcids"
 species_code: "tufpuf"
 
-sidebar_position: 376
+sidebar_position: 468
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

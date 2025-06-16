@@ -3,11 +3,11 @@ title: "Mourning Dove"
 scientific_name: "Zenaida macroura"
 order: "Columbiformes"
 family: "Columbidae (Pigeons and Doves)"
-description: "Zenaida macroura is a species of bird in the Columbidae (Pigeons and Doves) family. It has been observed 33 times. It has been recorded."
+description: "Zenaida macroura is a species of bird in the Columbidae (Pigeons and Doves) family. It has been observed 43 times. It has been recorded."
 species_group: "Pigeons and Doves"
 species_code: "moudov"
 
-sidebar_position: 251
+sidebar_position: 322
 sidebar_class_name: " has-audio"
 tags: 
   - Columbiformes
@@ -39,7 +39,7 @@ Mourning doves are light gray and brown and generally muted in color. Males and 
 
 * [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
 * [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (Only Recording)
-* [01-12-2025 - California, United States](https://ebird.org/checklist/S209042786) (Last Sighting)
+* [06-12-2025 - California, United States](https://ebird.org/checklist/S249707687) (Last Sighting)
 
 ### Places Seen
 

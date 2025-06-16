@@ -7,7 +7,7 @@ description: "Callipepla gambelii is a species of bird in the Odontophoridae (Ne
 species_group: "Grouse, Quail, and Allies"
 species_code: "gamqua"
 
-sidebar_position: 158
+sidebar_position: 205
 sidebar_class_name: " "
 tags: 
   - Galliformes

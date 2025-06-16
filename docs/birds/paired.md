@@ -7,7 +7,7 @@ description: "Myioborus pictus is a species of bird in the Parulidae (New World 
 species_group: "Wood-Warblers"
 species_code: "paired"
 
-sidebar_position: 274
+sidebar_position: 347
 sidebar_class_name: " "
 tags: 
   - Passeriformes

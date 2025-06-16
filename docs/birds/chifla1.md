@@ -7,7 +7,7 @@ description: "Phoenicopterus chilensis is a species of bird in the Phoenicopteri
 species_group: "Flamingos"
 species_code: "chifla1"
 
-sidebar_position: 106
+sidebar_position: 125
 sidebar_class_name: " "
 tags: 
   - Phoenicopteriformes

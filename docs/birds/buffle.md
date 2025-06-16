@@ -3,11 +3,11 @@ title: "Bufflehead"
 scientific_name: "Bucephala albeola"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
-description: "Bucephala albeola is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 18 times. It has been photographed."
+description: "Bucephala albeola is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 19 times. It has been photographed."
 species_group: "Waterfowl"
 species_code: "buffle"
 
-sidebar_position: 82
+sidebar_position: 98
 sidebar_class_name: "has-photo "
 tags: 
   - Anseriformes
@@ -38,7 +38,7 @@ The bufflehead (Bucephala albeola) is a small sea duck of the genus Bucephala, t
 
 * [12-02-2023 - California, United States](https://ebird.org/checklist/S155611564) (First Sighting)
 * [01-02-2025 - California, United States](https://ebird.org/checklist/S207761995) (First/Best Photo)
-* [01-15-2025 - California, United States](https://ebird.org/checklist/S209444881) (Last Sighting)
+* [03-16-2025 - California, United States](https://ebird.org/checklist/S218905671) (Last Sighting)
 
 ### Places Seen
 

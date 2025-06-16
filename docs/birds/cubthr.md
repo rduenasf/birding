@@ -7,7 +7,7 @@ description: "Toxostoma curvirostre is a species of bird in the Mimidae (Mocking
 species_group: "Catbirds, Mockingbirds, and Thrashers"
 species_code: "cubthr"
 
-sidebar_position: 136
+sidebar_position: 164
 sidebar_class_name: " "
 tags: 
   - Passeriformes

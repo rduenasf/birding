@@ -7,7 +7,7 @@ description: "Gavia immer is a species of bird in the Gaviidae (Loons) family. I
 species_group: "Loons"
 species_code: "comloo"
 
-sidebar_position: 124
+sidebar_position: 149
 sidebar_class_name: " "
 tags: 
   - Gaviiformes

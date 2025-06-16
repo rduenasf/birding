@@ -7,7 +7,7 @@ description: "Passerina caerulea is a species of bird in the Cardinalidae (Cardi
 species_group: "Cardinals, Grosbeaks, and Allies"
 species_code: "blugrb1"
 
-sidebar_position: 59
+sidebar_position: 75
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes

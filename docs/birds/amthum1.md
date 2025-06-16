@@ -7,7 +7,7 @@ description: "Lampornis amethystinus is a species of bird in the Trochilidae (Hu
 species_group: "Hummingbirds"
 species_code: "amthum1"
 
-sidebar_position: 16
+sidebar_position: 23
 sidebar_class_name: " "
 tags: 
   - Apodiformes

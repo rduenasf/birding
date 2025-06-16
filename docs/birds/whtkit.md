@@ -3,11 +3,11 @@ title: "White-tailed Kite"
 scientific_name: "Elanus leucurus"
 order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
-description: "Elanus leucurus is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 13 times. It has been photographed. It has been recorded."
+description: "Elanus leucurus is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 17 times. It has been photographed. It has been recorded."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "whtkit"
 
-sidebar_position: 411
+sidebar_position: 514
 sidebar_class_name: "has-photo has-audio"
 tags: 
   - Accipitriformes
@@ -39,7 +39,8 @@ The white-tailed kite (Elanus leucurus) is a small raptor found in western North
 * [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
 * [11-23-2024 - California, United States](https://ebird.org/checklist/S203364471) (First/Best Recording)
 * [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (First Photo)
-* [01-05-2025 - California, United States](https://ebird.org/checklist/S208150408) (Last Sighting / Last and Best Photo)
+* [01-05-2025 - California, United States](https://ebird.org/checklist/S208150408) (Best Photo)
+* [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Last Sighting)
 
 ### Places Seen
 

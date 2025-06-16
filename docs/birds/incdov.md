@@ -7,7 +7,7 @@ description: "Columbina inca is a species of bird in the Columbidae (Pigeons and
 species_group: "Pigeons and Doves"
 species_code: "incdov"
 
-sidebar_position: 213
+sidebar_position: 273
 sidebar_class_name: " "
 tags: 
   - Columbiformes

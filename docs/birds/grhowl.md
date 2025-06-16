@@ -7,7 +7,7 @@ description: "Bubo virginianus is a species of bird in the Strigidae (Owls) fami
 species_group: "Owls"
 species_code: "grhowl"
 
-sidebar_position: 181
+sidebar_position: 233
 sidebar_class_name: "has-photo "
 tags: 
   - Strigiformes

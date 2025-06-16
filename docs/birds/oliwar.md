@@ -7,7 +7,7 @@ description: "Peucedramus taeniatus is a species of bird in the Peucedramidae (O
 species_group: "Olive Warbler"
 species_code: "oliwar"
 
-sidebar_position: 269
+sidebar_position: 342
 sidebar_class_name: " "
 tags: 
   - Passeriformes

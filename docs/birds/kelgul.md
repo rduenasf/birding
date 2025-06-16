@@ -7,7 +7,7 @@ description: "Larus dominicanus is a species of bird in the Laridae (Gulls, Tern
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "kelgul"
 
-sidebar_position: 215
+sidebar_position: 276
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

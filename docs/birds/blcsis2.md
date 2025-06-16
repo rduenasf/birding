@@ -7,7 +7,7 @@ description: "Spinus barbatus is a species of bird in the Fringillidae (Finches,
 species_group: "Finches, Euphonias, and Allies"
 species_code: "blcsis2"
 
-sidebar_position: 47
+sidebar_position: 59
 sidebar_class_name: " "
 tags: 
   - Passeriformes

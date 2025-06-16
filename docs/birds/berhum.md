@@ -7,7 +7,7 @@ description: "Saucerottia beryllina is a species of bird in the Trochilidae (Hum
 species_group: "Hummingbirds"
 species_code: "berhum"
 
-sidebar_position: 34
+sidebar_position: 45
 sidebar_class_name: " "
 tags: 
   - Apodiformes

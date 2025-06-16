@@ -7,7 +7,7 @@ description: "Salpinctes obsoletus is a species of bird in the Troglodytidae (Wr
 species_group: "Wrens"
 species_code: "rocwre"
 
-sidebar_position: 315
+sidebar_position: 395
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes

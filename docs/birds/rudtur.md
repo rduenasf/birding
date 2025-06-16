@@ -7,7 +7,7 @@ description: "Arenaria interpres is a species of bird in the Scolopacidae (Sandp
 species_group: "Shorebirds"
 species_code: "rudtur"
 
-sidebar_position: 319
+sidebar_position: 400
 sidebar_class_name: "has-photo "
 tags: 
   - Charadriiformes

@@ -3,11 +3,11 @@ title: "Cinnamon Teal"
 scientific_name: "Spatula cyanoptera"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
-description: "Spatula cyanoptera is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 12 times. It has been photographed."
+description: "Spatula cyanoptera is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 14 times. It has been photographed."
 species_group: "Waterfowl"
 species_code: "cintea"
 
-sidebar_position: 114
+sidebar_position: 134
 sidebar_class_name: "has-photo "
 tags: 
   - Anseriformes
@@ -38,7 +38,7 @@ The cinnamon teal (Spatula cyanoptera) is a species of duck found in western Nor
 
 * [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
 * [10-11-2024 - Región Metropolitana de Santiago, Chile](https://ebird.org/checklist/S198398135) (Only Photo)
-* [01-02-2025 - California, United States](https://ebird.org/checklist/S207761995) (Last Sighting)
+* [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Last Sighting)
 
 ### Places Seen
 

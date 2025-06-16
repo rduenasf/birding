@@ -7,7 +7,7 @@ description: "Charadrius semipalmatus is a species of bird in the Charadriidae (
 species_group: "Shorebirds"
 species_code: "semplo"
 
-sidebar_position: 339
+sidebar_position: 420
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

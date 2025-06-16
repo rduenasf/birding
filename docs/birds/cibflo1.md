@@ -7,7 +7,7 @@ description: "Diglossa baritula is a species of bird in the Thraupidae (Tanagers
 species_group: "Tanagers and Allies"
 species_code: "cibflo1"
 
-sidebar_position: 115
+sidebar_position: 135
 sidebar_class_name: " "
 tags: 
   - Passeriformes

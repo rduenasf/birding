@@ -7,7 +7,7 @@ description: "Cynanthus latirostris is a species of bird in the Trochilidae (Hum
 species_group: "Hummingbirds"
 species_code: "brbhum"
 
-sidebar_position: 71
+sidebar_position: 87
 sidebar_class_name: " "
 tags: 
   - Apodiformes

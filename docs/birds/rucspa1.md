@@ -7,7 +7,7 @@ description: "Zonotrichia capensis is a species of bird in the Passerellidae (Ne
 species_group: "New World Sparrows"
 species_code: "rucspa1"
 
-sidebar_position: 326
+sidebar_position: 407
 sidebar_class_name: " "
 tags: 
   - Passeriformes

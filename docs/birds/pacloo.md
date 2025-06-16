@@ -7,7 +7,7 @@ description: "Gavia pacifica is a species of bird in the Gaviidae (Loons) family
 species_group: "Loons"
 species_code: "pacloo"
 
-sidebar_position: 273
+sidebar_position: 346
 sidebar_class_name: " "
 tags: 
   - Gaviiformes

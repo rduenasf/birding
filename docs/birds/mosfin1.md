@@ -7,7 +7,7 @@ description: "Rhopospina fruticeti is a species of bird in the Thraupidae (Tanag
 species_group: "Tanagers and Allies"
 species_code: "mosfin1"
 
-sidebar_position: 252
+sidebar_position: 323
 sidebar_class_name: " "
 tags: 
   - Passeriformes

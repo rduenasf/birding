@@ -7,7 +7,7 @@ description: "Setophaga nigrescens is a species of bird in the Parulidae (New Wo
 species_group: "Wood-Warblers"
 species_code: "btywar"
 
-sidebar_position: 55
+sidebar_position: 69
 sidebar_class_name: " "
 tags: 
   - Passeriformes

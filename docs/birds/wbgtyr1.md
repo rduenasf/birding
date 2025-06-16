@@ -7,7 +7,7 @@ description: "Muscisaxicola albilora is a species of bird in the Tyrannidae (Tyr
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "wbgtyr1"
 
-sidebar_position: 404
+sidebar_position: 503
 sidebar_class_name: " "
 tags: 
   - Passeriformes

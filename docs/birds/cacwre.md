@@ -7,7 +7,7 @@ description: "Campylorhynchus brunneicapillus is a species of bird in the Troglo
 species_group: "Wrens"
 species_code: "cacwre"
 
-sidebar_position: 87
+sidebar_position: 103
 sidebar_class_name: " "
 tags: 
   - Passeriformes

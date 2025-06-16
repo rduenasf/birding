@@ -7,7 +7,7 @@ description: "Pavo cristatus is a species of bird in the Phasianidae (Pheasants,
 species_group: "Grouse, Quail, and Allies"
 species_code: "compea"
 
-sidebar_position: 214
+sidebar_position: 274
 sidebar_class_name: " "
 tags: 
   - Galliformes

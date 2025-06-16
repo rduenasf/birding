@@ -7,7 +7,7 @@ description: "Branta hutchinsii is a species of bird in the Anatidae (Ducks, Gee
 species_group: "Waterfowl"
 species_code: "cacgoo1"
 
-sidebar_position: 86
+sidebar_position: 102
 sidebar_class_name: " has-audio"
 tags: 
   - Anseriformes

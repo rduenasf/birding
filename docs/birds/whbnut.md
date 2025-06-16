@@ -3,11 +3,11 @@ title: "White-breasted Nuthatch"
 scientific_name: "Sitta carolinensis"
 order: "Passeriformes"
 family: "Sittidae (Nuthatches)"
-description: "Sitta carolinensis is a species of bird in the Sittidae (Nuthatches) family. It has been observed 16 times. It has been recorded."
+description: "Sitta carolinensis is a species of bird in the Sittidae (Nuthatches) family. It has been observed 19 times. It has been recorded."
 species_group: "Nuthatches"
 species_code: "whbnut"
 
-sidebar_position: 403
+sidebar_position: 501
 sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
@@ -40,7 +40,8 @@ The white-breasted nuthatch breeds throughout much of North America, except in t
 ### Relevant Sightings
 
 * [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
-* [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (Last Sighting / Only Recording)
+* [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (Only Recording)
+* [06-01-2025 - California, United States](https://ebird.org/checklist/S245649846) (Last Sighting)
 
 ### Places Seen
 

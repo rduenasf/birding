@@ -3,11 +3,11 @@ title: "Greater Scaup"
 scientific_name: "Aythya marila"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
-description: "Aythya marila is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 3 times."
+description: "Aythya marila is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 4 times."
 species_group: "Waterfowl"
 species_code: "gresca"
 
-sidebar_position: 186
+sidebar_position: 239
 sidebar_class_name: " "
 tags: 
   - Anseriformes
@@ -40,11 +40,12 @@ Greater scaup eat aquatic molluscs, plants, and insects, which they obtain by di
 ### Relevant Sightings
 
 * [02-24-2024 - California, United States](https://ebird.org/checklist/S162799737) (First Sighting)
-* [04-13-2024 - Ontario, Canada](https://ebird.org/checklist/S168448531) (Last Sighting)
+* [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213379009) (Last Sighting)
 
 ### Places Seen
 
 * California, United States
+* Flevoland, Netherlands
 * Ontario, Canada
 
 

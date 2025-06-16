@@ -7,7 +7,7 @@ description: "Chaetura vauxi is a species of bird in the Apodidae (Swifts) famil
 species_group: "Swifts"
 species_code: "vauswi"
 
-sidebar_position: 381
+sidebar_position: 475
 sidebar_class_name: " "
 tags: 
   - Apodiformes

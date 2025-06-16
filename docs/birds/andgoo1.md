@@ -7,7 +7,7 @@ description: "Oressochen melanopterus is a species of bird in the Anatidae (Duck
 species_group: "Waterfowl"
 species_code: "andgoo1"
 
-sidebar_position: 18
+sidebar_position: 25
 sidebar_class_name: " "
 tags: 
   - Anseriformes

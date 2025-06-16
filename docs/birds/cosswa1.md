@@ -7,7 +7,7 @@ description: "Coscoroba coscoroba is a species of bird in the Anatidae (Ducks, G
 species_group: "Waterfowl"
 species_code: "cosswa1"
 
-sidebar_position: 133
+sidebar_position: 161
 sidebar_class_name: " "
 tags: 
   - Anseriformes

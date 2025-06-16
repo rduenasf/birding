@@ -7,7 +7,7 @@ description: "Calypte costae is a species of bird in the Trochilidae (Hummingbir
 species_group: "Hummingbirds"
 species_code: "coshum"
 
-sidebar_position: 134
+sidebar_position: 162
 sidebar_class_name: " "
 tags: 
   - Apodiformes

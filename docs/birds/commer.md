@@ -3,11 +3,11 @@ title: "Common Merganser"
 scientific_name: "Mergus merganser"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
-description: "Mergus merganser is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 4 times. It has been photographed."
+description: "Mergus merganser is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 7 times. It has been photographed."
 species_group: "Waterfowl"
 species_code: "commer"
 
-sidebar_position: 125
+sidebar_position: 150
 sidebar_class_name: "has-photo "
 tags: 
   - Anseriformes
@@ -29,7 +29,7 @@ The common merganser (North American) or goosander (Eurasian) (Mergus merganser)
 ### Taxonomy
 [Anseriformes](/tags/anseriformes) > [Anatidae (Ducks, Geese, and Waterfowl)](/tags/anatidae-ducks-geese-and-waterfowl) > [Waterfowl](/tags/waterfowl)
 
-**Subspecies Seen**: Common Merganser (North American)
+**Subspecies Seen**: Common Merganser (Eurasian), Common Merganser (North American)
 
 
 ## Sightings
@@ -39,11 +39,12 @@ The common merganser (North American) or goosander (Eurasian) (Mergus merganser)
 ### Relevant Sightings
 
 * [02-11-2024 - California, United States](https://ebird.org/checklist/S161327433) (First Sighting / Only Photo)
-* [04-13-2024 - Ontario, Canada](https://ebird.org/checklist/S168448531) (Last Sighting)
+* [05-25-2025 - California, United States](https://ebird.org/checklist/S242790094) (Last Sighting)
 
 ### Places Seen
 
 * California, United States
+* Flevoland, Netherlands
 * Ontario, Canada
 
 

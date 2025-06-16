@@ -7,7 +7,7 @@ description: "Leucophaeus modestus is a species of bird in the Laridae (Gulls, T
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "grygul"
 
-sidebar_position: 171
+sidebar_position: 218
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

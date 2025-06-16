@@ -3,11 +3,11 @@ title: "Least Sandpiper"
 scientific_name: "Calidris minutilla"
 order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
-description: "Calidris minutilla is a species of bird in the Scolopacidae (Sandpipers and Allies) family. It has been observed 10 times. It has been recorded."
+description: "Calidris minutilla is a species of bird in the Scolopacidae (Sandpipers and Allies) family. It has been observed 11 times. It has been recorded."
 species_group: "Shorebirds"
 species_code: "leasan"
 
-sidebar_position: 223
+sidebar_position: 286
 sidebar_class_name: " has-audio"
 tags: 
   - Charadriiformes
@@ -39,7 +39,7 @@ The least sandpiper (Calidris minutilla) is the smallest shorebird. The genus na
 * [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
 * [11-17-2024 - California, United States](https://ebird.org/checklist/S202811385) (First Recording)
 * [11-23-2024 - California, United States](https://ebird.org/checklist/S203364471) (Best Recording)
-* [11-24-2024 - California, United States](https://ebird.org/checklist/S203486069) (Last Sighting)
+* [03-15-2025 - California, United States](https://ebird.org/checklist/S218683432) (Last Sighting)
 
 ### Places Seen
 

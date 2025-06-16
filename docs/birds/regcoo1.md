@@ -7,7 +7,7 @@ description: "Fulica armillata is a species of bird in the Rallidae (Rails, Gall
 species_group: "Rails, Gallinules, and Allies"
 species_code: "regcoo1"
 
-sidebar_position: 300
+sidebar_position: 379
 sidebar_class_name: "has-photo "
 tags: 
   - Gruiformes

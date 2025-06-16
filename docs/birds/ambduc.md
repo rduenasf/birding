@@ -7,7 +7,7 @@ description: "Anas rubripes is a species of bird in the Anatidae (Ducks, Geese, 
 species_group: "Waterfowl"
 species_code: "ambduc"
 
-sidebar_position: 5
+sidebar_position: 12
 sidebar_class_name: " "
 tags: 
   - Anseriformes

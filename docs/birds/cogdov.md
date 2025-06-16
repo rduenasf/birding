@@ -7,7 +7,7 @@ description: "Columbina passerina is a species of bird in the Columbidae (Pigeon
 species_group: "Pigeons and Doves"
 species_code: "cogdov"
 
-sidebar_position: 123
+sidebar_position: 147
 sidebar_class_name: " "
 tags: 
   - Columbiformes

@@ -7,7 +7,7 @@ description: "Cardellina rubrifrons is a species of bird in the Parulidae (New W
 species_group: "Wood-Warblers"
 species_code: "refwar"
 
-sidebar_position: 298
+sidebar_position: 377
 sidebar_class_name: " "
 tags: 
   - Passeriformes

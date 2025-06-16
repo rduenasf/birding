@@ -7,7 +7,7 @@ description: "Vireo hypochryseus is a species of bird in the Vireonidae (Vireos,
 species_group: "Vireos"
 species_code: "golvir1"
 
-sidebar_position: 163
+sidebar_position: 210
 sidebar_class_name: " "
 tags: 
   - Passeriformes

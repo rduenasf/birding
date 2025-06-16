@@ -7,7 +7,7 @@ description: "Sitta pygmaea is a species of bird in the Sittidae (Nuthatches) fa
 species_group: "Nuthatches"
 species_code: "pygnut"
 
-sidebar_position: 290
+sidebar_position: 366
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes

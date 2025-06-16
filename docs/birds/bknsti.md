@@ -3,11 +3,11 @@ title: "Black-necked Stilt"
 scientific_name: "Himantopus mexicanus"
 order: "Charadriiformes"
 family: "Recurvirostridae (Stilts and Avocets)"
-description: "Himantopus mexicanus is a species of bird in the Recurvirostridae (Stilts and Avocets) family. It has been observed 29 times. It has been recorded."
+description: "Himantopus mexicanus is a species of bird in the Recurvirostridae (Stilts and Avocets) family. It has been observed 33 times. It has been recorded."
 species_group: "Shorebirds"
 species_code: "bknsti"
 
-sidebar_position: 53
+sidebar_position: 67
 sidebar_class_name: " has-audio"
 tags: 
   - Charadriiformes
@@ -40,7 +40,7 @@ The black-necked stilt (Himantopus mexicanus) is a locally abundant shorebird of
 
 * [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
 * [11-24-2024 - California, United States](https://ebird.org/checklist/S203486069) (First/Best Recording)
-* [01-05-2025 - California, United States](https://ebird.org/checklist/S208150408) (Last Sighting)
+* [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Last Sighting)
 
 ### Places Seen
 

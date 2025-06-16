@@ -3,11 +3,11 @@ title: "Northern Pintail"
 scientific_name: "Anas acuta"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
-description: "Anas acuta is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 6 times. It has been photographed. It has been recorded."
+description: "Anas acuta is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 7 times. It has been photographed. It has been recorded."
 species_group: "Waterfowl"
 species_code: "norpin"
 
-sidebar_position: 263
+sidebar_position: 336
 sidebar_class_name: "has-photo has-audio"
 tags: 
   - Anseriformes
@@ -40,11 +40,13 @@ The northern pintail is a bird of open wetlands which nests on the ground, often
 
 * [12-23-2023 - California, United States](https://ebird.org/checklist/S157058117) (First Sighting)
 * [01-21-2024 - California, United States](https://ebird.org/checklist/S159471387) (Only Photo)
-* [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (Last Sighting / Only Recording)
+* [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (Only Recording)
+* [02-15-2025 - Flevoland, Netherlands](https://ebird.org/checklist/S213563164) (Last Sighting)
 
 ### Places Seen
 
 * California, United States
+* Flevoland, Netherlands
 
 
 

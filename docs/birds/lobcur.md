@@ -7,7 +7,7 @@ description: "Numenius americanus is a species of bird in the Scolopacidae (Sand
 species_group: "Shorebirds"
 species_code: "lobcur"
 
-sidebar_position: 230
+sidebar_position: 296
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

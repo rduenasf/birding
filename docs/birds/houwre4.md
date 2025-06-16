@@ -7,7 +7,7 @@ description: "Troglodytes musculus is a species of bird in the Troglodytidae (Wr
 species_group: "Wrens"
 species_code: "houwre4"
 
-sidebar_position: 352
+sidebar_position: 435
 sidebar_class_name: " "
 tags: 
   - Passeriformes

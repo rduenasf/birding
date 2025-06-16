@@ -3,11 +3,11 @@ title: "Anna's Hummingbird"
 scientific_name: "Calypte anna"
 order: "Apodiformes"
 family: "Trochilidae (Hummingbirds)"
-description: "Calypte anna is a species of bird in the Trochilidae (Hummingbirds) family. It has been observed 47 times. It has been photographed. It has been recorded."
+description: "Calypte anna is a species of bird in the Trochilidae (Hummingbirds) family. It has been observed 64 times. It has been photographed. It has been recorded."
 species_group: "Hummingbirds"
 species_code: "annhum"
 
-sidebar_position: 20
+sidebar_position: 27
 sidebar_class_name: "has-photo has-audio"
 tags: 
   - Apodiformes
@@ -43,7 +43,7 @@ These birds feed on nectar from flowers using a long extendable tongue. They als
 * [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (First Recording)
 * [11-28-2024 - California, United States](https://ebird.org/checklist/S203889552) (Best Recording)
 * [01-10-2025 - California, United States](https://ebird.org/checklist/S208779826) (Best Photo)
-* [01-15-2025 - California, United States](https://ebird.org/checklist/S209444881) (Last Sighting)
+* [06-14-2025 - California, United States](https://ebird.org/checklist/S250753344) (Last Sighting)
 
 ### Places Seen
 

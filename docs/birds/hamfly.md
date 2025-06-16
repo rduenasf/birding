@@ -7,7 +7,7 @@ description: "Empidonax hammondii is a species of bird in the Tyrannidae (Tyrant
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "hamfly"
 
-sidebar_position: 197
+sidebar_position: 254
 sidebar_class_name: " "
 tags: 
   - Passeriformes

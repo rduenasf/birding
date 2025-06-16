@@ -7,7 +7,7 @@ description: "Buteo plagiatus is a species of bird in the Accipitridae (Hawks, E
 species_group: "Vultures, Hawks, and Allies"
 species_code: "gryhaw2"
 
-sidebar_position: 172
+sidebar_position: 219
 sidebar_class_name: " "
 tags: 
   - Accipitriformes

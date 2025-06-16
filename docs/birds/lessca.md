@@ -7,7 +7,7 @@ description: "Aythya affinis is a species of bird in the Anatidae (Ducks, Geese,
 species_group: "Waterfowl"
 species_code: "lessca"
 
-sidebar_position: 226
+sidebar_position: 290
 sidebar_class_name: " "
 tags: 
   - Anseriformes

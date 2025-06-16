@@ -7,7 +7,7 @@ description: "Phalaropus tricolor is a species of bird in the Scolopacidae (Sand
 species_group: "Shorebirds"
 species_code: "wilpha"
 
-sidebar_position: 421
+sidebar_position: 525
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

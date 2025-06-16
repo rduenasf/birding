@@ -3,11 +3,11 @@ title: "Warbling Vireo"
 scientific_name: "Vireo gilvus"
 order: "Passeriformes"
 family: "Vireonidae (Vireos, Shrike-Babblers, and Erpornis)"
-description: "Vireo gilvus is a species of bird in the Vireonidae (Vireos, Shrike-Babblers, and Erpornis) family. It has been observed 8 times."
+description: "Vireo gilvus is a species of bird in the Vireonidae (Vireos, Shrike-Babblers, and Erpornis) family. It has been observed 10 times."
 species_group: "Vireos"
 species_code: "warvir"
 
-sidebar_position: 388
+sidebar_position: 483
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -52,7 +52,7 @@ The brown-capped vireo (Vireo leucophrys), resident in Central America and north
 ### Relevant Sightings
 
 * [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170587140) (First Sighting)
-* [09-07-2024 - California, United States](https://ebird.org/checklist/S195013430) (Last Sighting)
+* [06-14-2025 - California, United States](https://ebird.org/checklist/S250753679) (Last Sighting)
 
 ### Places Seen
 

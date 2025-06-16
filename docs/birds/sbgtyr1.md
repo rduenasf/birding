@@ -7,7 +7,7 @@ description: "Muscisaxicola maculirostris is a species of bird in the Tyrannidae
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "sbgtyr1"
 
-sidebar_position: 355
+sidebar_position: 440
 sidebar_class_name: " "
 tags: 
   - Passeriformes

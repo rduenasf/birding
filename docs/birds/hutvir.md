@@ -7,7 +7,7 @@ description: "Vireo huttoni is a species of bird in the Vireonidae (Vireos, Shri
 species_group: "Vireos"
 species_code: "hutvir"
 
-sidebar_position: 212
+sidebar_position: 272
 sidebar_class_name: " "
 tags: 
   - Passeriformes

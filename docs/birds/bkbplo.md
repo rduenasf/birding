@@ -7,7 +7,7 @@ description: "Pluvialis squatarola is a species of bird in the Charadriidae (Plo
 species_group: "Shorebirds"
 species_code: "bkbplo"
 
-sidebar_position: 43
+sidebar_position: 55
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

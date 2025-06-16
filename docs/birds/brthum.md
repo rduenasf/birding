@@ -7,7 +7,7 @@ description: "Selasphorus platycercus is a species of bird in the Trochilidae (H
 species_group: "Hummingbirds"
 species_code: "brthum"
 
-sidebar_position: 72
+sidebar_position: 88
 sidebar_class_name: " "
 tags: 
   - Apodiformes

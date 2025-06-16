@@ -7,7 +7,7 @@ description: "Riparia riparia is a species of bird in the Hirundinidae (Swallows
 species_group: "Martins and Swallows"
 species_code: "banswa"
 
-sidebar_position: 30
+sidebar_position: 38
 sidebar_class_name: " "
 tags: 
   - Passeriformes

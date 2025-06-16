@@ -3,11 +3,11 @@ title: "Fox Sparrow"
 scientific_name: "Passerella iliaca"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
-description: "Passerella iliaca is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 7 times."
+description: "Passerella iliaca is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 8 times."
 species_group: "New World Sparrows"
 species_code: "foxspa"
 
-sidebar_position: 156
+sidebar_position: 203
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -39,7 +39,7 @@ The fox sparrow (Passerella iliaca) is a large New World sparrow. It is the only
 ### Relevant Sightings
 
 * [01-28-2024 - California, United States](https://ebird.org/checklist/S160073236) (First Sighting)
-* [12-08-2024 - California, United States](https://ebird.org/checklist/S204849205) (Last Sighting)
+* [05-24-2025 - California, United States](https://ebird.org/checklist/S242211490) (Last Sighting)
 
 ### Places Seen
 

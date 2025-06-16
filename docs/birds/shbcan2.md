@@ -7,7 +7,7 @@ description: "Asthenes pyrrholeuca is a species of bird in the Furnariidae (Oven
 species_group: "Ovenbirds"
 species_code: "shbcan2"
 
-sidebar_position: 340
+sidebar_position: 421
 sidebar_class_name: " "
 tags: 
   - Passeriformes

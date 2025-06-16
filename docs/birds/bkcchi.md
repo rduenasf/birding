@@ -7,7 +7,7 @@ description: "Poecile atricapillus is a species of bird in the Paridae (Tits, Ch
 species_group: "Tits, Chickadees, and Titmice"
 species_code: "bkcchi"
 
-sidebar_position: 44
+sidebar_position: 56
 sidebar_class_name: " "
 tags: 
   - Passeriformes

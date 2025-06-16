@@ -3,11 +3,11 @@ title: "Northern Rough-winged Swallow"
 scientific_name: "Stelgidopteryx serripennis"
 order: "Passeriformes"
 family: "Hirundinidae (Swallows)"
-description: "Stelgidopteryx serripennis is a species of bird in the Hirundinidae (Swallows) family. It has been observed 6 times."
+description: "Stelgidopteryx serripennis is a species of bird in the Hirundinidae (Swallows) family. It has been observed 9 times."
 species_group: "Martins and Swallows"
 species_code: "nrwswa"
 
-sidebar_position: 264
+sidebar_position: 337
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -39,7 +39,7 @@ The northern rough-winged swallow (Stelgidopteryx serripennis) is a small, migra
 ### Relevant Sightings
 
 * [03-23-2024 - California, United States](https://ebird.org/checklist/S165759832) (First Sighting)
-* [06-30-2024 - California, United States](https://ebird.org/checklist/S184622875) (Last Sighting)
+* [06-04-2025 - California, United States](https://ebird.org/checklist/S246638509) (Last Sighting)
 
 ### Places Seen
 

@@ -7,7 +7,7 @@ description: "Turdus rufopalliatus is a species of bird in the Turdidae (Thrushe
 species_group: "Thrushes"
 species_code: "rubrob"
 
-sidebar_position: 322
+sidebar_position: 403
 sidebar_class_name: " "
 tags: 
   - Passeriformes

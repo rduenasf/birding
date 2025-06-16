@@ -7,7 +7,7 @@ description: "Vultur gryphus is a species of bird in the Cathartidae (New World 
 species_group: "Vultures, Hawks, and Allies"
 species_code: "andcon1"
 
-sidebar_position: 17
+sidebar_position: 24
 sidebar_class_name: "has-photo "
 tags: 
   - Cathartiformes

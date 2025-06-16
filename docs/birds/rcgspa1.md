@@ -7,7 +7,7 @@ description: "Melozone kieneri is a species of bird in the Passerellidae (New Wo
 species_group: "New World Sparrows"
 species_code: "rcgspa1"
 
-sidebar_position: 333
+sidebar_position: 414
 sidebar_class_name: " "
 tags: 
   - Passeriformes

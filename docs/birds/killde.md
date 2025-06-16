@@ -3,11 +3,11 @@ title: "Killdeer"
 scientific_name: "Charadrius vociferus"
 order: "Charadriiformes"
 family: "Charadriidae (Plovers and Lapwings)"
-description: "Charadrius vociferus is a species of bird in the Charadriidae (Plovers and Lapwings) family. It has been observed 21 times. It has been photographed. It has been recorded."
+description: "Charadrius vociferus is a species of bird in the Charadriidae (Plovers and Lapwings) family. It has been observed 26 times. It has been photographed. It has been recorded."
 species_group: "Shorebirds"
 species_code: "killde"
 
-sidebar_position: 216
+sidebar_position: 277
 sidebar_class_name: "has-photo has-audio"
 tags: 
   - Charadriiformes
@@ -41,7 +41,7 @@ The killdeer primarily feeds on insects, although other invertebrates and seeds 
 * [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
 * [05-19-2024 - California, United States](https://ebird.org/checklist/S177365803) (First/Best Photo)
 * [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (Only Recording)
-* [01-13-2025 - California, United States](https://ebird.org/checklist/S209208311) (Last Sighting)
+* [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Last Sighting)
 
 ### Places Seen
 

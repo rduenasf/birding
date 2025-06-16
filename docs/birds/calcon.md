@@ -7,7 +7,7 @@ description: "Gymnogyps californianus is a species of bird in the Cathartidae (N
 species_group: "Vultures, Hawks, and Allies"
 species_code: "calcon"
 
-sidebar_position: 88
+sidebar_position: 104
 sidebar_class_name: " "
 tags: 
   - Cathartiformes

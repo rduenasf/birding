@@ -3,11 +3,11 @@ title: "Cedar Waxwing"
 scientific_name: "Bombycilla cedrorum"
 order: "Passeriformes"
 family: "Bombycillidae (Waxwings)"
-description: "Bombycilla cedrorum is a species of bird in the Bombycillidae (Waxwings) family. It has been observed 5 times."
+description: "Bombycilla cedrorum is a species of bird in the Bombycillidae (Waxwings) family. It has been observed 7 times."
 species_group: "Waxwings"
 species_code: "cedwax"
 
-sidebar_position: 103
+sidebar_position: 121
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -38,7 +38,7 @@ The genus name Bombycilla comes from the Ancient Greek bombux, "silk" and the Mo
 ### Relevant Sightings
 
 * [01-20-2024 - California, United States](https://ebird.org/checklist/S159359046) (First Sighting)
-* [09-15-2024 - Washington, United States](https://ebird.org/checklist/S195264549) (Last Sighting)
+* [05-16-2025 - California, United States](https://ebird.org/checklist/S238839617) (Last Sighting)
 
 ### Places Seen
 

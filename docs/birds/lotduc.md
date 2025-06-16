@@ -7,7 +7,7 @@ description: "Clangula hyemalis is a species of bird in the Anatidae (Ducks, Gee
 species_group: "Waterfowl"
 species_code: "lotduc"
 
-sidebar_position: 232
+sidebar_position: 299
 sidebar_class_name: "has-photo "
 tags: 
   - Anseriformes

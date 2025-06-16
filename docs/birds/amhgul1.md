@@ -7,7 +7,7 @@ description: "Larus smithsonianus is a species of bird in the Laridae (Gulls, Te
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "amhgul1"
 
-sidebar_position: 9
+sidebar_position: 16
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

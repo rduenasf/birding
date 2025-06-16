@@ -3,11 +3,11 @@ title: "Western Tanager"
 scientific_name: "Piranga ludoviciana"
 order: "Passeriformes"
 family: "Cardinalidae (Cardinals and Allies)"
-description: "Piranga ludoviciana is a species of bird in the Cardinalidae (Cardinals and Allies) family. It has been observed 5 times."
+description: "Piranga ludoviciana is a species of bird in the Cardinalidae (Cardinals and Allies) family. It has been observed 6 times."
 species_group: "Cardinals, Grosbeaks, and Allies"
 species_code: "westan"
 
-sidebar_position: 399
+sidebar_position: 495
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -37,7 +37,7 @@ The western tanager (Piranga ludoviciana), is a medium-sized American songbird. 
 ### Relevant Sightings
 
 * [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170587140) (First Sighting)
-* [05-26-2024 - California, United States](https://ebird.org/checklist/S177248811) (Last Sighting)
+* [05-24-2025 - California, United States](https://ebird.org/checklist/S242103525) (Last Sighting)
 
 ### Places Seen
 

@@ -7,7 +7,7 @@ description: "Calothorax lucifer is a species of bird in the Trochilidae (Hummin
 species_group: "Hummingbirds"
 species_code: "luchum"
 
-sidebar_position: 234
+sidebar_position: 302
 sidebar_class_name: " "
 tags: 
   - Apodiformes

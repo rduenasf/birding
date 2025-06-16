@@ -7,7 +7,7 @@ description: "Sicalis auriventris is a species of bird in the Thraupidae (Tanage
 species_group: "Tanagers and Allies"
 species_code: "gryfin2"
 
-sidebar_position: 187
+sidebar_position: 241
 sidebar_class_name: " "
 tags: 
   - Passeriformes

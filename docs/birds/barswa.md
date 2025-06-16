@@ -3,11 +3,11 @@ title: "Barn Swallow"
 scientific_name: "Hirundo rustica"
 order: "Passeriformes"
 family: "Hirundinidae (Swallows)"
-description: "Hirundo rustica is a species of bird in the Hirundinidae (Swallows) family. It has been observed 19 times."
+description: "Hirundo rustica is a species of bird in the Hirundinidae (Swallows) family. It has been observed 28 times."
 species_group: "Martins and Swallows"
 species_code: "barswa"
 
-sidebar_position: 31
+sidebar_position: 40
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -31,7 +31,7 @@ The barn swallow is a bird of open country that normally nests in man-made struc
 ### Taxonomy
 [Passeriformes](/tags/passeriformes) > [Hirundinidae (Swallows)](/tags/hirundinidae-swallows) > [Martins and Swallows](/tags/martins-and-swallows)
 
-**Subspecies Seen**: Barn Swallow (American)
+**Subspecies Seen**: Barn Swallow (American), Barn Swallow (White-bellied)
 
 
 ## Sightings
@@ -41,13 +41,14 @@ The barn swallow is a bird of open country that normally nests in man-made struc
 ### Relevant Sightings
 
 * [01-15-2024 - California, United States](https://ebird.org/checklist/S159001730) (First Sighting)
-* [09-12-2024 - California, United States](https://ebird.org/checklist/S194896407) (Last Sighting)
+* [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Last Sighting)
 
 ### Places Seen
 
 * Arizona, United States
 * California, United States
 * Ciudad de México, Mexico
+* Kilimanjaro, Tanzania
 * Morelos, Mexico
 * Ontario, Canada
 

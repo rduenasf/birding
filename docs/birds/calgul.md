@@ -3,11 +3,11 @@ title: "California Gull"
 scientific_name: "Larus californicus"
 order: "Charadriiformes"
 family: "Laridae (Gulls, Terns, and Skimmers)"
-description: "Larus californicus is a species of bird in the Laridae (Gulls, Terns, and Skimmers) family. It has been observed 19 times."
+description: "Larus californicus is a species of bird in the Laridae (Gulls, Terns, and Skimmers) family. It has been observed 20 times."
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "calgul"
 
-sidebar_position: 89
+sidebar_position: 105
 sidebar_class_name: " "
 tags: 
   - Charadriiformes
@@ -37,7 +37,7 @@ The California gull (Larus californicus) is a medium-sized gull, smaller on aver
 ### Relevant Sightings
 
 * [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
-* [11-02-2024 - California, United States](https://ebird.org/checklist/S201158119) (Last Sighting)
+* [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Last Sighting)
 
 ### Places Seen
 

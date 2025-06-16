@@ -3,11 +3,11 @@ title: "Great Blue Heron"
 scientific_name: "Ardea herodias"
 order: "Pelecaniformes"
 family: "Ardeidae (Herons, Egrets, and Bitterns)"
-description: "Ardea herodias is a species of bird in the Ardeidae (Herons, Egrets, and Bitterns) family. It has been observed 25 times. It has been photographed."
+description: "Ardea herodias is a species of bird in the Ardeidae (Herons, Egrets, and Bitterns) family. It has been observed 30 times. It has been photographed."
 species_group: "Herons, Ibis, and Allies"
 species_code: "grbher3"
 
-sidebar_position: 178
+sidebar_position: 228
 sidebar_class_name: "has-photo "
 tags: 
   - Pelecaniformes
@@ -41,7 +41,7 @@ The great blue heron (Ardea herodias) is a large wading bird in the heron family
 * [03-22-2023 - California, United States](https://ebird.org/checklist/S206227433) (First Sighting)
 * [05-18-2024 - California, United States](https://ebird.org/checklist/S175378784) (First Photo)
 * [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (Best Photo)
-* [01-13-2025 - California, United States](https://ebird.org/checklist/S209208311) (Last Sighting)
+* [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Last Sighting)
 
 ### Places Seen
 

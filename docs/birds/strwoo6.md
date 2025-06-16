@@ -7,7 +7,7 @@ description: "Dryobates lignarius is a species of bird in the Picidae (Woodpecke
 species_group: "Woodpeckers"
 species_code: "strwoo6"
 
-sidebar_position: 363
+sidebar_position: 451
 sidebar_class_name: " "
 tags: 
   - Piciformes

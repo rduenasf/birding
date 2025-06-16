@@ -7,7 +7,7 @@ description: "Limnodromus griseus is a species of bird in the Scolopacidae (Sand
 species_group: "Shorebirds"
 species_code: "shbdow"
 
-sidebar_position: 343
+sidebar_position: 424
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

@@ -7,7 +7,7 @@ description: "Melanitta perspicillata is a species of bird in the Anatidae (Duck
 species_group: "Waterfowl"
 species_code: "sursco"
 
-sidebar_position: 366
+sidebar_position: 455
 sidebar_class_name: " "
 tags: 
   - Anseriformes

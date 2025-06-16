@@ -7,7 +7,7 @@ description: "Trogon mexicanus is a species of bird in the Trogonidae (Trogons) 
 species_group: "Trogons and Quetzals"
 species_code: "moutro1"
 
-sidebar_position: 250
+sidebar_position: 321
 sidebar_class_name: " "
 tags: 
   - Trogoniformes

@@ -7,7 +7,7 @@ description: "Vireo griseus is a species of bird in the Vireonidae (Vireos, Shri
 species_group: "Vireos"
 species_code: "whevir"
 
-sidebar_position: 408
+sidebar_position: 508
 sidebar_class_name: " "
 tags: 
   - Passeriformes

@@ -7,7 +7,7 @@ description: "Curaeus curaeus is a species of bird in the Icteridae (Troupials a
 species_group: "Blackbirds"
 species_code: "ausbla1"
 
-sidebar_position: 23
+sidebar_position: 30
 sidebar_class_name: " "
 tags: 
   - Passeriformes

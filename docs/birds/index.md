@@ -9,6 +9,1019 @@ import BirdCard from '@site/src/components/BirdCard';
 
 # Life List
 
+## 2025
+    <div className="container">
+      <div className="row">
+
+
+
+    <BirdCard
+      index="542"
+      name="American Bittern"
+      speciesCode="amebit"
+       
+      />
+
+
+
+    <BirdCard
+      index="541"
+      name="MacGillivray's Warbler"
+      speciesCode="macwar"
+       
+      />
+
+
+
+    <BirdCard
+      index="540"
+      name="Yellow-breasted Chat"
+      speciesCode="yebcha"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="539"
+      name="Long-eared Owl"
+      speciesCode="loeowl"
+       
+      />
+
+
+
+    <BirdCard
+      index="538"
+      name="White-headed Woodpecker"
+      speciesCode="whhwoo"
+       
+      />
+
+
+
+    <BirdCard
+      index="537"
+      name="Lawrence's Goldfinch"
+      speciesCode="lawgol"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="536"
+      name="Eurasian Wigeon"
+      speciesCode="eurwig"
+       
+      />
+
+
+
+    <BirdCard
+      index="535"
+      name="Long-tailed Tit"
+      speciesCode="lottit1"
+       
+      />
+
+
+
+    <BirdCard
+      index="534"
+      name="White-tailed Eagle"
+      speciesCode="whteag"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="533"
+      name="Hen Harrier"
+      speciesCode="norhar1"
+       
+      />
+
+
+
+    <BirdCard
+      index="532"
+      name="European Golden-Plover"
+      speciesCode="eugplo"
+       
+      />
+
+
+
+    <BirdCard
+      index="531"
+      name="Whooper Swan"
+      speciesCode="whoswa"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="530"
+      name="Tundra Bean-Goose"
+      speciesCode="tunbeg1"
+       
+      />
+
+
+
+    <BirdCard
+      index="529"
+      name="Greater White-fronted Goose"
+      speciesCode="gwfgoo"
+       
+      />
+
+
+
+    <BirdCard
+      index="528"
+      name="European Goldfinch"
+      speciesCode="eurgol"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="527"
+      name="Common Buzzard"
+      speciesCode="combuz1"
+       
+      />
+
+
+
+    <BirdCard
+      index="526"
+      name="Common Pochard"
+      speciesCode="compoc"
+       
+      />
+
+
+
+    <BirdCard
+      index="525"
+      name="European Robin"
+      speciesCode="eurrob1"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="524"
+      name="Cetti's Warbler"
+      speciesCode="cetwar1"
+       
+      />
+
+
+
+    <BirdCard
+      index="523"
+      name="Common Chiffchaff"
+      speciesCode="comchi1"
+       
+      />
+
+
+
+    <BirdCard
+      index="522"
+      name="Little Grebe"
+      speciesCode="litgre1"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="521"
+      name="Common Shelduck"
+      speciesCode="comshe"
+       
+      />
+
+
+
+    <BirdCard
+      index="520"
+      name="White Wagtail"
+      speciesCode="whiwag"
+       
+      />
+
+
+
+    <BirdCard
+      index="519"
+      name="Stock Dove"
+      speciesCode="stodov1"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="518"
+      name="Fieldfare"
+      speciesCode="fieldf"
+       
+      />
+
+
+
+    <BirdCard
+      index="517"
+      name="Eurasian Blackbird"
+      speciesCode="eurbla"
+       
+      />
+
+
+
+    <BirdCard
+      index="516"
+      name="European Herring Gull"
+      speciesCode="euhgul1"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="515"
+      name="Northern Lapwing"
+      speciesCode="norlap"
+       
+      />
+
+
+
+    <BirdCard
+      index="514"
+      name="Common Wood-Pigeon"
+      speciesCode="cowpig1"
+       
+      />
+
+
+
+    <BirdCard
+      index="513"
+      name="Smew"
+      speciesCode="smew"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="512"
+      name="Great Cormorant"
+      speciesCode="grecor"
+       
+      />
+
+
+
+    <BirdCard
+      index="511"
+      name="Lesser Black-backed Gull"
+      speciesCode="lbbgul"
+       
+      />
+
+
+
+    <BirdCard
+      index="510"
+      name="Caspian Gull"
+      speciesCode="casgul2"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="509"
+      name="Barnacle Goose"
+      speciesCode="bargoo"
+       
+      />
+
+
+
+    <BirdCard
+      index="508"
+      name="Eurasian Kestrel"
+      speciesCode="eurkes"
+       
+      />
+
+
+
+    <BirdCard
+      index="507"
+      name="Great Crested Grebe"
+      speciesCode="grcgre1"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="506"
+      name="Tufted Duck"
+      speciesCode="tufduc"
+       
+      />
+
+
+
+    <BirdCard
+      index="505"
+      name="Fan-tailed Widowbird"
+      speciesCode="fatwid1"
+       
+      />
+
+
+
+    <BirdCard
+      index="504"
+      name="Hadada Ibis"
+      speciesCode="hadibi1"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="503"
+      name="African Sacred Ibis"
+      speciesCode="sacibi2"
+       
+      />
+
+
+
+    <BirdCard
+      index="502"
+      name="Wood Sandpiper"
+      speciesCode="woosan"
+       
+      />
+
+
+
+    <BirdCard
+      index="501"
+      name="Black-winged Stilt"
+      speciesCode="bkwsti"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="500"
+      name="Spotted Flycatcher"
+      speciesCode="spofly1"
+       
+      />
+
+
+
+    <BirdCard
+      index="499"
+      name="Palm-nut Vulture"
+      speciesCode="panvul1"
+       
+      />
+
+
+
+    <BirdCard
+      index="498"
+      name="Blacksmith Lapwing"
+      speciesCode="blaplo1"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="497"
+      name="Red-billed Quelea"
+      speciesCode="rebque1"
+       
+      />
+
+
+
+    <BirdCard
+      index="496"
+      name="White-browed Sparrow-Weaver"
+      speciesCode="wbswea1"
+       
+      />
+
+
+
+    <BirdCard
+      index="495"
+      name="Superb Starling"
+      speciesCode="supsta1"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="494"
+      name="Isabelline Shrike"
+      speciesCode="isashr1"
+       
+      />
+
+
+
+    <BirdCard
+      index="493"
+      name="African Gray Hornbill"
+      speciesCode="afghor1"
+       
+      />
+
+
+
+    <BirdCard
+      index="492"
+      name="White-browed Coucal"
+      speciesCode="whbcou2"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="491"
+      name="Zanzibar Red Bishop"
+      speciesCode="zanbis1"
+       
+      />
+
+
+
+    <BirdCard
+      index="490"
+      name="Taveta Golden-Weaver"
+      speciesCode="tagwea1"
+       
+      />
+
+
+
+    <BirdCard
+      index="489"
+      name="Hamerkop"
+      speciesCode="hamerk1"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="488"
+      name="Western Cattle-Egret"
+      speciesCode="categr1"
+       
+      />
+
+
+
+    <BirdCard
+      index="487"
+      name="African Jacana"
+      speciesCode="afrjac1"
+       
+      />
+
+
+
+    <BirdCard
+      index="486"
+      name="African Pied Wagtail"
+      speciesCode="afpwag1"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="485"
+      name="Pin-tailed Whydah"
+      speciesCode="pitwhy"
+       
+      />
+
+
+
+    <BirdCard
+      index="484"
+      name="Red-faced Cisticola"
+      speciesCode="refcis1"
+       
+      />
+
+
+
+    <BirdCard
+      index="483"
+      name="Lilac-breasted Roller"
+      speciesCode="librol2"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="482"
+      name="Gray-headed Kingfisher"
+      speciesCode="gyhkin1"
+       
+      />
+
+
+
+    <BirdCard
+      index="481"
+      name="Black-headed Heron"
+      speciesCode="blhher1"
+       
+      />
+
+
+
+    <BirdCard
+      index="480"
+      name="Laughing Dove"
+      speciesCode="laudov1"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="479"
+      name="Ring-necked Dove"
+      speciesCode="rindov"
+       
+      />
+
+
+
+    <BirdCard
+      index="478"
+      name="Hartlaub's Turaco"
+      speciesCode="hartur1"
+       
+      />
+
+
+
+    <BirdCard
+      index="477"
+      name="Bearded Vulture"
+      speciesCode="lammer1"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="476"
+      name="Alpine Swift"
+      speciesCode="alpswi1"
+       
+      />
+
+
+
+    <BirdCard
+      index="475"
+      name="Streaky Seedeater"
+      speciesCode="strsee1"
+       
+      />
+
+
+
+    <BirdCard
+      index="474"
+      name="Moorland Chat"
+      speciesCode="moocha1"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="473"
+      name="African Stonechat"
+      speciesCode="afrsto1"
+       
+      />
+
+
+
+    <BirdCard
+      index="472"
+      name="Hunter's Cisticola"
+      speciesCode="huncis1"
+       
+      />
+
+
+
+    <BirdCard
+      index="471"
+      name="White-necked Raven"
+      speciesCode="whnrav1"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="470"
+      name="Dusky Turtle-Dove"
+      speciesCode="dutdov1"
+       
+      />
+
+
+
+    <BirdCard
+      index="469"
+      name="Cinnamon Bracken-Warbler"
+      speciesCode="cibwar1"
+       
+      />
+
+
+
+    <BirdCard
+      index="468"
+      name="Eurasian Golden Oriole"
+      speciesCode="eugori2"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="467"
+      name="Bar-tailed Trogon"
+      speciesCode="battro1"
+       
+      />
+
+
+
+    <BirdCard
+      index="466"
+      name="Verreaux's Eagle"
+      speciesCode="vereag1"
+       
+      />
+
+
+
+    <BirdCard
+      index="465"
+      name="Grosbeak Weaver"
+      speciesCode="growea1"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="464"
+      name="Spectacled Weaver"
+      speciesCode="spewea1"
+       
+      />
+
+
+
+    <BirdCard
+      index="463"
+      name="Yellow-breasted Apalis"
+      speciesCode="yebapa1"
+       
+      />
+
+
+
+    <BirdCard
+      index="462"
+      name="Northern Fiscal"
+      speciesCode="norfis1"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="461"
+      name="Tropical Boubou"
+      speciesCode="trobou1"
+       
+      />
+
+
+
+    <BirdCard
+      index="460"
+      name="Speckled Mousebird"
+      speciesCode="spemou2"
+       
+      />
+
+
+
+    <BirdCard
+      index="459"
+      name="Variable Sunbird"
+      speciesCode="varsun2"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="458"
+      name="Marabou Stork"
+      speciesCode="marsto1"
+       
+      />
+
+
+
+    <BirdCard
+      index="457"
+      name="Silvery-cheeked Hornbill"
+      speciesCode="sichor1"
+       
+      />
+
+
+
+    <BirdCard
+      index="456"
+      name="Red-eyed Dove"
+      speciesCode="reedov1"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="455"
+      name="Baglafecht Weaver"
+      speciesCode="bagwea1"
+       
+      />
+
+
+
+    <BirdCard
+      index="454"
+      name="Collared Sunbird"
+      speciesCode="colsun2"
+       
+      />
+
+
+
+    <BirdCard
+      index="453"
+      name="Common Bulbul"
+      speciesCode="combul2"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="452"
+      name="Pied Crow"
+      speciesCode="piecro1"
+       
+      />
+
+
+
+    <BirdCard
+      index="451"
+      name="Black Kite"
+      speciesCode="blakit1"
+       
+      />
+
+
+
+    <BirdCard
+      index="450"
+      name="Eurasian Blackcap"
+      speciesCode="blackc1"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="449"
+      name="Eurasian Wren"
+      speciesCode="winwre4"
+       
+      />
+
+
+
+    <BirdCard
+      index="448"
+      name="Great Tit"
+      speciesCode="gretit1"
+       
+      />
+
+
+
+    <BirdCard
+      index="447"
+      name="Eurasian Blue Tit"
+      speciesCode="blutit"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="446"
+      name="Carrion Crow"
+      speciesCode="carcro1"
+       
+      />
+
+
+
+    <BirdCard
+      index="445"
+      name="Eurasian Jackdaw"
+      speciesCode="eurjac"
+       
+      />
+
+
+
+    <BirdCard
+      index="444"
+      name="Eurasian Magpie"
+      speciesCode="eurmag1"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="443"
+      name="Rose-ringed Parakeet"
+      speciesCode="rorpar"
+       
+      />
+
+
+
+    <BirdCard
+      index="442"
+      name="Gray Heron"
+      speciesCode="graher1"
+       
+      />
+
+
+
+    <BirdCard
+      index="441"
+      name="White Stork"
+      speciesCode="whisto1"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="440"
+      name="Eurasian Moorhen"
+      speciesCode="commoo3"
+       
+      />
+
+
+
+    <BirdCard
+      index="439"
+      name="Graylag Goose"
+      speciesCode="gragoo"
+       
+      />
+
+
+
+    <BirdCard
+      index="438"
+      name="Common Gull"
+      speciesCode="mewgul"
+       
+      />
+</div>
+    <div className="row">
+
+
+    <BirdCard
+      index="437"
+      name="Black-headed Gull"
+      speciesCode="bkhgul"
+       
+      />
+
+
+
+    <BirdCard
+      index="436"
+      name="Eurasian Coot"
+      speciesCode="eurcoo"
+       
+      />
+
+
+
+    <BirdCard
+      index="435"
+      name="Egyptian Goose"
+      speciesCode="egygoo"
+       
+      />
+</div>
+    <div className="row">
+  </div></div>
 ## 2024
     <div className="container">
       <div className="row">
@@ -3341,7 +4354,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="89"
       name="Golden-crowned Sparrow"
       speciesCode="gocspa"
-      photo="628924008" 
+      photo="629166857" 
       recording="626485053"/>
 
 
@@ -3845,7 +4858,7 @@ See details at [eBird](https://ebird.org/tripreport/228402/316876)
       index="35"
       name="White-crowned Sparrow"
       speciesCode="whcspa"
-      photo="629166863" 
+      photo="628924008" 
       recording="626557628"/>
 
 

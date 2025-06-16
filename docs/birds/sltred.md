@@ -7,7 +7,7 @@ description: "Myioborus miniatus is a species of bird in the Parulidae (New Worl
 species_group: "Wood-Warblers"
 species_code: "sltred"
 
-sidebar_position: 345
+sidebar_position: 427
 sidebar_class_name: " "
 tags: 
   - Passeriformes

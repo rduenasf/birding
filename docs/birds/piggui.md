@@ -7,7 +7,7 @@ description: "Cepphus columba is a species of bird in the Alcidae (Auks, Murres,
 species_group: "Alcids"
 species_code: "piggui"
 
-sidebar_position: 283
+sidebar_position: 358
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

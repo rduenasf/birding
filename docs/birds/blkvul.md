@@ -7,7 +7,7 @@ description: "Coragyps atratus is a species of bird in the Cathartidae (New Worl
 species_group: "Vultures, Hawks, and Allies"
 species_code: "blkvul"
 
-sidebar_position: 40
+sidebar_position: 52
 sidebar_class_name: " "
 tags: 
   - Cathartiformes

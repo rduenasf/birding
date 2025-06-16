@@ -7,7 +7,7 @@ description: "Basilinna leucotis is a species of bird in the Trochilidae (Hummin
 species_group: "Hummingbirds"
 species_code: "whehum"
 
-sidebar_position: 407
+sidebar_position: 507
 sidebar_class_name: " "
 tags: 
   - Apodiformes

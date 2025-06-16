@@ -7,7 +7,7 @@ description: "Buteo albonotatus is a species of bird in the Accipitridae (Hawks,
 species_group: "Vultures, Hawks, and Allies"
 species_code: "zothaw"
 
-sidebar_position: 434
+sidebar_position: 542
 sidebar_class_name: " "
 tags: 
   - Accipitriformes

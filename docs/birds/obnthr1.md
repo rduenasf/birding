@@ -7,7 +7,7 @@ description: "Catharus aurantiirostris is a species of bird in the Turdidae (Thr
 species_group: "Thrushes"
 species_code: "obnthr1"
 
-sidebar_position: 270
+sidebar_position: 343
 sidebar_class_name: " "
 tags: 
   - Passeriformes

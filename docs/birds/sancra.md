@@ -7,7 +7,7 @@ description: "Antigone canadensis is a species of bird in the Gruidae (Cranes) f
 species_group: "Cranes"
 species_code: "sancra"
 
-sidebar_position: 334
+sidebar_position: 415
 sidebar_class_name: " "
 tags: 
   - Gruiformes

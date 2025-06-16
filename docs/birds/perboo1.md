@@ -7,7 +7,7 @@ description: "Sula variegata is a species of bird in the Sulidae (Boobies and Ga
 species_group: "Frigatebirds, Boobies, and Gannets"
 species_code: "perboo1"
 
-sidebar_position: 278
+sidebar_position: 352
 sidebar_class_name: " "
 tags: 
   - Suliformes

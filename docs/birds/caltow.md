@@ -3,11 +3,11 @@ title: "California Towhee"
 scientific_name: "Melozone crissalis"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
-description: "Melozone crissalis is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 43 times. It has been photographed. It has been recorded."
+description: "Melozone crissalis is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 53 times. It has been photographed. It has been recorded."
 species_group: "New World Sparrows"
 species_code: "caltow"
 
-sidebar_position: 93
+sidebar_position: 109
 sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
@@ -41,7 +41,7 @@ The taxonomy of this species has been debated. At the higher level, some authors
 * [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (First Recording)
 * [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (Best Recording)
 * [01-10-2025 - California, United States](https://ebird.org/checklist/S208779826) (First/Best Photo)
-* [01-15-2025 - California, United States](https://ebird.org/checklist/S209444881) (Last Sighting)
+* [06-14-2025 - California, United States](https://ebird.org/checklist/S250753679) (Last Sighting)
 
 ### Places Seen
 

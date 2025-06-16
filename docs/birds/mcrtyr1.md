@@ -7,7 +7,7 @@ description: "Tachuris rubrigastra is a species of bird in the Tyrannidae (Tyran
 species_group: "Tyrant Flycatchers: Elaenias, Tyrannulets, and Allies"
 species_code: "mcrtyr1"
 
-sidebar_position: 238
+sidebar_position: 307
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes

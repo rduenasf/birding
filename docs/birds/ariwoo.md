@@ -7,7 +7,7 @@ description: "Dryobates arizonae is a species of bird in the Picidae (Woodpecker
 species_group: "Woodpeckers"
 species_code: "ariwoo"
 
-sidebar_position: 21
+sidebar_position: 28
 sidebar_class_name: " "
 tags: 
   - Piciformes

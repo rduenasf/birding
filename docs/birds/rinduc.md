@@ -7,7 +7,7 @@ description: "Aythya collaris is a species of bird in the Anatidae (Ducks, Geese
 species_group: "Waterfowl"
 species_code: "rinduc"
 
-sidebar_position: 311
+sidebar_position: 391
 sidebar_class_name: "has-photo "
 tags: 
   - Anseriformes

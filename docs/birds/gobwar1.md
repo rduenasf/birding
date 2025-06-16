@@ -7,7 +7,7 @@ description: "Basileuterus belli is a species of bird in the Parulidae (New Worl
 species_group: "Wood-Warblers"
 species_code: "gobwar1"
 
-sidebar_position: 164
+sidebar_position: 211
 sidebar_class_name: " "
 tags: 
   - Passeriformes

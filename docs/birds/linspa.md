@@ -3,11 +3,11 @@ title: "Lincoln's Sparrow"
 scientific_name: "Melospiza lincolnii"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
-description: "Melospiza lincolnii is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 4 times."
+description: "Melospiza lincolnii is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 5 times."
 species_group: "New World Sparrows"
 species_code: "linspa"
 
-sidebar_position: 228
+sidebar_position: 293
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -37,7 +37,7 @@ Lincoln's sparrow (Melospiza lincolnii) is a small sparrow native to North Ameri
 ### Relevant Sightings
 
 * [01-15-2024 - California, United States](https://ebird.org/checklist/S159001730) (First Sighting)
-* [09-22-2024 - California, United States](https://ebird.org/checklist/S196121721) (Last Sighting)
+* [03-29-2025 - California, United States](https://ebird.org/checklist/S221633632) (Last Sighting)
 
 ### Places Seen
 

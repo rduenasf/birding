@@ -3,11 +3,11 @@ title: "American Robin"
 scientific_name: "Turdus migratorius"
 order: "Passeriformes"
 family: "Turdidae (Thrushes and Allies)"
-description: "Turdus migratorius is a species of bird in the Turdidae (Thrushes and Allies) family. It has been observed 26 times."
+description: "Turdus migratorius is a species of bird in the Turdidae (Thrushes and Allies) family. It has been observed 39 times."
 species_group: "Thrushes"
 species_code: "amerob"
 
-sidebar_position: 13
+sidebar_position: 20
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -40,7 +40,7 @@ The adult's main predator is the domestic cat; other predators include hawks and
 ### Relevant Sightings
 
 * [12-17-2023 - California, United States](https://ebird.org/checklist/S156549375) (First Sighting)
-* [05-25-2024 - California, United States](https://ebird.org/checklist/S177364706) (Last Sighting)
+* [06-14-2025 - California, United States](https://ebird.org/checklist/S250753679) (Last Sighting)
 
 ### Places Seen
 

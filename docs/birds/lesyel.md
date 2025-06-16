@@ -7,7 +7,7 @@ description: "Tringa flavipes is a species of bird in the Scolopacidae (Sandpipe
 species_group: "Shorebirds"
 species_code: "lesyel"
 
-sidebar_position: 227
+sidebar_position: 291
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

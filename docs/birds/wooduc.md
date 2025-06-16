@@ -3,11 +3,11 @@ title: "Wood Duck"
 scientific_name: "Aix sponsa"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
-description: "Aix sponsa is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 2 times."
+description: "Aix sponsa is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 4 times."
 species_group: "Waterfowl"
 species_code: "wooduc"
 
-sidebar_position: 424
+sidebar_position: 528
 sidebar_class_name: " "
 tags: 
   - Anseriformes
@@ -37,7 +37,7 @@ The wood duck or Carolina duck (Aix sponsa) is a partially migratory species of 
 ### Relevant Sightings
 
 * [02-11-2024 - California, United States](https://ebird.org/checklist/S161327433) (First Sighting)
-* [04-10-2024 - Ontario, Canada](https://ebird.org/checklist/S167992532) (Last Sighting)
+* [05-25-2025 - California, United States](https://ebird.org/checklist/S242790275) (Last Sighting)
 
 ### Places Seen
 

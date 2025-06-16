@@ -3,11 +3,11 @@ title: "Osprey"
 scientific_name: "Pandion haliaetus"
 order: "Accipitriformes"
 family: "Pandionidae (Osprey)"
-description: "Pandion haliaetus is a species of bird in the Pandionidae (Osprey) family. It has been observed 5 times. It has been photographed."
+description: "Pandion haliaetus is a species of bird in the Pandionidae (Osprey) family. It has been observed 6 times. It has been photographed."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "osprey"
 
-sidebar_position: 272
+sidebar_position: 345
 sidebar_class_name: "has-photo "
 tags: 
   - Accipitriformes
@@ -42,7 +42,7 @@ As its other common names suggest, the osprey's diet consists almost exclusively
 
 * [05-03-2024 - Ciudad de México, Mexico](https://ebird.org/checklist/S171944260) (First Sighting)
 * [11-02-2024 - California, United States](https://ebird.org/checklist/S201177048) (Only Photo)
-* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+* [05-25-2025 - California, United States](https://ebird.org/checklist/S242790094) (Last Sighting)
 
 ### Places Seen
 

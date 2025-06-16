@@ -7,7 +7,7 @@ description: "Mareca sibilatrix is a species of bird in the Anatidae (Ducks, Gee
 species_group: "Waterfowl"
 species_code: "chiwig1"
 
-sidebar_position: 111
+sidebar_position: 130
 sidebar_class_name: "has-photo "
 tags: 
   - Anseriformes

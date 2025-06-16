@@ -7,7 +7,7 @@ description: "Calidris virgata is a species of bird in the Scolopacidae (Sandpip
 species_group: "Shorebirds"
 species_code: "surfbi"
 
-sidebar_position: 367
+sidebar_position: 456
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

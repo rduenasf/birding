@@ -3,11 +3,11 @@ title: "Lark Sparrow"
 scientific_name: "Chondestes grammacus"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
-description: "Chondestes grammacus is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 3 times."
+description: "Chondestes grammacus is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 4 times."
 species_group: "New World Sparrows"
 species_code: "larspa"
 
-sidebar_position: 219
+sidebar_position: 280
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -37,11 +37,12 @@ The lark sparrow (Chondestes grammacus) is a fairly large New World sparrow. It 
 ### Relevant Sightings
 
 * [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170587133) (First Sighting)
-* [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768235) (Last Sighting)
+* [05-15-2025 - California, United States](https://ebird.org/checklist/S238432986) (Last Sighting)
 
 ### Places Seen
 
 * Arizona, United States
+* California, United States
 * Morelos, Mexico
 
 

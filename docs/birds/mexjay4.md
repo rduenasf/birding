@@ -7,7 +7,7 @@ description: "Aphelocoma wollweberi is a species of bird in the Corvidae (Crows,
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "mexjay4"
 
-sidebar_position: 244
+sidebar_position: 314
 sidebar_class_name: " "
 tags: 
   - Passeriformes

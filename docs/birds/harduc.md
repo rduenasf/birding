@@ -7,7 +7,7 @@ description: "Histrionicus histrionicus is a species of bird in the Anatidae (Du
 species_group: "Waterfowl"
 species_code: "harduc"
 
-sidebar_position: 199
+sidebar_position: 256
 sidebar_class_name: " "
 tags: 
   - Anseriformes

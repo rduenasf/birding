@@ -7,7 +7,7 @@ description: "Cerorhinca monocerata is a species of bird in the Alcidae (Auks, M
 species_group: "Alcids"
 species_code: "rhiauk"
 
-sidebar_position: 308
+sidebar_position: 387
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

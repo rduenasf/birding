@@ -7,7 +7,7 @@ description: "Melanotis caerulescens is a species of bird in the Mimidae (Mockin
 species_group: "Catbirds, Mockingbirds, and Thrashers"
 species_code: "blumoc"
 
-sidebar_position: 61
+sidebar_position: 77
 sidebar_class_name: " "
 tags: 
   - Passeriformes

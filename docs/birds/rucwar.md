@@ -7,7 +7,7 @@ description: "Basileuterus rufifrons is a species of bird in the Parulidae (New 
 species_group: "Wood-Warblers"
 species_code: "rucwar"
 
-sidebar_position: 325
+sidebar_position: 406
 sidebar_class_name: " "
 tags: 
   - Passeriformes

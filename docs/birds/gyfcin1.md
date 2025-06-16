@@ -7,7 +7,7 @@ description: "Cinclodes oustaleti is a species of bird in the Furnariidae (Ovenb
 species_group: "Ovenbirds"
 species_code: "gyfcin1"
 
-sidebar_position: 176
+sidebar_position: 224
 sidebar_class_name: " "
 tags: 
   - Passeriformes

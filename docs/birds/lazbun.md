@@ -7,7 +7,7 @@ description: "Passerina amoena is a species of bird in the Cardinalidae (Cardina
 species_group: "Cardinals, Grosbeaks, and Allies"
 species_code: "lazbun"
 
-sidebar_position: 221
+sidebar_position: 284
 sidebar_class_name: " "
 tags: 
   - Passeriformes

@@ -7,7 +7,7 @@ description: "Chroicocephalus maculipennis is a species of bird in the Laridae (
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "brhgul2"
 
-sidebar_position: 79
+sidebar_position: 95
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

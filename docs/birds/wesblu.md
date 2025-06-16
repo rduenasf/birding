@@ -3,11 +3,11 @@ title: "Western Bluebird"
 scientific_name: "Sialia mexicana"
 order: "Passeriformes"
 family: "Turdidae (Thrushes and Allies)"
-description: "Sialia mexicana is a species of bird in the Turdidae (Thrushes and Allies) family. It has been observed 19 times. It has been photographed."
+description: "Sialia mexicana is a species of bird in the Turdidae (Thrushes and Allies) family. It has been observed 25 times. It has been photographed."
 species_group: "Thrushes"
 species_code: "wesblu"
 
-sidebar_position: 392
+sidebar_position: 487
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
@@ -38,7 +38,7 @@ The western bluebird (Sialia mexicana) is a small North American thrush.[^1]
 
 * [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
 * [12-04-2024 - California, United States](https://ebird.org/checklist/S204487401) (Only Photo)
-* [01-13-2025 - California, United States](https://ebird.org/checklist/S209208311) (Last Sighting)
+* [06-01-2025 - California, United States](https://ebird.org/checklist/S245649846) (Last Sighting)
 
 ### Places Seen
 

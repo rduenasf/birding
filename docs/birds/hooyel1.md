@@ -7,7 +7,7 @@ description: "Geothlypis nelsoni is a species of bird in the Parulidae (New Worl
 species_group: "Wood-Warblers"
 species_code: "hooyel1"
 
-sidebar_position: 207
+sidebar_position: 266
 sidebar_class_name: " "
 tags: 
   - Passeriformes

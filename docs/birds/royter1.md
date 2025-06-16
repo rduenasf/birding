@@ -7,7 +7,7 @@ description: "Thalasseus maximus is a species of bird in the Laridae (Gulls, Ter
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "royter1"
 
-sidebar_position: 316
+sidebar_position: 397
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

@@ -7,7 +7,7 @@ description: "Empidonax minimus is a species of bird in the Tyrannidae (Tyrant F
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "leafly"
 
-sidebar_position: 222
+sidebar_position: 285
 sidebar_class_name: " "
 tags: 
   - Passeriformes

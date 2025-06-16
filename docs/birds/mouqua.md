@@ -7,7 +7,7 @@ description: "Oreortyx pictus is a species of bird in the Odontophoridae (New Wo
 species_group: "Grouse, Quail, and Allies"
 species_code: "mouqua"
 
-sidebar_position: 249
+sidebar_position: 320
 sidebar_class_name: " "
 tags: 
   - Galliformes

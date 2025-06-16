@@ -3,11 +3,11 @@ title: "Snowy Egret"
 scientific_name: "Egretta thula"
 order: "Pelecaniformes"
 family: "Ardeidae (Herons, Egrets, and Bitterns)"
-description: "Egretta thula is a species of bird in the Ardeidae (Herons, Egrets, and Bitterns) family. It has been observed 46 times. It has been photographed."
+description: "Egretta thula is a species of bird in the Ardeidae (Herons, Egrets, and Bitterns) family. It has been observed 49 times. It has been photographed."
 species_group: "Herons, Ibis, and Allies"
 species_code: "snoegr"
 
-sidebar_position: 347
+sidebar_position: 430
 sidebar_class_name: "has-photo "
 tags: 
   - Pelecaniformes
@@ -40,7 +40,7 @@ The snowy egret is the American counterpart to the very similar Old World little
 * [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
 * [11-26-2023 - California, United States](https://ebird.org/checklist/S155251280) (First Photo)
 * [01-02-2025 - California, United States](https://ebird.org/checklist/S207761995) (Best Photo)
-* [01-15-2025 - California, United States](https://ebird.org/checklist/S209444881) (Last Sighting)
+* [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Last Sighting)
 
 ### Places Seen
 

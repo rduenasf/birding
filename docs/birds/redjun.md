@@ -7,7 +7,7 @@ description: "Gallus gallus is a species of bird in the Phasianidae (Pheasants, 
 species_group: "Grouse, Quail, and Allies"
 species_code: "redjun"
 
-sidebar_position: 293
+sidebar_position: 369
 sidebar_class_name: "has-photo "
 tags: 
   - Galliformes

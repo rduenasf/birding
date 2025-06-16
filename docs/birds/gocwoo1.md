@@ -7,7 +7,7 @@ description: "Melanerpes chrysogenys is a species of bird in the Picidae (Woodpe
 species_group: "Woodpeckers"
 species_code: "gocwoo1"
 
-sidebar_position: 165
+sidebar_position: 212
 sidebar_class_name: " "
 tags: 
   - Piciformes

@@ -7,7 +7,7 @@ description: "Junco phaeonotus is a species of bird in the Passerellidae (New Wo
 species_group: "New World Sparrows"
 species_code: "yeejun"
 
-sidebar_position: 431
+sidebar_position: 538
 sidebar_class_name: " "
 tags: 
   - Passeriformes

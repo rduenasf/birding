@@ -7,7 +7,7 @@ description: "Geococcyx californianus is a species of bird in the Cuculidae (Cuc
 species_group: "Cuckoos"
 species_code: "greroa"
 
-sidebar_position: 185
+sidebar_position: 238
 sidebar_class_name: " "
 tags: 
   - Cuculiformes

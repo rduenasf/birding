@@ -7,7 +7,7 @@ description: "Turdus assimilis is a species of bird in the Turdidae (Thrushes an
 species_group: "Thrushes"
 species_code: "whtrob1"
 
-sidebar_position: 415
+sidebar_position: 518
 sidebar_class_name: " "
 tags: 
   - Passeriformes

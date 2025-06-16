@@ -7,7 +7,7 @@ description: "Cypseloides niger is a species of bird in the Apodidae (Swifts) fa
 species_group: "Swifts"
 species_code: "blkswi"
 
-sidebar_position: 38
+sidebar_position: 50
 sidebar_class_name: " "
 tags: 
   - Apodiformes

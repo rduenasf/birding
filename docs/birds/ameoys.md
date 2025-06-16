@@ -7,7 +7,7 @@ description: "Haematopus palliatus is a species of bird in the Haematopodidae (O
 species_group: "Shorebirds"
 species_code: "ameoys"
 
-sidebar_position: 11
+sidebar_position: 18
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

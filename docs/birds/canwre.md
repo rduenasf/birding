@@ -7,7 +7,7 @@ description: "Catherpes mexicanus is a species of bird in the Troglodytidae (Wre
 species_group: "Wrens"
 species_code: "canwre"
 
-sidebar_position: 97
+sidebar_position: 113
 sidebar_class_name: " "
 tags: 
   - Passeriformes

@@ -3,11 +3,11 @@ title: "Common Gallinule"
 scientific_name: "Gallinula galeata"
 order: "Gruiformes"
 family: "Rallidae (Rails, Gallinules, and Coots)"
-description: "Gallinula galeata is a species of bird in the Rallidae (Rails, Gallinules, and Coots) family. It has been observed 7 times. It has been photographed. It has been recorded."
+description: "Gallinula galeata is a species of bird in the Rallidae (Rails, Gallinules, and Coots) family. It has been observed 8 times. It has been photographed. It has been recorded."
 species_group: "Rails, Gallinules, and Allies"
 species_code: "comgal1"
 
-sidebar_position: 120
+sidebar_position: 144
 sidebar_class_name: "has-photo has-audio"
 tags: 
   - Gruiformes
@@ -39,7 +39,7 @@ The common gallinule (Gallinula galeata) is a bird in the family Rallidae. It wa
 * [02-24-2024 - California, United States](https://ebird.org/checklist/S162799737) (First Sighting)
 * [11-28-2024 - California, United States](https://ebird.org/checklist/S203889552) (Only Photo)
 * [11-28-2024 - California, United States](https://ebird.org/checklist/S203889552) (Only Recording)
-* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+* [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Last Sighting)
 
 ### Places Seen
 

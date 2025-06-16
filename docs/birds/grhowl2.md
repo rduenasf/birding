@@ -7,7 +7,7 @@ description: "Bubo magellanicus is a species of bird in the Strigidae (Owls) fam
 species_group: "Owls"
 species_code: "grhowl2"
 
-sidebar_position: 225
+sidebar_position: 289
 sidebar_class_name: "has-photo "
 tags: 
   - Strigiformes

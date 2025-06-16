@@ -3,11 +3,11 @@ title: "Spotted Sandpiper"
 scientific_name: "Actitis macularius"
 order: "Charadriiformes"
 family: "Scolopacidae (Sandpipers and Allies)"
-description: "Actitis macularius is a species of bird in the Scolopacidae (Sandpipers and Allies) family. It has been observed 2 times."
+description: "Actitis macularius is a species of bird in the Scolopacidae (Sandpipers and Allies) family. It has been observed 3 times."
 species_group: "Shorebirds"
 species_code: "sposan"
 
-sidebar_position: 356
+sidebar_position: 442
 sidebar_class_name: " "
 tags: 
   - Charadriiformes
@@ -37,7 +37,7 @@ The spotted sandpiper (Actitis macularius) is a small shorebird. Together with i
 ### Relevant Sightings
 
 * [11-11-2023 - California, United States](https://ebird.org/checklist/S154259403) (First Sighting)
-* [02-24-2024 - California, United States](https://ebird.org/checklist/S162799737) (Last Sighting)
+* [05-25-2025 - California, United States](https://ebird.org/checklist/S242790275) (Last Sighting)
 
 ### Places Seen
 

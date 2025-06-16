@@ -3,11 +3,11 @@ title: "Ruby-crowned Kinglet"
 scientific_name: "Corthylio calendula"
 order: "Passeriformes"
 family: "Regulidae (Kinglets)"
-description: "Corthylio calendula is a species of bird in the Regulidae (Kinglets) family. It has been observed 22 times. It has been photographed. It has been recorded."
+description: "Corthylio calendula is a species of bird in the Regulidae (Kinglets) family. It has been observed 26 times. It has been photographed. It has been recorded."
 species_group: "Kinglets"
 species_code: "ruckin"
 
-sidebar_position: 317
+sidebar_position: 398
 sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
@@ -41,7 +41,7 @@ The kinglet is mostly migratory, and its range extends from northwest Canada and
 * [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (First Recording)
 * [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (Best Recording)
 * [01-12-2025 - California, United States](https://ebird.org/checklist/S209042786) (Only Photo)
-* [01-13-2025 - California, United States](https://ebird.org/checklist/S209208311) (Last Sighting)
+* [03-29-2025 - California, United States](https://ebird.org/checklist/S221633732) (Last Sighting)
 
 ### Places Seen
 

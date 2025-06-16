@@ -7,7 +7,7 @@ description: "Calidris bairdii is a species of bird in the Scolopacidae (Sandpip
 species_group: "Shorebirds"
 species_code: "baisan"
 
-sidebar_position: 26
+sidebar_position: 34
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

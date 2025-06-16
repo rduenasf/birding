@@ -3,11 +3,11 @@ title: "Mallard"
 scientific_name: "Anas platyrhynchos"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
-description: "Anas platyrhynchos is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 61 times. It has been photographed. It has been recorded."
+description: "Anas platyrhynchos is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 77 times. It has been photographed. It has been recorded."
 species_group: "Waterfowl"
 species_code: "mallar3"
 
-sidebar_position: 237
+sidebar_position: 306
 sidebar_class_name: "has-photo has-audio"
 tags: 
   - Anseriformes
@@ -44,12 +44,15 @@ The mallard is considered to be a species of least concern by the International 
 * [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (First Recording)
 * [11-17-2024 - California, United States](https://ebird.org/checklist/S202811385) (First Photo)
 * [11-23-2024 - California, United States](https://ebird.org/checklist/S203364471) (Best Recording)
-* [01-15-2025 - California, United States](https://ebird.org/checklist/S209444881) (Last Sighting / Last and Best Photo)
+* [01-15-2025 - California, United States](https://ebird.org/checklist/S209444881) (Best Photo)
+* [06-14-2025 - California, United States](https://ebird.org/checklist/S250753679) (Last Sighting)
 
 ### Places Seen
 
 * Arizona, United States
 * California, United States
+* Flevoland, Netherlands
+* Noord-Holland, Netherlands
 * Ontario, Canada
 * Washington, United States
 

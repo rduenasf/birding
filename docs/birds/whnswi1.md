@@ -7,7 +7,7 @@ description: "Streptoprocne semicollaris is a species of bird in the Apodidae (S
 species_group: "Swifts"
 species_code: "whnswi1"
 
-sidebar_position: 410
+sidebar_position: 511
 sidebar_class_name: " "
 tags: 
   - Apodiformes

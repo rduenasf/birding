@@ -7,7 +7,7 @@ description: "Cardinalis cardinalis is a species of bird in the Cardinalidae (Ca
 species_group: "Cardinals, Grosbeaks, and Allies"
 species_code: "norcar"
 
-sidebar_position: 257
+sidebar_position: 328
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes

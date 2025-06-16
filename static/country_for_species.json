@@ -2,27 +2,50 @@
   "chitin1": {
     "CL": 1
   },
+  "gragoo": {
+    "NL": 1
+  },
+  "gragoo2": {
+    "NL": 2
+  },
+  "gwfgoo4": {
+    "NL": 1
+  },
+  "tunbeg1": {
+    "NL": 1
+  },
   "domgoo1": {
     "US": 1
+  },
+  "bargoo": {
+    "NL": 1
   },
   "cacgoo1": {
     "US": 4
   },
   "cangoo": {
-    "US": 23,
-    "CA": 4
+    "US": 30,
+    "CA": 4,
+    "NL": 1
   },
   "cangoo4": {
+    "US": 2
+  },
+  "x00759": {
     "US": 1
   },
   "y00470": {
     "US": 1
   },
   "mutswa": {
-    "CA": 3
+    "CA": 3,
+    "NL": 2
   },
   "blnswa2": {
     "CL": 1
+  },
+  "whoswa": {
+    "NL": 2
   },
   "cosswa1": {
     "CL": 2
@@ -33,42 +56,54 @@
   "goose1": {
     "US": 1
   },
+  "egygoo": {
+    "NL": 2
+  },
+  "comshe": {
+    "NL": 2
+  },
   "wooduc": {
-    "CA": 1,
-    "US": 1
+    "US": 3,
+    "CA": 1
   },
   "buwtea": {
-    "US": 1
+    "US": 2
   },
   "cintea": {
-    "US": 6,
+    "US": 7,
     "CL": 2
   },
   "redsho1": {
     "CL": 3
   },
   "norsho": {
-    "US": 16
+    "US": 17,
+    "NL": 2
   },
   "gadwal": {
-    "US": 11,
-    "CA": 1
+    "US": 13,
+    "CA": 1,
+    "NL": 1
   },
   "gadwal1": {
     "US": 1
   },
+  "eurwig": {
+    "NL": 1
+  },
   "amewig": {
-    "US": 8
+    "US": 9
   },
   "chiwig1": {
     "CL": 2
   },
   "mallar3": {
-    "US": 29,
-    "CA": 5
+    "US": 37,
+    "CA": 5,
+    "NL": 4
   },
   "mallar2": {
-    "US": 4
+    "US": 5
   },
   "mdxmal1": {
     "US": 1
@@ -81,7 +116,8 @@
     "CA": 1
   },
   "norpin": {
-    "US": 5
+    "US": 5,
+    "NL": 1
   },
   "yebpin3": {
     "CL": 1
@@ -89,24 +125,34 @@
   "gnwtea": {
     "US": 10
   },
+  "egwtea1": {
+    "NL": 1
+  },
   "agwtea1": {
-    "US": 1
+    "US": 3
   },
   "spetea2": {
     "CL": 1
   },
   "canvas": {
-    "US": 6
+    "US": 7
   },
   "redhea": {
     "US": 1
   },
+  "compoc": {
+    "NL": 2
+  },
   "rinduc": {
     "US": 3
   },
+  "tufduc": {
+    "NL": 1
+  },
   "gresca": {
     "US": 2,
-    "CA": 1
+    "CA": 1,
+    "NL": 1
   },
   "lessca": {
     "US": 2
@@ -129,7 +175,11 @@
   },
   "comgol": {
     "US": 5,
-    "CA": 2
+    "CA": 2,
+    "NL": 1
+  },
+  "smew": {
+    "NL": 1
   },
   "hoomer": {
     "US": 2,
@@ -137,17 +187,21 @@
   },
   "commer": {
     "CA": 2,
-    "US": 1
+    "US": 3
+  },
+  "goosan1": {
+    "NL": 1
   },
   "commer1": {
     "CA": 1
   },
   "rebmer": {
     "US": 2,
-    "CA": 4
+    "CA": 4,
+    "NL": 1
   },
   "rudduc": {
-    "US": 17,
+    "US": 21,
     "CA": 1,
     "MX": 1
   },
@@ -167,14 +221,14 @@
     "US": 1
   },
   "calqua": {
-    "CL": 3,
-    "US": 5
+    "US": 7,
+    "CL": 3
   },
   "gamqua": {
     "US": 2
   },
   "wiltur": {
-    "US": 8
+    "US": 9
   },
   "soogro1": {
     "US": 1
@@ -192,22 +246,43 @@
     "US": 1
   },
   "rocpig1": {
-    "US": 15,
+    "US": 16,
     "MX": 2,
     "CA": 2,
-    "CL": 3
+    "CL": 3,
+    "NL": 2,
+    "TZ": 1
+  },
+  "stodov1": {
+    "NL": 1
+  },
+  "comwop1": {
+    "NL": 1
   },
   "batpig1": {
-    "US": 1
+    "US": 2
   },
   "batpig2": {
-    "US": 2
+    "US": 3
   },
   "chipig2": {
     "CL": 1
   },
+  "dutdov1": {
+    "TZ": 1
+  },
   "eucdov": {
-    "US": 9
+    "US": 11,
+    "FR": 1
+  },
+  "reedov1": {
+    "TZ": 1
+  },
+  "rindov": {
+    "TZ": 1
+  },
+  "laudov1": {
+    "TZ": 1
   },
   "incdov": {
     "MX": 3,
@@ -233,18 +308,24 @@
     "CL": 10
   },
   "moudov": {
-    "US": 24,
+    "US": 32,
     "CA": 3,
     "MX": 1
   },
   "dove1": {
     "US": 1
   },
+  "hartur1": {
+    "TZ": 1
+  },
   "grbani": {
     "MX": 1
   },
   "greroa": {
     "US": 1
+  },
+  "whbcou2": {
+    "TZ": 1
   },
   "blkswi": {
     "US": 1
@@ -255,8 +336,14 @@
   "vauswi": {
     "US": 2
   },
+  "alpswi1": {
+    "TZ": 1
+  },
   "whtswi": {
-    "US": 6
+    "US": 7
+  },
+  "swift1": {
+    "TZ": 1
   },
   "maghum1": {
     "US": 4
@@ -271,19 +358,19 @@
     "US": 1
   },
   "bkchum": {
-    "US": 2
+    "US": 3
   },
   "annhum": {
-    "US": 31
+    "US": 40
   },
   "coshum": {
     "US": 3
   },
   "rufhum": {
-    "US": 1
+    "US": 2
   },
   "allhum": {
-    "US": 2
+    "US": 4
   },
   "brthum": {
     "US": 2
@@ -301,7 +388,7 @@
     "MX": 1
   },
   "hummin": {
-    "US": 3,
+    "US": 4,
     "MX": 1
   },
   "ridrai1": {
@@ -313,6 +400,9 @@
   "sora": {
     "US": 3
   },
+  "commoo3": {
+    "NL": 2
+  },
   "comgal1": {
     "US": 4,
     "MX": 1
@@ -323,8 +413,11 @@
   "regcoo1": {
     "CL": 2
   },
+  "eurcoo": {
+    "NL": 3
+  },
   "y00475": {
-    "US": 20,
+    "US": 24,
     "MX": 1
   },
   "whwcoo1": {
@@ -336,8 +429,11 @@
   "sancra": {
     "CA": 1
   },
+  "bkwsti": {
+    "TZ": 1
+  },
   "bknsti": {
-    "US": 12,
+    "US": 14,
     "CL": 1
   },
   "bknsti1": {
@@ -358,19 +454,31 @@
   "bkbplo": {
     "US": 2
   },
+  "eugplo": {
+    "NL": 1
+  },
   "killde": {
-    "US": 14,
+    "US": 16,
     "CA": 1,
     "MX": 1
   },
   "semplo": {
     "US": 2
   },
+  "norlap": {
+    "NL": 3
+  },
+  "blaplo1": {
+    "TZ": 1
+  },
   "soulap1": {
     "CL": 1
   },
   "soulap4": {
     "CL": 3
+  },
+  "afrjac1": {
+    "TZ": 1
   },
   "whimbr": {
     "US": 2
@@ -388,19 +496,22 @@
     "US": 1
   },
   "lobdow": {
-    "US": 6
+    "US": 7
   },
   "wilpha": {
     "US": 1
   },
   "sposan": {
-    "US": 2
+    "US": 3
+  },
+  "woosan": {
+    "TZ": 1
   },
   "lesyel": {
     "US": 1
   },
   "willet1": {
-    "US": 9
+    "US": 10
   },
   "greyel": {
     "US": 10
@@ -424,7 +535,7 @@
     "US": 1
   },
   "leasan": {
-    "US": 9
+    "US": 10
   },
   "wessan": {
     "US": 7
@@ -453,6 +564,9 @@
   "brhgul2": {
     "CL": 2
   },
+  "bkhgul": {
+    "NL": 4
+  },
   "grygul": {
     "CL": 1
   },
@@ -462,12 +576,18 @@
   "heegul": {
     "US": 5
   },
+  "comgul1": {
+    "NL": 2
+  },
   "ribgul": {
     "US": 8,
     "CA": 3
   },
   "wesgul": {
     "US": 12
+  },
+  "casgul2": {
+    "NL": 2
   },
   "kelgul": {
     "CL": 2
@@ -478,11 +598,17 @@
   "amhgul1": {
     "CA": 3
   },
+  "euhgul1": {
+    "NL": 2
+  },
   "glagul": {
     "US": 1
   },
+  "lbbgul": {
+    "NL": 1
+  },
   "calgul": {
-    "US": 17
+    "US": 18
   },
   "glwgul": {
     "US": 2
@@ -491,8 +617,9 @@
     "CA": 1
   },
   "larus": {
-    "US": 18,
-    "CA": 1
+    "US": 20,
+    "CA": 1,
+    "NL": 2
   },
   "caster1": {
     "US": 5,
@@ -517,8 +644,11 @@
   "whtgre3": {
     "CL": 3
   },
+  "litgre1": {
+    "NL": 1
+  },
   "pibgre": {
-    "US": 14,
+    "US": 15,
     "MX": 1
   },
   "gregre1": {
@@ -531,11 +661,14 @@
   "rengre": {
     "CA": 3
   },
+  "grcgre1": {
+    "NL": 2
+  },
   "eargre": {
     "US": 4
   },
   "wesgre": {
-    "US": 9
+    "US": 11
   },
   "clagre": {
     "US": 6
@@ -565,6 +698,12 @@
   "sooshe": {
     "US": 2
   },
+  "whisto1": {
+    "NL": 2
+  },
+  "marsto1": {
+    "TZ": 1
+  },
   "magfri": {
     "US": 1,
     "MX": 1
@@ -587,8 +726,11 @@
   "pelcor": {
     "US": 6
   },
+  "grecor3": {
+    "NL": 1
+  },
   "doccor": {
-    "US": 26,
+    "US": 29,
     "CA": 2
   },
   "neocor": {
@@ -609,33 +751,51 @@
   "bkfibi1": {
     "CL": 1
   },
+  "sacibi2": {
+    "TZ": 1
+  },
+  "hadibi1": {
+    "TZ": 1
+  },
+  "amebit": {
+    "US": 1
+  },
   "bcnher": {
-    "US": 10,
+    "US": 12,
     "MX": 1
   },
   "bkcnih2": {
     "US": 1
   },
   "snoegr": {
-    "US": 23,
+    "US": 24,
     "CL": 2,
     "MX": 2
   },
   "grnher": {
-    "US": 6,
+    "US": 7,
     "MX": 2
   },
+  "categr1": {
+    "TZ": 3
+  },
   "greegr": {
-    "US": 18,
+    "US": 22,
     "CL": 1,
     "MX": 2,
     "CA": 1
   },
+  "greegr1": {
+    "NL": 1
+  },
   "greegr2": {
     "US": 3
   },
+  "graher1": {
+    "NL": 2
+  },
   "grbher3": {
-    "US": 17
+    "US": 21
   },
   "grbher": {
     "US": 2
@@ -643,8 +803,14 @@
   "cocher1": {
     "CL": 1
   },
+  "blhher1": {
+    "TZ": 2
+  },
   "whiegr1": {
-    "US": 1
+    "US": 2
+  },
+  "hamerk1": {
+    "TZ": 2
   },
   "amwpel": {
     "US": 9
@@ -670,7 +836,7 @@
     "MX": 2
   },
   "turvul": {
-    "US": 32,
+    "US": 40,
     "CA": 3,
     "CL": 1
   },
@@ -681,20 +847,29 @@
     "CL": 1
   },
   "osprey": {
-    "US": 2,
+    "US": 3,
     "MX": 1
   },
   "osprey1": {
     "US": 2
   },
   "whtkit": {
-    "US": 7
+    "US": 9
+  },
+  "panvul1": {
+    "TZ": 1
+  },
+  "lammer3": {
+    "TZ": 1
   },
   "swtkit": {
     "US": 1
   },
   "goleag": {
     "US": 2
+  },
+  "vereag1": {
+    "TZ": 1
   },
   "shshaw": {
     "US": 1
@@ -703,12 +878,21 @@
     "US": 10,
     "MX": 1
   },
+  "norhar1": {
+    "NL": 1
+  },
   "norhar2": {
-    "US": 14
+    "US": 17
+  },
+  "blakit1": {
+    "TZ": 1
+  },
+  "whteag": {
+    "NL": 1
   },
   "baleag": {
-    "CA": 1,
-    "US": 1
+    "US": 2,
+    "CA": 1
   },
   "harhaw2": {
     "CL": 1
@@ -723,7 +907,7 @@
     "US": 3
   },
   "reshaw": {
-    "US": 7
+    "US": 12
   },
   "reshaw2": {
     "US": 1
@@ -738,12 +922,21 @@
     "US": 2
   },
   "rethaw": {
-    "US": 13,
+    "US": 15,
     "CA": 1,
     "MX": 1
   },
+  "combuz1": {
+    "NL": 1
+  },
+  "combuz7": {
+    "NL": 1
+  },
+  "buteo": {
+    "US": 1
+  },
   "hawk": {
-    "US": 4
+    "US": 5
   },
   "grhowl": {
     "US": 3,
@@ -752,17 +945,38 @@
   "grhowl2": {
     "CL": 1
   },
+  "loeowl": {
+    "US": 1
+  },
+  "spemou2": {
+    "TZ": 3
+  },
+  "battro1": {
+    "TZ": 1
+  },
   "moutro1": {
     "MX": 1
+  },
+  "afghor1": {
+    "TZ": 1
+  },
+  "sichor1": {
+    "TZ": 1
   },
   "rucmot1": {
     "MX": 1
   },
+  "gyhkin1": {
+    "TZ": 1
+  },
   "belkin1": {
-    "US": 2
+    "US": 3
+  },
+  "librol2": {
+    "TZ": 1
   },
   "acowoo": {
-    "US": 18,
+    "US": 26,
     "MX": 1
   },
   "gocwoo1": {
@@ -779,21 +993,24 @@
     "US": 1
   },
   "dowwoo": {
-    "US": 4,
+    "US": 6,
     "CA": 1
   },
   "dowwoo1": {
     "CA": 2
   },
+  "dowwoo3": {
+    "US": 1
+  },
   "nutwoo": {
-    "US": 10
+    "US": 16
   },
   "labwoo": {
     "US": 3,
     "MX": 1
   },
   "haiwoo": {
-    "US": 9,
+    "US": 13,
     "CA": 2,
     "MX": 1
   },
@@ -804,7 +1021,11 @@
     "MX": 2
   },
   "y00322": {
-    "CA": 1
+    "CA": 1,
+    "US": 1
+  },
+  "whhwoo": {
+    "US": 1
   },
   "strwoo": {
     "MX": 1
@@ -819,7 +1040,7 @@
     "CA": 1
   },
   "norfli": {
-    "US": 10,
+    "US": 12,
     "CA": 1
   },
   "yesfli": {
@@ -827,7 +1048,7 @@
     "CA": 1
   },
   "resfli": {
-    "US": 1,
+    "US": 2,
     "MX": 1
   },
   "chicar1": {
@@ -836,8 +1057,11 @@
   "moucar1": {
     "CL": 1
   },
+  "eurkes2": {
+    "NL": 1
+  },
   "amekes": {
-    "US": 5
+    "US": 7
   },
   "merlin": {
     "US": 2
@@ -845,6 +1069,9 @@
   "perfal": {
     "US": 3,
     "CL": 1
+  },
+  "rorpar": {
+    "NL": 1
   },
   "monpar": {
     "US": 1,
@@ -915,7 +1142,7 @@
     "MX": 1
   },
   "wewpew": {
-    "US": 1,
+    "US": 2,
     "MX": 2
   },
   "whtfly1": {
@@ -944,7 +1171,7 @@
     "MX": 1
   },
   "blkpho": {
-    "US": 27
+    "US": 37
   },
   "blkpho1": {
     "US": 4
@@ -988,7 +1215,7 @@
     "MX": 2
   },
   "astfly": {
-    "US": 5,
+    "US": 7,
     "MX": 1
   },
   "bncfly": {
@@ -1005,6 +1232,7 @@
     "MX": 1
   },
   "weskin": {
+    "US": 1,
     "MX": 1
   },
   "cssvir1": {
@@ -1037,11 +1265,20 @@
     "US": 4
   },
   "warvir": {
-    "US": 2,
+    "US": 3,
     "MX": 4
   },
   "wewvir2": {
     "US": 2
+  },
+  "eugori2": {
+    "TZ": 1
+  },
+  "trobou1": {
+    "TZ": 1
+  },
+  "isashr1": {
+    "TZ": 1
   },
   "logshr": {
     "US": 1,
@@ -1050,11 +1287,14 @@
   "norshr4": {
     "CA": 1
   },
+  "norfis1": {
+    "TZ": 1
+  },
   "stejay": {
-    "US": 12
+    "US": 17
   },
   "stejay1": {
-    "US": 3
+    "US": 5
   },
   "stejay2": {
     "US": 1
@@ -1064,7 +1304,7 @@
     "CA": 4
   },
   "cowscj1": {
-    "US": 13
+    "US": 19
   },
   "mexjay1": {
     "US": 2
@@ -1072,15 +1312,36 @@
   "mexjay3": {
     "MX": 1
   },
+  "eurmag1": {
+    "NL": 1
+  },
+  "eurmag4": {
+    "NL": 1
+  },
   "yebmag": {
-    "US": 2
+    "US": 3
+  },
+  "eurjac": {
+    "NL": 3
   },
   "amecro": {
-    "US": 36,
+    "US": 42,
     "CA": 6
   },
+  "carcro1": {
+    "NL": 3
+  },
+  "piecro1": {
+    "TZ": 1
+  },
+  "whnrav1": {
+    "TZ": 3
+  },
   "comrav": {
-    "US": 27
+    "US": 34
+  },
+  "y00639": {
+    "US": 1
   },
   "bkcchi": {
     "CA": 6,
@@ -1096,33 +1357,54 @@
     "MX": 2
   },
   "chbchi": {
-    "US": 15
+    "US": 19
+  },
+  "blutit": {
+    "NL": 2
   },
   "britit": {
     "US": 3
   },
   "oaktit": {
-    "US": 14
+    "US": 19
+  },
+  "gretit1": {
+    "NL": 2
+  },
+  "gretit3": {
+    "FR": 1
   },
   "verdin": {
     "US": 2
+  },
+  "yebapa1": {
+    "TZ": 1
+  },
+  "refcis1": {
+    "TZ": 1
+  },
+  "huncis1": {
+    "TZ": 1
+  },
+  "cibwar1": {
+    "TZ": 1
   },
   "banswa": {
     "US": 1
   },
   "treswa": {
-    "US": 8,
+    "US": 13,
     "CA": 2
   },
   "chiswa1": {
     "CL": 2
   },
   "vigswa": {
-    "US": 8,
+    "US": 11,
     "MX": 2
   },
   "nrwswa": {
-    "US": 5
+    "US": 7
   },
   "nrwswa1": {
     "MX": 1
@@ -1131,22 +1413,40 @@
     "CL": 1
   },
   "barswa": {
-    "US": 10,
+    "US": 17,
     "MX": 2
+  },
+  "barswa2": {
+    "TZ": 1
   },
   "barswa5": {
     "US": 2,
     "CA": 2
   },
   "cliswa": {
-    "US": 2,
+    "US": 3,
     "MX": 2
   },
   "swallo": {
     "US": 2
   },
+  "combul2": {
+    "TZ": 3
+  },
+  "combul6": {
+    "TZ": 1
+  },
+  "comchi1": {
+    "NL": 1
+  },
+  "cetwar1": {
+    "NL": 1
+  },
+  "lottit1": {
+    "NL": 1
+  },
   "bushti": {
-    "US": 15,
+    "US": 21,
     "MX": 1
   },
   "bushti1": {
@@ -1155,14 +1455,17 @@
   "bkebus": {
     "MX": 3
   },
+  "blackc1": {
+    "FR": 1
+  },
   "wrenti": {
-    "US": 6
+    "US": 8
   },
   "warwhe1": {
     "US": 1
   },
   "ruckin": {
-    "US": 15
+    "US": 17
   },
   "gockin": {
     "CA": 6,
@@ -1170,7 +1473,7 @@
     "MX": 1
   },
   "whbnut": {
-    "US": 7,
+    "US": 10,
     "CA": 1,
     "MX": 1
   },
@@ -1188,14 +1491,14 @@
     "MX": 1
   },
   "rebnut": {
-    "US": 7
+    "US": 8
   },
   "brncre": {
-    "US": 4,
+    "US": 6,
     "CA": 1
   },
   "buggna2": {
-    "US": 1
+    "US": 3
   },
   "rocwre": {
     "US": 1
@@ -1205,13 +1508,16 @@
     "MX": 1
   },
   "houwre": {
-    "US": 6
+    "US": 8
   },
   "bntwre1": {
     "MX": 2
   },
   "houwre4": {
     "CL": 8
+  },
+  "winwre4": {
+    "NL": 3
   },
   "winwre3": {
     "CA": 1
@@ -1226,7 +1532,7 @@
     "CA": 3
   },
   "bewwre": {
-    "US": 24,
+    "US": 29,
     "MX": 2
   },
   "bewwre2": {
@@ -1248,11 +1554,16 @@
     "MX": 1
   },
   "eursta": {
+    "US": 13,
+    "FR": 1,
     "CA": 5,
-    "US": 8
+    "NL": 2
   },
   "commyn": {
     "US": 1
+  },
+  "supsta1": {
+    "TZ": 1
   },
   "blumoc": {
     "MX": 3
@@ -1268,10 +1579,10 @@
     "CL": 7
   },
   "normoc": {
-    "US": 16
+    "US": 21
   },
   "wesblu": {
-    "US": 13,
+    "US": 18,
     "MX": 2
   },
   "moublu": {
@@ -1293,13 +1604,16 @@
     "US": 1
   },
   "herthr": {
-    "US": 7
+    "US": 8
+  },
+  "eurbla": {
+    "NL": 1
   },
   "whtrob1": {
     "MX": 3
   },
   "amerob": {
-    "US": 11,
+    "US": 21,
     "MX": 4,
     "CA": 7
   },
@@ -1312,27 +1626,85 @@
   "austhr2": {
     "CL": 2
   },
+  "fieldf": {
+    "NL": 1
+  },
+  "spofly2": {
+    "TZ": 1
+  },
+  "eurrob1": {
+    "NL": 1
+  },
+  "stonec3": {
+    "TZ": 1
+  },
+  "moocha1": {
+    "TZ": 1
+  },
+  "moocha6": {
+    "TZ": 1
+  },
   "cedwax": {
-    "US": 4
+    "US": 6
   },
   "grsfly1": {
     "MX": 5
   },
   "phaino": {
-    "US": 4
+    "US": 5
+  },
+  "colsun2": {
+    "TZ": 1
+  },
+  "varsun2": {
+    "TZ": 2
   },
   "oliwar": {
     "US": 1,
     "MX": 3
   },
+  "wbswea1": {
+    "TZ": 1
+  },
+  "bagwea1": {
+    "TZ": 1
+  },
+  "spewea1": {
+    "TZ": 1
+  },
+  "tagwea1": {
+    "TZ": 1
+  },
+  "rebque1": {
+    "TZ": 1
+  },
+  "zanbis1": {
+    "TZ": 1
+  },
+  "fatwid1": {
+    "TZ": 1
+  },
+  "growea1": {
+    "TZ": 1
+  },
+  "pitwhy": {
+    "TZ": 1
+  },
   "houspa": {
     "CL": 7,
     "MX": 3,
-    "US": 8,
-    "CA": 3
+    "US": 9,
+    "CA": 3,
+    "TZ": 2
+  },
+  "afpwag1": {
+    "TZ": 1
+  },
+  "whiwag": {
+    "NL": 1
   },
   "amepip": {
-    "US": 8
+    "US": 9
   },
   "eleeup1": {
     "MX": 3
@@ -1341,12 +1713,15 @@
     "US": 1
   },
   "houfin": {
-    "US": 32,
+    "US": 40,
     "MX": 4,
     "CA": 4
   },
   "houfin1": {
     "US": 2
+  },
+  "purfin": {
+    "US": 1
   },
   "purfin2": {
     "US": 1
@@ -1354,11 +1729,17 @@
   "casfin": {
     "US": 1
   },
+  "strsee1": {
+    "TZ": 2
+  },
   "redcro": {
     "US": 2
   },
   "redcro6": {
     "MX": 2
+  },
+  "eurgol": {
+    "NL": 1
   },
   "pinsis": {
     "CA": 2,
@@ -1371,12 +1752,15 @@
     "MX": 1
   },
   "lesgol": {
-    "US": 19,
+    "US": 24,
     "MX": 1
   },
+  "lawgol": {
+    "US": 1
+  },
   "amegfi": {
-    "CA": 7,
-    "US": 3
+    "US": 5,
+    "CA": 7
   },
   "blcsis2": {
     "CL": 1
@@ -1398,27 +1782,30 @@
     "US": 2
   },
   "larspa": {
-    "US": 2,
+    "US": 3,
     "MX": 1
   },
   "gsbfin1": {
     "MX": 2
   },
   "foxspa": {
-    "US": 5
+    "US": 6
   },
   "foxsp2": {
     "US": 1
   },
   "daejun": {
-    "US": 11,
+    "US": 21,
     "CA": 3
   },
   "slcjun": {
     "CA": 1
   },
+  "daejun1": {
+    "US": 1
+  },
   "orejun": {
-    "US": 7
+    "US": 8
   },
   "yeejun": {
     "US": 4
@@ -1433,13 +1820,13 @@
     "CL": 1
   },
   "whcspa": {
-    "US": 23
+    "US": 27
   },
   "nwcspa": {
     "US": 1
   },
   "gocspa": {
-    "US": 14
+    "US": 18
   },
   "whtspa": {
     "CA": 2,
@@ -1459,7 +1846,7 @@
     "MX": 1
   },
   "sonspa": {
-    "US": 27,
+    "US": 35,
     "CA": 5
   },
   "sonspa2": {
@@ -1469,7 +1856,7 @@
     "MX": 1
   },
   "linspa": {
-    "US": 3,
+    "US": 4,
     "MX": 1
   },
   "rcgspa1": {
@@ -1483,19 +1870,19 @@
     "US": 2
   },
   "caltow": {
-    "US": 30
+    "US": 35
   },
   "russpa1": {
     "MX": 1
   },
   "rucspa": {
-    "US": 1
+    "US": 2
   },
   "gnttow": {
     "US": 1
   },
   "spotow": {
-    "US": 11
+    "US": 18
   },
   "spotow1": {
     "US": 4
@@ -1509,6 +1896,9 @@
   "rcbfin1": {
     "MX": 1
   },
+  "yebcha": {
+    "US": 1
+  },
   "wesmea": {
     "US": 9
   },
@@ -1519,13 +1909,13 @@
     "MX": 1
   },
   "hooori": {
-    "US": 4
+    "US": 5
   },
   "stbori": {
     "MX": 1
   },
   "bulori": {
-    "US": 2
+    "US": 5
   },
   "blbori1": {
     "MX": 1
@@ -1534,7 +1924,7 @@
     "US": 2
   },
   "rewbla": {
-    "US": 13,
+    "US": 16,
     "CA": 4,
     "MX": 1
   },
@@ -1542,7 +1932,7 @@
     "CA": 2
   },
   "rewbla2": {
-    "US": 1
+    "US": 3
   },
   "shicow": {
     "CL": 5
@@ -1552,11 +1942,11 @@
     "MX": 1
   },
   "bnhcow": {
-    "CA": 3,
-    "US": 6
+    "US": 11,
+    "CA": 3
   },
   "brebla": {
-    "US": 6
+    "US": 12
   },
   "comgra": {
     "CA": 2,
@@ -1569,7 +1959,7 @@
     "US": 2
   },
   "grtgra": {
-    "US": 7,
+    "US": 8,
     "MX": 2
   },
   "ausbla1": {
@@ -1593,6 +1983,9 @@
   "virwar": {
     "US": 1
   },
+  "macwar": {
+    "US": 1
+  },
   "comyel": {
     "US": 9,
     "MX": 1
@@ -1607,13 +2000,13 @@
     "MX": 1
   },
   "yerwar": {
-    "US": 25
+    "US": 29
   },
   "myrwar": {
     "CA": 1
   },
   "audwar": {
-    "US": 3,
+    "US": 5,
     "MX": 2
   },
   "grawar": {
@@ -1635,7 +2028,7 @@
     "MX": 3
   },
   "wlswar": {
-    "US": 5,
+    "US": 6,
     "MX": 2
   },
   "refwar": {
@@ -1658,7 +2051,7 @@
     "US": 3
   },
   "westan": {
-    "US": 3,
+    "US": 4,
     "MX": 2
   },
   "flctan": {
@@ -1672,7 +2065,7 @@
     "US": 2
   },
   "bkhgro": {
-    "US": 9,
+    "US": 10,
     "MX": 2
   },
   "blugrb1": {

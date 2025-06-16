@@ -7,7 +7,7 @@ description: "Dendragapus fuliginosus is a species of bird in the Phasianidae (P
 species_group: "Grouse, Quail, and Allies"
 species_code: "soogro1"
 
-sidebar_position: 349
+sidebar_position: 432
 sidebar_class_name: "has-photo "
 tags: 
   - Galliformes

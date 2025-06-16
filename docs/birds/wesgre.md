@@ -3,11 +3,11 @@ title: "Western Grebe"
 scientific_name: "Aechmophorus occidentalis"
 order: "Podicipediformes"
 family: "Podicipedidae (Grebes)"
-description: "Aechmophorus occidentalis is a species of bird in the Podicipedidae (Grebes) family. It has been observed 11 times."
+description: "Aechmophorus occidentalis is a species of bird in the Podicipedidae (Grebes) family. It has been observed 13 times."
 species_group: "Grebes"
 species_code: "wesgre"
 
-sidebar_position: 394
+sidebar_position: 490
 sidebar_class_name: " "
 tags: 
   - Podicipediformes
@@ -38,7 +38,7 @@ Western grebe fossils from the Late Pleistocene of southwest North America were 
 ### Relevant Sightings
 
 * [01-21-2024 - California, United States](https://ebird.org/checklist/S159471387) (First Sighting)
-* [11-28-2024 - California, United States](https://ebird.org/checklist/S203889552) (Last Sighting)
+* [06-01-2025 - California, United States](https://ebird.org/checklist/S245649846) (Last Sighting)
 
 ### Places Seen
 

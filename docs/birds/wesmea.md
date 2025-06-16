@@ -7,7 +7,7 @@ description: "Sturnella neglecta is a species of bird in the Icteridae (Troupial
 species_group: "Blackbirds"
 species_code: "wesmea"
 
-sidebar_position: 397
+sidebar_position: 493
 sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes

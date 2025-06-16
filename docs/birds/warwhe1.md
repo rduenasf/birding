@@ -7,7 +7,7 @@ description: "Zosterops japonicus is a species of bird in the Zosteropidae (Whit
 species_group: "White-eyes, Yuhinas, and Allies"
 species_code: "warwhe1"
 
-sidebar_position: 389
+sidebar_position: 484
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes

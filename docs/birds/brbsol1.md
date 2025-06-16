@@ -7,7 +7,7 @@ description: "Myadestes occidentalis is a species of bird in the Turdidae (Thrus
 species_group: "Thrushes"
 species_code: "brbsol1"
 
-sidebar_position: 76
+sidebar_position: 92
 sidebar_class_name: " "
 tags: 
   - Passeriformes

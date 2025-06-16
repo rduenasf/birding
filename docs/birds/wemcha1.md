@@ -7,7 +7,7 @@ description: "Ortalis poliocephala is a species of bird in the Cracidae (Guans, 
 species_group: "Chachalacas, Guans, and Curassows"
 species_code: "wemcha1"
 
-sidebar_position: 390
+sidebar_position: 485
 sidebar_class_name: " "
 tags: 
   - Galliformes

@@ -7,7 +7,7 @@ description: "Larus occidentalis is a species of bird in the Laridae (Gulls, Ter
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "wesgul"
 
-sidebar_position: 395
+sidebar_position: 491
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

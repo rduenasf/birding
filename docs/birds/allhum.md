@@ -3,11 +3,11 @@ title: "Allen's Hummingbird"
 scientific_name: "Selasphorus sasin"
 order: "Apodiformes"
 family: "Trochilidae (Hummingbirds)"
-description: "Selasphorus sasin is a species of bird in the Trochilidae (Hummingbirds) family. It has been observed 2 times."
+description: "Selasphorus sasin is a species of bird in the Trochilidae (Hummingbirds) family. It has been observed 5 times."
 species_group: "Hummingbirds"
 species_code: "allhum"
 
-sidebar_position: 3
+sidebar_position: 8
 sidebar_class_name: " "
 tags: 
   - Apodiformes
@@ -37,7 +37,7 @@ Allen's hummingbird (Selasphorus sasin) is a species of hummingbird that breeds 
 ### Relevant Sightings
 
 * [02-11-2024 - California, United States](https://ebird.org/checklist/S161327433) (First Sighting)
-* [04-19-2024 - California, United States](https://ebird.org/checklist/S169311392) (Last Sighting)
+* [06-14-2025 - California, United States](https://ebird.org/checklist/S250753344) (Last Sighting)
 
 ### Places Seen
 

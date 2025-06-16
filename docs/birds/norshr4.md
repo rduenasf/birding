@@ -7,7 +7,7 @@ description: "Lanius borealis is a species of bird in the Laniidae (Shrikes) fam
 species_group: "Shrikes"
 species_code: "norshr4"
 
-sidebar_position: 266
+sidebar_position: 339
 sidebar_class_name: " "
 tags: 
   - Passeriformes

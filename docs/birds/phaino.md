@@ -3,11 +3,11 @@ title: "Phainopepla"
 scientific_name: "Phainopepla nitens"
 order: "Passeriformes"
 family: "Ptiliogonatidae (Silky-flycatchers)"
-description: "Phainopepla nitens is a species of bird in the Ptiliogonatidae (Silky-flycatchers) family. It has been observed 4 times."
+description: "Phainopepla nitens is a species of bird in the Ptiliogonatidae (Silky-flycatchers) family. It has been observed 5 times."
 species_group: "Silky-flycatchers"
 species_code: "phaino"
 
-sidebar_position: 280
+sidebar_position: 354
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -37,11 +37,12 @@ The phainopepla or northern phainopepla (Phainopepla nitens) is the most norther
 ### Relevant Sightings
 
 * [04-27-2024 - Arizona, United States](https://ebird.org/checklist/S170587133) (First Sighting)
-* [04-28-2024 - Arizona, United States](https://ebird.org/checklist/S170824758) (Last Sighting)
+* [03-29-2025 - California, United States](https://ebird.org/checklist/S221633632) (Last Sighting)
 
 ### Places Seen
 
 * Arizona, United States
+* California, United States
 
 
 

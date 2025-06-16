@@ -3,11 +3,11 @@ title: "Purple Finch"
 scientific_name: "Haemorhous purpureus"
 order: "Passeriformes"
 family: "Fringillidae (Finches, Euphonias, and Allies)"
-description: "Haemorhous purpureus is a species of bird in the Fringillidae (Finches, Euphonias, and Allies) family. It has been observed 1 times. It has been recorded."
+description: "Haemorhous purpureus is a species of bird in the Fringillidae (Finches, Euphonias, and Allies) family. It has been observed 2 times. It has been recorded."
 species_group: "Finches, Euphonias, and Allies"
 species_code: "purfin"
 
-sidebar_position: 289
+sidebar_position: 365
 sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
@@ -38,7 +38,8 @@ The purple finch (Haemorhous purpureus) is a bird in the finch family, Fringilli
 
 ### Relevant Sightings
 
-* [12-08-2024 - California, United States](https://ebird.org/checklist/S204849205) (Only Sighting / Recording)
+* [12-08-2024 - California, United States](https://ebird.org/checklist/S204849205) (First Sighting / Only Recording)
+* [03-23-2025 - California, United States](https://ebird.org/checklist/S220390820) (Last Sighting)
 
 ### Places Seen
 

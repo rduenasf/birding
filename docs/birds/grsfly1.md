@@ -7,7 +7,7 @@ description: "Ptiliogonys cinereus is a species of bird in the Ptiliogonatidae (
 species_group: "Silky-flycatchers"
 species_code: "grsfly1"
 
-sidebar_position: 173
+sidebar_position: 221
 sidebar_class_name: " "
 tags: 
   - Passeriformes

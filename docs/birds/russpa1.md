@@ -7,7 +7,7 @@ description: "Aimophila rufescens is a species of bird in the Passerellidae (New
 species_group: "New World Sparrows"
 species_code: "russpa1"
 
-sidebar_position: 332
+sidebar_position: 413
 sidebar_class_name: " "
 tags: 
   - Passeriformes

@@ -7,7 +7,7 @@ description: "Vireolanius melitophrys is a species of bird in the Vireonidae (Vi
 species_group: "Vireos"
 species_code: "cssvir1"
 
-sidebar_position: 105
+sidebar_position: 124
 sidebar_class_name: " "
 tags: 
   - Passeriformes

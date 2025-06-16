@@ -7,7 +7,7 @@ description: "Amphispiza bilineata is a species of bird in the Passerellidae (Ne
 species_group: "New World Sparrows"
 species_code: "bktspa"
 
-sidebar_position: 56
+sidebar_position: 70
 sidebar_class_name: " "
 tags: 
   - Passeriformes

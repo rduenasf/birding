@@ -7,7 +7,7 @@ description: "Ixoreus naevius is a species of bird in the Turdidae (Thrushes and
 species_group: "Thrushes"
 species_code: "varthr"
 
-sidebar_position: 380
+sidebar_position: 474
 sidebar_class_name: " "
 tags: 
   - Passeriformes

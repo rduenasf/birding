@@ -7,7 +7,7 @@ description: "Baeolophus wollweberi is a species of bird in the Paridae (Tits, C
 species_group: "Tits, Chickadees, and Titmice"
 species_code: "britit"
 
-sidebar_position: 70
+sidebar_position: 86
 sidebar_class_name: " "
 tags: 
   - Passeriformes

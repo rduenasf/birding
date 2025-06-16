@@ -7,7 +7,7 @@ description: "Oxyura vittata is a species of bird in the Anatidae (Ducks, Geese,
 species_group: "Waterfowl"
 species_code: "lakduc1"
 
-sidebar_position: 218
+sidebar_position: 279
 sidebar_class_name: "has-photo "
 tags: 
   - Anseriformes

@@ -3,11 +3,11 @@ title: "Dark-eyed Junco"
 scientific_name: "Junco hyemalis"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
-description: "Junco hyemalis is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 23 times. It has been photographed. It has been recorded."
+description: "Junco hyemalis is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 40 times. It has been photographed. It has been recorded."
 species_group: "New World Sparrows"
 species_code: "daejun"
 
-sidebar_position: 137
+sidebar_position: 165
 sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
@@ -29,7 +29,7 @@ The dark-eyed junco (Junco hyemalis) is a species of junco, a group of small, gr
 ### Taxonomy
 [Passeriformes](/tags/passeriformes) > [Passerellidae (New World Sparrows)](/tags/passerellidae-new-world-sparrows) > [New World Sparrows](/tags/new-world-sparrows)
 
-**Subspecies Seen**: Dark-eyed Junco (Oregon), Dark-eyed Junco (Slate-colored)
+**Subspecies Seen**: Dark-eyed Junco (cismontanus), Dark-eyed Junco (Oregon), Dark-eyed Junco (Slate-colored)
 
 
 ## Sightings
@@ -43,7 +43,7 @@ The dark-eyed junco (Junco hyemalis) is a species of junco, a group of small, gr
 * [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (First Recording)
 * [12-08-2024 - California, United States](https://ebird.org/checklist/S204849205) (Best Recording)
 * [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Best Photo)
-* [01-06-2025 - California, United States](https://ebird.org/checklist/S208277867) (Last Sighting)
+* [06-14-2025 - California, United States](https://ebird.org/checklist/S250753679) (Last Sighting)
 
 ### Places Seen
 

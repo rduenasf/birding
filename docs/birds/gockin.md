@@ -7,7 +7,7 @@ description: "Regulus satrapa is a species of bird in the Regulidae (Kinglets) f
 species_group: "Kinglets"
 species_code: "gockin"
 
-sidebar_position: 166
+sidebar_position: 213
 sidebar_class_name: " "
 tags: 
   - Passeriformes

@@ -7,7 +7,7 @@ description: "Empidonax oberholseri is a species of bird in the Tyrannidae (Tyra
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "dusfly"
 
-sidebar_position: 142
+sidebar_position: 170
 sidebar_class_name: " "
 tags: 
   - Passeriformes

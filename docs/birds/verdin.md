@@ -7,7 +7,7 @@ description: "Auriparus flaviceps is a species of bird in the Remizidae (Penduli
 species_group: "Penduline-Tits and Verdin"
 species_code: "verdin"
 
-sidebar_position: 382
+sidebar_position: 476
 sidebar_class_name: " "
 tags: 
   - Passeriformes

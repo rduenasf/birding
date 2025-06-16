@@ -7,7 +7,7 @@ description: "Agriornis lividus is a species of bird in the Tyrannidae (Tyrant F
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "gresht1"
 
-sidebar_position: 182
+sidebar_position: 234
 sidebar_class_name: " "
 tags: 
   - Passeriformes

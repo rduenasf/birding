@@ -7,7 +7,7 @@ description: "Leptasthenura aegithaloides is a species of bird in the Furnariida
 species_group: "Ovenbirds"
 species_code: "pmtspi1"
 
-sidebar_position: 287
+sidebar_position: 363
 sidebar_class_name: " "
 tags: 
   - Passeriformes

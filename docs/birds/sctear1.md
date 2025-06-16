@@ -7,7 +7,7 @@ description: "Upucerthia dumetaria is a species of bird in the Furnariidae (Oven
 species_group: "Ovenbirds"
 species_code: "sctear1"
 
-sidebar_position: 337
+sidebar_position: 418
 sidebar_class_name: " "
 tags: 
   - Passeriformes

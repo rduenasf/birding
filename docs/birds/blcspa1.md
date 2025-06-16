@@ -7,7 +7,7 @@ description: "Peucaea humeralis is a species of bird in the Passerellidae (New W
 species_group: "New World Sparrows"
 species_code: "blcspa1"
 
-sidebar_position: 45
+sidebar_position: 57
 sidebar_class_name: " "
 tags: 
   - Passeriformes

@@ -7,7 +7,7 @@ description: "Haemorhous cassinii is a species of bird in the Fringillidae (Finc
 species_group: "Finches, Euphonias, and Allies"
 species_code: "casfin"
 
-sidebar_position: 101
+sidebar_position: 119
 sidebar_class_name: " "
 tags: 
   - Passeriformes

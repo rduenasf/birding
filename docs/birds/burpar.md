@@ -7,7 +7,7 @@ description: "Cyanoliseus patagonus is a species of bird in the Psittacidae (New
 species_group: "Parrots, Parakeets, and Allies"
 species_code: "burpar"
 
-sidebar_position: 84
+sidebar_position: 100
 sidebar_class_name: " "
 tags: 
   - Psittaciformes

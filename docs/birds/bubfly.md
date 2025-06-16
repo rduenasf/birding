@@ -7,7 +7,7 @@ description: "Empidonax fulvifrons is a species of bird in the Tyrannidae (Tyran
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "bubfly"
 
-sidebar_position: 80
+sidebar_position: 96
 sidebar_class_name: " "
 tags: 
   - Passeriformes

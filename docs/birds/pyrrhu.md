@@ -7,7 +7,7 @@ description: "Cardinalis sinuatus is a species of bird in the Cardinalidae (Card
 species_group: "Cardinals, Grosbeaks, and Allies"
 species_code: "pyrrhu"
 
-sidebar_position: 291
+sidebar_position: 367
 sidebar_class_name: " "
 tags: 
   - Passeriformes

@@ -7,7 +7,7 @@ description: "Larus heermanni is a species of bird in the Laridae (Gulls, Terns,
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "heegul"
 
-sidebar_position: 201
+sidebar_position: 259
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

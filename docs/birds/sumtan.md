@@ -7,7 +7,7 @@ description: "Piranga rubra is a species of bird in the Cardinalidae (Cardinals 
 species_group: "Cardinals, Grosbeaks, and Allies"
 species_code: "sumtan"
 
-sidebar_position: 365
+sidebar_position: 453
 sidebar_class_name: " "
 tags: 
   - Passeriformes

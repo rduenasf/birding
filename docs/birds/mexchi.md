@@ -7,7 +7,7 @@ description: "Poecile sclateri is a species of bird in the Paridae (Tits, Chicka
 species_group: "Tits, Chickadees, and Titmice"
 species_code: "mexchi"
 
-sidebar_position: 242
+sidebar_position: 312
 sidebar_class_name: " "
 tags: 
   - Passeriformes

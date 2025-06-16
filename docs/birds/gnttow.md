@@ -7,7 +7,7 @@ description: "Pipilo chlorurus is a species of bird in the Passerellidae (New Wo
 species_group: "New World Sparrows"
 species_code: "gnttow"
 
-sidebar_position: 191
+sidebar_position: 245
 sidebar_class_name: " "
 tags: 
   - Passeriformes

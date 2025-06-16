@@ -7,7 +7,7 @@ description: "Nannopterum brasilianum is a species of bird in the Phalacrocoraci
 species_group: "Cormorants and Anhingas"
 species_code: "neocor"
 
-sidebar_position: 256
+sidebar_position: 327
 sidebar_class_name: " "
 tags: 
   - Suliformes

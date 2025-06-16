@@ -3,11 +3,11 @@ title: "Black Phoebe"
 scientific_name: "Sayornis nigricans"
 order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
-description: "Sayornis nigricans is a species of bird in the Tyrannidae (Tyrant Flycatchers) family. It has been observed 47 times. It has been photographed. It has been recorded."
+description: "Sayornis nigricans is a species of bird in the Tyrannidae (Tyrant Flycatchers) family. It has been observed 59 times. It has been photographed. It has been recorded."
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "blkpho"
 
-sidebar_position: 37
+sidebar_position: 49
 sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
@@ -44,7 +44,7 @@ The black phoebe has predominantly black plumage, with a white belly and underta
 * [11-23-2024 - California, United States](https://ebird.org/checklist/S203364471) (Best Recording)
 * [01-05-2025 - California, United States](https://ebird.org/checklist/S208150408) (First Photo)
 * [01-10-2025 - California, United States](https://ebird.org/checklist/S208779826) (Best Photo)
-* [01-15-2025 - California, United States](https://ebird.org/checklist/S209444881) (Last Sighting)
+* [06-14-2025 - California, United States](https://ebird.org/checklist/S250753679) (Last Sighting)
 
 ### Places Seen
 

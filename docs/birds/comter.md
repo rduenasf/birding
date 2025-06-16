@@ -7,7 +7,7 @@ description: "Sterna hirundo is a species of bird in the Laridae (Gulls, Terns, 
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "comter"
 
-sidebar_position: 129
+sidebar_position: 156
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

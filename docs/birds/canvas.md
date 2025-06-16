@@ -3,11 +3,11 @@ title: "Canvasback"
 scientific_name: "Aythya valisineria"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
-description: "Aythya valisineria is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 6 times."
+description: "Aythya valisineria is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 7 times."
 species_group: "Waterfowl"
 species_code: "canvas"
 
-sidebar_position: 95
+sidebar_position: 111
 sidebar_class_name: " "
 tags: 
   - Anseriformes
@@ -37,7 +37,7 @@ The canvasback (Aythya valisineria) is a species of diving duck, the largest fou
 ### Relevant Sightings
 
 * [12-23-2023 - California, United States](https://ebird.org/checklist/S157058117) (First Sighting)
-* [11-30-2024 - California, United States](https://ebird.org/checklist/S204068913) (Last Sighting)
+* [03-15-2025 - California, United States](https://ebird.org/checklist/S218683432) (Last Sighting)
 
 ### Places Seen
 

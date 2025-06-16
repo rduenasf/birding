@@ -7,7 +7,7 @@ description: "Poecile gambeli is a species of bird in the Paridae (Tits, Chickad
 species_group: "Tits, Chickadees, and Titmice"
 species_code: "mouchi"
 
-sidebar_position: 248
+sidebar_position: 319
 sidebar_class_name: " "
 tags: 
   - Passeriformes

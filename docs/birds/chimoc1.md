@@ -7,7 +7,7 @@ description: "Mimus thenca is a species of bird in the Mimidae (Mockingbirds and
 species_group: "Catbirds, Mockingbirds, and Thrashers"
 species_code: "chimoc1"
 
-sidebar_position: 107
+sidebar_position: 126
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes

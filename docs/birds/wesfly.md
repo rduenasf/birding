@@ -7,7 +7,7 @@ description: "Empidonax difficilis is a species of bird in the Tyrannidae (Tyran
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "wesfly"
 
-sidebar_position: 393
+sidebar_position: 489
 sidebar_class_name: " "
 tags: 
   - Passeriformes

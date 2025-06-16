@@ -3,11 +3,11 @@ title: "Downy Woodpecker"
 scientific_name: "Dryobates pubescens"
 order: "Piciformes"
 family: "Picidae (Woodpeckers)"
-description: "Dryobates pubescens is a species of bird in the Picidae (Woodpeckers) family. It has been observed 7 times."
+description: "Dryobates pubescens is a species of bird in the Picidae (Woodpeckers) family. It has been observed 10 times."
 species_group: "Woodpeckers"
 species_code: "dowwoo"
 
-sidebar_position: 140
+sidebar_position: 168
 sidebar_class_name: " "
 tags: 
   - Piciformes
@@ -29,7 +29,7 @@ The downy woodpecker (Dryobates pubescens) is a species of woodpecker, the small
 ### Taxonomy
 [Piciformes](/tags/piciformes) > [Picidae (Woodpeckers)](/tags/picidae-woodpeckers) > [Woodpeckers](/tags/woodpeckers)
 
-**Subspecies Seen**: Downy Woodpecker (Eastern)
+**Subspecies Seen**: Downy Woodpecker (Eastern), Downy Woodpecker (Pacific)
 
 
 ## Sightings
@@ -39,7 +39,7 @@ The downy woodpecker (Dryobates pubescens) is a species of woodpecker, the small
 ### Relevant Sightings
 
 * [04-08-2024 - Ontario, Canada](https://ebird.org/checklist/S167691530) (First Sighting)
-* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+* [05-16-2025 - California, United States](https://ebird.org/checklist/S238839617) (Last Sighting)
 
 ### Places Seen
 

@@ -3,11 +3,11 @@ title: "Wrentit"
 scientific_name: "Chamaea fasciata"
 order: "Passeriformes"
 family: "Paradoxornithidae (Parrotbills)"
-description: "Chamaea fasciata is a species of bird in the Paradoxornithidae (Parrotbills) family. It has been observed 6 times. It has been recorded."
+description: "Chamaea fasciata is a species of bird in the Paradoxornithidae (Parrotbills) family. It has been observed 9 times. It has been recorded."
 species_group: "Parrotbills, Wrentit, and Allies"
 species_code: "wrenti"
 
-sidebar_position: 426
+sidebar_position: 531
 sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
@@ -39,7 +39,7 @@ Its systematics have been the subject of much debate, the wrentit having been pl
 
 * [01-28-2024 - California, United States](https://ebird.org/checklist/S160073236) (First Sighting)
 * [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (Only Recording)
-* [12-08-2024 - California, United States](https://ebird.org/checklist/S204849205) (Last Sighting)
+* [06-14-2025 - California, United States](https://ebird.org/checklist/S250753679) (Last Sighting)
 
 ### Places Seen
 

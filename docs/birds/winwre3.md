@@ -7,7 +7,7 @@ description: "Troglodytes hiemalis is a species of bird in the Troglodytidae (Wr
 species_group: "Wrens"
 species_code: "winwre3"
 
-sidebar_position: 423
+sidebar_position: 527
 sidebar_class_name: " "
 tags: 
   - Passeriformes

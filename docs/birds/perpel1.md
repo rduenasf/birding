@@ -7,7 +7,7 @@ description: "Pelecanus thagus is a species of bird in the Pelecanidae (Pelicans
 species_group: "Pelicans"
 species_code: "perpel1"
 
-sidebar_position: 279
+sidebar_position: 353
 sidebar_class_name: "has-photo "
 tags: 
   - Pelecaniformes

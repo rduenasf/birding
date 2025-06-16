@@ -7,7 +7,7 @@ description: "Quiscalus major is a species of bird in the Icteridae (Troupials a
 species_group: "Blackbirds"
 species_code: "botgra"
 
-sidebar_position: 66
+sidebar_position: 82
 sidebar_class_name: " "
 tags: 
   - Passeriformes

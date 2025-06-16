@@ -7,7 +7,7 @@ description: "Leucosticte tephrocotis is a species of bird in the Fringillidae (
 species_group: "Finches, Euphonias, and Allies"
 species_code: "gcrfin"
 
-sidebar_position: 175
+sidebar_position: 223
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes

@@ -7,7 +7,7 @@ description: "Spatula platalea is a species of bird in the Anatidae (Ducks, Gees
 species_group: "Waterfowl"
 species_code: "redsho1"
 
-sidebar_position: 294
+sidebar_position: 370
 sidebar_class_name: " "
 tags: 
   - Anseriformes

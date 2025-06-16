@@ -7,7 +7,7 @@ description: "Anas flavirostris is a species of bird in the Anatidae (Ducks, Gee
 species_group: "Waterfowl"
 species_code: "yebtea1"
 
-sidebar_position: 430
+sidebar_position: 535
 sidebar_class_name: " "
 tags: 
   - Anseriformes

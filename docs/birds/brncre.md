@@ -3,11 +3,11 @@ title: "Brown Creeper"
 scientific_name: "Certhia americana"
 order: "Passeriformes"
 family: "Certhiidae (Treecreepers)"
-description: "Certhia americana is a species of bird in the Certhiidae (Treecreepers) family. It has been observed 5 times."
+description: "Certhia americana is a species of bird in the Certhiidae (Treecreepers) family. It has been observed 7 times."
 species_group: "Treecreepers"
 species_code: "brncre"
 
-sidebar_position: 74
+sidebar_position: 90
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -37,7 +37,7 @@ The brown creeper (Certhia americana), also known as the American treecreeper, i
 ### Relevant Sightings
 
 * [04-09-2024 - Ontario, Canada](https://ebird.org/checklist/S167923446) (First Sighting)
-* [09-15-2024 - Washington, United States](https://ebird.org/checklist/S195264549) (Last Sighting)
+* [06-14-2025 - California, United States](https://ebird.org/checklist/S250753344) (Last Sighting)
 
 ### Places Seen
 

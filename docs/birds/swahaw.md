@@ -7,7 +7,7 @@ description: "Buteo swainsoni is a species of bird in the Accipitridae (Hawks, E
 species_group: "Vultures, Hawks, and Allies"
 species_code: "swahaw"
 
-sidebar_position: 368
+sidebar_position: 457
 sidebar_class_name: " "
 tags: 
   - Accipitriformes

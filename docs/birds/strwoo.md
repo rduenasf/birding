@@ -7,7 +7,7 @@ description: "Dryobates stricklandi is a species of bird in the Picidae (Woodpec
 species_group: "Woodpeckers"
 species_code: "strwoo"
 
-sidebar_position: 360
+sidebar_position: 448
 sidebar_class_name: " "
 tags: 
   - Piciformes

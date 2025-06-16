@@ -7,7 +7,7 @@ description: "Spheniscus humboldti is a species of bird in the Spheniscidae (Pen
 species_group: "Penguins"
 species_code: "humpen1"
 
-sidebar_position: 211
+sidebar_position: 270
 sidebar_class_name: " "
 tags: 
   - Sphenisciformes

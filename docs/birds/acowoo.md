@@ -3,7 +3,7 @@ title: "Acorn Woodpecker"
 scientific_name: "Melanerpes formicivorus"
 order: "Piciformes"
 family: "Picidae (Woodpeckers)"
-description: "Melanerpes formicivorus is a species of bird in the Picidae (Woodpeckers) family. It has been observed 20 times. It has been photographed. It has been recorded."
+description: "Melanerpes formicivorus is a species of bird in the Picidae (Woodpeckers) family. It has been observed 30 times. It has been photographed. It has been recorded."
 species_group: "Woodpeckers"
 species_code: "acowoo"
 
@@ -40,7 +40,8 @@ The acorn woodpecker (Melanerpes formicivorus) is a medium-sized woodpecker with
 * [05-10-2024 - California, United States](https://ebird.org/checklist/S173241890) (First Photo)
 * [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (First Recording)
 * [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (Best Recording)
-* [01-13-2025 - California, United States](https://ebird.org/checklist/S209208311) (Last Sighting / Last and Best Photo)
+* [01-13-2025 - California, United States](https://ebird.org/checklist/S209208311) (Best Photo)
+* [06-14-2025 - California, United States](https://ebird.org/checklist/S250753679) (Last Sighting)
 
 ### Places Seen
 

@@ -3,11 +3,11 @@ title: "Spotted Towhee"
 scientific_name: "Pipilo maculatus"
 order: "Passeriformes"
 family: "Passerellidae (New World Sparrows)"
-description: "Pipilo maculatus is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 19 times. It has been recorded."
+description: "Pipilo maculatus is a species of bird in the Passerellidae (New World Sparrows) family. It has been observed 30 times. It has been recorded."
 species_group: "New World Sparrows"
 species_code: "spotow"
 
-sidebar_position: 357
+sidebar_position: 443
 sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
@@ -42,7 +42,7 @@ Individuals in the Socorro Island population are much smaller than other spotted
 * [12-24-2023 - California, United States](https://ebird.org/checklist/S157049893) (First Sighting)
 * [11-23-2024 - California, United States](https://ebird.org/checklist/S203364471) (First Recording)
 * [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (Best Recording)
-* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Last Sighting)
+* [06-14-2025 - California, United States](https://ebird.org/checklist/S250753679) (Last Sighting)
 
 ### Places Seen
 

@@ -7,7 +7,7 @@ description: "Phoebastria nigripes is a species of bird in the Diomedeidae (Alba
 species_group: "Albatrosses"
 species_code: "bkfalb"
 
-sidebar_position: 50
+sidebar_position: 62
 sidebar_class_name: " "
 tags: 
   - Procellariiformes

@@ -7,7 +7,7 @@ description: "Icterus wagleri is a species of bird in the Icteridae (Troupials a
 species_group: "Blackbirds"
 species_code: "bkvori"
 
-sidebar_position: 57
+sidebar_position: 71
 sidebar_class_name: " "
 tags: 
   - Passeriformes

@@ -7,7 +7,7 @@ description: "Limosa fedoa is a species of bird in the Scolopacidae (Sandpipers 
 species_group: "Shorebirds"
 species_code: "margod"
 
-sidebar_position: 239
+sidebar_position: 309
 sidebar_class_name: "has-photo "
 tags: 
   - Charadriiformes

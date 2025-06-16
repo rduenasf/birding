@@ -3,11 +3,11 @@ title: "Canada Goose"
 scientific_name: "Branta canadensis"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
-description: "Branta canadensis is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 48 times. It has been photographed. It has been recorded."
+description: "Branta canadensis is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 59 times. It has been photographed. It has been recorded."
 species_group: "Waterfowl"
 species_code: "cangoo"
 
-sidebar_position: 94
+sidebar_position: 110
 sidebar_class_name: "has-photo has-audio"
 tags: 
   - Anseriformes
@@ -44,11 +44,12 @@ Extremely adept at living in human-altered areas, Canada geese have established 
 * [11-23-2024 - California, United States](https://ebird.org/checklist/S203364471) (First Recording)
 * [11-30-2024 - California, United States](https://ebird.org/checklist/S204068913) (Best Recording)
 * [01-08-2025 - California, United States](https://ebird.org/checklist/S208562147) (Best Photo)
-* [01-15-2025 - California, United States](https://ebird.org/checklist/S209444881) (Last Sighting)
+* [06-14-2025 - California, United States](https://ebird.org/checklist/S250753344) (Last Sighting)
 
 ### Places Seen
 
 * California, United States
+* Flevoland, Netherlands
 * Ontario, Canada
 
 

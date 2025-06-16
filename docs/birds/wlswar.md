@@ -3,11 +3,11 @@ title: "Wilson's Warbler"
 scientific_name: "Cardellina pusilla"
 order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
-description: "Cardellina pusilla is a species of bird in the Parulidae (New World Warblers) family. It has been observed 7 times."
+description: "Cardellina pusilla is a species of bird in the Parulidae (New World Warblers) family. It has been observed 9 times."
 species_group: "Wood-Warblers"
 species_code: "wlswar"
 
-sidebar_position: 422
+sidebar_position: 526
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -37,7 +37,7 @@ Wilson's warbler (Cardellina pusilla) is a small New World warbler. It is greeni
 ### Relevant Sightings
 
 * [03-23-2024 - California, United States](https://ebird.org/checklist/S165759832) (First Sighting)
-* [05-11-2024 - California, United States](https://ebird.org/checklist/S173585635) (Last Sighting)
+* [06-14-2025 - California, United States](https://ebird.org/checklist/S250753679) (Last Sighting)
 
 ### Places Seen
 

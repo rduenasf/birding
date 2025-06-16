@@ -3,11 +3,11 @@ title: "American Goldfinch"
 scientific_name: "Spinus tristis"
 order: "Passeriformes"
 family: "Fringillidae (Finches, Euphonias, and Allies)"
-description: "Spinus tristis is a species of bird in the Fringillidae (Finches, Euphonias, and Allies) family. It has been observed 12 times."
+description: "Spinus tristis is a species of bird in the Fringillidae (Finches, Euphonias, and Allies) family. It has been observed 14 times."
 species_group: "Finches, Euphonias, and Allies"
 species_code: "amegfi"
 
-sidebar_position: 8
+sidebar_position: 15
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -40,7 +40,7 @@ Human activity has generally benefited the American goldfinch. It is often found
 ### Relevant Sightings
 
 * [11-11-2023 - California, United States](https://ebird.org/checklist/S154259403) (First Sighting)
-* [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (Last Sighting)
+* [04-20-2025 - California, United States](https://ebird.org/checklist/S227452484) (Last Sighting)
 
 ### Places Seen
 

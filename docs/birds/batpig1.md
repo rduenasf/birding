@@ -3,11 +3,11 @@ title: "Band-tailed Pigeon"
 scientific_name: "Patagioenas fasciata"
 order: "Columbiformes"
 family: "Columbidae (Pigeons and Doves)"
-description: "Patagioenas fasciata is a species of bird in the Columbidae (Pigeons and Doves) family. It has been observed 3 times."
+description: "Patagioenas fasciata is a species of bird in the Columbidae (Pigeons and Doves) family. It has been observed 5 times."
 species_group: "Pigeons and Doves"
 species_code: "batpig1"
 
-sidebar_position: 28
+sidebar_position: 36
 sidebar_class_name: " "
 tags: 
   - Columbiformes
@@ -39,7 +39,7 @@ The band-tailed pigeon (Patagioenas fasciata) is a pigeon native to the Americas
 ### Relevant Sightings
 
 * [05-19-2024 - California, United States](https://ebird.org/checklist/S177365407) (First Sighting)
-* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Last Sighting)
+* [03-23-2025 - California, United States](https://ebird.org/checklist/S220390820) (Last Sighting)
 
 ### Places Seen
 

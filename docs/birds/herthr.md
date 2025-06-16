@@ -3,11 +3,11 @@ title: "Hermit Thrush"
 scientific_name: "Catharus guttatus"
 order: "Passeriformes"
 family: "Turdidae (Thrushes and Allies)"
-description: "Catharus guttatus is a species of bird in the Turdidae (Thrushes and Allies) family. It has been observed 8 times. It has been recorded."
+description: "Catharus guttatus is a species of bird in the Turdidae (Thrushes and Allies) family. It has been observed 10 times. It has been recorded."
 species_group: "Thrushes"
 species_code: "herthr"
 
-sidebar_position: 203
+sidebar_position: 262
 sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes
@@ -39,7 +39,7 @@ The hermit thrush (Catharus guttatus) is a medium-sized North American thrush.[^
 * [03-28-2024 - California, United States](https://ebird.org/checklist/S166268948) (First Sighting)
 * [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (First Recording)
 * [12-07-2024 - California, United States](https://ebird.org/checklist/S204701057) (Best Recording)
-* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Last Sighting)
+* [04-05-2025 - California, United States](https://ebird.org/checklist/S223274397) (Last Sighting)
 
 ### Places Seen
 

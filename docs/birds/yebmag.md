@@ -3,11 +3,11 @@ title: "Yellow-billed Magpie"
 scientific_name: "Pica nuttalli"
 order: "Passeriformes"
 family: "Corvidae (Crows, Jays, and Magpies)"
-description: "Pica nuttalli is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 2 times."
+description: "Pica nuttalli is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 3 times."
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "yebmag"
 
-sidebar_position: 428
+sidebar_position: 533
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -38,7 +38,7 @@ The scientific name commemorates the English naturalist Thomas Nuttall.[^1]
 ### Relevant Sightings
 
 * [01-28-2024 - California, United States](https://ebird.org/checklist/S160073236) (First Sighting)
-* [01-28-2024 - California, United States](https://ebird.org/checklist/S160075608) (Last Sighting)
+* [05-15-2025 - California, United States](https://ebird.org/checklist/S238432986) (Last Sighting)
 
 ### Places Seen
 

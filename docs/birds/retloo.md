@@ -7,7 +7,7 @@ description: "Gavia stellata is a species of bird in the Gaviidae (Loons) family
 species_group: "Loons"
 species_code: "retloo"
 
-sidebar_position: 305
+sidebar_position: 384
 sidebar_class_name: " "
 tags: 
   - Gaviiformes

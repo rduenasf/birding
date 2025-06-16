@@ -7,7 +7,7 @@ description: "Pyrope pyrope is a species of bird in the Tyrannidae (Tyrant Flyca
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "fiediu1"
 
-sidebar_position: 153
+sidebar_position: 200
 sidebar_class_name: " "
 tags: 
   - Passeriformes

@@ -7,7 +7,7 @@ description: "Ramosomyia violiceps is a species of bird in the Trochilidae (Humm
 species_group: "Hummingbirds"
 species_code: "vichum"
 
-sidebar_position: 384
+sidebar_position: 479
 sidebar_class_name: " "
 tags: 
   - Apodiformes

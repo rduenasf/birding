@@ -3,11 +3,11 @@ title: "Ruddy Duck"
 scientific_name: "Oxyura jamaicensis"
 order: "Anseriformes"
 family: "Anatidae (Ducks, Geese, and Waterfowl)"
-description: "Oxyura jamaicensis is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 26 times. It has been photographed."
+description: "Oxyura jamaicensis is a species of bird in the Anatidae (Ducks, Geese, and Waterfowl) family. It has been observed 30 times. It has been photographed."
 species_group: "Waterfowl"
 species_code: "rudduc"
 
-sidebar_position: 318
+sidebar_position: 399
 sidebar_class_name: "has-photo "
 tags: 
   - Anseriformes
@@ -39,7 +39,7 @@ The genus name is derived from Ancient Greek oxus, "sharp", and oura, "tail", an
 
 * [10-15-2023 - California, United States](https://ebird.org/checklist/S152332833) (First Sighting)
 * [01-02-2025 - California, United States](https://ebird.org/checklist/S207761995) (Only Photo)
-* [01-15-2025 - California, United States](https://ebird.org/checklist/S209444881) (Last Sighting)
+* [06-01-2025 - California, United States](https://ebird.org/checklist/S245649846) (Last Sighting)
 
 ### Places Seen
 

@@ -3,11 +3,11 @@ title: "Tree Swallow"
 scientific_name: "Tachycineta bicolor"
 order: "Passeriformes"
 family: "Hirundinidae (Swallows)"
-description: "Tachycineta bicolor is a species of bird in the Hirundinidae (Swallows) family. It has been observed 11 times."
+description: "Tachycineta bicolor is a species of bird in the Hirundinidae (Swallows) family. It has been observed 18 times."
 species_group: "Martins and Swallows"
 species_code: "treswa"
 
-sidebar_position: 373
+sidebar_position: 463
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -39,7 +39,7 @@ An aerial insectivore, the tree swallow forages both alone and in groups, eating
 ### Relevant Sightings
 
 * [01-15-2024 - California, United States](https://ebird.org/checklist/S159001730) (First Sighting)
-* [12-15-2024 - California, United States](https://ebird.org/checklist/S205522237) (Last Sighting)
+* [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Last Sighting)
 
 ### Places Seen
 

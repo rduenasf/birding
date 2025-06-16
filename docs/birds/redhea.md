@@ -7,7 +7,7 @@ description: "Aythya americana is a species of bird in the Anatidae (Ducks, Gees
 species_group: "Waterfowl"
 species_code: "redhea"
 
-sidebar_position: 307
+sidebar_position: 386
 sidebar_class_name: " "
 tags: 
   - Anseriformes

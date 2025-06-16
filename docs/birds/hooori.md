@@ -3,11 +3,11 @@ title: "Hooded Oriole"
 scientific_name: "Icterus cucullatus"
 order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
-description: "Icterus cucullatus is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 4 times."
+description: "Icterus cucullatus is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 5 times."
 species_group: "Blackbirds"
 species_code: "hooori"
 
-sidebar_position: 206
+sidebar_position: 265
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -37,7 +37,7 @@ The hooded oriole (Icterus cucullatus) is a medium-sized New World oriole. The m
 ### Relevant Sightings
 
 * [03-28-2024 - California, United States](https://ebird.org/checklist/S166268948) (First Sighting)
-* [05-10-2024 - California, United States](https://ebird.org/checklist/S173241890) (Last Sighting)
+* [06-12-2025 - California, United States](https://ebird.org/checklist/S249707687) (Last Sighting)
 
 ### Places Seen
 

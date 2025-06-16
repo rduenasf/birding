@@ -7,7 +7,7 @@ description: "Larus hyperboreus is a species of bird in the Laridae (Gulls, Tern
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "glagul"
 
-sidebar_position: 160
+sidebar_position: 207
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

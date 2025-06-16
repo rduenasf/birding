@@ -3,11 +3,11 @@ title: "Turkey Vulture"
 scientific_name: "Cathartes aura"
 order: "Cathartiformes"
 family: "Cathartidae (New World Vultures)"
-description: "Cathartes aura is a species of bird in the Cathartidae (New World Vultures) family. It has been observed 48 times. It has been photographed."
+description: "Cathartes aura is a species of bird in the Cathartidae (New World Vultures) family. It has been observed 59 times. It has been photographed."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "turvul"
 
-sidebar_position: 378
+sidebar_position: 471
 sidebar_class_name: "has-photo "
 tags: 
   - Cathartiformes
@@ -42,7 +42,7 @@ The turkey vulture is a scavenger and feeds almost exclusively on carrion. It fi
 
 * [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
 * [11-30-2024 - California, United States](https://ebird.org/checklist/S204074627) (Only Photo)
-* [01-15-2025 - California, United States](https://ebird.org/checklist/S209444881) (Last Sighting)
+* [06-08-2025 - California, United States](https://ebird.org/checklist/S248217323) (Last Sighting)
 
 ### Places Seen
 

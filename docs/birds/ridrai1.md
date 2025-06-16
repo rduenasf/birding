@@ -7,7 +7,7 @@ description: "Rallus obsoletus is a species of bird in the Rallidae (Rails, Gall
 species_group: "Rails, Gallinules, and Allies"
 species_code: "ridrai1"
 
-sidebar_position: 309
+sidebar_position: 388
 sidebar_class_name: " has-audio"
 tags: 
   - Gruiformes

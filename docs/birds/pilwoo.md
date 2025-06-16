@@ -7,7 +7,7 @@ description: "Dryocopus pileatus is a species of bird in the Picidae (Woodpecker
 species_group: "Woodpeckers"
 species_code: "pilwoo"
 
-sidebar_position: 284
+sidebar_position: 359
 sidebar_class_name: " "
 tags: 
   - Piciformes

@@ -7,7 +7,7 @@ description: "Larus glaucescens is a species of bird in the Laridae (Gulls, Tern
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "glwgul"
 
-sidebar_position: 161
+sidebar_position: 208
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

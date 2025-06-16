@@ -7,7 +7,7 @@ description: "Icterus parisorum is a species of bird in the Icteridae (Troupials
 species_group: "Blackbirds"
 species_code: "scoori"
 
-sidebar_position: 338
+sidebar_position: 419
 sidebar_class_name: " "
 tags: 
   - Passeriformes

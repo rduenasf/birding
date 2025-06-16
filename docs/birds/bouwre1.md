@@ -7,7 +7,7 @@ description: "Campylorhynchus jocosus is a species of bird in the Troglodytidae 
 species_group: "Wrens"
 species_code: "bouwre1"
 
-sidebar_position: 67
+sidebar_position: 83
 sidebar_class_name: " "
 tags: 
   - Passeriformes

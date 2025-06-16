@@ -7,7 +7,7 @@ description: "Calidris pugnax is a species of bird in the Scolopacidae (Sandpipe
 species_group: "Shorebirds"
 species_code: "ruff"
 
-sidebar_position: 320
+sidebar_position: 401
 sidebar_class_name: " "
 tags: 
   - Charadriiformes

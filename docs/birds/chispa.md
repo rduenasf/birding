@@ -7,7 +7,7 @@ description: "Spizella passerina is a species of bird in the Passerellidae (New 
 species_group: "New World Sparrows"
 species_code: "chispa"
 
-sidebar_position: 113
+sidebar_position: 132
 sidebar_class_name: " "
 tags: 
   - Passeriformes

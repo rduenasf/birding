@@ -7,7 +7,7 @@ description: "Agelasticus thilius is a species of bird in the Icteridae (Troupia
 species_group: "Blackbirds"
 species_code: "yewbla2"
 
-sidebar_position: 433
+sidebar_position: 540
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes

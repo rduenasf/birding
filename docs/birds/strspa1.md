@@ -7,7 +7,7 @@ description: "Oriturus superciliosus is a species of bird in the Passerellidae (
 species_group: "New World Sparrows"
 species_code: "strspa1"
 
-sidebar_position: 362
+sidebar_position: 450
 sidebar_class_name: " "
 tags: 
   - Passeriformes

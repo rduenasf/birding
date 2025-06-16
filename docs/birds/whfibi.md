@@ -7,7 +7,7 @@ description: "Plegadis chihi is a species of bird in the Threskiornithidae (Ibis
 species_group: "Herons, Ibis, and Allies"
 species_code: "whfibi"
 
-sidebar_position: 409
+sidebar_position: 509
 sidebar_class_name: " "
 tags: 
   - Pelecaniformes

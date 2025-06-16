@@ -3,11 +3,11 @@ title: "American Crow"
 scientific_name: "Corvus brachyrhynchos"
 order: "Passeriformes"
 family: "Corvidae (Crows, Jays, and Magpies)"
-description: "Corvus brachyrhynchos is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 58 times. It has been photographed. It has been recorded."
+description: "Corvus brachyrhynchos is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 65 times. It has been photographed. It has been recorded."
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "amecro"
 
-sidebar_position: 7
+sidebar_position: 14
 sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
@@ -42,7 +42,7 @@ American crows are common, widespread, and susceptible to the West Nile virus, m
 * [07-05-2024 - Florida, United States](https://ebird.org/checklist/S185439324) (First/Best Photo)
 * [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (First Recording)
 * [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (Best Recording)
-* [01-15-2025 - California, United States](https://ebird.org/checklist/S209444881) (Last Sighting)
+* [06-12-2025 - California, United States](https://ebird.org/checklist/S249707687) (Last Sighting)
 
 ### Places Seen
 

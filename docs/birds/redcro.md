@@ -7,7 +7,7 @@ description: "Loxia curvirostra is a species of bird in the Fringillidae (Finche
 species_group: "Finches, Euphonias, and Allies"
 species_code: "redcro"
 
-sidebar_position: 292
+sidebar_position: 368
 sidebar_class_name: " "
 tags: 
   - Passeriformes

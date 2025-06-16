@@ -7,7 +7,7 @@ description: "Elaenia albiceps is a species of bird in the Tyrannidae (Tyrant Fl
 species_group: "Tyrant Flycatchers: Elaenias, Tyrannulets, and Allies"
 species_code: "whcela1"
 
-sidebar_position: 405
+sidebar_position: 505
 sidebar_class_name: " "
 tags: 
   - Passeriformes

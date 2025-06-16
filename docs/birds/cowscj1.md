@@ -3,11 +3,11 @@ title: "California Scrub-Jay"
 scientific_name: "Aphelocoma californica"
 order: "Passeriformes"
 family: "Corvidae (Crows, Jays, and Magpies)"
-description: "Aphelocoma californica is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 23 times. It has been photographed. It has been recorded."
+description: "Aphelocoma californica is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 33 times. It has been photographed. It has been recorded."
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "cowscj1"
 
-sidebar_position: 91
+sidebar_position: 107
 sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
@@ -40,7 +40,7 @@ The California scrub jay (Aphelocoma californica) is a species of scrub jay nati
 * [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (First Recording)
 * [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (Best Recording)
 * [01-05-2025 - California, United States](https://ebird.org/checklist/S208150408) (Only Photo)
-* [01-11-2025 - California, United States](https://ebird.org/checklist/S208851041) (Last Sighting)
+* [06-14-2025 - California, United States](https://ebird.org/checklist/S250753344) (Last Sighting)
 
 ### Places Seen
 

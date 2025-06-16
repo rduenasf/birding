@@ -7,7 +7,7 @@ description: "Geositta rufipennis is a species of bird in the Furnariidae (Ovenb
 species_group: "Leaftossers and Miners"
 species_code: "rubmin1"
 
-sidebar_position: 323
+sidebar_position: 404
 sidebar_class_name: " "
 tags: 
   - Passeriformes

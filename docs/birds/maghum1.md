@@ -7,7 +7,7 @@ description: "Eugenes fulgens is a species of bird in the Trochilidae (Hummingbi
 species_group: "Hummingbirds"
 species_code: "maghum1"
 
-sidebar_position: 313
+sidebar_position: 393
 sidebar_class_name: " "
 tags: 
   - Apodiformes

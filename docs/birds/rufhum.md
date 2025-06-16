@@ -3,11 +3,11 @@ title: "Rufous Hummingbird"
 scientific_name: "Selasphorus rufus"
 order: "Apodiformes"
 family: "Trochilidae (Hummingbirds)"
-description: "Selasphorus rufus is a species of bird in the Trochilidae (Hummingbirds) family. It has been observed 1 times."
+description: "Selasphorus rufus is a species of bird in the Trochilidae (Hummingbirds) family. It has been observed 2 times."
 species_group: "Hummingbirds"
 species_code: "rufhum"
 
-sidebar_position: 321
+sidebar_position: 402
 sidebar_class_name: " "
 tags: 
   - Apodiformes
@@ -36,7 +36,8 @@ The rufous hummingbird (Selasphorus rufus) is a small hummingbird, about 8 cm (3
 
 ### Relevant Sightings
 
-* [02-11-2024 - California, United States](https://ebird.org/checklist/S161327433) (Only Sighting)
+* [02-11-2024 - California, United States](https://ebird.org/checklist/S161327433) (First Sighting)
+* [03-29-2025 - California, United States](https://ebird.org/checklist/S221633632) (Last Sighting)
 
 ### Places Seen
 

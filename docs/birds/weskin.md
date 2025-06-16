@@ -3,11 +3,11 @@ title: "Western Kingbird"
 scientific_name: "Tyrannus verticalis"
 order: "Passeriformes"
 family: "Tyrannidae (Tyrant Flycatchers)"
-description: "Tyrannus verticalis is a species of bird in the Tyrannidae (Tyrant Flycatchers) family. It has been observed 1 times."
+description: "Tyrannus verticalis is a species of bird in the Tyrannidae (Tyrant Flycatchers) family. It has been observed 2 times."
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "weskin"
 
-sidebar_position: 396
+sidebar_position: 492
 sidebar_class_name: " "
 tags: 
   - Passeriformes
@@ -36,10 +36,12 @@ The western kingbird (Tyrannus verticalis) is a large tyrant flycatcher found th
 
 ### Relevant Sightings
 
-* [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768235) (Only Sighting)
+* [05-03-2024 - Morelos, Mexico](https://ebird.org/checklist/S171768235) (First Sighting)
+* [06-01-2025 - California, United States](https://ebird.org/checklist/S245649846) (Last Sighting)
 
 ### Places Seen
 
+* California, United States
 * Morelos, Mexico
 
 

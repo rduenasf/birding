@@ -3,11 +3,11 @@ title: "Red-tailed Hawk"
 scientific_name: "Buteo jamaicensis"
 order: "Accipitriformes"
 family: "Accipitridae (Hawks, Eagles, and Kites)"
-description: "Buteo jamaicensis is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 20 times. It has been photographed."
+description: "Buteo jamaicensis is a species of bird in the Accipitridae (Hawks, Eagles, and Kites) family. It has been observed 22 times. It has been photographed."
 species_group: "Vultures, Hawks, and Allies"
 species_code: "rethaw"
 
-sidebar_position: 304
+sidebar_position: 383
 sidebar_class_name: "has-photo "
 tags: 
   - Accipitriformes
@@ -41,7 +41,8 @@ Meanwhile, amphibians, fish and invertebrates can seem rare in the hawk's regula
 ### Relevant Sightings
 
 * [09-23-2023 - California, United States](https://ebird.org/checklist/S150584251) (First Sighting)
-* [01-05-2025 - California, United States](https://ebird.org/checklist/S208150408) (Last Sighting / Only Photo)
+* [01-05-2025 - California, United States](https://ebird.org/checklist/S208150408) (Only Photo)
+* [06-01-2025 - California, United States](https://ebird.org/checklist/S245649846) (Last Sighting)
 
 ### Places Seen
 

@@ -7,7 +7,7 @@ description: "Catharus ustulatus is a species of bird in the Turdidae (Thrushes 
 species_group: "Thrushes"
 species_code: "swathr"
 
-sidebar_position: 369
+sidebar_position: 458
 sidebar_class_name: " "
 tags: 
   - Passeriformes

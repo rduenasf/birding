@@ -7,7 +7,7 @@ description: "Recurvirostra americana is a species of bird in the Recurvirostrid
 species_group: "Shorebirds"
 species_code: "ameavo"
 
-sidebar_position: 4
+sidebar_position: 10
 sidebar_class_name: "has-photo "
 tags: 
   - Charadriiformes

@@ -7,7 +7,7 @@ description: "Astur cooperii is a species of bird in the Accipitridae (Hawks, Ea
 species_group: "Vultures, Hawks, and Allies"
 species_code: "coohaw"
 
-sidebar_position: 131
+sidebar_position: 159
 sidebar_class_name: "has-photo "
 tags: 
   - Accipitriformes

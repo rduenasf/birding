@@ -7,7 +7,7 @@ description: "Lanius ludovicianus is a species of bird in the Laniidae (Shrikes)
 species_group: "Shrikes"
 species_code: "logshr"
 
-sidebar_position: 229
+sidebar_position: 295
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes

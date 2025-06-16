@@ -3,11 +3,11 @@ title: "Brewer's Blackbird"
 scientific_name: "Euphagus cyanocephalus"
 order: "Passeriformes"
 family: "Icteridae (Troupials and Allies)"
-description: "Euphagus cyanocephalus is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 6 times. It has been photographed."
+description: "Euphagus cyanocephalus is a species of bird in the Icteridae (Troupials and Allies) family. It has been observed 13 times. It has been photographed."
 species_group: "Blackbirds"
 species_code: "brebla"
 
-sidebar_position: 69
+sidebar_position: 85
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes
@@ -38,7 +38,7 @@ Brewer's blackbird (Euphagus cyanocephalus) is a medium-sized New World blackbir
 
 * [11-26-2023 - California, United States](https://ebird.org/checklist/S155251280) (First Sighting / First Photo)
 * [01-07-2024 - California, United States](https://ebird.org/checklist/S158367947) (Best Photo)
-* [09-07-2024 - California, United States](https://ebird.org/checklist/S195013430) (Last Sighting)
+* [06-04-2025 - California, United States](https://ebird.org/checklist/S246638509) (Last Sighting)
 
 ### Places Seen
 

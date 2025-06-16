@@ -7,7 +7,7 @@ description: "Pipilo erythrophthalmus is a species of bird in the Passerellidae 
 species_group: "New World Sparrows"
 species_code: "eastow"
 
-sidebar_position: 148
+sidebar_position: 177
 sidebar_class_name: " "
 tags: 
   - Passeriformes

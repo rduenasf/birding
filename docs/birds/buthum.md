@@ -7,7 +7,7 @@ description: "Lampornis clemenciae is a species of bird in the Trochilidae (Humm
 species_group: "Hummingbirds"
 species_code: "buthum"
 
-sidebar_position: 64
+sidebar_position: 80
 sidebar_class_name: " "
 tags: 
   - Apodiformes

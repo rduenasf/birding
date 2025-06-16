@@ -7,7 +7,7 @@ description: "Cistothorus platensis is a species of bird in the Troglodytidae (W
 species_group: "Wrens"
 species_code: "sedwre"
 
-sidebar_position: 169
+sidebar_position: 216
 sidebar_class_name: " "
 tags: 
   - Passeriformes

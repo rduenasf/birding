@@ -3,11 +3,11 @@ title: "House Sparrow"
 scientific_name: "Passer domesticus"
 order: "Passeriformes"
 family: "Passeridae (Old World Sparrows)"
-description: "Passer domesticus is a species of bird in the Passeridae (Old World Sparrows) family. It has been observed 24 times. It has been photographed. It has been recorded."
+description: "Passer domesticus is a species of bird in the Passeridae (Old World Sparrows) family. It has been observed 27 times. It has been photographed. It has been recorded."
 species_group: "Old World Sparrows"
 species_code: "houspa"
 
-sidebar_position: 210
+sidebar_position: 269
 sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
@@ -40,7 +40,8 @@ Because of its numbers, ubiquity, and association with human settlements, the ho
 
 * [11-11-2023 - California, United States](https://ebird.org/checklist/S154259403) (First Sighting)
 * [11-07-2024 - California, United States](https://ebird.org/checklist/S203225147) (Only Recording)
-* [01-08-2025 - California, United States](https://ebird.org/checklist/S208562147) (Last Sighting / Only Photo)
+* [01-08-2025 - California, United States](https://ebird.org/checklist/S208562147) (Only Photo)
+* [06-04-2025 - California, United States](https://ebird.org/checklist/S246638509) (Last Sighting)
 
 ### Places Seen
 
@@ -48,6 +49,7 @@ Because of its numbers, ubiquity, and association with human settlements, the ho
 * California, United States
 * Ciudad de México, Mexico
 * Florida, United States
+* Kilimanjaro, Tanzania
 * Libertador General Bernardo O'Higgins, Chile
 * Ontario, Canada
 * Región Metropolitana de Santiago, Chile

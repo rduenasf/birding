@@ -7,7 +7,7 @@ description: "Pheugopedius felix is a species of bird in the Troglodytidae (Wren
 species_group: "Wrens"
 species_code: "hapwre1"
 
-sidebar_position: 198
+sidebar_position: 255
 sidebar_class_name: " "
 tags: 
   - Passeriformes

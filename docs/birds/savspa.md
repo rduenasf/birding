@@ -7,7 +7,7 @@ description: "Passerculus sandwichensis is a species of bird in the Passerellida
 species_group: "New World Sparrows"
 species_code: "savspa"
 
-sidebar_position: 335
+sidebar_position: 416
 sidebar_class_name: " has-audio"
 tags: 
   - Passeriformes

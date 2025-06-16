@@ -3,11 +3,11 @@ title: "Steller's Jay"
 scientific_name: "Cyanocitta stelleri"
 order: "Passeriformes"
 family: "Corvidae (Crows, Jays, and Magpies)"
-description: "Cyanocitta stelleri is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 17 times. It has been photographed. It has been recorded."
+description: "Cyanocitta stelleri is a species of bird in the Corvidae (Crows, Jays, and Magpies) family. It has been observed 26 times. It has been photographed. It has been recorded."
 species_group: "Jays, Magpies, Crows, and Ravens"
 species_code: "stejay"
 
-sidebar_position: 358
+sidebar_position: 444
 sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
@@ -40,7 +40,7 @@ Steller's jay (Cyanocitta stelleri) is a bird native to western North America an
 
 * [08-31-2019 - California, United States](https://ebird.org/checklist/S206238527) (First Sighting / Only Photo)
 * [12-01-2024 - California, United States](https://ebird.org/checklist/S204217558) (First/Best Recording)
-* [12-28-2024 - California, United States](https://ebird.org/checklist/S206912314) (Last Sighting)
+* [05-26-2025 - California, United States](https://ebird.org/checklist/S243020079) (Last Sighting)
 
 ### Places Seen
 

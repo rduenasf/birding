@@ -7,7 +7,7 @@ description: "Leiothlypis ruficapilla is a species of bird in the Parulidae (New
 species_group: "Wood-Warblers"
 species_code: "naswar"
 
-sidebar_position: 255
+sidebar_position: 326
 sidebar_class_name: " "
 tags: 
   - Passeriformes

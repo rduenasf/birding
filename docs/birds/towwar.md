@@ -7,7 +7,7 @@ description: "Setophaga townsendi is a species of bird in the Parulidae (New Wor
 species_group: "Wood-Warblers"
 species_code: "towwar"
 
-sidebar_position: 371
+sidebar_position: 461
 sidebar_class_name: " "
 tags: 
   - Passeriformes

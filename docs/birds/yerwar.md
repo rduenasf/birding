@@ -3,11 +3,11 @@ title: "Yellow-rumped Warbler"
 scientific_name: "Setophaga coronata"
 order: "Passeriformes"
 family: "Parulidae (New World Warblers)"
-description: "Setophaga coronata is a species of bird in the Parulidae (New World Warblers) family. It has been observed 53 times. It has been photographed. It has been recorded."
+description: "Setophaga coronata is a species of bird in the Parulidae (New World Warblers) family. It has been observed 62 times. It has been photographed. It has been recorded."
 species_group: "Wood-Warblers"
 species_code: "yerwar"
 
-sidebar_position: 432
+sidebar_position: 539
 sidebar_class_name: "has-photo has-audio"
 tags: 
   - Passeriformes
@@ -43,7 +43,7 @@ The species combines four closely related forms: the eastern myrtle warbler (spp
 * [11-09-2024 - California, United States](https://ebird.org/checklist/S202974271) (First/Best Recording)
 * [01-02-2025 - California, United States](https://ebird.org/checklist/S207761995) (First Photo)
 * [01-12-2025 - California, United States](https://ebird.org/checklist/S209042786) (Best Photo)
-* [01-15-2025 - California, United States](https://ebird.org/checklist/S209444881) (Last Sighting)
+* [05-24-2025 - California, United States](https://ebird.org/checklist/S241928811) (Last Sighting)
 
 ### Places Seen
 

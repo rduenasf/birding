@@ -7,7 +7,7 @@ description: "Muscisaxicola rufivertex is a species of bird in the Tyrannidae (T
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "rngtyr1"
 
-sidebar_position: 328
+sidebar_position: 409
 sidebar_class_name: " "
 tags: 
   - Passeriformes

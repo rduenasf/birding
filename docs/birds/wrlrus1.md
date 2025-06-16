@@ -7,7 +7,7 @@ description: "Phleocryptes melanops is a species of bird in the Furnariidae (Ove
 species_group: "Ovenbirds"
 species_code: "wrlrus1"
 
-sidebar_position: 425
+sidebar_position: 530
 sidebar_class_name: "has-photo "
 tags: 
   - Passeriformes

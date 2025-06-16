@@ -7,7 +7,7 @@ description: "Xenospiza baileyi is a species of bird in the Passerellidae (New W
 species_group: "New World Sparrows"
 species_code: "simspa1"
 
-sidebar_position: 344
+sidebar_position: 425
 sidebar_class_name: " "
 tags: 
   - Passeriformes

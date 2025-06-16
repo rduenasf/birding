@@ -7,7 +7,7 @@ description: "Pseudasthenes humicola is a species of bird in the Furnariidae (Ov
 species_group: "Ovenbirds"
 species_code: "dutcan1"
 
-sidebar_position: 144
+sidebar_position: 173
 sidebar_class_name: " "
 tags: 
   - Passeriformes

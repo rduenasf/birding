@@ -7,7 +7,7 @@ description: "Anas georgica is a species of bird in the Anatidae (Ducks, Geese, 
 species_group: "Waterfowl"
 species_code: "yebpin1"
 
-sidebar_position: 429
+sidebar_position: 534
 sidebar_class_name: " "
 tags: 
   - Anseriformes

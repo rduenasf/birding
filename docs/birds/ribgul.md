@@ -7,7 +7,7 @@ description: "Larus delawarensis is a species of bird in the Laridae (Gulls, Ter
 species_group: "Gulls, Terns, and Skimmers"
 species_code: "ribgul"
 
-sidebar_position: 310
+sidebar_position: 389
 sidebar_class_name: "has-photo "
 tags: 
   - Charadriiformes

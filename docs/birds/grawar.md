@@ -7,7 +7,7 @@ description: "Setophaga graciae is a species of bird in the Parulidae (New World
 species_group: "Wood-Warblers"
 species_code: "grawar"
 
-sidebar_position: 168
+sidebar_position: 215
 sidebar_class_name: " "
 tags: 
   - Passeriformes

@@ -7,7 +7,7 @@ description: "Lessonia rufa is a species of bird in the Tyrannidae (Tyrant Flyca
 species_group: "Tyrant Flycatchers: Pewees, Kingbirds, and Allies"
 species_code: "ausneg1"
 
-sidebar_position: 24
+sidebar_position: 31
 sidebar_class_name: " "
 tags: 
   - Passeriformes

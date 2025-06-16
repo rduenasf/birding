@@ -7,7 +7,7 @@ description: "Myiopagis viridicata is a species of bird in the Tyrannidae (Tyran
 species_group: "Tyrant Flycatchers: Elaenias, Tyrannulets, and Allies"
 species_code: "greela"
 
-sidebar_position: 193
+sidebar_position: 247
 sidebar_class_name: " "
 tags: 
   - Passeriformes

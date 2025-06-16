@@ -7,7 +7,7 @@ description: "Arremon virenticeps is a species of bird in the Passerellidae (New
 species_group: "New World Sparrows"
 species_code: "gsbfin1"
 
-sidebar_position: 190
+sidebar_position: 244
 sidebar_class_name: " "
 tags: 
   - Passeriformes
